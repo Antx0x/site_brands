@@ -1,0 +1,237 @@
+[
+  {
+    "brand": "Adidas AG",
+    "entitate": "Adidas AG",
+    "simbol_yahoo": "ADS.DE",
+    "moneda": "EUR",
+    "pe_curent": 24.2,
+    "market_cap_curent_estimat": 32472105261,
+    "actualizat": "2026-07-11",
+    "ani": [
+      {
+        "an": "2022",
+        "venituri": 22511000000,
+        "profit_net": 612000000,
+        "cashflow_operational": -479000000,
+        "datorii": 6459000000,
+        "actiuni": 183268087,
+        "market_cap_estimat": 27010051557
+      },
+      {
+        "an": "2023",
+        "venituri": 21427000000,
+        "profit_net": -75000000,
+        "cashflow_operational": 2550000000,
+        "datorii": 5563000000,
+        "actiuni": 178557615,
+        "market_cap_estimat": 31447566282
+      },
+      {
+        "an": "2024",
+        "venituri": 23683000000,
+        "profit_net": 764000000,
+        "cashflow_operational": 2910000000,
+        "datorii": 5587000000,
+        "actiuni": 178563385,
+        "market_cap_estimat": 45515805747
+      },
+      {
+        "an": "2025",
+        "venituri": 24811000000,
+        "profit_net": 1340000000,
+        "cashflow_operational": 751000000,
+        "datorii": 5556000000,
+        "actiuni": 178565330,
+        "market_cap_estimat": 26633017880
+      }
+    ]
+  },
+  {
+    "brand": "Burger King",
+    "entitate": "Restaurant Brands International",
+    "simbol_yahoo": "QSR",
+    "moneda": "USD",
+    "pe_curent": 44.3,
+    "market_cap_curent_estimat": 34393820000,
+    "actualizat": "2026-07-11",
+    "ani": [
+      {
+        "an": "2022",
+        "venituri": 6505000000,
+        "actiuni": 455000000,
+        "profit_net": 1008000000,
+        "cashflow_operational": 1490000000,
+        "datorii": 14491000000,
+        "market_cap_estimat": 29424849167
+      },
+      {
+        "an": "2023",
+        "venituri": 7022000000,
+        "actiuni": 456000000,
+        "profit_net": 1190000000,
+        "cashflow_operational": 1323000000,
+        "datorii": 14515000000,
+        "market_cap_estimat": 35627278748
+      },
+      {
+        "an": "2024",
+        "venituri": 8406000000,
+        "actiuni": 454000000,
+        "profit_net": 1021000000,
+        "cashflow_operational": 1503000000,
+        "datorii": 15956000000,
+        "market_cap_estimat": 29591720139
+      },
+      {
+        "an": "2025",
+        "venituri": 9434000000,
+        "actiuni": 457000000,
+        "profit_net": 776000000,
+        "cashflow_operational": 1714000000,
+        "datorii": 15704000000,
+        "market_cap_estimat": 31181111534
+      }
+    ]
+  },
+  {
+    "brand": "Calvin Klein",
+    "entitate": "PVH Corp.",
+    "simbol_yahoo": "PVH",
+    "moneda": "USD",
+    "pe_curent": 152.2,
+    "market_cap_curent_estimat": 3849445000,
+    "actualizat": "2026-07-11",
+    "ani": [
+      {
+        "an": "2023",
+        "actiuni": 66200000,
+        "datorii": 3828800000,
+        "venituri": 9024200000,
+        "cashflow_operational": 39200000,
+        "profit_net": 200400000,
+        "market_cap_estimat": 8084344182
+      },
+      {
+        "an": "2024",
+        "actiuni": 61700000,
+        "datorii": 3533900000,
+        "venituri": 9217700000,
+        "cashflow_operational": 969400000,
+        "profit_net": 663600000,
+        "market_cap_estimat": 6524775000
+      },
+      {
+        "an": "2025",
+        "actiuni": 56700000,
+        "datorii": 3391100000,
+        "venituri": 8652900000,
+        "cashflow_operational": 740900000,
+        "profit_net": 598500000,
+        "market_cap_estimat": 3800033810
+      },
+      {
+        "an": "2026",
+        "actiuni": 48500000,
+        "datorii": 4298900000,
+        "venituri": 8950200000,
+        "cashflow_operational": 680400000,
+        "profit_net": 25300000,
+        "market_cap_estimat": null
+      }
+    ]
+  },
+  {
+    "brand": "Carrefour",
+    "entitate": "Carrefour",
+    "simbol_yahoo": "CA.PA",
+    "moneda": "EUR",
+    "pe_curent": 35.5,
+    "market_cap_curent_estimat": 11308551578,
+    "actualizat": "2026-07-11",
+    "ani": [
+      {
+        "an": "2022",
+        "cashflow_operational": 4219000000,
+        "actiuni": 746622699,
+        "profit_net": 1348000000,
+        "datorii": 14087000000,
+        "venituri": 83088000000,
+        "market_cap_estimat": 13043498039
+      },
+      {
+        "an": "2023",
+        "cashflow_operational": 4650000000,
+        "actiuni": 719225670,
+        "profit_net": 1659000000,
+        "datorii": 4901000000,
+        "venituri": 84910000000,
+        "market_cap_estimat": 11378149880
+      },
+      {
+        "an": "2024",
+        "cashflow_operational": 4200000000,
+        "actiuni": 673497922,
+        "profit_net": 723000000,
+        "datorii": 5069000000,
+        "venituri": 83453000000,
+        "market_cap_estimat": 9220186270
+      },
+      {
+        "an": "2025",
+        "cashflow_operational": 3948000000,
+        "actiuni": 685782388,
+        "profit_net": 319000000,
+        "datorii": 5259000000,
+        "venituri": 84024000000,
+        "market_cap_estimat": 9491228355
+      }
+    ]
+  },
+  {
+    "brand": "Celestica",
+    "entitate": "Celestica",
+    "simbol_yahoo": "CLS",
+    "moneda": "USD",
+    "pe_curent": 50.2,
+    "market_cap_curent_estimat": 41814570000,
+    "actualizat": "2026-07-11",
+    "ani": [
+      {
+        "an": "2022",
+        "venituri": 7250000000,
+        "actiuni": 123600000,
+        "datorii": 786100000,
+        "profit_net": 180100000,
+        "cashflow_operational": 211100000,
+        "market_cap_estimat": 1392972057
+      },
+      {
+        "an": "2023",
+        "venituri": 7961000000,
+        "actiuni": 120300000,
+        "datorii": 675300000,
+        "profit_net": 244400000,
+        "cashflow_operational": 326200000,
+        "market_cap_estimat": 3522384083
+      },
+      {
+        "an": "2024",
+        "venituri": 9646000000,
+        "actiuni": 118700000,
+        "datorii": 796700000,
+        "profit_net": 428000000,
+        "cashflow_operational": 473900000,
+        "market_cap_estimat": 10956010362
+      },
+      {
+        "an": "2025",
+        "venituri": 12390900000,
+        "actiuni": 116200000,
+        "datorii": 776500000,
+        "profit_net": 832500000,
+        "cashflow_operational": 659500000,
+        "market_cap_estimat": 34349880298
+      }
+    ]
+  }
+]

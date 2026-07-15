@@ -1,0 +1,352 @@
+[
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Arad",
+    "adresa": "Bd. Revolutiei, Nr. 46-48",
+    "oras": "Arad",
+    "lat": 46.17979,
+    "lng": 21.3200587,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Pitesti",
+    "adresa": "Str. Victoriei, Bl. A5",
+    "oras": "Pitesti",
+    "lat": 44.8568089,
+    "lng": 24.873394,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Bacau",
+    "adresa": "Str. Nicolae Balcescu Nr. 2-4",
+    "oras": "Bacau",
+    "lat": 46.5670391,
+    "lng": 26.9114488,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Moinesti",
+    "adresa": "Str. Tudor Vladimirescu Nr. 173",
+    "oras": "Moinesti",
+    "lat": 46.4732255,
+    "lng": 26.4892651,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Oradea",
+    "adresa": "Str. Transilvaniei Nr. 7",
+    "oras": "Oradea",
+    "lat": 47.0585407,
+    "lng": 21.8602199,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Bistrita",
+    "adresa": "B-dul. Independentei, Nr. 67",
+    "oras": "Bistrita",
+    "lat": 47.128349,
+    "lng": 24.4875966,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Botosani",
+    "adresa": "Str. Postei Nr. 7",
+    "oras": "Botosani",
+    "lat": 47.7439958,
+    "lng": 26.6705768,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Brasov",
+    "adresa": "Str. Mihail Sadoveanu Nr. 9",
+    "oras": "Brasov",
+    "lat": 45.5851406,
+    "lng": 25.4555347,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Dorobanti",
+    "adresa": "Calea Dorobanti Nr. 164, Sector 1",
+    "oras": "Bucuresti",
+    "lat": 44.4579683,
+    "lng": 26.0962185,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Drumul Taberei",
+    "adresa": "Bd. Drumul Taberei, Nr. 41-43, Sector 6",
+    "oras": "Bucuresti",
+    "lat": 44.4269156,
+    "lng": 26.0549315,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Resita",
+    "adresa": "Str. Republicii Nr. 17 A",
+    "oras": "Resita",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Cluj 2",
+    "adresa": "Piata Marasti",
+    "oras": "Cluj-Napoca",
+    "lat": 46.7785035,
+    "lng": 23.6149007,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Constanta",
+    "adresa": "Bd. Tomis Nr. 79-81",
+    "oras": "Constanta",
+    "lat": 44.1800993,
+    "lng": 28.6495895,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Targoviste",
+    "adresa": "Str. I. H. Radulescu Nr. 3-5",
+    "oras": "Targoviste",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Galati",
+    "adresa": "Str. Brailei Nr. 41",
+    "oras": "Galati",
+    "lat": 45.4281615,
+    "lng": 28.0379233,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Giurgiu",
+    "adresa": "Str. Tineretului Nr. 1",
+    "oras": "Giurgiu",
+    "lat": 43.9485031,
+    "lng": 25.9790633,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Targu Jiu",
+    "adresa": "Str. Traian Nr. 1",
+    "oras": "Targu Jiu",
+    "lat": 45.0416337,
+    "lng": 23.2727748,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Miercurea Ciuc",
+    "adresa": "Str. Pietii Nr. 7",
+    "oras": "Miercurea Ciuc",
+    "lat": 46.3604341,
+    "lng": 25.798877,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Deva",
+    "adresa": "Str. Iuliu Maniu, Nr. 2",
+    "oras": "Deva",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Slobozia",
+    "adresa": "Bd. Unirii Nr. 4",
+    "oras": "Slobozia",
+    "lat": 44.5647402,
+    "lng": 27.3559459,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Iasi 1",
+    "adresa": "Str. Lapusneanu Nr. 17",
+    "oras": "Iasi",
+    "lat": 47.2092747,
+    "lng": 27.2758353,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Iasi 2",
+    "adresa": "Str. Nicolina Nr. 2, Podu Ros",
+    "oras": "Iasi",
+    "lat": 47.1501414,
+    "lng": 27.5859825,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Drobeta",
+    "adresa": "Str. Theodor Costescu, Nr. 1B",
+    "oras": "Drobeta-Turnu Severin",
+    "lat": 44.6251181,
+    "lng": 22.6537701,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Sighisoara",
+    "adresa": "Str. Herman Oberth Nr. 16",
+    "oras": "Sighisoara",
+    "lat": 46.2181277,
+    "lng": 24.7933747,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Targu Mures",
+    "adresa": "Piata Victoriei Nr. 17",
+    "oras": "Targu Mures",
+    "lat": 46.5402921,
+    "lng": 24.5583933,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Piatra Neamt",
+    "adresa": "Bd. Republicii Nr. 2",
+    "oras": "Piatra Neamt",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Roman",
+    "adresa": "Str. Cuza Voda Nr. 1",
+    "oras": "Roman",
+    "lat": 46.9227049,
+    "lng": 26.9270326,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Campina",
+    "adresa": "B-dul. Carol I, Nr. 41",
+    "oras": "Campina",
+    "lat": 45.1251868,
+    "lng": 25.7328602,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Ploiesti",
+    "adresa": "Str. C. D. Gherea Nr. 1",
+    "oras": "Ploiesti",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Medias",
+    "adresa": "Str. I.C. Bratianu Nr. 4",
+    "oras": "Medias",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Sibiu",
+    "adresa": "Str. Nicolae Balcescu Nr. 13",
+    "oras": "Sibiu",
+    "lat": 45.794738,
+    "lng": 24.1509074,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Radauti",
+    "adresa": "Piata Unirii Nr. 47A",
+    "oras": "Radauti",
+    "lat": 47.8453722,
+    "lng": 25.9154634,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Alexandria",
+    "adresa": "Str. Dunarii Nr. 145",
+    "oras": "Alexandria",
+    "lat": 43.9901299,
+    "lng": 25.2915046,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Timisoara 1",
+    "adresa": "Str. Nicolaus Lenau Nr. 2-4",
+    "oras": "Timisoara",
+    "lat": 45.7552298,
+    "lng": 21.219356
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Timisoara 2",
+    "adresa": "Calea Martirilor Nr. 62-64",
+    "oras": "Timisoara",
+    "lat": 45.7318471,
+    "lng": 21.231879,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Tulcea",
+    "adresa": "Str. Mahmudiei Nr. 17",
+    "oras": "Tulcea",
+    "lat": 45.1767041,
+    "lng": 28.8066138,
+    "geocodat": "adresa"
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Ramnicu Valcea",
+    "adresa": "Bd. Tudor Vladimirescu Nr. 2",
+    "oras": "Ramnicu Valcea",
+    "lat": 45.0991187,
+    "lng": 24.3510007
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Barlad",
+    "adresa": "Bd. Republicii Nr. 229",
+    "oras": "Barlad",
+    "lat": 46.2252616,
+    "lng": 27.6697271
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Vaslui",
+    "adresa": "Str. Ing. Badea Romeo Nr. 1",
+    "oras": "Vaslui",
+    "lat": 46.6388894,
+    "lng": 27.7311514
+  },
+  {
+    "brand": "Orange",
+    "nume": "Magazin Orange Focsani",
+    "adresa": "Str. Mare a Unirii Nr. 6",
+    "oras": "Focsani",
+    "lat": 45.6987405,
+    "lng": 27.1853288,
+    "geocodat": "adresa"
+  }
+]

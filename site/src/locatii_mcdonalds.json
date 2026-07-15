@@ -1,0 +1,915 @@
+[
+  {
+    "brand": "McDonalds",
+    "nume": "sat Luna de Sus, comuna Floresti, DN1,Nr. km 488",
+    "text_card": "sat Luna de Sus, comuna Floresti, DN1,Nr. km 488",
+    "url_harta": "https://www.google.com/maps/place/46%C2%B044'47.2%22N+23%C2%B027'02.2%22E/@46.746457,23.4480275,17z/data=!3m1!4b1!4m4!3m3!8m2!3d46.7464534!4d23.4506024?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D",
+    "lat": 46.746457,
+    "lng": 23.4480275
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Avram Iancu nr. 492-500, com. Florești 400696",
+    "text_card": "Str. Avram Iancu nr. 492-500, com. Florești 400696",
+    "url_harta": "https://goo.gl/maps/bf1DgG4QNeuujy676",
+    "lat": 46.7487624,
+    "lng": 23.5291051
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Alexandru Vaida Voievod nr. 53-55 400436",
+    "text_card": "Str. Alexandru Vaida Voievod nr. 53-55 400436",
+    "url_harta": "https://goo.gl/maps/4tH5mhpfD6gBMoym6",
+    "lat": 46.7731046,
+    "lng": 23.6256488
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Str. Primaverii, nr. 74 Program Luni - Duminică: 07:00 – 24:00Mic Dejun:",
+    "text_card": "Locatie Str. Primaverii, nr. 74 Program Luni - Duminică: 07:00 – 24:00Mic Dejun: 07:00 - 10:00Drive Thru: Luni - Duminică: Non StopDelivery: 08:00 - 23:30 Telefon 0372 700 857 Livrare Glovo Wolt Bolt",
+    "url_harta": "https://goo.gl/maps/SwV7Rrxd9MVeMRSt6",
+    "lat": 46.7539865,
+    "lng": 23.5519239
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Piața Mihai Viteazul nr. 1 400036",
+    "text_card": "Locatie Piața Mihai Viteazul nr. 1 400036",
+    "url_harta": "https://goo.gl/maps/jdQqdnra5zU51WZp6",
+    "lat": 46.7743181,
+    "lng": 23.5905818
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Soseaua Sibiului nr 194 Program Luni - Joi: 07:00 - 24:00Vineri - Sâmbăt",
+    "text_card": "Locatie Soseaua Sibiului nr 194 Program Luni - Joi: 07:00 - 24:00Vineri - Sâmbăta: 07:00 - 01:00Duminică: 07:00 - 24:00Mic Dejun: 07:00 - 10:00McCafe: Luni - Joi: 07:00 - 24:00Vineri - Sâmbăta: 07:00 - 01:00Duminică: 07:00 - 24:00Drive Thru: Non-Stop",
+    "url_harta": "https://maps.app.goo.gl/hwGzWgB9HuUXuw9x6",
+    "lat": 46.1466495,
+    "lng": 24.3218931
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bdul Iuliu Maniu nr.558-560, Centrul Comercial Militari Shopping",
+    "text_card": "Bdul Iuliu Maniu nr.558-560, Centrul Comercial Militari Shopping",
+    "url_harta": "https://maps.app.goo.gl/X9VLCB77cfZs4ZsY7",
+    "lat": 44.4396455,
+    "lng": 25.982319
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Vulcan Value Centre, str. Mihail Sebastian, nr. 88, Bucuresti",
+    "text_card": "Vulcan Value Centre, str. Mihail Sebastian, nr. 88, Bucuresti",
+    "url_harta": "https://maps.app.goo.gl/BsR3dKxTmrmjFJGv7",
+    "lat": 44.417392,
+    "lng": 26.0670349
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Soseaua Vitan Barzesti nr. 7A, Sector 4, Municipiul Bucuresti",
+    "text_card": "Soseaua Vitan Barzesti nr. 7A, Sector 4, Municipiul Bucuresti",
+    "url_harta": "https://maps.app.goo.gl/qFUJaQAahU9eHfRn6",
+    "lat": 44.4007687,
+    "lng": 26.142993
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bulevardul Theodor Pallady, numarul 50, sector 3 032266",
+    "text_card": "Bulevardul Theodor Pallady, numarul 50, sector 3 032266",
+    "url_harta": "https://www.google.ro/maps/place/Bulevardul+Theodor+Pallady+50,+Bucure%C8%99ti/@44.4075749,26.1886705,17z/data=!3m1!4b1!4m5!3m4!1s0x40b1fc15fb0a6ef1:0x6638f157e3ba87ae!8m2!3d44.4075749!4d26.1908592",
+    "lat": 44.4075749,
+    "lng": 26.1886705
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Pierre de Coubertin nr. 3-5, sector 2 021901",
+    "text_card": "Pierre de Coubertin nr. 3-5, sector 2 021901",
+    "url_harta": "https://goo.gl/maps/GhdP3Xd73j5P1pun7",
+    "lat": 44.4422385,
+    "lng": 26.1494963
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Văcarești nr. 391, sector 4, 040069",
+    "text_card": "Calea Văcarești nr. 391, sector 4, 040069",
+    "url_harta": "https://goo.gl/maps/56FFrmGcjdF1naYr6",
+    "lat": 44.3959075,
+    "lng": 26.1204287
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Liviu Rebreanu, sector 3, 031783",
+    "text_card": "Strada Liviu Rebreanu, sector 3, 031783",
+    "url_harta": "https://goo.gl/maps/c2ZU22tHF2jteEpv5",
+    "lat": 44.420706,
+    "lng": 26.1478103
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Splaiul Independenței nr. 210-210 B, sector 6, 600025",
+    "text_card": "Splaiul Independenței nr. 210-210 B, sector 6, 600025",
+    "url_harta": "https://goo.gl/maps/ARnyh3YM368RiXSh8",
+    "lat": 44.4456329,
+    "lng": 26.0605513
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Timișoara nr. 26, sector 6, 061331",
+    "text_card": "Bd. Timișoara nr. 26, sector 6, 061331",
+    "url_harta": "https://goo.gl/maps/sCPFySXs8hMNabuY6",
+    "lat": 44.4289488,
+    "lng": 26.0320337
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Carrefour Feeria, Șos. București-Ploiești 42, Sector 1 013694",
+    "text_card": "Carrefour Feeria, Șos. București-Ploiești 42, Sector 1 013694",
+    "url_harta": "https://goo.gl/maps/49xJfAjY6jzhN93X7",
+    "lat": 44.5081716,
+    "lng": 26.085853
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Șos. Vergului 20, București 022448",
+    "text_card": "Locatie Șos. Vergului 20, București 022448",
+    "url_harta": "https://goo.gl/maps/hPo3hncR3mmD4zTY7",
+    "lat": 44.4379653,
+    "lng": 26.1844639
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Ziduri Moși 23, sector 2, 21203",
+    "text_card": "Str. Ziduri Moși 23, sector 2, 21203",
+    "url_harta": "https://goo.gl/maps/La6UVfMjCrMAnp6U7",
+    "lat": 44.4525545,
+    "lng": 26.1272139
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Strada Valea Cascadelor 26P 061515",
+    "text_card": "Locatie Strada Valea Cascadelor 26P 061515",
+    "url_harta": "https://goo.gl/maps/fm2j7J5rEckENQ3o9",
+    "lat": 44.4241654,
+    "lng": 25.996391
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Brașov nr. 23 A, sector 6 061448",
+    "text_card": "Str. Brașov nr. 23 A, sector 6 061448",
+    "url_harta": "https://goo.gl/maps/Ti8Na65YLYWCgdr59",
+    "lat": 44.4186655,
+    "lng": 26.0328448
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. București Nord nr. 33, Voluntari 077190",
+    "text_card": "Șos. București Nord nr. 33, Voluntari 077190",
+    "url_harta": "https://goo.gl/maps/24938FWWAtJrr7LR9",
+    "lat": 44.4919555,
+    "lng": 26.1241217
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Barbu Văcărescu nr. 146-158, sector 2 020284",
+    "text_card": "Str. Barbu Văcărescu nr. 146-158, sector 2 020284",
+    "url_harta": "https://goo.gl/maps/cwfyegckL4JugJub6",
+    "lat": 44.4638085,
+    "lng": 26.1063564
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. 1 Decembrie 1918 nr. 33 A, sector 3 032455",
+    "text_card": "Bd. 1 Decembrie 1918 nr. 33 A, sector 3 032455",
+    "url_harta": "https://goo.gl/maps/68MGCfCqzfbV7wUH8",
+    "lat": 44.4204752,
+    "lng": 26.1542606
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Soseaua Giurgiului 109A,Piata Progresul",
+    "text_card": "Soseaua Giurgiului 109A,Piata Progresul",
+    "url_harta": "https://goo.gl/maps/ybnf9bKjvVNs6jZj6",
+    "lat": 44.3920635,
+    "lng": 26.0915303
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șoseaua București - Ploiești 42D, București 015011",
+    "text_card": "Șoseaua București - Ploiești 42D, București 015011",
+    "url_harta": "https://www.google.com/maps/place/B%C4%83neasa+Shopping+City/@44.5079963,26.0899078,17z/data=!3m1!4b1!4m5!3m4!1s0x40b202e6bfdf12cb:0xbb265fe69fd2b14!8m2!3d44.5079963!4d26.0899078",
+    "lat": 44.5079963,
+    "lng": 26.0899078
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bucuresti, Șos. Nicolae Titulescu nr. 4-8",
+    "text_card": "Bucuresti, Șos. Nicolae Titulescu nr. 4-8",
+    "url_harta": "https://goo.gl/maps/rbsQ4gDtucQbTzRx5",
+    "lat": 44.4523956,
+    "lng": 26.0821864
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Vasile Milea nr. 4, sector 6 061346",
+    "text_card": "Bd. Vasile Milea nr. 4, sector 6 061346",
+    "url_harta": "https://goo.gl/maps/j2gDDDTgJz2yeUY5A",
+    "lat": 44.430915,
+    "lng": 26.0504973
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. Pierre de Coubertin nr. 3-5, sector 2 21901",
+    "text_card": "Șos. Pierre de Coubertin nr. 3-5, sector 2 21901",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.4418832,26.1507809,387m/data=!3m1!1e3!4m9!1m2!2m1!1s%C8%98os.+Pierre+de+Coubertin+nr.+3-5,+sector+2+21901!3m5!1s0x40b1f92e847af413:0x6768f71884380418!8m2!3d44.4428269!4d26.1503776!15sCjHImG9zLiBQaWVycmUgZGUgQ291YmVydGluIG5yLiAzLTUsIHNlY3RvciAyIDIxOTAxWjAiLsiZb3MgcGllcnJlIGRlIGNvdWJlcnRpbiBuciAzIDUgc2VjdG9yIDIgMjE5MDGSARRmYXN0X2Zvb2RfcmVzdGF1cmFudA",
+    "lat": 44.4418832,
+    "lng": 26.1507809
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. București-Pitești, km.11-12, Com. Chiajna 077040",
+    "text_card": "Șos. București-Pitești, km.11-12, Com. Chiajna 077040",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.4403487,25.9924764,6187m/data=!3m1!1e3!4m9!1m2!2m1!1sMcDonald's+Carrefour+Militari!3m5!1s0x40b1ff4681ed6847:0x8e242752b7a83250!8m2!3d44.4382772!4d25.9572319!15sCh1NY0RvbmFsZCdzIENhcnJlZm91ciBNaWxpdGFyaSIDiAEBWh8iHW1jZG9uYWxkJ3MgY2FycmVmb3VyIG1pbGl0YXJpkgEUZmFzdF9mb29kX3Jlc3RhdXJhbnQ",
+    "lat": 44.4403487,
+    "lng": 25.9924764
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Vitan nr. 55-59, sector 3 31289",
+    "text_card": "Calea Vitan nr. 55-59, sector 3 31289",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.4200748,26.1246263,774m/data=!3m2!1e3!4b1!4m5!3m4!1s0x40b1fee5f3a35dad:0x8cc8bb4309048df3!8m2!3d44.4200748!4d26.126815",
+    "lat": 44.4200748,
+    "lng": 26.1246263
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Iuliu Maniu nr. 488-490, sector 6 61127",
+    "text_card": "Bd. Iuliu Maniu nr. 488-490, sector 6 61127",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.435071,25.9854233,773m/data=!3m2!1e3!4b1!4m5!3m4!1s0x40b201a555555555:0x4efc2c31cf2ebabe!8m2!3d44.4350764!4d25.9875169",
+    "lat": 44.435071,
+    "lng": 25.9854233
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Doctor Iacob Felix Nr. 8, Bucuresti 11037",
+    "text_card": "Doctor Iacob Felix Nr. 8, Bucuresti 11037",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.4485562,26.0802335,773m/data=!3m2!1e3!4b1!4m5!3m4!1s0x40b201fddd74f21b:0x76ed76a1935f1030!8m2!3d44.4485562!4d26.0824222",
+    "lat": 44.4485562,
+    "lng": 26.0802335
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Incinta Gării de Nord 10858 Program Luni - Duminică: 6:00 - 24:00Mic Dej",
+    "text_card": "Locatie Incinta Gării de Nord 10858 Program Luni - Duminică: 6:00 - 24:00Mic Dejun: 06:00 - 10:00Fereastră Express:Luni - Duminică: 04:30 - 24:00Delivery: 08:00 - 01:30 Telefon 0372 700 681 Livrare Glovo Wolt Bolt",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.4467506,26.072001,773m/data=!3m2!1e3!4b1!4m5!3m4!1s0x40b201fcb1af4fb9:0x735088d54e029674!8m2!3d44.4467506!4d26.0741897",
+    "lat": 44.4467506,
+    "lng": 26.072001
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Magheru nr. 24 A, sector 1 10335",
+    "text_card": "Bd. Magheru nr. 24 A, sector 1 10335",
+    "url_harta": "https://www.google.com/maps/search/Bd.+Magheru+nr.+24+A,+sector+1+10335/@44.4445216,26.0961435,17z/data=!3m1!4b1",
+    "lat": 44.4445216,
+    "lng": 26.0961435
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Rahovei nr. 291, sector 5 50897",
+    "text_card": "Calea Rahovei nr. 291, sector 5 50897",
+    "url_harta": "https://www.google.com/maps/place/Libr%C4%83ria+55+CLB+-+Calea+Rahovei/@44.4139038,26.0754144,193m/data=!3m2!1e3!4b1!4m5!3m4!1s0x40b1ff9e66e76685:0xf9fa3952d7be3874!8m2!3d44.4139076!4d26.0759574",
+    "lat": 44.4139038,
+    "lng": 26.0754144
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Intersectie Bd. Basarabiei nr 99 - Sos. Morarilor, sector 3 22122",
+    "text_card": "Intersectie Bd. Basarabiei nr 99 - Sos. Morarilor, sector 3 22122",
+    "url_harta": "https://www.google.com/maps/place/Bulevardul+Basarabia+99,+Bucure%C8%99ti/@44.4368763,26.1668897,461m/data=!3m1!1e3!4m8!1m2!2m1!1sIntersectie+Bd.+Basarabiei+nr+99+-+Sos.+Morarilor,+sector+3+22122!3m4!1s0x40b1f94a0c82d347:0xbb25fa114e0b70c9!8m2!3d44.4369506!4d26.1672499",
+    "lat": 44.4368763,
+    "lng": 26.1668897
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. Virtuții Carou nr. 248, sector 6 60787",
+    "text_card": "Șos. Virtuții Carou nr. 248, sector 6 60787",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@44.4443399,26.0343854,773m/data=!3m2!1e3!4b1!4m5!3m4!1s0x40b201bd6d879d9d:0xf6502e1417481b49!8m2!3d44.4443362!4d26.0365769",
+    "lat": 44.4443399,
+    "lng": 26.0343854
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Sos. Colentina nr. 81, Sector 2, Bucuresti 21154",
+    "text_card": "Sos. Colentina nr. 81, Sector 2, Bucuresti 21154",
+    "url_harta": "https://www.google.com/maps/search/Sos.+Colentina+nr.+81,+Sector+2,+Bucuresti+21154/@44.4667285,26.1357768,17z/data=!3m1!4b1",
+    "lat": 44.4667285,
+    "lng": 26.1357768
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. Olteniței - B-dul. C-tin Brâncoveanu nr. 29 41293",
+    "text_card": "Șos. Olteniței - B-dul. C-tin Brâncoveanu nr. 29 41293",
+    "url_harta": "https://www.google.com/maps/search/%C8%98os.+Olteni%C8%9Bei+-+B-dul.+C-tin+Br%C3%A2ncoveanu+nr.+29+41293/@44.394583,26.1049355,16z/data=!3m1!4b1",
+    "lat": 44.394583,
+    "lng": 26.1049355
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. Mihai Bravu nr. 307, sector 3 30307",
+    "text_card": "Șos. Mihai Bravu nr. 307, sector 3 30307",
+    "url_harta": "https://www.google.com/maps/search/%C8%98os.+Mihai+Bravu+nr.+307,+sector+3+30307/@44.4196115,26.1348608,17z/data=!3m1!4b1",
+    "lat": 44.4196115,
+    "lng": 26.1348608
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Piața Unirii nr. 1, sector 3 30119",
+    "text_card": "Locatie Piața Unirii nr. 1, sector 3 30119",
+    "url_harta": "https://www.google.com/maps/place/Pia%C8%9Ba+Unirii+1,+Bucure%C8%99ti+030119/@44.4280026,26.1024554,17z/data=!3m1!4b1!4m5!3m4!1s0x40b1ff1611198b1b:0xecd237c4e7f5d1dc!8m2!3d44.4280026!4d26.1046441",
+    "lat": 44.4280026,
+    "lng": 26.1024554
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Floreasca 246B, sector 1 14476",
+    "text_card": "Calea Floreasca 246B, sector 1 14476",
+    "url_harta": "https://www.google.com/maps/search/mcdonalds+Calea+Floreasca+246B,+sector+1+14476/@44.4786148,26.1015497,773m/data=!3m2!1e3!4b1",
+    "lat": 44.4786148,
+    "lng": 26.1015497
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie str. Narciselor nr.14 BIS Program Duminică - Joi: 07:00 - 24:00Vineri - ",
+    "text_card": "Locatie str. Narciselor nr.14 BIS Program Duminică - Joi: 07:00 - 24:00Vineri - Sâmbătă: 07:00 - 01:00 Mic Dejun: 07:00 - 10:00McCafe: Duminică - Joi: 07:00 - 24:00Vineri - Sâmbătă: 07:00 - 01:00 Drive Thru: Non-StopDelivery:Glovo: 08:00 - 23:30Wolt:",
+    "url_harta": "https://maps.app.goo.gl/JhZyc4WJC42o8Wj1A",
+    "lat": 46.5576712,
+    "lng": 26.8754728
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Stefan cel Mare nr,28, Bacau, Mall ARENA, 600360",
+    "text_card": "Str. Stefan cel Mare nr,28, Bacau, Mall ARENA, 600360",
+    "url_harta": "https://goo.gl/maps/bUCwLRvjvuB4KVVo9",
+    "lat": 46.5806203,
+    "lng": 26.9132739
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Erou Ciprian Pintea 1, Bacău 300417",
+    "text_card": "Strada Erou Ciprian Pintea 1, Bacău 300417",
+    "url_harta": "https://goo.gl/maps/zRuCfuDX8dWmCZcYA",
+    "lat": 46.5562191,
+    "lng": 26.9033905
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Targovistei nr.4, Ploiesti, jud.Prahova",
+    "text_card": "Strada Targovistei nr.4, Ploiesti, jud.Prahova",
+    "url_harta": "https://maps.app.goo.gl/FAfKg8tWgPzJap1DA",
+    "lat": 44.9412778,
+    "lng": 25.9866378
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie strada 1 DECEMBRIE 1918 NR 1",
+    "text_card": "Locatie strada 1 DECEMBRIE 1918 NR 1",
+    "url_harta": "https://maps.app.goo.gl/QdWaiFNHi9HkhYVD6",
+    "lat": 44.6862744,
+    "lng": 25.7745036
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Comuna Blejoi, Sat Blejoi, DN1 B, KM 6, jud. Prahova, 100292",
+    "text_card": "Comuna Blejoi, Sat Blejoi, DN1 B, KM 6, jud. Prahova, 100292",
+    "url_harta": "https://goo.gl/maps/QFnRvpQExAJwgLXcA",
+    "lat": 44.9652097,
+    "lng": 25.9725219
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Calomfirescu nr. 2, Ploiești 100176",
+    "text_card": "Str. Calomfirescu nr. 2, Ploiești 100176",
+    "url_harta": "https://goo.gl/maps/ZnKgtymWLp9KShgw6",
+    "lat": 44.9436556,
+    "lng": 26.026591
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "intersectia bd. Republicii - Sos. Nordului, Ploiesti 100080",
+    "text_card": "intersectia bd. Republicii - Sos. Nordului, Ploiesti 100080",
+    "url_harta": "https://goo.gl/maps/wpBUB5p27uDZndTt7",
+    "lat": 44.9525402,
+    "lng": 25.9973246
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Victoriei nr. 3, Ploiești 100003",
+    "text_card": "Str. Victoriei nr. 3, Ploiești 100003",
+    "url_harta": "https://goo.gl/maps/iAzBJaoQ9kBRJWLB9",
+    "lat": 44.9528611,
+    "lng": 25.9860821
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "McDonald’s Baia Mare Sud DT, Bv. Unirii Nr. 21 -21 A, Jud. Maramures",
+    "text_card": "McDonald’s Baia Mare Sud DT, Bv. Unirii Nr. 21 -21 A, Jud. Maramures",
+    "url_harta": "https://maps.app.goo.gl/euMhvSPJNdrLY5ya6",
+    "lat": 47.6547894,
+    "lng": 23.5644647
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "B-dul. Unirii nr. 8 A, Baia Mare 430232",
+    "text_card": "B-dul. Unirii nr. 8 A, Baia Mare 430232",
+    "url_harta": "https://goo.gl/maps/XeNpxfn8Comti5zh9",
+    "lat": 47.654793,
+    "lng": 23.5648509
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Centrul Comercial Shopping City, Calea Sagului nr 100, Timisoara, CP 300516",
+    "text_card": "Centrul Comercial Shopping City, Calea Sagului nr 100, Timisoara, CP 300516",
+    "url_harta": "https://maps.app.goo.gl/PT9MBwwjY6BPd5pJ6",
+    "lat": 45.7244658,
+    "lng": 21.1962982
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Comuna Dumbravita, strada Conac, nr. 43, judet Timis",
+    "text_card": "Comuna Dumbravita, strada Conac, nr. 43, judet Timis",
+    "url_harta": "https://goo.gl/maps/HMYsJdqjzztyV9Xx9",
+    "lat": 45.78676,
+    "lng": 21.237125
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Aristide Demetriade nr. 1, Timișoara 300088",
+    "text_card": "Str. Aristide Demetriade nr. 1, Timișoara 300088",
+    "url_harta": "https://goo.gl/maps/z5fD6CQhSyPmwSc2A",
+    "lat": 45.7669279,
+    "lng": 21.2270705
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Circumvalațiunii nr. 35, Timișoara 300337",
+    "text_card": "Calea Circumvalațiunii nr. 35, Timișoara 300337",
+    "url_harta": "https://goo.gl/maps/6RfAkMShG6ap3TFi8",
+    "lat": 45.7593094,
+    "lng": 21.2150277
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Intersecția Str. Arieș - Str. Liviu Rebreanu, Timișoara",
+    "text_card": "Intersecția Str. Arieș - Str. Liviu Rebreanu, Timișoara",
+    "url_harta": "https://goo.gl/maps/5G8zDko8jxBGkrp58",
+    "lat": 45.7389608,
+    "lng": 21.2386993
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Piața Victoriei nr. 1, Timișoara 300030",
+    "text_card": "Piața Victoriei nr. 1, Timișoara 300030",
+    "url_harta": "https://goo.gl/maps/wgCU23zBhfVHwzPK8",
+    "lat": 45.7534641,
+    "lng": 21.223876
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Șoseaua Păcurari , nr. 116 , Iași",
+    "text_card": "Locatie Șoseaua Păcurari , nr. 116 , Iași",
+    "url_harta": "https://maps.app.goo.gl/Zni9vAexdH7VN2au7",
+    "lat": 47.1729711,
+    "lng": 27.5287588
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Soseaua Pacurari, numarul 121, Spatiu Comercial FF08",
+    "text_card": "Soseaua Pacurari, numarul 121, Spatiu Comercial FF08",
+    "url_harta": "https://maps.app.goo.gl/F7WcuRCcFd7UuNQF9",
+    "lat": 47.1669805,
+    "lng": 27.5108897
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Șos. Bucium, Nr.34 E Program Luni - Duminică: 07:00 - 24:00Mic Dejun:Lun",
+    "text_card": "Locatie Șos. Bucium, Nr.34 E Program Luni - Duminică: 07:00 - 24:00Mic Dejun:Luni - Duminică: 07:00 - 10:00Drive Thru: Non Stop Telefon 0372 923 652 Livrare Glovo Wolt Bolt",
+    "url_harta": "https://www.google.com/maps/place/%C8%98oseaua+Bucium+34,+Ia%C8%99i/@47.1328751,27.6118462,19z/data=!3m1!4b1!4m5!3m4!1s0x40cafbd05c849153:0xd308e4122cc496a9!8m2!3d47.1328742!4d27.6123934",
+    "lat": 47.1328751,
+    "lng": 27.6118462
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Iulius Mall, Bulevardul Tudor Vladimirescu nr. 2, Iași 700259",
+    "text_card": "Iulius Mall, Bulevardul Tudor Vladimirescu nr. 2, Iași 700259",
+    "url_harta": "https://goo.gl/maps/EVAwqWnX1y1hRQrG8",
+    "lat": 47.15555,
+    "lng": 27.6031836
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Str. Palas nr. 7A, Iași Program Luni - Duminică: 7:00 - 24:00Mic Dejun: ",
+    "text_card": "Locatie Str. Palas nr. 7A, Iași Program Luni - Duminică: 7:00 - 24:00Mic Dejun: 08:00 - 10:00McCafe: 07.00 - 00.00 Telefon 0372 770 083 Livrare Glovo Wolt Bolt",
+    "url_harta": "https://goo.gl/maps/DvaLcM9iaCWAj56u9",
+    "lat": 47.15719,
+    "lng": 27.5871105
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Piața Gării nr. 4, Iași 700090",
+    "text_card": "Locatie Piața Gării nr. 4, Iași 700090",
+    "url_harta": "https://goo.gl/maps/JATwgPkiRccVJEoZ8",
+    "lat": 47.1654334,
+    "lng": 27.5687596
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Jud. Vâlcea, Municipiul Râmnicu Vâlcea, Bulevardul NICOLAE BALCESCU, Nr. 38",
+    "text_card": "Jud. Vâlcea, Municipiul Râmnicu Vâlcea, Bulevardul NICOLAE BALCESCU, Nr. 38",
+    "url_harta": "https://maps.app.goo.gl/L4383PhCERdu8v67A",
+    "lat": 45.1069625,
+    "lng": 24.3788275
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Calea Lui Traian, Nr. 125, River Plaza Mall, Etaj 3",
+    "text_card": "Str. Calea Lui Traian, Nr. 125, River Plaza Mall, Etaj 3",
+    "url_harta": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x474d38af455c3327:0x6ce171b8e88664ec?sa=X&ved=1t:8290&ictx=111",
+    "lat": 45.1018488,
+    "lng": 24.3624146,
+    "geocodat": true
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Blvd. Dem Radulescu, Nr. 2-14, Valcea, 240425",
+    "text_card": "Blvd. Dem Radulescu, Nr. 2-14, Valcea, 240425",
+    "url_harta": "https://goo.gl/maps/jFbMCu26zwyAyitm7",
+    "lat": 45.0907654,
+    "lng": 24.3658485
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Traian, nr 7B, Cladirea C2 incinta Centrului Comercial Hunedoara Retail Par…",
+    "text_card": "Bd. Traian, nr 7B, Cladirea C2 incinta Centrului Comercial Hunedoara Retail Par…",
+    "url_harta": "https://www.google.com/maps/search/Bd.+Traian,+nr+7B,+Cladirea+C2+incinta+Centrului+Comercial+Hunedoara+Retail+Park+Cometex,+Hunedoara/@45.7671398,22.9029394,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
+    "lat": 45.7671398,
+    "lng": 22.9029394
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bd. Mihai Viteazu, nr 5, Giurgiu",
+    "text_card": "Locatie Bd. Mihai Viteazu, nr 5, Giurgiu",
+    "url_harta": "https://maps.app.goo.gl/bdEhaojjYX9CqUt6A",
+    "lat": 43.899413,
+    "lng": 25.9533996
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie B-dul George Cosbuc, nr 251 D",
+    "text_card": "Locatie B-dul George Cosbuc, nr 251 D",
+    "url_harta": "https://maps.app.goo.gl/jjkdMDz8XVc2pg7Z7",
+    "lat": 45.4525039,
+    "lng": 28.0184661
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Intersecția Str. Brăilei - Str. Stadionului, 6200 Galați 800595",
+    "text_card": "Intersecția Str. Brăilei - Str. Stadionului, 6200 Galați 800595",
+    "url_harta": "https://goo.gl/maps/U5SgaQRKvp1pxZYR7",
+    "lat": 45.4206203,
+    "lng": 28.0186598
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "str. Tudor Vladimirescu nr.37, Pitesti",
+    "text_card": "str. Tudor Vladimirescu nr.37, Pitesti",
+    "url_harta": "https://www.google.com/maps/place/Strada+Tudor+Vladimirescu+37,+Pite%C8%99ti+110186/@44.8445814,24.835597,12.5z/data=!4m6!3m5!1s0x40b2bceff57eb145:0x4b13db9dec5ed50b!8m2!3d44.8440906!4d24.8961381!16s%2Fg%2F11rqy3d71s?entry=ttu",
+    "lat": 44.8445814,
+    "lng": 24.835597
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Pitesti, b-dul N.Balcescu nr.158 B",
+    "text_card": "Locatie Pitesti, b-dul N.Balcescu nr.158 B",
+    "url_harta": "https://www.google.com/maps/place/Bulevardul+Nicolae+B%C4%83lcescu+158,+Pite%C8%99ti+110101/@44.8803194,24.8406089,17z/data=!3m1!4b1!4m6!3m5!1s0x40b2bbbaf8bfc697:0x2d02edd172e47d38!8m2!3d44.8803194!4d24.8406089!16s%2Fg%2F1ptz9wq98?entry=ttu",
+    "lat": 44.8803194,
+    "lng": 24.8406089
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bd. Republicii nr. 214 B 110177",
+    "text_card": "Locatie Bd. Republicii nr. 214 B 110177",
+    "url_harta": "https://goo.gl/maps/mhe9J6YApFb3utPH9",
+    "lat": 44.8462867,
+    "lng": 24.8856611
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Calea Nationala, Nr. 356, Botoșani",
+    "text_card": "Locatie Calea Nationala, Nr. 356, Botoșani",
+    "url_harta": "https://www.google.com/maps/place/Calea+Na%C8%9Bional%C4%83+356,+Boto%C8%99ani+717110/@47.728099,26.6707701,17z/data=!3m1!4b1!4m6!3m5!1s0x4734e99962bfde77:0x38a3bfa056a953c3!8m2!3d47.728099!4d26.673345!16s%2Fg%2F11c5j9hs9r?entry=ttu",
+    "lat": 47.728099,
+    "lng": 26.6707701
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bulevardul Mihai Viteazul 78, Drobeta-Turnu Severin",
+    "text_card": "Bulevardul Mihai Viteazul 78, Drobeta-Turnu Severin",
+    "url_harta": "https://www.google.com/maps/place/Bulevardul+Mihai+Viteazul+78,+Drobeta-Turnu+Severin+220069/@44.6373607,22.6354987,17z/data=!3m1!4b1!4m6!3m5!1s0x475231d07722103b:0xbe0855eef7acfe9d!8m2!3d44.6373607!4d22.6354987!16s%2Fg%2F11fw8hvylt?entry=ttu",
+    "lat": 44.6373607,
+    "lng": 22.6354987
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Severinului, nr.61, Craiova, jud Dolj",
+    "text_card": "Calea Severinului, nr.61, Craiova, jud Dolj",
+    "url_harta": "https://www.google.com/maps/place/Calea+Severinului+61,+Craiova+200769/@44.3297653,23.7718287,17z/data=!3m1!4b1!4m6!3m5!1s0x4752d9f2f9f7cef1:0x5ee2d804c174b50e!8m2!3d44.3297653!4d23.7718287!16s%2Fg%2F11vdnwrkqr?entry=ttu",
+    "lat": 44.3297653,
+    "lng": 23.7718287
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Calea București nr. 80, Craiova",
+    "text_card": "Locatie Calea București nr. 80, Craiova",
+    "url_harta": "https://goo.gl/maps/jZqAMAbfQXdZ4G8u8",
+    "lat": 44.3153803,
+    "lng": 23.8164229
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Intersecția Calea București - B-dul. A.I.Cuza, Craiova 200580",
+    "text_card": "Intersecția Calea București - B-dul. A.I.Cuza, Craiova 200580",
+    "url_harta": "https://goo.gl/maps/sSdMtWgA5HDVkH49A",
+    "lat": 44.3153803,
+    "lng": 23.8164229
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Lacul Roșu, Nr. 3, Oradea, Judetul Bihor",
+    "text_card": "Strada Lacul Roșu, Nr. 3, Oradea, Judetul Bihor",
+    "url_harta": "https://www.google.com/maps/place/Strada+Lacul+Ro%C8%99u+3,+Oradea/@47.0745737,21.9273439,17z/data=!3m1!4b1!4m5!3m4!1s0x4746486fe1146c1f:0xb9af569d49409023!8m2!3d47.0745737!4d21.9273439",
+    "lat": 47.0745737,
+    "lng": 21.9273439
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Str. Ciheiului, Oradea 410600",
+    "text_card": "Locatie Str. Ciheiului, Oradea 410600",
+    "url_harta": "https://goo.gl/maps/yLHD2gb7MdbAU8Qp7",
+    "lat": 47.0326253,
+    "lng": 21.9325988
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "B-dul Republicii, Nr. 30, Oradea 410159",
+    "text_card": "B-dul Republicii, Nr. 30, Oradea 410159",
+    "url_harta": "https://goo.gl/maps/kvBsJaHmZ6MhDPZd9",
+    "lat": 47.0623029,
+    "lng": 21.9356082
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Termocentralei, nr 17A, Tg Jiu, Gorj",
+    "text_card": "Str. Termocentralei, nr 17A, Tg Jiu, Gorj",
+    "url_harta": "https://www.google.com/maps/place/Mc+Donald%E2%80%99s/@45.0217483,23.2621946,17z/data=!4m13!1m7!3m6!1s0x47527589cccc5b79:0xe37646ccd9e02adc!2sStrada+Termocentralei+17,+T%C3%A2rgu+Jiu+210233!3b1!8m2!3d45.0217445!4d23.2643833!3m4!1s0x475275d0efff2e45:0x42cd889c44601979!8m2!3d45.0221688!4d23.2647937",
+    "lat": 45.0217483,
+    "lng": 23.2621946
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Aurel Vlaicu, nr. 14, Arad, 310141",
+    "text_card": "Calea Aurel Vlaicu, nr. 14, Arad, 310141",
+    "url_harta": "https://www.google.com/maps/place/McDonald's/@46.1906727,21.3154983,17z/data=!4m13!1m7!3m6!1s0x47459848cba030dd:0xeddafb566c0667bc!2sCalea+Aurel+Vlaicu+14,+Arad!3b1!8m2!3d46.190669!4d21.317687!3m4!1s0x4745998e3745f24b:0x5c1fc7fda9d27dd5!8m2!3d46.1911635!4d21.315857",
+    "lat": 46.1906727,
+    "lng": 21.3154983
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bd. Revoluției nr. 78, Arad 610025",
+    "text_card": "Locatie Bd. Revoluției nr. 78, Arad 610025",
+    "url_harta": "https://goo.gl/maps/7mWGaV3xxoh394cCA",
+    "lat": 46.1754258,
+    "lng": 21.3154847
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Principala nr 4B, Sat Varsatura, Comuna Chiscani, Braila, 817026",
+    "text_card": "Strada Principala nr 4B, Sat Varsatura, Comuna Chiscani, Braila, 817026",
+    "url_harta": "https://www.google.com/maps/place/Strada+Principal%C4%83+4b,+V%C4%83rs%C4%83tura+817026/@45.2290876,27.9352356,16.74z/data=!4m5!3m4!1s0x40b72a678d3d9a79:0x3ca7c8c6c63887fb!8m2!3d45.2293151!4d27.9369619",
+    "lat": 45.2290876,
+    "lng": 27.9352356
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Calea Călărașilor nr. 239 - 241, Brăila, Jud. Brăila",
+    "text_card": "Calea Călărașilor nr. 239 - 241, Brăila, Jud. Brăila",
+    "url_harta": "https://goo.gl/maps/Xd4H54DsY7YDE3jN7",
+    "lat": 45.2550139,
+    "lng": 27.9494492
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bulevardul Mihai Viteazul, Nr.59, Zalău, Jud. Sălaj 450135",
+    "text_card": "Bulevardul Mihai Viteazul, Nr.59, Zalău, Jud. Sălaj 450135",
+    "url_harta": "https://goo.gl/maps/QWwiBdqB89zuvjdE7",
+    "lat": 47.1988159,
+    "lng": 23.0548525
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bd. 15 Noiembrie nr. 78 Program Luni - Duminică: 10:00 - 22:00McCafeLuni",
+    "text_card": "Locatie Bd. 15 Noiembrie nr. 78 Program Luni - Duminică: 10:00 - 22:00McCafeLuni - Duminică: 10:00 - 22:00Delivery: 10:00 - 22:00 Telefon 0372 917 020 Livrare Glovo Wolt Bolt",
+    "url_harta": "https://goo.gl/maps/9LY9B5UoGE572h7h6",
+    "lat": 45.6501398,
+    "lng": 25.6091307
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Calea București 107, Brașov 500299",
+    "text_card": "Locatie Calea București 107, Brașov 500299",
+    "url_harta": "https://goo.gl/maps/jGvfANQ6uBkytNWc8",
+    "lat": 45.6324759,
+    "lng": 25.6365231
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Zaharia Stancu, Nr. 2, Brasov",
+    "text_card": "Strada Zaharia Stancu, Nr. 2, Brasov",
+    "url_harta": "https://maps.app.goo.gl/3kPn44zvXw2FfDEy5",
+    "lat": 45.6709469,
+    "lng": 25.6096642
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Calea București 106, Brașov 500418",
+    "text_card": "Locatie Calea București 106, Brașov 500418",
+    "url_harta": "https://goo.gl/maps/X11PBnhNmC9Vqq5V9",
+    "lat": 45.6330787,
+    "lng": 25.6352636
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bulevardul Unirii 232, Buzău 120021",
+    "text_card": "Locatie Bulevardul Unirii 232, Buzău 120021",
+    "url_harta": "https://goo.gl/maps/DKvVSpsLdTG9kJyRA",
+    "lat": 45.1630434,
+    "lng": 26.8156072
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Intersecția bd. Unirii Vechi cu Unirii Noi, Buzău 120360",
+    "text_card": "Intersecția bd. Unirii Vechi cu Unirii Noi, Buzău 120360",
+    "url_harta": "https://goo.gl/maps/qxeAEVYkEboApNcXA",
+    "lat": 45.1519029,
+    "lng": 26.8137347
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Aurel Vlaicu nr. 220, Constanța, 900498",
+    "text_card": "Bd. Aurel Vlaicu nr. 220, Constanța, 900498",
+    "url_harta": "https://goo.gl/maps/mCbozyCGH465QNDb8",
+    "lat": 44.1974384,
+    "lng": 28.6088266
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bd. Al. Lăpușneanu nr. 116 C 900419",
+    "text_card": "Locatie Bd. Al. Lăpușneanu nr. 116 C 900419",
+    "url_harta": "https://goo.gl/maps/fZomDXZmTxGsQ8aK6",
+    "lat": 44.2041901,
+    "lng": 28.6315432
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Intersecția Bd. Mamaia - Str. Soveja, Constanța 900697/6",
+    "text_card": "Intersecția Bd. Mamaia - Str. Soveja, Constanța 900697/6",
+    "url_harta": "https://goo.gl/maps/Au8GEuGLrDAqEsTBA",
+    "lat": 44.2050038,
+    "lng": 28.6417002
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Ștefan cel Mare nr. 36-40, Constanța 900676",
+    "text_card": "Str. Ștefan cel Mare nr. 36-40, Constanța 900676",
+    "url_harta": "https://goo.gl/maps/TevtuDW9GZwoPw3n7",
+    "lat": 44.1916367,
+    "lng": 28.6228083
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Calea Unirii 22, 720019 Program Luni – Duminică: 9:00 – 22:00 Delivery: ",
+    "text_card": "Locatie Calea Unirii 22, 720019 Program Luni – Duminică: 9:00 – 22:00 Delivery: 10:00 - 22:00 Telefon 0372 752 273 Livrare Glovo Wolt Bolt",
+    "url_harta": "https://goo.gl/maps/duB6DAdxgw69vqAR9",
+    "lat": 47.6596331,
+    "lng": 26.2683172
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Strada Ana Ipătescu 10A, Suceava 720026",
+    "text_card": "Strada Ana Ipătescu 10A, Suceava 720026",
+    "url_harta": "https://goo.gl/maps/KXQUK3QqDfaTyX3G7",
+    "lat": 47.6520851,
+    "lng": 26.2576309
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bulevardul I.C. Bratianu, nr. 13 C",
+    "text_card": "Locatie Bulevardul I.C. Bratianu, nr. 13 C",
+    "url_harta": "https://goo.gl/maps/1NL64qxUp5MosKzG7",
+    "lat": 44.9195099,
+    "lng": 25.4581273
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Strada Careiului 9 Program Luni - Duminică: 07:00 - 24:00Mic Dejun: 07:0",
+    "text_card": "Locatie Strada Careiului 9 Program Luni - Duminică: 07:00 - 24:00Mic Dejun: 07:00 - 10:00McCafe:Luni - Duminică: 07:00 - 24:00Drive Thru: Luni - Duminică: 24 oreDelivery: Glovo: 08:00 - 23:30Wolt: 10:00 - 24:00Bolt: 10:00 - 24:00 Telefon 0371 680 229",
+    "url_harta": "https://goo.gl/maps/w1aDh2URD46YVNiHA",
+    "lat": 47.7844564,
+    "lng": 22.8702815
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Calea Moților 112, 51000 Program Luni - Duminică: 07:00 - 24:00Mic Dejun",
+    "text_card": "Locatie Calea Moților 112, 51000 Program Luni - Duminică: 07:00 - 24:00Mic Dejun: 07:00 - 10:00McCafe:Luni - Duminică: 07:00 - 24:00Drive Thru: Luni - Duminică: 24 oreDelivery: Glovo: 08:00 - 23:30 Wolt: 10:00 - 22:00Bolt: 10:00 - 24:00 Telefon 0371 ",
+    "url_harta": "https://goo.gl/maps/drdsGFvXqg6ircG6A",
+    "lat": 46.0811927,
+    "lng": 23.5606242
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie DN6 108, Bragadiru, Sat Bragadiru",
+    "text_card": "Locatie DN6 108, Bragadiru, Sat Bragadiru",
+    "url_harta": "https://goo.gl/maps/ecFffFJdXNdTSH5X9",
+    "lat": 44.3886665,
+    "lng": 26.0086908
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Str. Tunari nr 1B; Olt; Slatina",
+    "text_card": "Locatie Str. Tunari nr 1B; Olt; Slatina",
+    "url_harta": "https://goo.gl/maps/CYveCofPhUrT3YPe9",
+    "lat": 44.4272012,
+    "lng": 24.3802424
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Bulevardul Brăilei Nr. 102 620122",
+    "text_card": "Locatie Bulevardul Brăilei Nr. 102 620122",
+    "url_harta": "https://goo.gl/maps/2N8DpfhPhSXDaQog9",
+    "lat": 45.6889685,
+    "lng": 27.193614
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Bd. Gen. N. Dăscălescu Nr. 2 B, Piatra Neamț, Jud. Neamț 610191",
+    "text_card": "Bd. Gen. N. Dăscălescu Nr. 2 B, Piatra Neamț, Jud. Neamț 610191",
+    "url_harta": "https://goo.gl/maps/nxARn2AyhxcxTpsq8",
+    "lat": 46.9192639,
+    "lng": 26.3854853
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Șos. Sibiului Nr. 1, Sibiu 557260",
+    "text_card": "Locatie Șos. Sibiului Nr. 1, Sibiu 557260",
+    "url_harta": "https://goo.gl/maps/ZqdEQRdo8nYBkvhy5",
+    "lat": 45.7807737,
+    "lng": 24.1656423
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Locatie Str. Nicolae Bălcescu nr. 24, Sibiu",
+    "text_card": "Locatie Str. Nicolae Bălcescu nr. 24, Sibiu",
+    "url_harta": "https://goo.gl/maps/AtrZCHFgw3cnM52WA",
+    "lat": 45.7940609,
+    "lng": 24.1477669
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. București - Ploiești, km. 16, Otopeni 75100",
+    "text_card": "Șos. București - Ploiești, km. 16, Otopeni 75100",
+    "url_harta": "https://goo.gl/maps/c7SbBLfwJfFVg4gx7",
+    "lat": 44.5397294,
+    "lng": 26.0667843
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Șos. București-Ploiești, Km. 20, Balotești 77015",
+    "text_card": "Șos. București-Ploiești, Km. 20, Balotești 77015",
+    "url_harta": "https://goo.gl/maps/3Wir49dLJp7tmdRW6",
+    "lat": 44.6024482,
+    "lng": 26.0687688
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Iuliu Maniu, nr. 18, Deva 330006",
+    "text_card": "Str. Iuliu Maniu, nr. 18, Deva 330006",
+    "url_harta": "https://goo.gl/maps/AJ4W1sbzVyefubTx8",
+    "lat": 45.884239,
+    "lng": 22.9066108
+  },
+  {
+    "brand": "McDonalds",
+    "nume": "Str. Trandafirilor nr. 35-37, Târgu Mureș",
+    "text_card": "Str. Trandafirilor nr. 35-37, Târgu Mureș",
+    "url_harta": "https://goo.gl/maps/uVBeYB8D4Zin56496",
+    "lat": 46.5432679,
+    "lng": 24.5573165
+  }
+]

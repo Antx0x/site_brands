@@ -1,0 +1,486 @@
+[
+  {
+    "wikidata_id": "Q1755034",
+    "nume": "OMV Petrom",
+    "descriere": "Romanian oil and gas company",
+    "companie_mama_id": "Q168238",
+    "proprietar_id": "Q168238",
+    "listari": [
+      {
+        "bursa": "Bucharest Stock Exchange",
+        "simbol": "SNP"
+      }
+    ],
+    "site_oficial": "https://www.omvpetrom.com",
+    "sediu_id": "Q19660",
+    "industrie_id": "Q862571",
+    "angajati": 12498,
+    "cautare": "Petrom",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q168238",
+      "nume": "OMV",
+      "descriere": "Austrian petrochemical company",
+      "companie_mama_id": null,
+      "proprietar_id": "Q303404",
+      "listari": [
+        {
+          "bursa": "Wiener Boerse AG",
+          "simbol": "OMV"
+        }
+      ],
+      "site_oficial": "https://www.omv.com/",
+      "sediu_id": "Q1741",
+      "industrie_id": "Q862571",
+      "angajati": 22544,
+      "companie_mama": null,
+      "proprietar": "Österreichische Beteiligungs AG",
+      "sediu": "Vienna",
+      "industrie": "petroleum industry"
+    },
+    "companie_mama": "OMV",
+    "proprietar": "OMV",
+    "sediu": "Bucharest",
+    "industrie": "petroleum industry"
+  },
+  {
+    "wikidata_id": "Q27460",
+    "nume": "Dacia",
+    "descriere": "brand and romanian car manufacturer from Renault",
+    "companie_mama_id": "Q6686",
+    "proprietar_id": "Q6686",
+    "listari": [],
+    "site_oficial": "https://www.renaultgroup.com/en/our-brands/dacia",
+    "sediu_id": "Q732851",
+    "industrie_id": "Q190117",
+    "angajati": 11026,
+    "cautare": "Dacia",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q6686",
+      "nume": "Renault",
+      "descriere": "automotive conglomerate",
+      "companie_mama_id": null,
+      "proprietar_id": "Q20165",
+      "listari": [
+        {
+          "bursa": "Euronext Paris",
+          "simbol": "RNO"
+        }
+      ],
+      "site_oficial": "https://www.renaultgroup.com/",
+      "sediu_id": "Q172455",
+      "industrie_id": "Q190117",
+      "angajati": 179565,
+      "companie_mama": null,
+      "proprietar": "Nissan",
+      "sediu": "Boulogne-Billancourt",
+      "industrie": "automotive industry"
+    },
+    "companie_mama": "Renault",
+    "proprietar": "Renault",
+    "sediu": "Mioveni",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q494168",
+    "nume": "Renault Korea Motors",
+    "descriere": "South Korean car manufacturer",
+    "companie_mama_id": "Q6686",
+    "proprietar_id": "Q6686",
+    "listari": [],
+    "site_oficial": "https://www.renaultkoream.com/",
+    "sediu_id": "Q16520",
+    "industrie_id": "Q190117",
+    "angajati": 3638,
+    "cautare": "Renault",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q6686",
+      "nume": "Renault",
+      "descriere": "automotive conglomerate",
+      "companie_mama_id": null,
+      "proprietar_id": "Q20165",
+      "listari": [
+        {
+          "bursa": "Euronext Paris",
+          "simbol": "RNO"
+        }
+      ],
+      "site_oficial": "https://www.renaultgroup.com/",
+      "sediu_id": "Q172455",
+      "industrie_id": "Q190117",
+      "angajati": 179565,
+      "companie_mama": null,
+      "proprietar": "Nissan",
+      "sediu": "Boulogne-Billancourt",
+      "industrie": "automotive industry"
+    },
+    "companie_mama": "Renault",
+    "proprietar": "Renault",
+    "sediu": "Busan",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q53268",
+    "nume": "Toyota",
+    "descriere": "Japanese multinational automotive manufacturer",
+    "companie_mama_id": null,
+    "proprietar_id": "Q519611",
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7203"
+      },
+      {
+        "bursa": "London Stock Exchange",
+        "simbol": "TYT"
+      },
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "TM"
+      },
+      {
+        "bursa": "Nagoya Stock Exchange",
+        "simbol": "7203"
+      }
+    ],
+    "site_oficial": "https://global.toyota/en/",
+    "sediu_id": "Q201117",
+    "industrie_id": "Q190117",
+    "angajati": 359542,
+    "cautare": "Toyota",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Nippon Life Insurance Company",
+    "sediu": "Toyota",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q12304290",
+    "nume": "Brd. Klee",
+    "descriere": null,
+    "companie_mama_id": null,
+    "proprietar_id": "Q27231609",
+    "listari": [
+      {
+        "bursa": "Nasdaq Copenhagen A/S",
+        "simbol": "KLEE B"
+      }
+    ],
+    "site_oficial": "https://www.klee.dk/",
+    "sediu_id": "Q3196726",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "BRD",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Q27231609",
+    "sediu": "Albertslund",
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q806161",
+    "nume": "Banca Transilvania",
+    "descriere": "Romanian bank",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Bucharest Stock Exchange",
+        "simbol": "TLV"
+      }
+    ],
+    "site_oficial": "https://www.bancatransilvania.ro/",
+    "sediu_id": "Q100188",
+    "industrie_id": "Q57774188",
+    "angajati": 9547,
+    "cautare": "Banca Transilvania",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Cluj-Napoca",
+    "industrie": "financial sector"
+  },
+  {
+    "wikidata_id": "Q4835224",
+    "nume": "BCR Chișinău",
+    "descriere": "Moldovan bank",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://www.bcr.md",
+    "sediu_id": "Q21197",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "BCR",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Chișinău",
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q45568",
+    "nume": "UniCredit",
+    "descriere": "Italian global banking and financial services company",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": "UCG"
+      },
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "CRI"
+      }
+    ],
+    "site_oficial": "https://www.unicreditgroup.eu",
+    "sediu_id": "Q963111",
+    "industrie_id": "Q57774188",
+    "angajati": null,
+    "cautare": "UniCredit",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "UniCredit Tower",
+    "industrie": "financial sector"
+  },
+  {
+    "wikidata_id": "Q645708",
+    "nume": "ING Group",
+    "descriere": "Dutch multinational banking and financial services corporation",
+    "companie_mama_id": null,
+    "proprietar_id": "Q85750542",
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "ING"
+      },
+      {
+        "bursa": "Euronext",
+        "simbol": "INGA"
+      },
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": null
+      }
+    ],
+    "site_oficial": "https://ing.com",
+    "sediu_id": "Q727",
+    "industrie_id": "Q29584334",
+    "angajati": 59434,
+    "cautare": "ING",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Capital Research Global Investors",
+    "sediu": "Amsterdam",
+    "industrie": "financial service activities, except insurance and pension funding"
+  },
+  {
+    "wikidata_id": "Q2127528",
+    "nume": "Raiffeisen Bank International",
+    "descriere": "central institution of Austrian co-operative banking group Raffeisen",
+    "companie_mama_id": "Q580195",
+    "proprietar_id": "Q580195",
+    "listari": [
+      {
+        "bursa": "Wiener Boerse AG",
+        "simbol": null
+      }
+    ],
+    "site_oficial": "http://www.rbinternational.com",
+    "sediu_id": "Q1741",
+    "industrie_id": "Q837171",
+    "angajati": 50000,
+    "cautare": "Raiffeisen",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q580195",
+      "nume": "Raiffeisen Zentralbank Österreich",
+      "descriere": "former central bank of Austrian cooperative banks",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [],
+      "site_oficial": "http://www.rzbgroup.com",
+      "sediu_id": "Q1741",
+      "industrie_id": "Q837171",
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Vienna",
+      "industrie": "financial services"
+    },
+    "companie_mama": "Raiffeisen Zentralbank Österreich",
+    "proprietar": "Raiffeisen Zentralbank Österreich",
+    "sediu": "Vienna",
+    "industrie": "financial services"
+  },
+  {
+    "wikidata_id": "Q1343118",
+    "nume": "Gruppo Intesa Sanpaolo",
+    "descriere": "Italian banking group",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": "ISP"
+      }
+    ],
+    "site_oficial": "https://www.intesasanpaolo.com/",
+    "sediu_id": "Q495",
+    "industrie_id": "Q57774188",
+    "angajati": null,
+    "cautare": "Intesa Sanpaolo",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Turin",
+    "industrie": "financial sector"
+  },
+  {
+    "wikidata_id": "Q322962",
+    "nume": "Garanti BBVA",
+    "descriere": "Turkish foreign capital private sector bank",
+    "companie_mama_id": "Q806189",
+    "proprietar_id": "Q1253703",
+    "listari": [
+      {
+        "bursa": "OTC Markets Group",
+        "simbol": "GARAN"
+      },
+      {
+        "bursa": "Borsa Istanbul",
+        "simbol": "GARAN"
+      }
+    ],
+    "site_oficial": "http://www.garanti.com.tr/tr/",
+    "sediu_id": "Q406",
+    "industrie_id": "Q837171",
+    "angajati": 209,
+    "cautare": "GarantiBank",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q806189",
+      "nume": "Banco Bilbao Vizcaya Argentaria",
+      "descriere": "Spanish banking group",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "BBVA"
+        },
+        {
+          "bursa": "Madrid Stock Exchange",
+          "simbol": "BBVA"
+        },
+        {
+          "bursa": "Bolsa de Valores de Asunción",
+          "simbol": "BBV"
+        }
+      ],
+      "site_oficial": "https://www.bbva.com/",
+      "sediu_id": "Q23891335",
+      "industrie_id": "Q837171",
+      "angajati": 127174,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Edificio del Banco de Bilbao",
+      "industrie": "financial services"
+    },
+    "companie_mama": "Banco Bilbao Vizcaya Argentaria",
+    "proprietar": "Doğuş Holding",
+    "sediu": "Istanbul",
+    "industrie": "financial services"
+  },
+  {
+    "cautare": "18Gym",
+    "gasit": false
+  },
+  {
+    "wikidata_id": "Q549181",
+    "nume": "MOL Group",
+    "descriere": "Hungarian oil industry corporation",
+    "companie_mama_id": null,
+    "proprietar_id": "Q1162751",
+    "listari": [
+      {
+        "bursa": "Budapest Stock Exchange",
+        "simbol": null
+      },
+      {
+        "bursa": "Warsaw Stock Exchange",
+        "simbol": null
+      },
+      {
+        "bursa": "Luxembourg Stock Exchange",
+        "simbol": null
+      }
+    ],
+    "site_oficial": "https://molgroup.info/hu",
+    "sediu_id": "Q1781",
+    "industrie_id": "Q862571",
+    "angajati": 31471,
+    "cautare": "MOL",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Government of Hungary",
+    "sediu": "Budapest",
+    "industrie": "petroleum industry"
+  },
+  {
+    "wikidata_id": "Q956664",
+    "nume": "Profi",
+    "descriere": "Romanian supermarket chain",
+    "companie_mama_id": "Q6840956",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.profi.ro",
+    "sediu_id": "Q83404",
+    "industrie_id": "Q126793",
+    "angajati": null,
+    "cautare": "Profi",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q6840956",
+      "nume": "Mid Europa Partners",
+      "descriere": "private equity company",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [],
+      "site_oficial": null,
+      "sediu_id": "Q84",
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "London",
+      "industrie": null
+    },
+    "companie_mama": "Mid Europa Partners",
+    "proprietar": null,
+    "sediu": "Timișoara",
+    "industrie": "retail"
+  },
+  {
+    "wikidata_id": "Q110066889",
+    "nume": "Supeco",
+    "descriere": "Romanian supermarket chain",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.supeco.ro",
+    "sediu_id": "Q19660",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Supeco",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Bucharest",
+    "industrie": null
+  }
+]

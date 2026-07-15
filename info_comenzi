@@ -1,0 +1,92 @@
+================================================================
+  TRASEUL DATELOR — proiect Branduri România
+  (păstrează fișierul în rădăcina local_review_project)
+================================================================
+
+STRUCTURA
+---------
+local_review_project/
+├── scraper/                    ← scripturi + date (SURSA ADEVĂRULUI)
+│   ├── wikidata_companii.js      fișe companii de pe Wikidata
+│   ├── preia_financiar.js        preț + istoric 5 ani (Yahoo)
+│   ├── preia_fundamentale.js     venituri/profit/acțiuni anual (Yahoo)
+│   ├── gaseste_locatii.js        detector locații de pe site-uri de brand
+│   ├── geocodeaza.js             adresă → coordonate (Nominatim/OSM)
+│   └── date/                     toate JSON-urile generate
+└── site/                       ← React (citește COPII din src/)
+    ├── src/companii.json         copie din date/companii_wikidata.json
+    ├── src/financiar.json        copie din date/financiar.json
+    ├── src/fundamentale.json     copie din date/fundamentale.json
+    ├── src/locatii_<brand>.json  copie din date/locatii_<brand>.json
+    ├── src/locatii.js            REGISTRU: leagă brandurile de locații
+    └── public/logos/<slug>.png   logo-uri (manual, nume cu underscore)
+
+REGULA DE AUR
+-------------
+Orice modificare manuală de date se face în scraper/date/ (sursa),
+NU în site/src/ (copia). Copiile se regenerează și te suprascriu.
+Cheia de legătură între toate fișierele = câmpul "nume" al companiei.
+
+
+FLUXUL COMPLET (după ce ai adăugat/modificat companii)
+------------------------------------------------------
+Toate comenzile se rulează din folderul scraper/ (cd scraper).
+
+1. FIȘELE COMPANIILOR (doar pentru branduri noi/corectate)
+   node wikidata_companii.js "Brand1" "Brand2" ...
+   node wikidata_companii.js Q1234567          ← pentru nume ambigue
+   → acumulează în date/companii_wikidata.json
+   ATENȚIE: re-căutarea cu Q-ID adaugă intrare nouă; șterge manual
+   intrarea veche greșită din JSON dacă există.
+
+2. DATE FINANCIARE (rulezi când vrei prețuri proaspete)
+   node preia_financiar.js        → date/financiar.json
+   node preia_fundamentale.js     → date/fundamentale.json
+   (citesc automat toate companiile listate din companii_wikidata.json;
+    companiile private sunt sărite — normal)
+
+3. COPIEREA PE SITE (de fiecare dată după 1 sau 2!)
+   date/companii_wikidata.json  →  site/src/companii.json
+   date/financiar.json          →  site/src/financiar.json
+   date/fundamentale.json       →  site/src/fundamentale.json
+
+4. LOGO-URI (o dată per brand, manual)
+   PNG mic, fundal transparent → site/public/logos/<slug>.png
+   Slug = numele cu underscore: mcdonald_s.png, yum_brands.png, kfc.png
+
+5. LOCAȚII (opțional, doar brandurile cu magazine fizice)
+   a) node gaseste_locatii.js "URL-pagina-locatii" Brand [secunde]
+      - hartă dinamică: zoom out + plimbă harta în fereastră
+      - rulări repetate ACUMULEAZĂ în date/locatii_<brand>.json
+   b) dacă ai doar adrese (PDF/listă): faci JSON cu adresa+oras, apoi
+      node geocodeaza.js date/locatii_<brand>.json
+   c) copiezi în site/src/locatii_<brand>.json
+   d) înregistrezi în site/src/locatii.js:
+         import brandx from './locatii_<brand>.json';
+         LOCATII: { 'NumeleExact': brandx }   ← identic cu "nume" din companii.json
+   Dacă nu merge rapid → renunți la locații pt. acel brand (decizia ta).
+
+6. PORNIREA SITE-ULUI
+   cd site
+   npm run dev          → http://localhost:5173
+   (oprire: Ctrl+C)
+
+
+CÂT DE DES
+----------
+- wikidata_companii: doar la branduri noi
+- preia_financiar/fundamentale: săptămânal sau când vrei date la zi
+- locații/logo-uri: o singură dată per brand
+
+
+DEPANARE RAPIDĂ
+---------------
+- Secțiune financiară dispărută pe un brand → numele nu se mai potrivește
+  între companii.json și financiar/fundamentale.json (vezi Regula de aur)
+- Harta nu apare → cheia din locatii.js diferă de "nume" din companii.json
+- "Fișier existent: 0 intrări" la wikidata → ai rulat din alt folder (cd scraper)
+- Fișier JSON corupt după întrerupere → șterge-l complet, se regenerează
+- Eroare 429 → scripturile reîncearcă singure; dacă persistă, pauză 10 min
+- Proiectul e pe OneDrive → dacă apar fișiere goale/corupte, mută proiectul
+  în afara OneDrive (ex. C:\proiecte\)
+================================================================

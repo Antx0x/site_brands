@@ -1,0 +1,1010 @@
+[
+  {
+    "wikidata_id": "Q524757",
+    "nume": "KFC",
+    "descriere": "American fast food restaurant chain specializing in fried chicken",
+    "companie_mama_id": "Q668737",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.kfc.com/",
+    "sediu_id": "Q43668",
+    "industrie_id": "Q1442415",
+    "angajati": null,
+    "cautare": "KFC",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q668737",
+      "nume": "Yum! Brands",
+      "descriere": "American fast food company",
+      "companie_mama_id": null,
+      "proprietar_id": "Q849363",
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "YUM"
+        }
+      ],
+      "site_oficial": "https://yum.com",
+      "sediu_id": "Q43668",
+      "industrie_id": "Q57497035",
+      "angajati": 90000,
+      "companie_mama": null,
+      "proprietar": "The Vanguard Group",
+      "sediu": "Louisville",
+      "industrie": "fast food industry"
+    },
+    "companie_mama": "Yum! Brands",
+    "proprietar": null,
+    "sediu": "Louisville",
+    "industrie": "quick service restaurant sector"
+  },
+  {
+    "wikidata_id": "Q38076",
+    "nume": "McDonald's",
+    "descriere": "American fast food restaurant chain",
+    "companie_mama_id": null,
+    "proprietar_id": "Q219635",
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "MCD"
+      },
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": null
+      }
+    ],
+    "site_oficial": "https://www.mcdonalds.com",
+    "sediu_id": "Q1297",
+    "industrie_id": "Q1442415",
+    "angajati": 420000,
+    "cautare": "McDonald's",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "BlackRock",
+    "sediu": "Chicago",
+    "industrie": "quick service restaurant sector"
+  },
+  {
+    "wikidata_id": "Q115684369",
+    "nume": "5 to go",
+    "descriere": "franchised coffee shop chain of Romania",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://fivetogo.ro/",
+    "sediu_id": "Q168921",
+    "industrie_id": "Q30022",
+    "angajati": null,
+    "cautare": "5 to go",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Bragadiru",
+    "industrie": "café"
+  },
+  {
+    "wikidata_id": "Q151954",
+    "nume": "Lidl",
+    "descriere": "German global discount supermarket chain",
+    "companie_mama_id": "Q712034",
+    "proprietar_id": "Q80378780",
+    "listari": [],
+    "site_oficial": "https://www.lidl.de",
+    "sediu_id": "Q488708",
+    "industrie_id": "Q15825471",
+    "angajati": 130782,
+    "cautare": "Lidl",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q712034",
+      "nume": "Schwarz Group",
+      "descriere": "German conglomerate",
+      "companie_mama_id": "Q21193156",
+      "proprietar_id": null,
+      "listari": [],
+      "site_oficial": "https://reset-plastic.com/",
+      "sediu_id": "Q488708",
+      "industrie_id": "Q540912",
+      "angajati": 442000,
+      "companie_mama": "Schwarz Unternehmenstreuhand",
+      "proprietar": null,
+      "sediu": "Neckarsulm",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Schwarz Group",
+    "proprietar": "SB Lidl",
+    "sediu": "Neckarsulm",
+    "industrie": "food retail sector"
+  },
+  {
+    "wikidata_id": "Q5249762",
+    "nume": "Dedeman",
+    "descriere": "Romanian home improvement retailer",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.dedeman.ro/",
+    "sediu_id": "Q10737004",
+    "industrie_id": "Q126793",
+    "angajati": 10413,
+    "cautare": "Dedeman",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Bacău",
+    "industrie": "retail"
+  },
+  {
+    "wikidata_id": "Q3295867",
+    "nume": "Coca Cola Co",
+    "descriere": "American multinational beverage corporation",
+    "companie_mama_id": null,
+    "proprietar_id": "Q217583",
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "KO"
+      }
+    ],
+    "site_oficial": "https://www.coca-colacompany.com/",
+    "sediu_id": "Q23556",
+    "industrie_id": "Q4899370",
+    "angajati": 82500,
+    "cautare": "Coca-Cola",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Berkshire Hathaway",
+    "sediu": "Atlanta",
+    "industrie": "beverage industry"
+  },
+  {
+    "wikidata_id": "Q1431486",
+    "nume": "Orange",
+    "descriere": "French multinational telecommunications corporation",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "ORA"
+      },
+      {
+        "bursa": "Nasdaq",
+        "simbol": "ORAN"
+      },
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "ORAN"
+      }
+    ],
+    "site_oficial": "https://www.orange.com/",
+    "sediu_id": "Q135265",
+    "industrie_id": "Q112165959",
+    "angajati": 165000,
+    "cautare": "Orange S.A.",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Issy-les-Moulineaux",
+    "industrie": "Q112165959"
+  },
+  {
+    "wikidata_id": "Q3895",
+    "nume": "Adidas AG",
+    "descriere": "German multinational corporation",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "ADS"
+      },
+      {
+        "bursa": "OTC Markets Group",
+        "simbol": "ADDYY"
+      }
+    ],
+    "site_oficial": "https://www.adidas.com/",
+    "sediu_id": "Q1615401",
+    "industrie_id": "Q607081",
+    "angajati": 60617,
+    "cautare": "Adidas",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Herzogenaurach",
+    "industrie": "textile industry"
+  },
+  {
+    "wikidata_id": "Q758603",
+    "nume": "Auchan",
+    "descriere": "French multinational retail company",
+    "companie_mama_id": "Q743182",
+    "proprietar_id": "Q743182",
+    "listari": [],
+    "site_oficial": "https://www.groupe-auchan.com/",
+    "sediu_id": "Q239091",
+    "industrie_id": null,
+    "angajati": 2,
+    "cautare": "Auchan",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q743182",
+      "nume": "Association Familiale Mulliez",
+      "descriere": "French holding company",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [],
+      "site_oficial": "https://www.afm.family/",
+      "sediu_id": "Q34001",
+      "industrie_id": "Q331814",
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Roubaix",
+      "industrie": "mass-market retailing"
+    },
+    "companie_mama": "Association Familiale Mulliez",
+    "proprietar": "Association Familiale Mulliez",
+    "sediu": "Croix",
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q827258",
+    "nume": "Bershka",
+    "descriere": "Spanish clothing retailer",
+    "companie_mama_id": "Q44504",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.bershka.com",
+    "sediu_id": "Q12596",
+    "industrie_id": "Q126793",
+    "angajati": null,
+    "cautare": "Bershka",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q44504",
+      "nume": "Inditex",
+      "descriere": "Spanish multinational clothing company",
+      "companie_mama_id": null,
+      "proprietar_id": "Q29279",
+      "listari": [
+        {
+          "bursa": "Madrid Stock Exchange",
+          "simbol": "ITX"
+        }
+      ],
+      "site_oficial": "https://www.inditex.com/",
+      "sediu_id": "Q996161",
+      "industrie_id": "Q126793",
+      "angajati": 161281,
+      "companie_mama": null,
+      "proprietar": "Amancio Ortega",
+      "sediu": "Arteixo",
+      "industrie": "retail"
+    },
+    "companie_mama": "Inditex",
+    "proprietar": null,
+    "sediu": "Tordera",
+    "industrie": "retail"
+  },
+  {
+    "wikidata_id": "Q177054",
+    "nume": "Burger King",
+    "descriere": "global chain of hamburger fast food restaurants headquartered in Florida, United States",
+    "companie_mama_id": "Q18619470",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.bk.com/",
+    "sediu_id": "Q468557",
+    "industrie_id": "Q18509232",
+    "angajati": null,
+    "cautare": "Burger King",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q18619470",
+      "nume": "Restaurant Brands International",
+      "descriere": "Canadian–American multinational fast food holding corporation",
+      "companie_mama_id": null,
+      "proprietar_id": "Q609766",
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "QSR"
+        },
+        {
+          "bursa": "Toronto Stock Exchange",
+          "simbol": "QSR"
+        }
+      ],
+      "site_oficial": "http://www.rbi.com",
+      "sediu_id": "Q424984",
+      "industrie_id": "Q41958",
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": "3G Capital",
+      "sediu": "Oakville",
+      "industrie": "food service"
+    },
+    "companie_mama": "Restaurant Brands International",
+    "proprietar": null,
+    "sediu": "Miami-Dade County",
+    "industrie": "fast food restaurant chain"
+  },
+  {
+    "wikidata_id": "Q701338",
+    "nume": "C&A",
+    "descriere": "international Dutch chain of fashion retail clothing stores",
+    "companie_mama_id": null,
+    "proprietar_id": "Q833306",
+    "listari": [],
+    "site_oficial": "https://www.c-and-a.com/",
+    "sediu_id": "Q1718",
+    "industrie_id": "Q126793",
+    "angajati": 27000,
+    "cautare": "C&A",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Brenninkmeijer family",
+    "sediu": "Düsseldorf",
+    "industrie": "retail"
+  },
+  {
+    "wikidata_id": "Q1068628",
+    "nume": "Calvin Klein",
+    "descriere": "American fashion house",
+    "companie_mama_id": "Q1132272",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.calvinklein.com/",
+    "sediu_id": "Q60",
+    "industrie_id": "Q12684",
+    "angajati": null,
+    "cautare": "Calvin Klein",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1132272",
+      "nume": "PVH Corp.",
+      "descriere": "American clothing company",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "PVH"
+        }
+      ],
+      "site_oficial": "https://www.pvh.com/",
+      "sediu_id": "Q60",
+      "industrie_id": "Q607081",
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "New York City",
+      "industrie": "textile industry"
+    },
+    "companie_mama": "PVH Corp.",
+    "proprietar": null,
+    "sediu": "New York City",
+    "industrie": "fashion"
+  },
+  {
+    "wikidata_id": "Q217599",
+    "nume": "Carrefour",
+    "descriere": "French hypermarket brand of the Carrefour Group",
+    "companie_mama_id": "Q3117359",
+    "proprietar_id": "Q3117359",
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "CA"
+      }
+    ],
+    "site_oficial": "https://www.carrefour.fr/enseignes/hyper",
+    "sediu_id": null,
+    "industrie_id": "Q126793",
+    "angajati": null,
+    "cautare": "Carrefour",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q3117359",
+      "nume": "Carrefour Group",
+      "descriere": "French multinational retail and wholesaler",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Euronext",
+          "simbol": "CA"
+        }
+      ],
+      "site_oficial": "https://www.carrefour.com/en/group",
+      "sediu_id": "Q274249",
+      "industrie_id": "Q867147",
+      "angajati": 322164,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Massy",
+      "industrie": "product distribution"
+    },
+    "companie_mama": "Carrefour Group",
+    "proprietar": "Carrefour Group",
+    "sediu": null,
+    "industrie": "retail"
+  },
+  {
+    "wikidata_id": "Q12726202",
+    "nume": "Cărturești",
+    "descriere": "Romanian bookstore chain",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://carturesti.ro/",
+    "sediu_id": "Q19660",
+    "industrie_id": "Q998426",
+    "angajati": null,
+    "cautare": "Carturesti",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Bucharest",
+    "industrie": "bookselling"
+  },
+  {
+    "wikidata_id": "Q1023306",
+    "nume": "CEC Bank",
+    "descriere": "state-owned Romanian bank",
+    "companie_mama_id": null,
+    "proprietar_id": "Q4294548",
+    "listari": [],
+    "site_oficial": "https://www.cec.ro/",
+    "sediu_id": "Q5010221",
+    "industrie_id": "Q57774188",
+    "angajati": 4908,
+    "cautare": "Cec Bank",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Ministry of Finance",
+    "sediu": "CEC Palace",
+    "industrie": "financial sector"
+  },
+  {
+    "wikidata_id": "Q225440",
+    "nume": "Celestica",
+    "descriere": "Canadian technology company",
+    "companie_mama_id": "Q907435",
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "CLS"
+      },
+      {
+        "bursa": "Toronto Stock Exchange",
+        "simbol": "CLS"
+      }
+    ],
+    "site_oficial": "https://www.celestica.com/",
+    "sediu_id": "Q172",
+    "industrie_id": "Q11650",
+    "angajati": 42000,
+    "cautare": "Celestica",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q907435",
+      "nume": "Onex Corporation",
+      "descriere": "company",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Toronto Stock Exchange",
+          "simbol": null
+        }
+      ],
+      "site_oficial": "http://www.onex.com/",
+      "sediu_id": "Q172",
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Toronto",
+      "industrie": null
+    },
+    "companie_mama": "Onex Corporation",
+    "proprietar": null,
+    "sediu": "Toronto",
+    "industrie": "electronics"
+  },
+   {
+    "wikidata_id": "Q1755034",
+    "nume": "Petrom",
+    "descriere": "Romanian oil and gas company",
+    "companie_mama_id": "Q168238",
+    "proprietar_id": "Q168238",
+    "listari": [
+      {
+        "bursa": "Bucharest Stock Exchange",
+        "simbol": "SNP"
+      }
+    ],
+    "site_oficial": "https://www.omvpetrom.com",
+    "sediu_id": "Q19660",
+    "industrie_id": "Q862571",
+    "angajati": 12498,
+    "cautare": "Petrom",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q168238",
+      "nume": "OMV",
+      "descriere": "Austrian petrochemical company",
+      "companie_mama_id": null,
+      "proprietar_id": "Q303404",
+      "listari": [
+        {
+          "bursa": "Wiener Boerse AG",
+          "simbol": "OMV"
+        }
+      ],
+      "site_oficial": "https://www.omv.com/",
+      "sediu_id": "Q1741",
+      "industrie_id": "Q862571",
+      "angajati": 22544,
+      "companie_mama": null,
+      "proprietar": "Österreichische Beteiligungs AG",
+      "sediu": "Vienna",
+      "industrie": "petroleum industry"
+    },
+    "companie_mama": "OMV",
+    "proprietar": "OMV",
+    "sediu": "Bucharest",
+    "industrie": "petroleum industry"
+  },
+    {
+    "wikidata_id": "Q27460",
+    "nume": "Dacia",
+    "descriere": "brand and romanian car manufacturer from Renault",
+    "companie_mama_id": "Q6686",
+    "proprietar_id": "Q6686",
+    "listari": [],
+    "site_oficial": "https://www.renaultgroup.com/en/our-brands/dacia",
+    "sediu_id": "Q732851",
+    "industrie_id": "Q190117",
+    "angajati": 11026,
+    "cautare": "Dacia",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q6686",
+      "nume": "Renault",
+      "descriere": "automotive conglomerate",
+      "companie_mama_id": null,
+      "proprietar_id": "Q20165",
+      "listari": [
+        {
+          "bursa": "Euronext Paris",
+          "simbol": "RNO"
+        }
+      ],
+      "site_oficial": "https://www.renaultgroup.com/",
+      "sediu_id": "Q172455",
+      "industrie_id": "Q190117",
+      "angajati": 179565,
+      "companie_mama": null,
+      "proprietar": "Nissan",
+      "sediu": "Boulogne-Billancourt",
+      "industrie": "automotive industry"
+    },
+    "companie_mama": "Renault",
+    "proprietar": "Renault",
+    "sediu": "Mioveni",
+    "industrie": "automotive industry"
+  },
+    {
+    "wikidata_id": "Q53268",
+    "nume": "Toyota",
+    "descriere": "Japanese multinational automotive manufacturer",
+    "companie_mama_id": null,
+    "proprietar_id": "Q519611",
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "TM"
+      },
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7203"
+      },
+      {
+        "bursa": "London Stock Exchange",
+        "simbol": "TYT"
+      },
+      {
+        "bursa": "Nagoya Stock Exchange",
+        "simbol": "7203"
+      }
+    ],
+    "site_oficial": "https://global.toyota/en/",
+    "sediu_id": "Q201117",
+    "industrie_id": "Q190117",
+    "angajati": 359542,
+    "cautare": "Toyota",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Nippon Life Insurance Company",
+    "sediu": "Toyota",
+    "industrie": "automotive industry"
+  },
+   {
+    "wikidata_id": "Q806161",
+    "nume": "Banca Transilvania",
+    "descriere": "Romanian bank",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Bucharest Stock Exchange",
+        "simbol": "TLV"
+      }
+    ],
+    "site_oficial": "https://www.bancatransilvania.ro/",
+    "sediu_id": "Q100188",
+    "industrie_id": "Q57774188",
+    "angajati": 9547,
+    "cautare": "Banca Transilvania",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Cluj-Napoca",
+    "industrie": "financial sector"
+  },
+   {
+    "wikidata_id": "Q45568",
+    "nume": "UniCredit",
+    "descriere": "Italian global banking and financial services company",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": "UCG"
+      },
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "CRI"
+      }
+    ],
+    "site_oficial": "https://www.unicreditgroup.eu",
+    "sediu_id": "Q963111",
+    "industrie_id": "Q57774188",
+    "angajati": null,
+    "cautare": "UniCredit",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "UniCredit Tower",
+    "industrie": "financial sector"
+  },
+  {
+    "wikidata_id": "Q645708",
+    "nume": "ING Group",
+    "descriere": "Dutch multinational banking and financial services corporation",
+    "companie_mama_id": null,
+    "proprietar_id": "Q85750542",
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "ING"
+      },
+      {
+        "bursa": "Euronext",
+        "simbol": "INGA"
+      },
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": null
+      }
+    ],
+    "site_oficial": "https://ing.com",
+    "sediu_id": "Q727",
+    "industrie_id": "Q29584334",
+    "angajati": 59434,
+    "cautare": "ING",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Capital Research Global Investors",
+    "sediu": "Amsterdam",
+    "industrie": "financial service activities, except insurance and pension funding"
+  },
+{
+  "wikidata_id": "Q2127528",
+  "nume": "Raiffeisen Bank International",
+  "descriere": "Central institution of Austrian co-operative banking group Raiffeisen",
+  "companie_mama_id": null,
+  "proprietar_id": null,
+  "listari": [
+    {
+      "bursa": "Wiener Börse (Vienna Stock Exchange)",
+      "simbol": "RBI"
+    },
+    {
+      "bursa": "OTC Markets",
+      "simbol": "RAIFY"
+    }
+  ],
+  "site_oficial": "http://www.rbinternational.com",
+  "sediu_id": "Q1741",
+  "industrie_id": "Q837171",
+  "angajati": 50000,
+  "cautare": "Raiffeisen",
+  "gasit": true,
+  "companie_mama_detalii": null,
+  "companie_mama": null,
+  "proprietar": null,
+  "sediu": "Vienna",
+  "industrie": "financial services"
+},
+  {
+    "wikidata_id": "Q1343118",
+    "nume": "Gruppo Intesa Sanpaolo",
+    "descriere": "Italian banking group",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": "ISP"
+      }
+    ],
+    "site_oficial": "https://www.intesasanpaolo.com/",
+    "sediu_id": "Q495",
+    "industrie_id": "Q57774188",
+    "angajati": null,
+    "cautare": "Intesa Sanpaolo",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Turin",
+    "industrie": "financial sector"
+  },
+  {
+    "wikidata_id": "Q322962",
+    "nume": "Garanti BBVA",
+    "descriere": "Turkish foreign capital private sector bank",
+    "companie_mama_id": "Q806189",
+    "proprietar_id": "Q1253703",
+    "site_oficial": "http://www.garanti.com.tr/tr/",
+    "sediu_id": "Q406",
+    "industrie_id": "Q837171",
+    "angajati": 209,
+    "cautare": "GarantiBank",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q806189",
+      "nume": "Banco Bilbao Vizcaya Argentaria",
+      "descriere": "Spanish banking group",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "BBVA"
+        },
+        {
+          "bursa": "Madrid Stock Exchange",
+          "simbol": "BBVA"
+        },
+        {
+          "bursa": "Bolsa de Valores de Asunción",
+          "simbol": "BBV"
+        }
+      ],
+      "site_oficial": "https://www.bbva.com/",
+      "sediu_id": "Q23891335",
+      "industrie_id": "Q837171",
+      "angajati": 127174,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Edificio del Banco de Bilbao",
+      "industrie": "financial services"
+    },
+    "companie_mama": "Banco Bilbao Vizcaya Argentaria",
+    "proprietar": "Doğuş Holding",
+    "sediu": "Istanbul",
+    "industrie": "financial services"
+  },
+    {
+    "wikidata_id": "Q549181",
+    "nume": "MOL Group",
+    "descriere": "Hungarian oil industry corporation",
+    "companie_mama_id": null,
+    "proprietar_id": "Q1162751",
+    "listari": [
+      {
+        "bursa": "Prague Stock Exchange",
+        "simbol": "MOL"
+      },
+      {
+        "bursa": "Börse Frankfurt",
+        "simbol": "MOGB"
+      },
+      {
+        "bursa": "Budapest Stock Exchange",
+        "simbol": "MOL"
+      },
+      {
+        "bursa": "Warsaw Stock Exchange",
+        "simbol": "MOL"
+      },
+      {
+        "bursa": "Luxembourg Stock Exchange",
+        "simbol": null
+      }
+    ],
+    "site_oficial": "https://molgroup.info/hu",
+    "sediu_id": "Q1781",
+    "industrie_id": "Q862571",
+    "angajati": 31471,
+    "cautare": "MOL",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Government of Hungary",
+    "sediu": "Budapest",
+    "industrie": "petroleum industry"
+  },
+  {
+  "wikidata_id": "Q956664",
+  "nume": "Profi",
+  "descriere": "Romanian supermarket chain",
+  "companie_mama_id": "Q20539261",
+  "proprietar_id": null,
+  "listari": [],
+  "site_oficial": "https://www.profi.ro",
+  "sediu_id": "Q83404",
+  "industrie_id": "Q126793",
+  "angajati": null,
+  "cautare": "Profi",
+  "gasit": true,
+  "companie_mama_detalii": {
+    "wikidata_id": "Q20539261",
+    "nume": "Ahold Delhaize",
+    "descriere": "Dutch-Belgian multinational retail and wholesale holding company",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Euronext Amsterdam",
+        "simbol": "AD"
+      },
+      {
+        "bursa": "OTC Markets",
+        "simbol": "ADRNY"
+      }
+    ],
+    "site_oficial": "https://www.aholddelhaize.com",
+    "sediu_id": "Q139000",
+    "industrie_id": "Q126793",
+    "angajati": 414000,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Zaandam",
+    "industrie": "retail"
+  },
+  "companie_mama": "Ahold Delhaize",
+  "proprietar": null,
+  "sediu": "Timișoara",
+  "industrie": "retail"
+},
+{
+  "wikidata_id": "Q110066889",
+  "nume": "Supeco",
+  "descriere": "Romanian supermarket chain",
+  "companie_mama_id": "Q3117359",
+  "proprietar_id": "Q3117359",
+  "listari": [],
+  "site_oficial": "https://www.supeco.ro",
+  "sediu_id": "Q19660",
+  "industrie_id": "Q126793",
+  "angajati": null,
+  "cautare": "Supeco",
+  "gasit": true,
+  "companie_mama_detalii": {
+    "wikidata_id": "Q3117359",
+    "nume": "Carrefour Group",
+    "descriere": "French multinational retail and wholesaler",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "CA"
+      },
+      {
+        "bursa": "OTC Markets",
+        "simbol": "CRRFY"
+      }
+    ],
+    "site_oficial": "https://www.carrefour.com/en/group",
+    "sediu_id": "Q274249",
+    "industrie_id": "Q867147",
+    "angajati": 322164,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Massy",
+    "industrie": "product distribution"
+  },
+  "companie_mama": "Carrefour Group",
+  "proprietar": "Carrefour Group",
+  "sediu": "Bucharest",
+  "industrie": "retail"
+},
+{
+  "nume": "BRD",
+  "descriere": "Romanian bank",
+  "companie_mama_id": "Q270238",
+  "listari": [
+    {
+      "bursa": "Bursa de Valori București (BVB)",
+      "simbol": "BRD"
+    }
+  ],
+  "site_oficial": "https://www.brd.ro",
+  "cautare": "BRD",
+  "gasit": true,
+  "companie_mama_detalii": {
+    "nume": "Société Générale",
+    "descriere": "French multinational investment bank and financial services company",
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "GLE"
+      },
+      {
+        "bursa": "OTC Markets",
+        "simbol": "SCGLY"
+      }
+    ],
+    "site_oficial": "https://www.societegenerale.com",
+    "sediu": "Paris",
+    "industrie": "banking & financial services"
+  },
+  "companie_mama": "Société Générale",
+  "proprietar": "Société Générale",
+  "sediu": "Bucharest",
+  "industrie": "banking"
+},
+{
+  "nume": "BCR",
+  "descriere": "Romanian bank",
+  "companie_mama_id": "Q695328",
+  "listari": [],
+  "site_oficial": "https://www.bcr.ro",
+  "cautare": "BCR",
+  "gasit": true,
+  "companie_mama_detalii": {
+    "nume": "Erste Group Bank AG",
+    "descriere": "Austrian financial service provider",
+    "listari": [
+      {
+        "bursa": "Wiener Börse (Vienna Stock Exchange)",
+        "simbol": "EBS"
+      },
+      {
+        "bursa": "Bursa de Valori București (BVB)",
+        "simbol": "EBS"
+      },
+      {
+        "bursa": "OTC Markets",
+        "simbol": "EBKDY"
+      }
+    ],
+    "site_oficial": "https://www.erstegroup.com",
+    "sediu": "Vienna",
+    "industrie": "banking & financial services"
+  },
+  "companie_mama": "Erste Group Bank AG",
+  "proprietar": "Erste Group Bank AG",
+  "sediu": "Bucharest",
+  "industrie": "banking"
+}
+]
