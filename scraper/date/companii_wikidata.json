@@ -482,5 +482,295 @@
     "proprietar": null,
     "sediu": "Bucharest",
     "industrie": null
+  },
+  {
+    "nume": "Allianz-Tiriac",
+    "descriere": "Romanian insurance company",
+    "companie_mama_id": "Q487292",
+    "listari": [],
+    "site_oficial": "https://www.allianztiriac.ro",
+    "cautare": "Allianz Tiriac",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "nume": "Allianz SE",
+      "descriere": "German multinational financial services company",
+      "listari": [
+        {
+          "bursa": "Börse Frankfurt (Frankfurt Stock Exchange)",
+          "simbol": "ALV"
+        },
+        {
+          "bursa": "OTC Markets",
+          "simbol": "ALIZY"
+        }
+      ],
+      "site_oficial": "https://www.allianz.com",
+      "sediu": "Munich",
+      "industrie": "insurance & financial services"
+    },
+    "companie_mama": "Allianz SE",
+    "proprietar": "Allianz SE",
+    "sediu": "Bucharest",
+    "industrie": "insurance industry"
+  },
+  {
+    "wikidata_id": "Q12737166",
+    "nume": "Omniasig",
+    "descriere": null,
+    "companie_mama_id": "Q694257",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.omniasig.ro/",
+    "sediu_id": "Q19660",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Omniasig",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q694257",
+      "nume": "Vienna Insurance Group",
+      "descriere": "Austrian insurance company",
+      "companie_mama_id": null,
+      "proprietar_id": "Q29343560",
+      "listari": [
+        {
+          "bursa": "Wiener Boerse AG",
+          "simbol": "VIG"
+        },
+        {
+          "bursa": "Prague Stock Exchange",
+          "simbol": null
+        }
+      ],
+      "site_oficial": "https://www.vig.com/",
+      "sediu_id": "Q1741",
+      "industrie_id": "Q2518196",
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": "Wiener Städtische Versicherungsverein",
+      "sediu": "Vienna",
+      "industrie": "insurance industry"
+    },
+    "companie_mama": "Vienna Insurance Group",
+    "proprietar": null,
+    "sediu": "Bucharest",
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q12721066",
+    "nume": "Asirom",
+    "descriere": null,
+    "companie_mama_id": "Q694257",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.asirom.ro/",
+    "sediu_id": "Q42762678",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Asirom",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q694257",
+      "nume": "Vienna Insurance Group",
+      "descriere": "Austrian insurance company",
+      "companie_mama_id": null,
+      "proprietar_id": "Q29343560",
+      "listari": [
+        {
+          "bursa": "Wiener Boerse AG",
+          "simbol": "VIG"
+        },
+        {
+          "bursa": "Prague Stock Exchange",
+          "simbol": null
+        }
+      ],
+      "site_oficial": "https://www.vig.com/",
+      "sediu_id": "Q1741",
+      "industrie_id": "Q2518196",
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": "Wiener Städtische Versicherungsverein",
+      "sediu": "Vienna",
+      "industrie": "insurance industry"
+    },
+    "companie_mama": "Vienna Insurance Group",
+    "proprietar": null,
+    "sediu": "ASIROM Building",
+    "industrie": null
+  },
+  {
+  "wikidata_id": "Q47649286",
+  "nume": "Generali Osiguranje",
+  "descriere": "Serbian insurance company",
+  "companie_mama_id": "Q368361",
+  "proprietar_id": "Q368361",
+  "listari": [],
+  "site_oficial": "http://www.generali.rs",
+  "sediu_id": "Q3711",
+  "industrie_id": "Q2518196",
+  "angajati": 2517,
+  "cautare": "Generali Insurance",
+  "gasit": true,
+  "companie_mama_detalii": {
+    "wikidata_id": "Q368361",
+    "nume": "Assicurazioni Generali S.p.A.",
+    "descriere": "Italian multinational insurance company",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Borsa Italiana (Milan Stock Exchange)",
+        "simbol": "G"
+      },
+      {
+        "bursa": "OTC Markets",
+        "simbol": "ARZGY"
+      }
+    ],
+    "site_oficial": "https://www.generali.com",
+    "sediu_id": "Q546",
+    "industrie_id": "Q2518196",
+    "angajati": 82000,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Trieste",
+    "industrie": "insurance"
+  },
+  "companie_mama": "Assicurazioni Generali",
+  "proprietar": "Assicurazioni Generali",
+  "sediu": "Belgrade",
+  "industrie": "insurance industry"
+  },
+  {
+  "wikidata_id": "Q1022419",
+  "nume": "Uniqa Insurance Group",
+  "descriere": "Austrian insurance company",
+  "companie_mama_id": null,
+  "proprietar_id": null,
+  "listari": [
+    {
+      "bursa": "Wiener Börse (Vienna Stock Exchange)",
+      "simbol": "UQA"
+    }
+  ],
+  "site_oficial": "http://www.uniqagroup.com/",
+  "sediu_id": "Q1741",
+  "industrie_id": "Q2518196",
+  "angajati": null,
+  "cautare": "UNIQA",
+  "gasit": true,
+  "companie_mama": null,
+  "proprietar": null,
+  "sediu": "Vienna",
+  "industrie": "insurance industry"
+  },
+  {
+  "wikidata_id": "Q12735223",
+  "nume": "MedLife",
+  "descriere": "private medical network in Romania",
+  "companie_mama_id": null,
+  "proprietar_id": null,
+  "listari": [
+    {
+      "bursa": "Bursa de Valori București (BVB)",
+      "simbol": "M"
+    }
+  ],
+  "site_oficial": "https://www.medlife.ro/",
+  "sediu_id": "Q19660",
+  "industrie_id": "Q15067276",
+  "angajati": null,
+  "cautare": "MedLife",
+  "gasit": true,
+  "companie_mama": null,
+  "proprietar": null,
+  "sediu": "Bucharest",
+  "industrie": "health care industry"
+  },
+  {
+  "wikidata_id": "Q224710",
+  "nume": "Digi",
+  "descriere": "Romanian telecommunications company",
+  "companie_mama_id": null,
+  "proprietar_id": null,
+  "listari": [
+    {
+      "bursa": "Bursa de Valori București (BVB)",
+      "simbol": "DIGI"
+    }
+  ],
+  "site_oficial": "https://www.digi-communications.ro/",
+  "sediu_id": "Q19660",
+  "industrie_id": "Q2401742",
+  "angajati": 16912,
+  "cautare": "Digi Communications",
+  "gasit": true,
+  "companie_mama": null,
+  "proprietar": null,
+  "sediu": "Bucharest",
+  "industrie": "telecommunications"
+  },
+  {
+    "wikidata_id": "Q122141",
+    "nume": "Vodafone",
+    "descriere": "British multinational telecommunications company",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Nasdaq",
+        "simbol": "VOD"
+      },
+      {
+        "bursa": "London Stock Exchange",
+        "simbol": "VOD"
+      },
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": null
+      },
+      {
+        "bursa": "Australian Securities Exchange",
+        "simbol": "VPG"
+      }
+    ],
+    "site_oficial": "https://www.vodafone.com/",
+    "sediu_id": "Q84",
+    "industrie_id": "Q2401742",
+    "angajati": 105300,
+    "cautare": "Vodafone Group",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "London",
+    "industrie": "telecommunications"
+  },
+  {
+    "wikidata_id": "Q9396",
+    "nume": "Deutsche Telekom",
+    "descriere": "partially privatized German telecommunications company",
+    "companie_mama_id": null,
+    "proprietar_id": "Q183",
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "9496"
+      },
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "DTE"
+      }
+    ],
+    "site_oficial": "https://telekom.com/",
+    "sediu_id": "Q586",
+    "industrie_id": "Q2401742",
+    "angajati": 228596,
+    "cautare": "Deutsche Telekom",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": "Germany",
+    "sediu": "Bonn",
+    "industrie": "telecommunications"
   }
 ]
