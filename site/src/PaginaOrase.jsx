@@ -12,23 +12,9 @@ import { MapContainer, TileLayer, Marker } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { ORASE_HARTA, LOCURI } from './orase';
-import companiiRaw from './companii.json';
-
 
 const slug = (s) =>
   s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '_');
-
-const companii = companiiRaw.filter((c) => c.gasit);
-function infoBrand(numeBrand) {
-  const c = companii.find((x) => x.nume === numeBrand);
-  if (!c) return null;
-  const proprie = (c.listari || []).find((l) => l.simbol);
-  if (proprie) return { simbol: proprie.simbol, listat: true };
-  const m = c.companie_mama_detalii;
-  const aMamei = m ? (m.listari || []).find((l) => l.simbol) : null;
-  if (aMamei) return { simbol: aMamei.simbol, listat: true, prin: m.nume };
-  return { listat: false };
-}
 
 function iconPentru(loc, estompat) {
   const esteMall = loc.tip === 'mall';
@@ -57,45 +43,42 @@ function iconPentru(loc, estompat) {
   });
 }
 
-function LogoMic({ nume }) {
-  const [eroare, setEroare] = useState(false);
-  if (eroare) {
-    return (
-      <div className="w-7 h-7 rounded-full bg-slate-200 dark:bg-slate-600 flex items-center justify-center text-slate-600 dark:text-slate-200 text-xs font-bold shrink-0">
-        {nume[0]}
-      </div>
-    );
-  }
-  return (
-    <img
-      src={`/logos/${slug(nume)}.png`}
-      alt={nume}
-      className="w-7 h-7 rounded-full object-contain bg-white shrink-0"
-      onError={() => setEroare(true)}
-    />
-  );
-}
+// ── BANNERE ───────────────────────────────────────────────────
+// Imaginea de banner vine din public/banners/<slug>.jpg (același slug
+// ca la logo-uri). Dacă lipsește, cade automat pe logo-ul existent, iar
+// dacă nici acela nu există, pe inițiala brandului. Containerul are
+// aceeași dimensiune fixă (16:9) în toate cele trei cazuri.
+const BANNER_BOX =
+  'relative w-full aspect-video rounded-lg overflow-hidden bg-slate-100 dark:bg-slate-800 ' +
+  'border border-slate-200 dark:border-slate-700 cursor-pointer ' +
+  'hover:ring-2 hover:ring-blue-500 transition';
 
-function RandBrand({ nume, deschideBrand }) {
-  const info = infoBrand(nume);
+function Banner({ nume, deschideBrand }) {
+  // 0 = banner, 1 = logo (fallback), 2 = inițiala (fallback final)
+  const [treapta, setTreapta] = useState(0);
+
   return (
     <div
       onClick={() => deschideBrand && deschideBrand(nume)}
-      className="flex items-center gap-2 py-2 border-b border-slate-100 dark:border-slate-700 last:border-0 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800 rounded px-1 -mx-1"
+      className={BANNER_BOX}
+      title={nume}
     >
-      <LogoMic nume={nume} />
-      <span className="text-sm font-medium min-w-0 truncate">{nume}</span>
-      <span className="ml-auto shrink-0">
-        {info?.listat ? (
-          <span className="text-[10px] bg-emerald-100 text-emerald-700 dark:bg-emerald-900 dark:text-emerald-300 px-1.5 py-0.5 rounded-full font-semibold">
-            {info.simbol}
-          </span>
-        ) : info ? (
-          <span className="text-[10px] bg-slate-100 text-slate-400 dark:bg-slate-700 px-1.5 py-0.5 rounded-full">privată</span>
-        ) : (
-          <span className="text-[10px] text-slate-300 dark:text-slate-500">—</span>
-        )}
-      </span>
+      {treapta === 2 ? (
+        <div className="absolute inset-0 flex items-center justify-center text-2xl font-bold text-slate-500 dark:text-slate-300">
+          {nume[0]}
+        </div>
+      ) : (
+        <img
+          src={treapta === 0 ? `/banners/${slug(nume)}.jpg` : `/logos/${slug(nume)}.png`}
+          alt={nume}
+          // bannerul umple caseta (cover); logo-ul se încadrează fără să fie tăiat
+          className={
+            'absolute inset-0 w-full h-full ' +
+            (treapta === 0 ? 'object-cover' : 'object-contain bg-white p-3')
+          }
+          onError={() => setTreapta((t) => t + 1)}
+        />
+      )}
     </div>
   );
 }
@@ -208,16 +191,23 @@ export default function PaginaOrase({ inapoi, tema, ButonTema, deschideBrand }) 
                     ✕
                   </button>
                 </div>
-                <div className="text-xs text-slate-400 mb-2">
+                <div className="mt-3">
                   {selectat.tip === 'mall' ? (
-                  (selectat.branduri || []).map((b) => (
-                    <RandBrand key={b} nume={b} deschideBrand={deschideBrand} />
-                  ))
+                    // MALL: bannerele companiilor din mall, grid de 2 coloane
+                    <div className="grid grid-cols-2 gap-2.5">
+                      {(selectat.branduri || []).map((b) => (
+                        <Banner key={b} nume={b} deschideBrand={deschideBrand} />
+                      ))}
+                    </div>
                   ) : (
-                    <RandBrand nume={selectat.brand} deschideBrand={deschideBrand} />
+                    // PIN INDIVIDUAL: un singur banner, centrat, de aceeași
+                    // dimensiune ca o celulă din grid (jumătate minus jumătate de gap)
+                    <div className="w-[calc(50%-0.3125rem)] mx-auto">
+                      <Banner nume={selectat.brand} deschideBrand={deschideBrand} />
+                    </div>
                   )}
                 </div>
- 
+
               </div>
             )}
           </div>
