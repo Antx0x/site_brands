@@ -1,11 +1,11 @@
 // ============================================================
-// App.jsx (v4) — dark mode implicit + light mode, buton de comutare
+// App.jsx (v5) — header global negru + pagini de categorii
 //
 // NECESITĂ în src/index.css, sub @import "tailwindcss":
 //   @custom-variant dark (&:where(.dark, .dark *));
 //
-// Paletă dark: fundal albastru închis (slate-950), carduri/menuri
-// gri-albăstrui (slate-800/900), text alb.
+// Navigația (listă / brand / categorie / hartă) e ținută în state,
+// iar headerul global (Header.jsx) e prezent pe toate vederile.
 // ============================================================
 
 import { useMemo, useState } from 'react';
@@ -13,14 +13,16 @@ import companiiRaw from './companii.json';
 import financiar from './financiar.json';
 import fundamentale from './fundamentale.json';
 import { LOCATII, CULORI } from './locatii';
+import { ORASE_HARTA } from './orase';
+import { CATEGORII } from './categorii';
+import Logo from './Logo';
+import Header from './Header';
+import PaginaCategorie from './PaginaCategorie';
 import Harta from './Harta';
 import Grafic from './Grafic';
 import PaginaOrase from './PaginaOrase';
 
 const companii = companiiRaw.filter((c) => c.gasit);
-
-const slug = (s) =>
-  s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '_');
 
 const BURSE_SCURT = {
   'New York Stock Exchange': 'NYSE',
@@ -45,25 +47,6 @@ function listare(c) {
 
 const finPentru = (nume) => financiar.find((f) => f.brand === nume || f.entitate === nume);
 const fundPentru = (nume) => fundamentale.find((f) => f.brand === nume || f.entitate === nume);
-
-function Logo({ nume, marime = 'w-10 h-10' }) {
-  const [eroare, setEroare] = useState(false);
-  if (eroare) {
-    return (
-      <div className={`${marime} rounded-full bg-slate-200 dark:bg-slate-700 flex items-center justify-center text-slate-600 dark:text-slate-200 font-bold shrink-0`}>
-        {nume[0]}
-      </div>
-    );
-  }
-  return (
-    <img
-      src={`/logos/${slug(nume)}.png`}
-      alt={nume}
-      className={`${marime} rounded-full object-contain bg-white shrink-0`}
-      onError={() => setEroare(true)}
-    />
-  );
-}
 
 function EtichetaTip({ tip }) {
   return tip === 'companie' ? (
@@ -112,7 +95,7 @@ function Rand({ eticheta, valoare, link }) {
 
 const CARD = 'bg-white dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700';
 
-function Pagina({ c, entitati, tema, deschide, inapoi }) {
+function Pagina({ c, entitati, tema, deschide }) {
   const proprie = (c.listari || []).find((x) => x.simbol);
   const mamaDet = c.companie_mama_detalii;
   const listareaMamei = mamaDet ? (mamaDet.listari || []).find((x) => x.simbol) : null;
@@ -125,16 +108,12 @@ function Pagina({ c, entitati, tema, deschide, inapoi }) {
     c.tip === 'companie'
       ? entitati.filter((e) => e.companie_mama === c.nume)
       : [];
- 
+
   const fmt = (v) =>
     v == null ? '—' : Math.abs(v) >= 1e9 ? (v / 1e9).toFixed(2) + ' mld' : (v / 1e6).toFixed(0) + ' mil';
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
-      <button onClick={inapoi} className="text-sm text-blue-600 dark:text-blue-400 hover:underline mb-4">
-        ← Înapoi la listă
-      </button>
-
       <div className={`${CARD} p-5 flex items-center gap-4 flex-wrap`}>
         <Logo nume={c.nume} marime="w-14 h-14" />
         <div className="min-w-0">
@@ -277,9 +256,9 @@ function Pagina({ c, entitati, tema, deschide, inapoi }) {
 
 export default function App() {
   const [selectat, setSelectat] = useState(null);
-  const [cautare, setCautare] = useState('');
+  const [categorie, setCategorie] = useState(null);
+  const [orasId, setOrasId] = useState(null); // null = nu suntem pe hartă
   const [filtru, setFiltru] = useState('Toate');
-  const [arataHarti, setArataHarti] = useState(false);
   const [tema, setTema] = useState(() => localStorage.getItem('tema') || 'dark');
 
   const comutaTema = () => {
@@ -288,7 +267,7 @@ export default function App() {
     localStorage.setItem('tema', t);
   };
 
- const entitati = useMemo(() => {
+  const entitati = useMemo(() => {
     const lista = [];
     const numeExistente = new Set(companii.map((c) => c.nume));
     const mameDerivate = new Map();
@@ -321,108 +300,93 @@ export default function App() {
     </div>
   );
 
-  const ButonTema = () => (
-    <button
-      onClick={comutaTema}
-      title="Comută tema"
-      className="px-2.5 py-1 text-sm rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700"
-    >
-      {tema === 'dark' ? '☀️' : '🌙'}
-    </button>
+  // ── navigație: fiecare acțiune resetează celelalte vederi ──
+  const susPagina = () => window.scrollTo(0, 0);
+  const deschideEntitate = (e) => {
+    setCategorie(null);
+    setOrasId(null);
+    setSelectat(e);
+    susPagina();
+  };
+  const mergiLista = (f) => {
+    setFiltru(f);
+    setSelectat(null);
+    setCategorie(null);
+    setOrasId(null);
+    susPagina();
+  };
+  const deschideCategorie = (id) => {
+    setSelectat(null);
+    setOrasId(null);
+    setCategorie(id);
+    susPagina();
+  };
+  const deschideOras = (id) => {
+    setSelectat(null);
+    setCategorie(null);
+    setOrasId(id);
+  };
+
+  const orase = Object.entries(ORASE_HARTA).map(([id, o]) => ({ id, nume: o.nume }));
+  const categoriiNav = CATEGORII.map((c) => ({ id: c.id, eticheta: c.eticheta }));
+
+  const header = (
+    <Header
+      entitati={entitati}
+      onDeschideEntitate={deschideEntitate}
+      onLista={mergiLista}
+      categorii={categoriiNav}
+      onCategorie={deschideCategorie}
+      orase={orase}
+      onOras={deschideOras}
+      tema={tema}
+      comutaTema={comutaTema}
+    />
   );
 
-  if (arataHarti) {
-    return (
-      <Invelis>
+  // ── corpul, în funcție de vederea curentă ──
+  let corp;
+  if (orasId) {
+    // isolate: ține z-index-urile Leaflet (pane-uri 400-700) în propriul
+    // context, ca dropdown-urile din header să rămână deasupra hărții
+    corp = (
+      <div className="isolate h-[calc(100vh-3.5rem)]">
         <PaginaOrase
-          inapoi={() => setArataHarti(false)}
+          key={orasId}
+          orasId={orasId}
           tema={tema}
-          ButonTema={ButonTema}
           deschideBrand={(nume) => {
             const e = entitati.find((x) => x.nume === nume);
-            if (e) {
-              setArataHarti(false);   // închide harta
-              setSelectat(e);         // deschide pagina brandului
-            }
+            if (e) deschideEntitate(e);
           }}
         />
-      </Invelis>
+      </div>
     );
-  }
-
-  if (selectat) {
-    return (
-      <Invelis>
-        <Pagina
-          c={selectat}
-          entitati={entitati}
-          tema={tema}
-          deschide={(e) => setSelectat(e)}
-          inapoi={() => setSelectat(null)}
-        />
-      </Invelis>
-    );
-  }
-
-  const norm = (s) =>
-    (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  const q = norm(cautare.trim());
-  const lista = entitati.filter((c) => {
-    if (filtru === 'Companii' && c.tip !== 'companie') return false;
-    if (filtru === 'Branduri' && c.tip !== 'brand') return false;
-    return !q || norm(c.nume).includes(q) || norm(c.companie_mama).includes(q);
-  });
-
-  return (
-    <Invelis>
-      <header className="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-10">
-        <div className="max-w-3xl mx-auto px-4 py-3 flex items-center gap-3 flex-wrap">
-          <h1 className="text-lg font-bold whitespace-nowrap">
-            📊 Branduri <span className="text-blue-600 dark:text-blue-400">România</span>
-          </h1>
-          <div className="flex gap-1 ml-2">
-            {['Toate', 'Companii', 'Branduri'].map((f) => (
-              <button
-                key={f}
-                onClick={() => setFiltru(f)}
-                className={
-                  'px-2.5 py-1 text-xs rounded-full ' +
-                  (filtru === f
-                    ? 'bg-blue-600 text-white'
-                    : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700')
-                }
-              >
-                {f}
-              </button>
-            ))}
-            <button
-              onClick={() => setArataHarti(true)}
-              className="px-2.5 py-1 text-xs rounded-full bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700"
-            >
-              🗺 Hărți
-            </button>
-          </div>
-          <div className="ml-auto flex items-center gap-2">
-            <input
-              type="text"
-              placeholder="Caută brand sau companie..."
-              value={cautare}
-              onChange={(e) => setCautare(e.target.value)}
-              className="w-44 sm:w-56 px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 placeholder:text-slate-400"
-            />
-            <ButonTema />
-          </div>
-        </div>
-      </header>
-
+  } else if (selectat) {
+    corp = <Pagina c={selectat} entitati={entitati} tema={tema} deschide={deschideEntitate} />;
+  } else if (categorie) {
+    const cat = CATEGORII.find((c) => c.id === categorie);
+    corp = <PaginaCategorie eticheta={cat.eticheta} date={cat.date} />;
+  } else {
+    const lista = entitati.filter((c) => {
+      if (filtru === 'Companii' && c.tip !== 'companie') return false;
+      if (filtru === 'Branduri' && c.tip !== 'brand') return false;
+      return true;
+    });
+    corp = (
       <main className="max-w-3xl mx-auto px-4 py-6">
+        {filtru !== 'Toate' && (
+          <div className="mb-3 text-sm text-slate-500 dark:text-slate-400">
+            {filtru === 'Companii' ? 'Companii' : 'Branduri'} · {lista.length}
+          </div>
+        )}
         <div className={`${CARD} divide-y divide-slate-100 dark:divide-slate-700`}>
           {lista.map((c) => {
             const l = listare(c);
             return (
               <div
                 key={c.wikidata_id}
-                onClick={() => setSelectat(c)}
+                onClick={() => deschideEntitate(c)}
                 className="flex items-center gap-3 px-4 py-3 hover:bg-slate-50 dark:hover:bg-slate-700/50 cursor-pointer"
               >
                 <Logo nume={c.nume} />
@@ -450,7 +414,13 @@ export default function App() {
           nu constituie recomandare de investiții.
         </p>
       </main>
+    );
+  }
+
+  return (
+    <Invelis>
+      {header}
+      {corp}
     </Invelis>
   );
-  
 }

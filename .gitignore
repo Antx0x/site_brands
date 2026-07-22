@@ -1,0 +1,7 @@
+# chei de API și secrete — NU se comit niciodată
+.env
+.env.*
+!.env.exemplu
+
+# logo-uri descărcate de la Brandfetch (se regenerează cu scriptul)
+site/public/logos_bf/

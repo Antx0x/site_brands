@@ -1,0 +1,65 @@
+[
+  {
+    "parinte": "Nestlé",
+    "simbol": "NSRGY",
+    "branduri": [
+      { "nume": "Nescafé", "logo": "" },
+      { "nume": "KitKat", "logo": "" },
+      { "nume": "Nespresso", "logo": "" },
+      { "nume": "Maggi", "logo": "" },
+      { "nume": "Purina", "logo": "" },
+      { "nume": "Perrier", "logo": "" },
+      { "nume": "San Pellegrino", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "PepsiCo",
+    "simbol": "PEP",
+    "branduri": [
+      { "nume": "Pepsi", "logo": "" },
+      { "nume": "Lay's", "logo": "" },
+      { "nume": "Doritos", "logo": "" },
+      { "nume": "Gatorade", "logo": "" },
+      { "nume": "Tropicana", "logo": "" },
+      { "nume": "Quaker", "logo": "" },
+      { "nume": "7UP", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "The Coca-Cola Company",
+    "simbol": "KO",
+    "branduri": [
+      { "nume": "Coca-Cola", "logo": "" },
+      { "nume": "Fanta", "logo": "" },
+      { "nume": "Sprite", "logo": "" },
+      { "nume": "Costa Coffee", "logo": "" },
+      { "nume": "Minute Maid", "logo": "" },
+      { "nume": "Powerade", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Unilever",
+    "simbol": "UL",
+    "branduri": [
+      { "nume": "Dove", "logo": "" },
+      { "nume": "Axe", "logo": "" },
+      { "nume": "Knorr", "logo": "" },
+      { "nume": "Lipton", "logo": "" },
+      { "nume": "Magnum", "logo": "" },
+      { "nume": "Hellmann's", "logo": "" },
+      { "nume": "Rexona", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Procter & Gamble",
+    "simbol": "PG",
+    "branduri": [
+      { "nume": "Gillette", "logo": "" },
+      { "nume": "Pampers", "logo": "" },
+      { "nume": "Ariel", "logo": "" },
+      { "nume": "Head & Shoulders", "logo": "" },
+      { "nume": "Oral-B", "logo": "" },
+      { "nume": "Always", "logo": "" }
+    ]
+  }
+]

@@ -497,8 +497,8 @@ export const LOCURI = [
     {
     oras: 'piatra-neamt',
     tip: 'magazin',
-    brand: "Deutsche Telekom",
-    nume: "Deutsche Telekom Piatra-Neamț",
+    brand: "Omniasig",
+    nume: "Omniasig Piatra-Neamț",
     lat: 46.93132984217727,               
     lng: 26.37114720905995,    
   },

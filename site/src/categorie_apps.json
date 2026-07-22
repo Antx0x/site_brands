@@ -1,0 +1,49 @@
+[
+  {
+    "parinte": "Alphabet",
+    "simbol": "GOOGL",
+    "branduri": [
+      { "nume": "Google", "logo": "" },
+      { "nume": "YouTube", "logo": "" },
+      { "nume": "Gmail", "logo": "" },
+      { "nume": "Android", "logo": "" },
+      { "nume": "Chrome", "logo": "" },
+      { "nume": "Google Maps", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Meta",
+    "simbol": "META",
+    "branduri": [
+      { "nume": "Facebook", "logo": "" },
+      { "nume": "Instagram", "logo": "" },
+      { "nume": "WhatsApp", "logo": "" },
+      { "nume": "Messenger", "logo": "" },
+      { "nume": "Threads", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Microsoft",
+    "simbol": "MSFT",
+    "branduri": [
+      { "nume": "Windows", "logo": "" },
+      { "nume": "Office", "logo": "" },
+      { "nume": "LinkedIn", "logo": "" },
+      { "nume": "Xbox", "logo": "" },
+      { "nume": "Bing", "logo": "" },
+      { "nume": "GitHub", "logo": "" },
+      { "nume": "Skype", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Amazon",
+    "simbol": "AMZN",
+    "branduri": [
+      { "nume": "Amazon", "logo": "" },
+      { "nume": "Prime Video", "logo": "" },
+      { "nume": "Twitch", "logo": "" },
+      { "nume": "Audible", "logo": "" },
+      { "nume": "IMDb", "logo": "" }
+    ]
+  }
+]

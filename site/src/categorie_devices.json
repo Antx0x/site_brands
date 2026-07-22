@@ -1,0 +1,42 @@
+[
+  {
+    "parinte": "Apple",
+    "simbol": "AAPL",
+    "branduri": [
+      { "nume": "iPhone", "logo": "" },
+      { "nume": "iPad", "logo": "" },
+      { "nume": "Mac", "logo": "" },
+      { "nume": "Apple Watch", "logo": "" },
+      { "nume": "AirPods", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Samsung",
+    "simbol": "SSNLF",
+    "branduri": [
+      { "nume": "Galaxy", "logo": "" },
+      { "nume": "Galaxy Watch", "logo": "" },
+      { "nume": "Galaxy Buds", "logo": "" },
+      { "nume": "QLED TV", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Sony",
+    "simbol": "SONY",
+    "branduri": [
+      { "nume": "PlayStation", "logo": "" },
+      { "nume": "Bravia", "logo": "" },
+      { "nume": "Xperia", "logo": "" },
+      { "nume": "WH Headphones", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Google",
+    "simbol": "GOOGL",
+    "branduri": [
+      { "nume": "Pixel", "logo": "" },
+      { "nume": "Nest", "logo": "" },
+      { "nume": "Fitbit", "logo": "" }
+    ]
+  }
+]

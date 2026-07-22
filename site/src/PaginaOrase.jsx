@@ -12,6 +12,7 @@ import { MapContainer, TileLayer, Marker } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { ORASE_HARTA, LOCURI } from './orase';
+import { urlBrandfetch } from './brandfetch';
 
 const slug = (s) =>
   s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '_');
@@ -19,10 +20,15 @@ const slug = (s) =>
 function iconPentru(loc, estompat) {
   const esteMall = loc.tip === 'mall';
   const initiala = esteMall ? '🛍' : (loc.brand || '?')[0];
+  // pin: Brandfetch icon (cover) → logo local Wikidata (contain) → inițiala
+  // (mall-urile n-au loc.brand — de aceea totul e condiționat de esteMall)
+  const bf = esteMall ? null : urlBrandfetch(loc.brand, 76);
+  const local = esteMall ? '' : `/logos/${slug(loc.brand)}.png`;
   const img = esteMall
     ? ''
-    : `<img src="/logos/${slug(loc.brand)}.png" onerror="this.style.display='none'"
-         style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;
+    : `<img src="${bf || local}" data-local="${local}" data-treapta="${bf ? 0 : 1}"
+         onerror="if(this.dataset.treapta==='0'){this.dataset.treapta='1';this.src=this.dataset.local;this.style.objectFit='contain'}else{this.style.display='none'}"
+         style="position:absolute;inset:0;width:100%;height:100%;object-fit:${bf ? 'cover' : 'contain'};
                 padding:2px;background:#fff;border-radius:50%"/>`;
   const contor = esteMall
     ? `<i style="position:absolute;bottom:-5px;right:-5px;background:#7c3aed;color:#fff;border-radius:9999px;font-size:10px;line-height:1;padding:3px 6px;font-style:normal;border:1.5px solid #fff;z-index:2">${(loc.branduri || []).length}</i>`
@@ -43,38 +49,38 @@ function iconPentru(loc, estompat) {
   });
 }
 
-// ── BANNERE ───────────────────────────────────────────────────
-// Imaginea de banner vine din public/banners/<slug>.jpg (același slug
-// ca la logo-uri). Dacă lipsește, cade automat pe logo-ul existent, iar
-// dacă nici acela nu există, pe inițiala brandului. Containerul are
-// aceeași dimensiune fixă (16:9) în toate cele trei cazuri.
-const BANNER_BOX =
-  'relative w-full aspect-video rounded-lg overflow-hidden bg-slate-100 dark:bg-slate-800 ' +
-  'border border-slate-200 dark:border-slate-700 cursor-pointer ' +
-  'hover:ring-2 hover:ring-blue-500 transition';
+// ── ICONURI ROTUNDE ──────────────────────────────────────────
+// Aceleași imagini din public/logos ca în restul site-ului, dar
+// afișate mari, într-un container rotund de dimensiune fixă
+// (object-fit: cover), ca să fie toate identice ca mărime
+// indiferent de rezoluția fiecărui fișier sursă.
+const ICON_BOX =
+  'relative w-full aspect-square rounded-full overflow-hidden bg-white dark:bg-slate-800 ' +
+  'border-2 border-slate-200 dark:border-slate-700 cursor-pointer ' +
+  'hover:ring-2 hover:ring-blue-500 transition shrink-0';
 
-function Banner({ nume, deschideBrand }) {
-  // 0 = banner, 1 = logo (fallback), 2 = inițiala (fallback final)
-  const [treapta, setTreapta] = useState(0);
+function IconBrand({ nume, deschideBrand }) {
+  // treapta 0 = Brandfetch (CDN), 1 = logo local Wikidata, 2 = inițiala
+  const bf = urlBrandfetch(nume);
+  const [treapta, setTreapta] = useState(bf ? 0 : 1);
 
   return (
     <div
       onClick={() => deschideBrand && deschideBrand(nume)}
-      className={BANNER_BOX}
+      className={ICON_BOX}
       title={nume}
     >
-      {treapta === 2 ? (
-        <div className="absolute inset-0 flex items-center justify-center text-2xl font-bold text-slate-500 dark:text-slate-300">
+      {treapta >= 2 ? (
+        <div className="absolute inset-0 flex items-center justify-center text-3xl font-bold text-slate-500 dark:text-slate-300">
           {nume[0]}
         </div>
       ) : (
         <img
-          src={treapta === 0 ? `/banners/${slug(nume)}.jpg` : `/logos/${slug(nume)}.png`}
+          src={treapta === 0 ? bf : `/logos/${slug(nume)}.png`}
           alt={nume}
-          // bannerul umple caseta (cover); logo-ul se încadrează fără să fie tăiat
+          // iconul Brandfetch e pătrat → cover; logo-ul Wikidata poate fi lat → contain
           className={
-            'absolute inset-0 w-full h-full ' +
-            (treapta === 0 ? 'object-cover' : 'object-contain bg-white p-3')
+            'absolute inset-0 w-full h-full ' + (treapta === 0 ? 'object-cover' : 'object-contain')
           }
           onError={() => setTreapta((t) => t + 1)}
         />
@@ -83,8 +89,7 @@ function Banner({ nume, deschideBrand }) {
   );
 }
 
-export default function PaginaOrase({ inapoi, tema, ButonTema, deschideBrand }) {
-  const [orasId, setOrasId] = useState('piatra-neamt');
+export default function PaginaOrase({ orasId = 'piatra-neamt', tema, deschideBrand }) {
   const [selectat, setSelectat] = useState(null);
    const [cautaPin, setCautaPin] = useState('');
   const norm = (s) =>
@@ -106,47 +111,9 @@ export default function PaginaOrase({ inapoi, tema, ButonTema, deschideBrand }) 
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
   };
   return (
-    <div className="h-screen flex flex-col bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100">
-      {/* meniul de sus */}
-      <header className="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 shrink-0">
-        <div className="px-4 py-2.5 flex items-center gap-3 flex-wrap">
-          <button onClick={inapoi} className="text-sm text-blue-600 dark:text-blue-400 hover:underline">
-            ← Companii
-          </button>
-            <input
-  type="text"
-  placeholder="Caută brand pe hartă..."
-  value={cautaPin}
-  onChange={(e) => setCautaPin(e.target.value)}
-  className="w-44 px-3 py-1 text-sm border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-/>
-          <h1 className="text-lg font-bold">🗺 Hărți pe orașe</h1>
-          <div className="flex gap-1 ml-auto flex-wrap items-center">
-            {Object.entries(ORASE_HARTA).map(([id, o]) => (
-              <button
-                key={id}
-                onClick={() => {
-                  setOrasId(id);
-                  setSelectat(null);
-                }}
-                className={
-                  'px-3 py-1 text-sm rounded-full ' +
-                  (orasId === id
-                    ? 'bg-blue-600 text-white'
-                    : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700')
-                }
-              >
-                {o.nume}
-              </button>
-            ))}
-            {ButonTema && <ButonTema />}
-          </div>
-        </div>
-      </header>
-
-      {/* harta (2/3) + panoul (1/3), pe toată înălțimea rămasă */}
-      <div className="flex-1 flex flex-col lg:flex-row min-h-0">
-        <div className="h-[55vh] lg:h-auto lg:flex-[2] min-w-0 shrink-0">
+    <div className="h-full flex flex-col lg:flex-row min-h-0 bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100">
+      {/* harta (2/3) */}
+      <div className="h-[55vh] lg:h-auto lg:flex-[2] min-w-0 shrink-0">
           <MapContainer
             key={orasId + tema} /* remontează la schimbarea orașului sau a temei */
             center={oras.centru}
@@ -173,6 +140,13 @@ export default function PaginaOrase({ inapoi, tema, ButonTema, deschideBrand }) 
         {/* panoul din dreapta — 1/3 din ecran, scrollabil */}
         <aside className="flex-1 lg:flex-[1] min-h-0 lg:min-w-[260px] lg:max-w-[420px] border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 overflow-y-auto">
           <div className="p-4">
+            <input
+              type="text"
+              placeholder="Search brand on map..."
+              value={cautaPin}
+              onChange={(e) => setCautaPin(e.target.value)}
+              className="w-full mb-4 px-3 py-2 text-sm rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500 placeholder:text-slate-400"
+            />
             {!selectat ? (
               <div className="text-sm text-slate-400 py-10 text-center">
                 Apasă pe un pin de pe hartă.
@@ -193,17 +167,17 @@ export default function PaginaOrase({ inapoi, tema, ButonTema, deschideBrand }) 
                 </div>
                 <div className="mt-3">
                   {selectat.tip === 'mall' ? (
-                    // MALL: bannerele companiilor din mall, grid de 2 coloane
+                    // MALL: iconurile rotunde ale companiilor din mall, grid de 2 coloane
                     <div className="grid grid-cols-2 gap-2.5">
                       {(selectat.branduri || []).map((b) => (
-                        <Banner key={b} nume={b} deschideBrand={deschideBrand} />
+                        <IconBrand key={b} nume={b} deschideBrand={deschideBrand} />
                       ))}
                     </div>
                   ) : (
-                    // PIN INDIVIDUAL: un singur banner, centrat, de aceeași
+                    // PIN INDIVIDUAL: un singur icon rotund, centrat, de aceeași
                     // dimensiune ca o celulă din grid (jumătate minus jumătate de gap)
                     <div className="w-[calc(50%-0.3125rem)] mx-auto">
-                      <Banner nume={selectat.brand} deschideBrand={deschideBrand} />
+                      <IconBrand nume={selectat.brand} deschideBrand={deschideBrand} />
                     </div>
                   )}
                 </div>
@@ -212,7 +186,6 @@ export default function PaginaOrase({ inapoi, tema, ButonTema, deschideBrand }) 
             )}
           </div>
         </aside>
-      </div>
     </div>
   );
 }

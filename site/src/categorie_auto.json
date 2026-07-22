@@ -1,0 +1,55 @@
+[
+  {
+    "parinte": "Volkswagen Group",
+    "simbol": "VWAGY",
+    "branduri": [
+      { "nume": "Volkswagen", "logo": "" },
+      { "nume": "Audi", "logo": "" },
+      { "nume": "Porsche", "logo": "" },
+      { "nume": "Škoda", "logo": "" },
+      { "nume": "SEAT", "logo": "" },
+      { "nume": "Lamborghini", "logo": "" },
+      { "nume": "Bentley", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Stellantis",
+    "simbol": "STLA",
+    "branduri": [
+      { "nume": "Peugeot", "logo": "" },
+      { "nume": "Fiat", "logo": "" },
+      { "nume": "Jeep", "logo": "" },
+      { "nume": "Opel", "logo": "" },
+      { "nume": "Citroën", "logo": "" },
+      { "nume": "Alfa Romeo", "logo": "" },
+      { "nume": "Chrysler", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Renault Group",
+    "simbol": "RNO",
+    "branduri": [
+      { "nume": "Renault", "logo": "" },
+      { "nume": "Dacia", "logo": "" },
+      { "nume": "Alpine", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "Toyota",
+    "simbol": "TM",
+    "branduri": [
+      { "nume": "Toyota", "logo": "" },
+      { "nume": "Lexus", "logo": "" },
+      { "nume": "Daihatsu", "logo": "" }
+    ]
+  },
+  {
+    "parinte": "BMW Group",
+    "simbol": "BMWYY",
+    "branduri": [
+      { "nume": "BMW", "logo": "" },
+      { "nume": "MINI", "logo": "" },
+      { "nume": "Rolls-Royce", "logo": "" }
+    ]
+  }
+]
