@@ -1,0 +1,422 @@
+{
+  "brand": "Uniqa Insurance Group",
+  "wikidata_id": "Q1022419",
+  "total": 59,
+  "cu_oras": 7,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.94831,
+      "lng": 26.007984,
+      "nume": "Uniqa",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.541307,
+      "lng": 24.554948,
+      "nume": "Uniqa Asigurări",
+      "oras": "Târgu Mureș",
+      "adresa": null
+    },
+    {
+      "lat": 44.31723,
+      "lng": 23.809818,
+      "nume": "Uniqa Asigurări",
+      "oras": "Craiova",
+      "adresa": "Strada Alexandru Ioan Cuza"
+    },
+    {
+      "lat": 46.568584,
+      "lng": 23.784132,
+      "nume": "Uniqa",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.743239,
+      "lng": 21.237645,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.175379,
+      "lng": 23.92343,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.554155,
+      "lng": 25.891037,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.361267,
+      "lng": 25.800364,
+      "nume": "UNIQAgent",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.852336,
+      "lng": 24.879078,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.62666,
+      "lng": 22.657435,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.8433,
+      "lng": 24.970036,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.863196,
+      "lng": 25.790834,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.249842,
+      "lng": 26.719145,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.193001,
+      "lng": 23.053066,
+      "nume": "UNIQA Asigurari",
+      "oras": "Zalău",
+      "adresa": null
+    },
+    {
+      "lat": 45.681786,
+      "lng": 21.904169,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.068249,
+      "lng": 23.577215,
+      "nume": "UNIQAgent",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.951629,
+      "lng": 26.399342,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.713354,
+      "lng": 26.642503,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.055037,
+      "lng": 21.91368,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.855737,
+      "lng": 22.175428,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.781565,
+      "lng": 24.708094,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.646448,
+      "lng": 26.25369,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.845655,
+      "lng": 25.917392,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.131601,
+      "lng": 24.498621,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.319385,
+      "lng": 23.793198,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.864707,
+      "lng": 23.028748,
+      "nume": "UNIQA Asigurari",
+      "oras": "Huedin",
+      "adresa": null
+    },
+    {
+      "lat": 44.942493,
+      "lng": 26.016038,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.247275,
+      "lng": 28.269488,
+      "nume": "Uniqua",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.101714,
+      "lng": 24.367201,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.140205,
+      "lng": 23.878532,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.673766,
+      "lng": 28.063132,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.698306,
+      "lng": 27.189568,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.653499,
+      "lng": 25.609447,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.075803,
+      "lng": 23.578979,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.330284,
+      "lng": 24.283387,
+      "nume": "UNIQAgent",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.098151,
+      "lng": 27.182794,
+      "nume": "UNIQA Asigurari",
+      "oras": "Adjud",
+      "adresa": null
+    },
+    {
+      "lat": 47.790103,
+      "lng": 22.869797,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.655232,
+      "lng": 25.626552,
+      "nume": "UNIQAgent",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.924831,
+      "lng": 26.376293,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.208677,
+      "lng": 28.62874,
+      "nume": "Uniqa",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.148781,
+      "lng": 24.679725,
+      "nume": "UNIQAgent",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.700662,
+      "lng": 25.448055,
+      "nume": "UNIQA Asigurari",
+      "oras": "Codlea",
+      "adresa": "Strada Lungă"
+    },
+    {
+      "lat": 46.225913,
+      "lng": 27.66758,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.465532,
+      "lng": 26.113794,
+      "nume": "UNIQAgent",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.970002,
+      "lng": 25.331544,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.928341,
+      "lng": 25.460176,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.167024,
+      "lng": 27.577117,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.539647,
+      "lng": 24.561742,
+      "nume": "Uniqa Asigurări",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 31"
+    },
+    {
+      "lat": 46.769478,
+      "lng": 23.570352,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.572663,
+      "lng": 26.915262,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.148939,
+      "lng": 26.815619,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.383291,
+      "lng": 27.040561,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.289471,
+      "lng": 21.888553,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.839816,
+      "lng": 27.432057,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.883987,
+      "lng": 22.904265,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.562812,
+      "lng": 27.363679,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.195872,
+      "lng": 28.631601,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.166383,
+      "lng": 27.584143,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.447391,
+      "lng": 26.104692,
+      "nume": "UNIQA Asigurari",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

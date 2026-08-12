@@ -1,0 +1,2788 @@
+{
+  "brand": "BCR",
+  "wikidata_id": "Q806149",
+  "total": 397,
+  "cu_oras": 130,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 45.429207,
+      "lng": 28.024118,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.15302,
+      "lng": 27.588401,
+      "nume": "BCR",
+      "oras": "Iași",
+      "adresa": null
+    },
+    {
+      "lat": 47.153292,
+      "lng": 27.588085,
+      "nume": "BCR",
+      "oras": "Iași",
+      "adresa": null
+    },
+    {
+      "lat": 46.162674,
+      "lng": 21.320547,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.170381,
+      "lng": 21.353474,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.199028,
+      "lng": 21.294324,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.19245,
+      "lng": 21.331495,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.412018,
+      "lng": 26.020954,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Prelungirea Ghencea 65B"
+    },
+    {
+      "lat": 44.422335,
+      "lng": 26.0214,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Drumul Taberei 82"
+    },
+    {
+      "lat": 44.434701,
+      "lng": 26.100638,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Regina Elisabeta 5"
+    },
+    {
+      "lat": 47.167354,
+      "lng": 27.582384,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.765487,
+      "lng": 21.224961,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.762379,
+      "lng": 21.21304,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.173925,
+      "lng": 27.554594,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.116458,
+      "lng": 24.351409,
+      "nume": "BCR",
+      "oras": "Caracal",
+      "adresa": "Bulevardul Nicolae Titulescu 13"
+    },
+    {
+      "lat": 44.109934,
+      "lng": 24.358446,
+      "nume": "BCR",
+      "oras": "Caracal",
+      "adresa": "Calea București 59"
+    },
+    {
+      "lat": 45.652573,
+      "lng": 25.608943,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.124962,
+      "lng": 24.485041,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.231129,
+      "lng": 24.821059,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.231117,
+      "lng": 24.821635,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.161858,
+      "lng": 27.566577,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul Alexandru cel Bun"
+    },
+    {
+      "lat": 46.179326,
+      "lng": 21.347496,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.641682,
+      "lng": 26.258242,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.268329,
+      "lng": 27.973933,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.539187,
+      "lng": 24.558705,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.78142,
+      "lng": 21.220009,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.752585,
+      "lng": 21.225597,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.734774,
+      "lng": 21.237551,
+      "nume": "BCR",
+      "oras": "Timișoara",
+      "adresa": "Calea Martirilor 1989 60"
+    },
+    {
+      "lat": 45.773631,
+      "lng": 21.222315,
+      "nume": "BCR",
+      "oras": "Timișoara",
+      "adresa": "Calea Aradului"
+    },
+    {
+      "lat": 45.745706,
+      "lng": 21.24073,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.739572,
+      "lng": 21.209852,
+      "nume": "BCR",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Iuliu Maniu 2"
+    },
+    {
+      "lat": 44.463345,
+      "lng": 26.087443,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Doctor Grigore Mora 23"
+    },
+    {
+      "lat": 45.753599,
+      "lng": 22.907546,
+      "nume": "BCR",
+      "oras": "Hunedoara",
+      "adresa": null
+    },
+    {
+      "lat": 44.420592,
+      "lng": 26.137079,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Șoseaua Mihai Bravu"
+    },
+    {
+      "lat": 45.378694,
+      "lng": 27.045657,
+      "nume": "BCR",
+      "oras": "Râmnicu Sărat",
+      "adresa": "Strada Tudor Vladimirescu 10"
+    },
+    {
+      "lat": 43.892191,
+      "lng": 25.967998,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.415519,
+      "lng": 28.009567,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.644827,
+      "lng": 25.594752,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.163997,
+      "lng": 24.347638,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.850283,
+      "lng": 23.012913,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Piața Unirii 18"
+    },
+    {
+      "lat": 45.795953,
+      "lng": 24.151487,
+      "nume": "BCR",
+      "oras": "Sibiu",
+      "adresa": "Piața Mare 7"
+    },
+    {
+      "lat": 46.802583,
+      "lng": 21.655273,
+      "nume": "BCR",
+      "oras": "Salonta",
+      "adresa": "Strada Republicii"
+    },
+    {
+      "lat": 43.807633,
+      "lng": 28.574216,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.48477,
+      "lng": 26.091594,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Daniel Danielopolu 2"
+    },
+    {
+      "lat": 47.141492,
+      "lng": 27.600404,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.411792,
+      "lng": 26.170462,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Theodor Pallady 11"
+    },
+    {
+      "lat": 44.421013,
+      "lng": 24.384398,
+      "nume": "BCR",
+      "oras": "Slatina",
+      "adresa": "Strada Ecaterina Teodoroiu 20"
+    },
+    {
+      "lat": 44.413774,
+      "lng": 26.155444,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.423208,
+      "lng": 26.177026,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 45.884233,
+      "lng": 22.90424,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.155322,
+      "lng": 27.569975,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.347122,
+      "lng": 25.352614,
+      "nume": "BCR",
+      "oras": "Vatra Dornei",
+      "adresa": "Strada Mihai Eminescu 35"
+    },
+    {
+      "lat": 47.34356,
+      "lng": 25.353523,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.413127,
+      "lng": 26.072727,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian"
+    },
+    {
+      "lat": 44.415035,
+      "lng": 26.10679,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.271536,
+      "lng": 27.955207,
+      "nume": "BCR",
+      "oras": "Brăila",
+      "adresa": "Strada Transilvaniei 1"
+    },
+    {
+      "lat": 45.380653,
+      "lng": 27.0413,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.450287,
+      "lng": 26.069999,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Calea Griviței 160"
+    },
+    {
+      "lat": 44.462265,
+      "lng": 26.073072,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 106"
+    },
+    {
+      "lat": 43.971079,
+      "lng": 25.326914,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.750251,
+      "lng": 26.640668,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.863529,
+      "lng": 25.791026,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.698874,
+      "lng": 27.190827,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.747661,
+      "lng": 24.867247,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.422722,
+      "lng": 26.073184,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Calea 13 Septembrie 127"
+    },
+    {
+      "lat": 46.520913,
+      "lng": 24.529958,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.610027,
+      "lng": 22.949088,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.336562,
+      "lng": 28.033673,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.864672,
+      "lng": 24.867952,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.202718,
+      "lng": 28.645179,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.863902,
+      "lng": 25.798066,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.451469,
+      "lng": 26.086271,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Calea Victoriei 155"
+    },
+    {
+      "lat": 45.859726,
+      "lng": 25.779995,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.768068,
+      "lng": 23.603126,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul Nicolae Titulescu 4"
+    },
+    {
+      "lat": 46.782912,
+      "lng": 23.587267,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Horea 83-87"
+    },
+    {
+      "lat": 46.755269,
+      "lng": 23.576887,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Louis Pasteur 56-60"
+    },
+    {
+      "lat": 46.778283,
+      "lng": 23.6163,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Aurel Vlaicu 4"
+    },
+    {
+      "lat": 46.766942,
+      "lng": 23.550457,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Fântânele 7"
+    },
+    {
+      "lat": 45.185811,
+      "lng": 25.663826,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.863112,
+      "lng": 25.778209,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.187237,
+      "lng": 26.039597,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.864633,
+      "lng": 25.789981,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755155,
+      "lng": 23.558662,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Bucegi 13-15"
+    },
+    {
+      "lat": 46.787433,
+      "lng": 23.606212,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Tăbăcarilor"
+    },
+    {
+      "lat": 46.75458,
+      "lng": 23.536287,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Florești 157-159"
+    },
+    {
+      "lat": 46.771699,
+      "lng": 23.626219,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Alexandru Vaida Voevod 53-55"
+    },
+    {
+      "lat": 46.78706,
+      "lng": 23.590346,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Gării 19"
+    },
+    {
+      "lat": 46.780986,
+      "lng": 23.631997,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Aurel Vlaicu 140"
+    },
+    {
+      "lat": 46.755228,
+      "lng": 23.55988,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Izlazului 24"
+    },
+    {
+      "lat": 46.762594,
+      "lng": 23.572054,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Mănăștur 3-5"
+    },
+    {
+      "lat": 46.774889,
+      "lng": 23.621125,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Teodor Mihali 56"
+    },
+    {
+      "lat": 45.841919,
+      "lng": 27.432599,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Alecu Russo 1"
+    },
+    {
+      "lat": 46.777815,
+      "lng": 23.614168,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.462321,
+      "lng": 26.133785,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 26"
+    },
+    {
+      "lat": 46.093957,
+      "lng": 21.697061,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.451972,
+      "lng": 26.11892,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.426831,
+      "lng": 26.112411,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Unirii 43"
+    },
+    {
+      "lat": 44.432121,
+      "lng": 26.13777,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 198"
+    },
+    {
+      "lat": 46.312453,
+      "lng": 25.309116,
+      "nume": "BCR--Erste",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.940112,
+      "lng": 26.023772,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.033007,
+      "lng": 21.950519,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.416204,
+      "lng": 28.022924,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.701035,
+      "lng": 25.447845,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.995096,
+      "lng": 26.118734,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.4665,
+      "lng": 26.138662,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 43.815117,
+      "lng": 28.582133,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.913564,
+      "lng": 25.96939,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.433034,
+      "lng": 26.101619,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Doamnei 14-16"
+    },
+    {
+      "lat": 45.124376,
+      "lng": 25.733988,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul Carol I"
+    },
+    {
+      "lat": 46.176478,
+      "lng": 23.923398,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.67203,
+      "lng": 28.061043,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.763878,
+      "lng": 21.257131,
+      "nume": "BCR",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Simion Bărnuțiu 54"
+    },
+    {
+      "lat": 47.17491,
+      "lng": 27.573826,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.388173,
+      "lng": 26.11739,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul Alexandru Obregia"
+    },
+    {
+      "lat": 46.78165,
+      "lng": 24.701761,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Piața Petru Maior 39"
+    },
+    {
+      "lat": 45.287571,
+      "lng": 28.281862,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.843711,
+      "lng": 24.970606,
+      "nume": "BCR",
+      "oras": "Făgăraș",
+      "adresa": "Bulevardul Unirii Bloc 2B"
+    },
+    {
+      "lat": 44.178195,
+      "lng": 28.635832,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.231692,
+      "lng": 22.799183,
+      "nume": "BCR",
+      "oras": "Șimleu Silvaniei",
+      "adresa": null
+    },
+    {
+      "lat": 44.483589,
+      "lng": 26.098412,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.843171,
+      "lng": 24.976099,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.403024,
+      "lng": 26.057517,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Șoseaua Alexandria"
+    },
+    {
+      "lat": 44.431105,
+      "lng": 26.091571,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.947737,
+      "lng": 26.00858,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.515923,
+      "lng": 25.366355,
+      "nume": "BCR",
+      "oras": "Bran",
+      "adresa": "Strada General Traian Moșoiu"
+    },
+    {
+      "lat": 46.543928,
+      "lng": 24.55927,
+      "nume": "BCR",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 26"
+    },
+    {
+      "lat": 46.543843,
+      "lng": 24.559202,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.393628,
+      "lng": 26.093638,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.690453,
+      "lng": 21.903313,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.412345,
+      "lng": 26.114804,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 46.537605,
+      "lng": 24.574043,
+      "nume": "ATM BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.782905,
+      "lng": 23.587326,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Horea 83-87"
+    },
+    {
+      "lat": 46.772008,
+      "lng": 23.595079,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.322193,
+      "lng": 25.905591,
+      "nume": "BCR",
+      "oras": "Mihăilești",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 47.682548,
+      "lng": 22.473996,
+      "nume": "ATM BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.425337,
+      "lng": 26.16367,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.63288,
+      "lng": 22.666253,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.637531,
+      "lng": 22.649771,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.244654,
+      "lng": 28.131282,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada 1 Decembrie 1918 17"
+    },
+    {
+      "lat": 45.271595,
+      "lng": 25.045986,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.433764,
+      "lng": 26.185306,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul Basarabia"
+    },
+    {
+      "lat": 45.713518,
+      "lng": 24.151446,
+      "nume": "BCR",
+      "oras": "Cisnădie",
+      "adresa": null
+    },
+    {
+      "lat": 44.628131,
+      "lng": 22.654848,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.437224,
+      "lng": 26.136004,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 172"
+    },
+    {
+      "lat": 45.732148,
+      "lng": 21.259634,
+      "nume": "BCR",
+      "oras": "Timișoara",
+      "adresa": "Calea Buziașului 1"
+    },
+    {
+      "lat": 44.204753,
+      "lng": 28.624589,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.317438,
+      "lng": 23.795908,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.313856,
+      "lng": 23.836632,
+      "nume": "BCR",
+      "oras": "Craiova",
+      "adresa": "Calea București 139"
+    },
+    {
+      "lat": 46.963586,
+      "lng": 25.76022,
+      "nume": "BCR (Erste Group)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.963705,
+      "lng": 25.561537,
+      "nume": "BCR",
+      "oras": "Borsec",
+      "adresa": "Strada Dozsa Gyorgy"
+    },
+    {
+      "lat": 44.31685,
+      "lng": 23.81418,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.318457,
+      "lng": 23.802034,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.742297,
+      "lng": 26.657886,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.742365,
+      "lng": 26.657934,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.65359,
+      "lng": 25.604001,
+      "nume": "BCR",
+      "oras": "Brașov",
+      "adresa": "Strada 13 Decembrie 15"
+    },
+    {
+      "lat": 45.729571,
+      "lng": 24.700763,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.171386,
+      "lng": 28.609597,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.745128,
+      "lng": 26.665044,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421051,
+      "lng": 26.116808,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Nerva Traian"
+    },
+    {
+      "lat": 45.001122,
+      "lng": 26.444407,
+      "nume": "BCR",
+      "oras": "Mizil",
+      "adresa": "Strada Blajului 4"
+    },
+    {
+      "lat": 46.777766,
+      "lng": 23.589563,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.211578,
+      "lng": 25.4363,
+      "nume": "Bancomat BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.154243,
+      "lng": 26.820019,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.148499,
+      "lng": 26.81446,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.151164,
+      "lng": 26.842829,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.932642,
+      "lng": 26.360661,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.706537,
+      "lng": 24.428763,
+      "nume": "BCR",
+      "oras": "Vișeu de Sus",
+      "adresa": "Strada Libertății 10"
+    },
+    {
+      "lat": 47.706566,
+      "lng": 24.428763,
+      "nume": "Bancoman BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.707377,
+      "lng": 24.433444,
+      "nume": "Bancomat BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.707491,
+      "lng": 24.425218,
+      "nume": "Bancomat BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.154335,
+      "lng": 26.820168,
+      "nume": "ATM BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.145867,
+      "lng": 28.619535,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.154828,
+      "lng": 28.628876,
+      "nume": "BCR",
+      "oras": "Constanța",
+      "adresa": "Șoseaua Mangaliei 93"
+    },
+    {
+      "lat": 46.30361,
+      "lng": 25.294532,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.72056,
+      "lng": 25.599582,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.723046,
+      "lng": 25.597149,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.301127,
+      "lng": 25.721252,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.553499,
+      "lng": 25.88854,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.169516,
+      "lng": 28.658786,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.162958,
+      "lng": 27.581838,
+      "nume": "BCR",
+      "oras": "Iași",
+      "adresa": "Bulevardul Ștefan cel Mare și Sfânt 8"
+    },
+    {
+      "lat": 47.928014,
+      "lng": 23.88777,
+      "nume": "BCR",
+      "oras": "Sighetu Marmației",
+      "adresa": null
+    },
+    {
+      "lat": 45.153952,
+      "lng": 26.796113,
+      "nume": "BCR",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Stadionului"
+    },
+    {
+      "lat": 44.442074,
+      "lng": 26.850182,
+      "nume": "BCR",
+      "oras": "Lehliu-Gară",
+      "adresa": null
+    },
+    {
+      "lat": 44.462508,
+      "lng": 26.120181,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.31381,
+      "lng": 23.836748,
+      "nume": "BCR",
+      "oras": "Craiova",
+      "adresa": "Calea București 139"
+    },
+    {
+      "lat": 44.379669,
+      "lng": 26.16922,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.561033,
+      "lng": 25.948039,
+      "nume": "BCR",
+      "oras": "Buftea",
+      "adresa": "Strada Mihai Eminescu 18-22"
+    },
+    {
+      "lat": 44.983249,
+      "lng": 25.644673,
+      "nume": "BCR",
+      "oras": "Moreni",
+      "adresa": "Strada Pantea Ion"
+    },
+    {
+      "lat": 44.549344,
+      "lng": 26.069287,
+      "nume": "BCR",
+      "oras": "Otopeni",
+      "adresa": "Calea Bucureștilor"
+    },
+    {
+      "lat": 45.026161,
+      "lng": 23.268355,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.086205,
+      "lng": 26.640029,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.380752,
+      "lng": 26.135197,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Sergent Ion Iriceanu"
+    },
+    {
+      "lat": 44.322716,
+      "lng": 28.608654,
+      "nume": "BCR",
+      "oras": "Năvodari",
+      "adresa": "Strada Constanței"
+    },
+    {
+      "lat": 44.380232,
+      "lng": 26.092618,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.361496,
+      "lng": 25.79854,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.50502,
+      "lng": 25.573791,
+      "nume": "BCR",
+      "oras": "Predeal",
+      "adresa": null
+    },
+    {
+      "lat": 47.081334,
+      "lng": 21.921875,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.442464,
+      "lng": 26.170795,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon"
+    },
+    {
+      "lat": 44.369239,
+      "lng": 25.973763,
+      "nume": "BCR",
+      "oras": "Bragadiru",
+      "adresa": "Șoseaua Alexandriei"
+    },
+    {
+      "lat": 46.310795,
+      "lng": 23.719948,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.144551,
+      "lng": 23.990429,
+      "nume": "BCR",
+      "oras": "Horezu",
+      "adresa": "Strada Tudor Vladimirescu"
+    },
+    {
+      "lat": 45.757548,
+      "lng": 21.222004,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.918056,
+      "lng": 23.068622,
+      "nume": "BCR",
+      "oras": "Poiana Mare",
+      "adresa": "Strada 1 Decembrie"
+    },
+    {
+      "lat": 45.84522,
+      "lng": 26.170948,
+      "nume": "ATM BCR",
+      "oras": "Covasna",
+      "adresa": null
+    },
+    {
+      "lat": 47.843342,
+      "lng": 25.916785,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.374868,
+      "lng": 23.301191,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.643582,
+      "lng": 25.632302,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.92624,
+      "lng": 25.462033,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul Mircea cel Bătrân 1"
+    },
+    {
+      "lat": 46.569135,
+      "lng": 23.785938,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.689928,
+      "lng": 27.194319,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.076295,
+      "lng": 21.918428,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.749617,
+      "lng": 26.6521,
+      "nume": "BCR",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 65"
+    },
+    {
+      "lat": 44.562326,
+      "lng": 27.371013,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.846876,
+      "lng": 27.430134,
+      "nume": "BCR",
+      "oras": "Tecuci",
+      "adresa": null
+    },
+    {
+      "lat": 45.732774,
+      "lng": 21.21263,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.729329,
+      "lng": 24.379467,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778221,
+      "lng": 23.612307,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 135"
+    },
+    {
+      "lat": 46.557116,
+      "lng": 23.806782,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.725431,
+      "lng": 21.198128,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.777315,
+      "lng": 24.158089,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.769811,
+      "lng": 23.58778,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.098404,
+      "lng": 27.181797,
+      "nume": "BCR",
+      "oras": "Adjud",
+      "adresa": null
+    },
+    {
+      "lat": 45.730421,
+      "lng": 21.209721,
+      "nume": "BCR",
+      "oras": "Timișoara",
+      "adresa": "Strada Mureș 1"
+    },
+    {
+      "lat": 45.150183,
+      "lng": 26.809395,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.736523,
+      "lng": 21.244818,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.682505,
+      "lng": 21.901953,
+      "nume": "BCR",
+      "oras": "Lugoj",
+      "adresa": null
+    },
+    {
+      "lat": 47.160187,
+      "lng": 27.57843,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.471339,
+      "lng": 26.049201,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Calea Griviței 397"
+    },
+    {
+      "lat": 44.439849,
+      "lng": 26.099824,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.773239,
+      "lng": 23.620673,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.446398,
+      "lng": 26.096698,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul General Gheorghe Magheru 43"
+    },
+    {
+      "lat": 47.152402,
+      "lng": 27.605157,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.794373,
+      "lng": 22.877126,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.659595,
+      "lng": 23.579998,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.348038,
+      "lng": 25.362636,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.656615,
+      "lng": 25.805287,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.37169,
+      "lng": 26.154114,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Drumul Fermei"
+    },
+    {
+      "lat": 43.81941,
+      "lng": 28.583199,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.328061,
+      "lng": 23.775332,
+      "nume": "BCR",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului 5A"
+    },
+    {
+      "lat": 44.434168,
+      "lng": 26.009105,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 190"
+    },
+    {
+      "lat": 44.433753,
+      "lng": 26.01897,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 67"
+    },
+    {
+      "lat": 43.776277,
+      "lng": 24.500478,
+      "nume": "BCR",
+      "oras": "Corabia",
+      "adresa": "Strada Tudor Vladimirescu"
+    },
+    {
+      "lat": 44.417081,
+      "lng": 26.034965,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.441136,
+      "lng": 26.181022,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon"
+    },
+    {
+      "lat": 47.740753,
+      "lng": 26.667744,
+      "nume": "BCR",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 107"
+    },
+    {
+      "lat": 44.624492,
+      "lng": 22.615171,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.636783,
+      "lng": 25.610567,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.728082,
+      "lng": 21.204578,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.657507,
+      "lng": 25.59631,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.444943,
+      "lng": 26.060179,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua Orhideelor 15D"
+    },
+    {
+      "lat": 46.75071,
+      "lng": 23.533933,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44084,
+      "lng": 26.152469,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.661024,
+      "lng": 25.613681,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.439824,
+      "lng": 26.081108,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Știrbei Vodă 95"
+    },
+    {
+      "lat": 45.642735,
+      "lng": 25.588503,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430735,
+      "lng": 26.05404,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.50918,
+      "lng": 26.088595,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.427386,
+      "lng": 26.100703,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Unirii 25"
+    },
+    {
+      "lat": 46.450186,
+      "lng": 24.236114,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.157194,
+      "lng": 28.613246,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.931151,
+      "lng": 25.449509,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.531638,
+      "lng": 25.95798,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.961563,
+      "lng": 26.006842,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.145225,
+      "lng": 24.676299,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.224643,
+      "lng": 24.792774,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.219807,
+      "lng": 24.797056,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.058502,
+      "lng": 21.933808,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.054453,
+      "lng": 21.929147,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.927554,
+      "lng": 23.896102,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420919,
+      "lng": 26.179573,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 44.176101,
+      "lng": 28.642442,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.941972,
+      "lng": 25.997391,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.926796,
+      "lng": 26.028357,
+      "nume": "BCR",
+      "oras": "Ploiești",
+      "adresa": "Strada Mihai Eminescu"
+    },
+    {
+      "lat": 45.035139,
+      "lng": 25.847992,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.42369,
+      "lng": 26.042155,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Drumul Taberei 32"
+    },
+    {
+      "lat": 44.940154,
+      "lng": 26.023668,
+      "nume": "BCR",
+      "oras": "Ploiești",
+      "adresa": "Strada Tache Ionescu 1"
+    },
+    {
+      "lat": 44.940943,
+      "lng": 26.024471,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.073875,
+      "lng": 23.579782,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428178,
+      "lng": 26.035635,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.432128,
+      "lng": 24.370052,
+      "nume": "BCR",
+      "oras": "Slatina",
+      "adresa": null
+    },
+    {
+      "lat": 45.957622,
+      "lng": 23.569788,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.215197,
+      "lng": 24.792468,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.774625,
+      "lng": 23.630125,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.975356,
+      "lng": 24.624079,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.28548,
+      "lng": 27.970869,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.569435,
+      "lng": 25.338744,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.305141,
+      "lng": 27.963287,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.231051,
+      "lng": 27.938629,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.288095,
+      "lng": 21.885348,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.45203,
+      "lng": 26.130241,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 46.534674,
+      "lng": 24.583743,
+      "nume": "BCR",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 180"
+    },
+    {
+      "lat": 46.532665,
+      "lng": 24.573364,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.556197,
+      "lng": 24.572416,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.53845,
+      "lng": 24.538864,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.478513,
+      "lng": 26.103138,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.506017,
+      "lng": 26.088674,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.422209,
+      "lng": 24.815715,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.560659,
+      "lng": 25.317161,
+      "nume": "BCR",
+      "oras": "Zărnești",
+      "adresa": "Strada Mitropolit Ion Mețianu"
+    },
+    {
+      "lat": 45.179027,
+      "lng": 28.802794,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.625163,
+      "lng": 25.481099,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649176,
+      "lng": 25.627836,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.425758,
+      "lng": 21.838959,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.425528,
+      "lng": 21.837609,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.443247,
+      "lng": 28.046744,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.767913,
+      "lng": 23.592271,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.656286,
+      "lng": 25.366508,
+      "nume": "BCR",
+      "oras": "Zimnicea",
+      "adresa": "Strada Mihai Viteazu"
+    },
+    {
+      "lat": 45.789094,
+      "lng": 24.094904,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.841304,
+      "lng": 24.988065,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.178998,
+      "lng": 23.052481,
+      "nume": "BCR",
+      "oras": "Zalău",
+      "adresa": "Strada Simion Oros 4"
+    },
+    {
+      "lat": 44.434546,
+      "lng": 26.101098,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.084721,
+      "lng": 27.273911,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.503189,
+      "lng": 25.986953,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.775941,
+      "lng": 23.603748,
+      "nume": "BCR",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.201954,
+      "lng": 27.315831,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.751576,
+      "lng": 21.224,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.351446,
+      "lng": 23.204123,
+      "nume": "BCR",
+      "oras": "Lupeni",
+      "adresa": "Strada Tudor Vladimirescu"
+    },
+    {
+      "lat": 44.444686,
+      "lng": 26.120715,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.951286,
+      "lng": 23.565573,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.564322,
+      "lng": 26.916054,
+      "nume": "BCR",
+      "oras": "Bacău",
+      "adresa": "Strada 9 Mai"
+    },
+    {
+      "lat": 46.567722,
+      "lng": 26.91089,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.635492,
+      "lng": 27.725579,
+      "nume": "BCR",
+      "oras": "Vaslui",
+      "adresa": "Strada Traian"
+    },
+    {
+      "lat": 47.140205,
+      "lng": 27.579038,
+      "nume": "BCR",
+      "oras": "Iași",
+      "adresa": "Șoseaua Nicolina 10"
+    },
+    {
+      "lat": 45.656759,
+      "lng": 25.599243,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.655865,
+      "lng": 24.662654,
+      "nume": "BCR",
+      "oras": "Borșa",
+      "adresa": "Strada Decebal"
+    },
+    {
+      "lat": 45.844583,
+      "lng": 23.359322,
+      "nume": "BCR",
+      "oras": "Cugir",
+      "adresa": "Strada Alexandru Sahia"
+    },
+    {
+      "lat": 43.775162,
+      "lng": 24.503562,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660398,
+      "lng": 24.264781,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660739,
+      "lng": 24.262188,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.560659,
+      "lng": 25.317178,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.203084,
+      "lng": 24.242927,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.674642,
+      "lng": 26.032913,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420292,
+      "lng": 26.149832,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.475374,
+      "lng": 26.069904,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Piața Montreal 10"
+    },
+    {
+      "lat": 44.436059,
+      "lng": 26.098067,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Calea Victoriei 44-46"
+    },
+    {
+      "lat": 46.773525,
+      "lng": 24.702756,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.171821,
+      "lng": 21.316326,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.11309,
+      "lng": 24.370234,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778549,
+      "lng": 23.61378,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649465,
+      "lng": 25.611238,
+      "nume": "BCR",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 47.176609,
+      "lng": 27.617599,
+      "nume": "BCR ATM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.809977,
+      "lng": 21.320305,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.685612,
+      "lng": 26.350083,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.31258,
+      "lng": 23.878799,
+      "nume": "BCR Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.789088,
+      "lng": 24.095169,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.166595,
+      "lng": 24.669274,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.654289,
+      "lng": 25.624674,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.189804,
+      "lng": 28.234216,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649329,
+      "lng": 25.610547,
+      "nume": "BCR",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.397321,
+      "lng": 26.108907,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.562276,
+      "lng": 27.362663,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.164418,
+      "lng": 22.870395,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Strada Ratinului 1418"
+    },
+    {
+      "lat": 47.06599,
+      "lng": 21.923777,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.362887,
+      "lng": 25.805959,
+      "nume": "BCR",
+      "oras": "Miercurea Ciuc",
+      "adresa": "Strada Kossuth Lajos 2"
+    },
+    {
+      "lat": 45.793037,
+      "lng": 21.211952,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.554699,
+      "lng": 23.520058,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.69852,
+      "lng": 22.364813,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.415311,
+      "lng": 26.089596,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.447926,
+      "lng": 26.099122,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Calea Dorobanților 15-17"
+    },
+    {
+      "lat": 45.114645,
+      "lng": 24.363959,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.72403,
+      "lng": 22.396498,
+      "nume": "BCR (Banca Comercială Română)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.854945,
+      "lng": 22.17712,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.42027,
+      "lng": 28.018778,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.035509,
+      "lng": 21.94823,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.847659,
+      "lng": 27.413265,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.869699,
+      "lng": 24.850671,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.388206,
+      "lng": 26.117399,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": "Bulevardul Alexandru Obregia"
+    },
+    {
+      "lat": 44.409231,
+      "lng": 26.098101,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.426994,
+      "lng": 24.370663,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.254019,
+      "lng": 26.047556,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.767652,
+      "lng": 21.231301,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.957937,
+      "lng": 24.939085,
+      "nume": "BCR (Banca Comercială Română)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.153279,
+      "lng": 27.588286,
+      "nume": "BCR",
+      "oras": "Iași",
+      "adresa": "Strada Palat 1"
+    },
+    {
+      "lat": 46.668034,
+      "lng": 22.348627,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.789593,
+      "lng": 24.147125,
+      "nume": "BCR",
+      "oras": "Sibiu",
+      "adresa": "Strada Emil Cioran 1"
+    },
+    {
+      "lat": 46.001628,
+      "lng": 26.137177,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.228896,
+      "lng": 27.669928,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.419306,
+      "lng": 23.369433,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.558976,
+      "lng": 27.362073,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.037408,
+      "lng": 23.274945,
+      "nume": "BCR",
+      "oras": "Târgu Jiu",
+      "adresa": "Strada Geneva 2"
+    },
+    {
+      "lat": 44.879042,
+      "lng": 22.412502,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.625333,
+      "lng": 22.653949,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.836063,
+      "lng": 27.457862,
+      "nume": "Banca BCR",
+      "oras": null,
+      "adresa": "Strada Unirii 1B"
+    },
+    {
+      "lat": 44.481085,
+      "lng": 26.118656,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Dimitrie Pompeiu 6"
+    },
+    {
+      "lat": 44.486333,
+      "lng": 26.180279,
+      "nume": "BCR",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Voluntari 52"
+    },
+    {
+      "lat": 45.10451,
+      "lng": 24.367345,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.304024,
+      "lng": 25.293156,
+      "nume": "BCR",
+      "oras": "Odorheiu Secuiesc",
+      "adresa": "Piața Primăriei 15"
+    },
+    {
+      "lat": 44.345508,
+      "lng": 24.117972,
+      "nume": "BCR",
+      "oras": "Balș",
+      "adresa": "Strada Nicolae Bălcescu 188"
+    },
+    {
+      "lat": 47.206895,
+      "lng": 26.366657,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.75901,
+      "lng": 27.065144,
+      "nume": "BCR",
+      "oras": "Odobești",
+      "adresa": "Strada Ștefan cel Mare 33"
+    },
+    {
+      "lat": 45.378684,
+      "lng": 27.045568,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.43452,
+      "lng": 26.035757,
+      "nume": "BCR",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 22"
+    },
+    {
+      "lat": 47.248733,
+      "lng": 26.722198,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.957607,
+      "lng": 23.569803,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.957461,
+      "lng": 23.569828,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.753933,
+      "lng": 22.903507,
+      "nume": "BCR",
+      "oras": "Hunedoara",
+      "adresa": null
+    },
+    {
+      "lat": 47.412816,
+      "lng": 23.177221,
+      "nume": "BCR",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.168781,
+      "lng": 28.638097,
+      "nume": "BCR",
+      "oras": "Constanța",
+      "adresa": "Strada Traian 68"
+    }
+  ]
+}

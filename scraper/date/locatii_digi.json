@@ -1,0 +1,989 @@
+{
+  "brand": "Digi",
+  "wikidata_id": "Q224710",
+  "total": 140,
+  "cu_oras": 84,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.453447,
+      "lng": 26.054493,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Calea Crângași 13"
+    },
+    {
+      "lat": 46.534392,
+      "lng": 24.583092,
+      "nume": "Digi",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Sârguinței 1"
+    },
+    {
+      "lat": 44.419917,
+      "lng": 26.023393,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Pașcani 8"
+    },
+    {
+      "lat": 44.397661,
+      "lng": 26.107996,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Alunișului"
+    },
+    {
+      "lat": 44.420327,
+      "lng": 26.178603,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 44.438068,
+      "lng": 26.186774,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Vergului 20"
+    },
+    {
+      "lat": 44.423326,
+      "lng": 26.091005,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.390522,
+      "lng": 26.130027,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 119"
+    },
+    {
+      "lat": 44.379131,
+      "lng": 26.103196,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.414496,
+      "lng": 26.063508,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Petre Ispirescu 62"
+    },
+    {
+      "lat": 47.809142,
+      "lng": 22.910385,
+      "nume": "Auto Digit Control",
+      "oras": "Satu Mare",
+      "adresa": "Strada Șoimoșeni 21"
+    },
+    {
+      "lat": 45.143216,
+      "lng": 26.809124,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.440748,
+      "lng": 26.099537,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul General Gheorghe Magheru 1"
+    },
+    {
+      "lat": 44.441992,
+      "lng": 26.118387,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.433378,
+      "lng": 26.03612,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 19"
+    },
+    {
+      "lat": 44.460989,
+      "lng": 26.073691,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 109"
+    },
+    {
+      "lat": 45.654679,
+      "lng": 25.60224,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Griviței 69"
+    },
+    {
+      "lat": 44.417148,
+      "lng": 26.036818,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.434182,
+      "lng": 26.014841,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 160"
+    },
+    {
+      "lat": 44.399234,
+      "lng": 26.044059,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandriei 152"
+    },
+    {
+      "lat": 45.644918,
+      "lng": 25.589755,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Strada Mureșenilor 26"
+    },
+    {
+      "lat": 44.638501,
+      "lng": 22.657459,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153256,
+      "lng": 26.817089,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.864256,
+      "lng": 24.878973,
+      "nume": "Digi",
+      "oras": "Pitești",
+      "adresa": "Calea București 32"
+    },
+    {
+      "lat": 45.763734,
+      "lng": 21.256572,
+      "nume": "Digi",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Simion Bărnuțiu 52"
+    },
+    {
+      "lat": 45.784401,
+      "lng": 24.171111,
+      "nume": "Digi",
+      "oras": "Sibiu",
+      "adresa": "Strada Semaforului"
+    },
+    {
+      "lat": 46.170284,
+      "lng": 21.315104,
+      "nume": "Digi Punct",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.422063,
+      "lng": 26.021025,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Drumul Taberei 82"
+    },
+    {
+      "lat": 46.736762,
+      "lng": 23.483618,
+      "nume": "Digi",
+      "oras": "Florești",
+      "adresa": "Strada Eroilor 122"
+    },
+    {
+      "lat": 46.771818,
+      "lng": 23.626641,
+      "nume": "Digi",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Alexandru Vaida Voevod 53B"
+    },
+    {
+      "lat": 46.781436,
+      "lng": 23.61326,
+      "nume": "Digi",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Fabricii 5"
+    },
+    {
+      "lat": 46.779702,
+      "lng": 23.621127,
+      "nume": "Digi",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Aurel Vlaicu 11"
+    },
+    {
+      "lat": 46.755648,
+      "lng": 23.561561,
+      "nume": "Digi",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Izlazului 6"
+    },
+    {
+      "lat": 46.749694,
+      "lng": 23.533039,
+      "nume": "Digi",
+      "oras": "Florești",
+      "adresa": "Strada Avram Iancu 492-500"
+    },
+    {
+      "lat": 44.479447,
+      "lng": 26.094977,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Pipera 7"
+    },
+    {
+      "lat": 44.466813,
+      "lng": 26.138226,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 81"
+    },
+    {
+      "lat": 44.451957,
+      "lng": 26.130555,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.421335,
+      "lng": 26.150536,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.386334,
+      "lng": 26.128843,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Berceni 25"
+    },
+    {
+      "lat": 44.391252,
+      "lng": 26.0926,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "118-120"
+    },
+    {
+      "lat": 44.418015,
+      "lng": 26.072582,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian 88"
+    },
+    {
+      "lat": 44.457682,
+      "lng": 26.040795,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul Constructorilor 16A"
+    },
+    {
+      "lat": 44.440428,
+      "lng": 25.981898,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 546-560"
+    },
+    {
+      "lat": 46.72076,
+      "lng": 25.600021,
+      "nume": "Digi",
+      "oras": "Gheorgheni",
+      "adresa": "Piața Libertății 17"
+    },
+    {
+      "lat": 44.478607,
+      "lng": 26.103538,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 45.759587,
+      "lng": 21.228777,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.166387,
+      "lng": 27.572359,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": "17"
+    },
+    {
+      "lat": 45.102649,
+      "lng": 24.360497,
+      "nume": "Digi punct",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 46.557609,
+      "lng": 23.808054,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.327685,
+      "lng": 23.774769,
+      "nume": "Digi",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului 5A"
+    },
+    {
+      "lat": 45.88441,
+      "lng": 22.904266,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.793279,
+      "lng": 22.880962,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": "Bulevardul Ion Constantin Brătianu"
+    },
+    {
+      "lat": 44.193639,
+      "lng": 28.65008,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.752193,
+      "lng": 21.225395,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.638453,
+      "lng": 25.628949,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Calea București 92"
+    },
+    {
+      "lat": 45.631928,
+      "lng": 25.639711,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Calea București 107"
+    },
+    {
+      "lat": 43.97171,
+      "lng": 25.328722,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.774042,
+      "lng": 23.588124,
+      "nume": "Digi",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Mihai Viteazu 1"
+    },
+    {
+      "lat": 45.760466,
+      "lng": 21.217996,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.739581,
+      "lng": 21.209946,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.432163,
+      "lng": 26.052948,
+      "nume": "Optimus Digital",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 7"
+    },
+    {
+      "lat": 46.932852,
+      "lng": 26.360292,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.6982,
+      "lng": 27.183206,
+      "nume": "Digi",
+      "oras": "Focșani",
+      "adresa": "Bulevardul Unirii 46"
+    },
+    {
+      "lat": 45.638294,
+      "lng": 25.610224,
+      "nume": "Digi Punct",
+      "oras": "Brașov",
+      "adresa": "Strada Tâmpei 6"
+    },
+    {
+      "lat": 45.692696,
+      "lng": 27.189005,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": "Bulevardul Brăilei 11"
+    },
+    {
+      "lat": 46.098062,
+      "lng": 27.182467,
+      "nume": "Digi",
+      "oras": "Adjud",
+      "adresa": "Bulevardul Republicii 45"
+    },
+    {
+      "lat": 44.20378,
+      "lng": 28.645232,
+      "nume": "Photo Digital Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.942278,
+      "lng": 25.995694,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.618788,
+      "lng": 25.637226,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Strada Prunului 7-15"
+    },
+    {
+      "lat": 45.034551,
+      "lng": 23.269937,
+      "nume": "Foto Digital Print",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.604279,
+      "lng": 26.067539,
+      "nume": "Digi",
+      "oras": "Balotești",
+      "adresa": "Calea București 2 bis"
+    },
+    {
+      "lat": 46.196406,
+      "lng": 21.298929,
+      "nume": "Digi",
+      "oras": "Arad",
+      "adresa": "Calea Aurel Vlaicu"
+    },
+    {
+      "lat": 44.432559,
+      "lng": 24.369309,
+      "nume": "Digi",
+      "oras": "Slatina",
+      "adresa": "Strada Cornișei 10"
+    },
+    {
+      "lat": 45.271608,
+      "lng": 27.963156,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.258868,
+      "lng": 27.9618,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.27943,
+      "lng": 27.971549,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.656519,
+      "lng": 25.623343,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Alexandru Vlahuță 40"
+    },
+    {
+      "lat": 45.643972,
+      "lng": 25.594285,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Strada Republicii 62"
+    },
+    {
+      "lat": 45.673488,
+      "lng": 25.617571,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Strada Turnului 5"
+    },
+    {
+      "lat": 45.643692,
+      "lng": 25.633628,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Saturn 19"
+    },
+    {
+      "lat": 45.649499,
+      "lng": 25.611056,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 45.666341,
+      "lng": 25.598607,
+      "nume": "Digi",
+      "oras": "Brașov",
+      "adresa": "Strada 1 Decembrie 1918 11"
+    },
+    {
+      "lat": 46.546222,
+      "lng": 24.561554,
+      "nume": "Digi",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Teatrului 3"
+    },
+    {
+      "lat": 46.557008,
+      "lng": 24.575309,
+      "nume": "Digi",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 22 Decembrie 1989 28"
+    },
+    {
+      "lat": 46.536789,
+      "lng": 24.583126,
+      "nume": "Digimax",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Armoniei 10"
+    },
+    {
+      "lat": 46.924569,
+      "lng": 26.377844,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.793575,
+      "lng": 24.149454,
+      "nume": "Digi",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.59259,
+      "lng": 25.4672,
+      "nume": "DIGI",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.782009,
+      "lng": 24.701923,
+      "nume": "Digi",
+      "oras": "Reghin",
+      "adresa": "Piața Petru Maior 37"
+    },
+    {
+      "lat": 45.289543,
+      "lng": 21.885482,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.946631,
+      "lng": 26.032366,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.545614,
+      "lng": 23.886723,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.635038,
+      "lng": 27.72614,
+      "nume": "Digi",
+      "oras": "Vaslui",
+      "adresa": "Strada Traian"
+    },
+    {
+      "lat": 44.493174,
+      "lng": 26.016064,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 284"
+    },
+    {
+      "lat": 46.766823,
+      "lng": 23.550194,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.03666,
+      "lng": 21.950636,
+      "nume": "Digi",
+      "oras": "Oradea",
+      "adresa": "Strada Nufărului 30"
+    },
+    {
+      "lat": 47.046711,
+      "lng": 21.958859,
+      "nume": "Digi",
+      "oras": "Oradea",
+      "adresa": "Strada Seleușului 22"
+    },
+    {
+      "lat": 46.073746,
+      "lng": 23.579814,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.66105,
+      "lng": 24.26619,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.179545,
+      "lng": 23.380178,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.095843,
+      "lng": 24.374007,
+      "nume": "Digi Punct",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Nicolae Iorga"
+    },
+    {
+      "lat": 45.101896,
+      "lng": 24.362743,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.776932,
+      "lng": 24.168214,
+      "nume": "Digi",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 45.790608,
+      "lng": 24.134518,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.394706,
+      "lng": 26.122602,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 45.79633,
+      "lng": 24.159879,
+      "nume": "Digi Punct",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.844685,
+      "lng": 23.362328,
+      "nume": "Digi",
+      "oras": "Cugir",
+      "adresa": "Strada Victoriei 29"
+    },
+    {
+      "lat": 46.75532,
+      "lng": 23.577414,
+      "nume": "Digi",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Louis Pasteur 56"
+    },
+    {
+      "lat": 46.190494,
+      "lng": 21.320968,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.161817,
+      "lng": 22.87428,
+      "nume": "Digi",
+      "oras": "Crasna",
+      "adresa": null
+    },
+    {
+      "lat": 44.301164,
+      "lng": 23.820711,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.534008,
+      "lng": 24.586344,
+      "nume": "Doctor PC Digital Solutions",
+      "oras": null,
+      "adresa": "Bulevardul 1 Decembrie 1918 237"
+    },
+    {
+      "lat": 47.145145,
+      "lng": 27.611391,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.488793,
+      "lng": 26.189685,
+      "nume": "Digi",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Voluntari 82"
+    },
+    {
+      "lat": 45.152136,
+      "lng": 24.675892,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.64385,
+      "lng": 25.630562,
+      "nume": "Cosmos foto digital",
+      "oras": "Brașov",
+      "adresa": "Strada Uranus"
+    },
+    {
+      "lat": 45.179298,
+      "lng": 28.789151,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.313084,
+      "lng": 23.792375,
+      "nume": "Digiland",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.111581,
+      "lng": 24.380457,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.64361,
+      "lng": 22.891585,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434215,
+      "lng": 26.014578,
+      "nume": "Optimix",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 160"
+    },
+    {
+      "lat": 44.412936,
+      "lng": 26.114523,
+      "nume": "ALCIS DIGITAL SHOP",
+      "oras": "București",
+      "adresa": "Strada V. V. Stanciu 213"
+    },
+    {
+      "lat": 46.924833,
+      "lng": 25.353849,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.06227,
+      "lng": 21.937462,
+      "nume": "Digital Studio",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 45.114674,
+      "lng": 24.36396,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.927493,
+      "lng": 25.998148,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.350262,
+      "lng": 25.549616,
+      "nume": "Digi",
+      "oras": "Sinaia",
+      "adresa": "Bulevardul Carol I"
+    },
+    {
+      "lat": 44.617646,
+      "lng": 23.940189,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.046536,
+      "lng": 21.909879,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.20232,
+      "lng": 23.056772,
+      "nume": "Digi",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul 58B"
+    },
+    {
+      "lat": 47.644643,
+      "lng": 26.258141,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.331115,
+      "lng": 23.121301,
+      "nume": "Digi",
+      "oras": "Uricani",
+      "adresa": "Bulevardul Muncii"
+    },
+    {
+      "lat": 45.101203,
+      "lng": 24.369728,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.409687,
+      "lng": 26.176714,
+      "nume": "Digi",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.312052,
+      "lng": 23.832316,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.953996,
+      "lng": 22.758601,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.346139,
+      "lng": 21.30659,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.213119,
+      "lng": 28.604895,
+      "nume": "Digi",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 391"
+    },
+    {
+      "lat": 44.843065,
+      "lng": 24.898954,
+      "nume": "Digi",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.850352,
+      "lng": 24.851953,
+      "nume": "Digi",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Libertății 10C"
+    }
+  ]
+}

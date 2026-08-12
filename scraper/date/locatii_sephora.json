@@ -1,0 +1,226 @@
+{
+  "brand": "Sephora",
+  "wikidata_id": "Q2408041",
+  "total": 31,
+  "cu_oras": 14,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 45.72402,
+      "lng": 21.199033,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.766227,
+      "lng": 21.228495,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.478695,
+      "lng": 26.102798,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Calea Floreasca"
+    },
+    {
+      "lat": 44.439974,
+      "lng": 26.099759,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Bulevardul Nicolae Bălcescu 27-33"
+    },
+    {
+      "lat": 46.771944,
+      "lng": 23.626214,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.580143,
+      "lng": 26.915229,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.157562,
+      "lng": 27.589819,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.415249,
+      "lng": 26.079475,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.752229,
+      "lng": 23.533646,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.395197,
+      "lng": 26.122271,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 44.818824,
+      "lng": 24.942378,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.797517,
+      "lng": 24.163051,
+      "nume": "Sephora",
+      "oras": "Sibiu",
+      "adresa": "Strada Lector 1"
+    },
+    {
+      "lat": 47.659073,
+      "lng": 26.271815,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430438,
+      "lng": 26.051394,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.204186,
+      "lng": 28.630539,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.197648,
+      "lng": 28.610372,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.507358,
+      "lng": 26.09017,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 44.509052,
+      "lng": 26.089051,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 46.528413,
+      "lng": 24.593912,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649875,
+      "lng": 25.610284,
+      "nume": "Sephora",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.420584,
+      "lng": 26.126701,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.428702,
+      "lng": 26.034262,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.42758,
+      "lng": 26.104353,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Piața Unirii 1"
+    },
+    {
+      "lat": 44.452069,
+      "lng": 26.130387,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.44504,
+      "lng": 26.062531,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 44.420107,
+      "lng": 26.148968,
+      "nume": "Sephora",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 46.190445,
+      "lng": 21.321544,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.144714,
+      "lng": 27.61126,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.168063,
+      "lng": 27.51531,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.313135,
+      "lng": 23.832252,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.844678,
+      "lng": 24.894649,
+      "nume": "Sephora",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

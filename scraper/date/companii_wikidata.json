@@ -600,116 +600,116 @@
     "industrie": null
   },
   {
-  "wikidata_id": "Q47649286",
-  "nume": "Generali Osiguranje",
-  "descriere": "Serbian insurance company",
-  "companie_mama_id": "Q368361",
-  "proprietar_id": "Q368361",
-  "listari": [],
-  "site_oficial": "http://www.generali.rs",
-  "sediu_id": "Q3711",
-  "industrie_id": "Q2518196",
-  "angajati": 2517,
-  "cautare": "Generali Insurance",
-  "gasit": true,
-  "companie_mama_detalii": {
-    "wikidata_id": "Q368361",
-    "nume": "Assicurazioni Generali S.p.A.",
-    "descriere": "Italian multinational insurance company",
+    "wikidata_id": "Q47649286",
+    "nume": "Generali Osiguranje",
+    "descriere": "Serbian insurance company",
+    "companie_mama_id": "Q368361",
+    "proprietar_id": "Q368361",
+    "listari": [],
+    "site_oficial": "http://www.generali.rs",
+    "sediu_id": "Q3711",
+    "industrie_id": "Q2518196",
+    "angajati": 2517,
+    "cautare": "Generali Insurance",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q368361",
+      "nume": "Assicurazioni Generali S.p.A.",
+      "descriere": "Italian multinational insurance company",
+      "companie_mama_id": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Borsa Italiana (Milan Stock Exchange)",
+          "simbol": "G"
+        },
+        {
+          "bursa": "OTC Markets",
+          "simbol": "ARZGY"
+        }
+      ],
+      "site_oficial": "https://www.generali.com",
+      "sediu_id": "Q546",
+      "industrie_id": "Q2518196",
+      "angajati": 82000,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": "Trieste",
+      "industrie": "insurance"
+    },
+    "companie_mama": "Assicurazioni Generali",
+    "proprietar": "Assicurazioni Generali",
+    "sediu": "Belgrade",
+    "industrie": "insurance industry"
+  },
+  {
+    "wikidata_id": "Q1022419",
+    "nume": "Uniqa Insurance Group",
+    "descriere": "Austrian insurance company",
     "companie_mama_id": null,
     "proprietar_id": null,
     "listari": [
       {
-        "bursa": "Borsa Italiana (Milan Stock Exchange)",
-        "simbol": "G"
-      },
-      {
-        "bursa": "OTC Markets",
-        "simbol": "ARZGY"
+        "bursa": "Wiener Börse (Vienna Stock Exchange)",
+        "simbol": "UQA"
       }
     ],
-    "site_oficial": "https://www.generali.com",
-    "sediu_id": "Q546",
+    "site_oficial": "http://www.uniqagroup.com/",
+    "sediu_id": "Q1741",
     "industrie_id": "Q2518196",
-    "angajati": 82000,
+    "angajati": null,
+    "cautare": "UNIQA",
+    "gasit": true,
     "companie_mama": null,
     "proprietar": null,
-    "sediu": "Trieste",
-    "industrie": "insurance"
-  },
-  "companie_mama": "Assicurazioni Generali",
-  "proprietar": "Assicurazioni Generali",
-  "sediu": "Belgrade",
-  "industrie": "insurance industry"
+    "sediu": "Vienna",
+    "industrie": "insurance industry"
   },
   {
-  "wikidata_id": "Q1022419",
-  "nume": "Uniqa Insurance Group",
-  "descriere": "Austrian insurance company",
-  "companie_mama_id": null,
-  "proprietar_id": null,
-  "listari": [
-    {
-      "bursa": "Wiener Börse (Vienna Stock Exchange)",
-      "simbol": "UQA"
-    }
-  ],
-  "site_oficial": "http://www.uniqagroup.com/",
-  "sediu_id": "Q1741",
-  "industrie_id": "Q2518196",
-  "angajati": null,
-  "cautare": "UNIQA",
-  "gasit": true,
-  "companie_mama": null,
-  "proprietar": null,
-  "sediu": "Vienna",
-  "industrie": "insurance industry"
+    "wikidata_id": "Q12735223",
+    "nume": "MedLife",
+    "descriere": "private medical network in Romania",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Bursa de Valori București (BVB)",
+        "simbol": "M"
+      }
+    ],
+    "site_oficial": "https://www.medlife.ro/",
+    "sediu_id": "Q19660",
+    "industrie_id": "Q15067276",
+    "angajati": null,
+    "cautare": "MedLife",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Bucharest",
+    "industrie": "health care industry"
   },
   {
-  "wikidata_id": "Q12735223",
-  "nume": "MedLife",
-  "descriere": "private medical network in Romania",
-  "companie_mama_id": null,
-  "proprietar_id": null,
-  "listari": [
-    {
-      "bursa": "Bursa de Valori București (BVB)",
-      "simbol": "M"
-    }
-  ],
-  "site_oficial": "https://www.medlife.ro/",
-  "sediu_id": "Q19660",
-  "industrie_id": "Q15067276",
-  "angajati": null,
-  "cautare": "MedLife",
-  "gasit": true,
-  "companie_mama": null,
-  "proprietar": null,
-  "sediu": "Bucharest",
-  "industrie": "health care industry"
-  },
-  {
-  "wikidata_id": "Q224710",
-  "nume": "Digi",
-  "descriere": "Romanian telecommunications company",
-  "companie_mama_id": null,
-  "proprietar_id": null,
-  "listari": [
-    {
-      "bursa": "Bursa de Valori București (BVB)",
-      "simbol": "DIGI"
-    }
-  ],
-  "site_oficial": "https://www.digi-communications.ro/",
-  "sediu_id": "Q19660",
-  "industrie_id": "Q2401742",
-  "angajati": 16912,
-  "cautare": "Digi Communications",
-  "gasit": true,
-  "companie_mama": null,
-  "proprietar": null,
-  "sediu": "Bucharest",
-  "industrie": "telecommunications"
+    "wikidata_id": "Q224710",
+    "nume": "Digi",
+    "descriere": "Romanian telecommunications company",
+    "companie_mama_id": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Bursa de Valori București (BVB)",
+        "simbol": "DIGI"
+      }
+    ],
+    "site_oficial": "https://www.digi-communications.ro/",
+    "sediu_id": "Q19660",
+    "industrie_id": "Q2401742",
+    "angajati": 16912,
+    "cautare": "Digi Communications",
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": "Bucharest",
+    "industrie": "telecommunications"
   },
   {
     "wikidata_id": "Q122141",
@@ -772,5 +772,292 @@
     "proprietar": "Germany",
     "sediu": "Bonn",
     "industrie": "telecommunications"
+  },
+  {
+    "wikidata_id": "Q503191",
+    "nume": "Nescafé",
+    "descriere": "instant coffee brand",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.nescafe.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Nescafé",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1150326",
+    "nume": "Nesquik",
+    "descriere": "brand of products by Nestlé",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.goodnes.com/nesquik/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Nesquik",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q367251",
+    "nume": "Kit Kat",
+    "descriere": "brand of chocolate products",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.kitkat.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "KitKat",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q542376",
+    "nume": "Nestlé Purina PetCare",
+    "descriere": "American pet food manufacturer, subsidiary of the Swiss corporation Nestlé",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.purina.com/",
+    "sediu_id": "Q4074",
+    "industrie_id": "Q540912",
+    "angajati": null,
+    "cautare": "Purina",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": "Euskirchen",
+    "industrie": "food industry"
+  },
+  {
+    "wikidata_id": "Q2964257",
+    "nume": "Chocapic",
+    "descriere": "chocolate-flavoured whole-grain breakfast cereal distributed by Nestlé",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.nestle-cereals.com/global/products-promotions/brands/chocapic-brand",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Chocapic",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1993628",
+    "nume": "Nestea",
+    "descriere": "Iced tea brand",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "http://www.nestea.com",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Nestea",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1827229",
+    "nume": "Lion Bar",
+    "descriere": "chocolate bar",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": null,
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q1827229",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
   }
 ]

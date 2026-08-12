@@ -1,0 +1,1619 @@
+{
+  "brand": "MOL Group",
+  "wikidata_id": "Q549181",
+  "total": 230,
+  "cu_oras": 127,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 45.410397,
+      "lng": 28.001729,
+      "nume": "Mol",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.533731,
+      "lng": 24.571431,
+      "nume": "MOL",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul Pandurilor 53A"
+    },
+    {
+      "lat": 45.659386,
+      "lng": 25.561568,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.159432,
+      "lng": 27.574372,
+      "nume": "MOL Podu de Piatră",
+      "oras": null,
+      "adresa": "Strada Silvestru"
+    },
+    {
+      "lat": 44.420772,
+      "lng": 26.065083,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": "Calea 13 Septembrie"
+    },
+    {
+      "lat": 44.418094,
+      "lng": 26.05953,
+      "nume": "Mol 13 Septembrie",
+      "oras": "București",
+      "adresa": "Calea 13 Septembrie"
+    },
+    {
+      "lat": 47.139467,
+      "lng": 27.579309,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.240861,
+      "lng": 27.675469,
+      "nume": "MOL ( Republicii)",
+      "oras": "Bârlad",
+      "adresa": null
+    },
+    {
+      "lat": 44.870963,
+      "lng": 24.852961,
+      "nume": "MOL",
+      "oras": "Pitești",
+      "adresa": null
+    },
+    {
+      "lat": 47.655804,
+      "lng": 26.260842,
+      "nume": "Mol",
+      "oras": "Suceava",
+      "adresa": null
+    },
+    {
+      "lat": 45.792388,
+      "lng": 24.139777,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.650113,
+      "lng": 27.738001,
+      "nume": "MOL",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 46.920753,
+      "lng": 26.387507,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.916991,
+      "lng": 26.922884,
+      "nume": "MOL Roman",
+      "oras": "Roman",
+      "adresa": null
+    },
+    {
+      "lat": 47.673704,
+      "lng": 22.444775,
+      "nume": "Mol",
+      "oras": "Carei",
+      "adresa": null
+    },
+    {
+      "lat": 44.227445,
+      "lng": 28.589357,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202962,
+      "lng": 23.050918,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.057208,
+      "lng": 21.906063,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": "Strada Meșteșugarilor"
+    },
+    {
+      "lat": 45.117959,
+      "lng": 24.363752,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.135519,
+      "lng": 24.365422,
+      "nume": "MOL",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 45.684371,
+      "lng": 25.582653,
+      "nume": "MOL",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Griviței A2"
+    },
+    {
+      "lat": 43.976856,
+      "lng": 25.349742,
+      "nume": "MOL",
+      "oras": "Alexandria",
+      "adresa": null
+    },
+    {
+      "lat": 45.695118,
+      "lng": 25.583455,
+      "nume": "MOL",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 46.581697,
+      "lng": 25.056085,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.686317,
+      "lng": 25.458213,
+      "nume": "MOL",
+      "oras": "Codlea",
+      "adresa": null
+    },
+    {
+      "lat": 44.84604,
+      "lng": 24.888166,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.868258,
+      "lng": 22.999862,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.548887,
+      "lng": 25.87281,
+      "nume": "MOL",
+      "oras": "Gura Humorului",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 44.322683,
+      "lng": 23.830044,
+      "nume": "MOL",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Decebal"
+    },
+    {
+      "lat": 45.610084,
+      "lng": 25.658282,
+      "nume": "MOL",
+      "oras": "Săcele",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.459005,
+      "lng": 26.106793,
+      "nume": "MOL Barbu Văcărescu",
+      "oras": "București",
+      "adresa": "Strada Barbu Văcărescu"
+    },
+    {
+      "lat": 44.885652,
+      "lng": 24.825047,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.886751,
+      "lng": 24.825358,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.164708,
+      "lng": 28.788658,
+      "nume": "Mol",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.472078,
+      "lng": 26.152737,
+      "nume": "Mol Colentina",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.023544,
+      "lng": 25.261807,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.323341,
+      "lng": 23.776937,
+      "nume": "MOL",
+      "oras": "Craiova",
+      "adresa": "Strada Brestei 114"
+    },
+    {
+      "lat": 46.108226,
+      "lng": 22.783197,
+      "nume": "MOL",
+      "oras": "Brad",
+      "adresa": "Strada Vânătorilor 108"
+    },
+    {
+      "lat": 44.700613,
+      "lng": 25.228852,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.133405,
+      "lng": 26.815088,
+      "nume": "Benzinăria MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.266721,
+      "lng": 26.053956,
+      "nume": "MOL",
+      "oras": "Adunații-Copăceni",
+      "adresa": null
+    },
+    {
+      "lat": 43.807668,
+      "lng": 28.564288,
+      "nume": "MOL",
+      "oras": "Mangalia",
+      "adresa": null
+    },
+    {
+      "lat": 46.940242,
+      "lng": 26.332222,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.324803,
+      "lng": 23.825011,
+      "nume": "MOL",
+      "oras": "Craiova",
+      "adresa": null
+    },
+    {
+      "lat": 44.339082,
+      "lng": 23.763782,
+      "nume": "MOL",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului"
+    },
+    {
+      "lat": 44.151867,
+      "lng": 28.355548,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.148738,
+      "lng": 28.356999,
+      "nume": "MOL Group",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.714542,
+      "lng": 25.602468,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.184289,
+      "lng": 26.83191,
+      "nume": "MOL",
+      "oras": "Mărăcineni",
+      "adresa": null
+    },
+    {
+      "lat": 45.920753,
+      "lng": 23.654826,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.922349,
+      "lng": 23.664418,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.562221,
+      "lng": 23.787509,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.172032,
+      "lng": 28.594657,
+      "nume": "MOL",
+      "oras": "Constanța",
+      "adresa": "Strada Pasajului 9"
+    },
+    {
+      "lat": 44.311885,
+      "lng": 23.870795,
+      "nume": "MOL",
+      "oras": "Cârcea",
+      "adresa": "Calea București 10A"
+    },
+    {
+      "lat": 44.816195,
+      "lng": 25.06201,
+      "nume": "MOL",
+      "oras": "Călinești",
+      "adresa": null
+    },
+    {
+      "lat": 45.604826,
+      "lng": 25.466785,
+      "nume": "MOL",
+      "oras": "Râșnov",
+      "adresa": "Calea Brașovului"
+    },
+    {
+      "lat": 45.705008,
+      "lng": 27.183028,
+      "nume": "MOL",
+      "oras": "Focșani",
+      "adresa": "28"
+    },
+    {
+      "lat": 45.127655,
+      "lng": 26.76343,
+      "nume": "MOL",
+      "oras": "Buzău",
+      "adresa": null
+    },
+    {
+      "lat": 46.419974,
+      "lng": 26.450717,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.050826,
+      "lng": 23.281957,
+      "nume": "MOL",
+      "oras": "Târgu Jiu",
+      "adresa": null
+    },
+    {
+      "lat": 44.906749,
+      "lng": 25.491271,
+      "nume": "MOL",
+      "oras": "Târgoviște",
+      "adresa": null
+    },
+    {
+      "lat": 44.335343,
+      "lng": 28.033957,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.700876,
+      "lng": 24.249157,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.224717,
+      "lng": 23.02216,
+      "nume": "MOL",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul 100J-6"
+    },
+    {
+      "lat": 44.963896,
+      "lng": 25.973059,
+      "nume": "MOL Group",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.842133,
+      "lng": 22.225865,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.840272,
+      "lng": 22.225216,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.9653,
+      "lng": 23.469191,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.964743,
+      "lng": 23.471275,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.797799,
+      "lng": 22.899835,
+      "nume": "MOL Group",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.78444,
+      "lng": 22.870403,
+      "nume": "MOL",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 44.832453,
+      "lng": 24.925394,
+      "nume": "MOL",
+      "oras": "Pitești",
+      "adresa": "Km 110 + 100"
+    },
+    {
+      "lat": 44.832291,
+      "lng": 24.923825,
+      "nume": "MOL",
+      "oras": "Pitești",
+      "adresa": "Km 110 + 100"
+    },
+    {
+      "lat": 44.865398,
+      "lng": 24.904637,
+      "nume": "Mol Benzinărie",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.385299,
+      "lng": 26.001774,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.751529,
+      "lng": 26.643142,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.630797,
+      "lng": 22.641887,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.33594,
+      "lng": 22.332028,
+      "nume": "MOL Partener",
+      "oras": "Marghita",
+      "adresa": "Strada Ion Luca Caragiale 49"
+    },
+    {
+      "lat": 44.152073,
+      "lng": 28.3555,
+      "nume": "MOL Group",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431292,
+      "lng": 26.136567,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Bulevardul Decebal"
+    },
+    {
+      "lat": 45.773514,
+      "lng": 22.91278,
+      "nume": "MOL",
+      "oras": "Hunedoara",
+      "adresa": null
+    },
+    {
+      "lat": 44.945028,
+      "lng": 26.035942,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.313233,
+      "lng": 25.307048,
+      "nume": "MOL",
+      "oras": "Odorheiu Secuiesc",
+      "adresa": "Strada Beclean 14"
+    },
+    {
+      "lat": 46.765696,
+      "lng": 23.549809,
+      "nume": "MOL",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 45.874115,
+      "lng": 22.91777,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.456228,
+      "lng": 26.063347,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Chișcani 1"
+    },
+    {
+      "lat": 44.515826,
+      "lng": 26.016426,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Șoseaua Odăii 425-431"
+    },
+    {
+      "lat": 44.471869,
+      "lng": 26.049924,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 176"
+    },
+    {
+      "lat": 45.73872,
+      "lng": 21.242099,
+      "nume": "MOL",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Liviu Rebreanu"
+    },
+    {
+      "lat": 45.752352,
+      "lng": 21.217932,
+      "nume": "MOL",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Republicii 12A"
+    },
+    {
+      "lat": 45.779831,
+      "lng": 24.168802,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": "Bulevardul General Vasile Milea"
+    },
+    {
+      "lat": 45.732657,
+      "lng": 21.210786,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.199491,
+      "lng": 28.62915,
+      "nume": "MOL",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 310D"
+    },
+    {
+      "lat": 44.145632,
+      "lng": 28.624155,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.864077,
+      "lng": 25.802656,
+      "nume": "MOL",
+      "oras": "Sfântu Gheorghe",
+      "adresa": null
+    },
+    {
+      "lat": 44.434225,
+      "lng": 26.008181,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 194"
+    },
+    {
+      "lat": 44.416608,
+      "lng": 26.169479,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Postăvarul"
+    },
+    {
+      "lat": 44.468976,
+      "lng": 26.144703,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 258-260"
+    },
+    {
+      "lat": 44.963964,
+      "lng": 25.973175,
+      "nume": "MOL",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 47.172896,
+      "lng": 27.560793,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": "Strada Păcurari 97-99"
+    },
+    {
+      "lat": 44.447912,
+      "lng": 26.211175,
+      "nume": "MOL",
+      "oras": "Pantelimon",
+      "adresa": "Bulevardul Biruinței 3"
+    },
+    {
+      "lat": 44.41606,
+      "lng": 26.14039,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Râmnicu Vâlcea 12"
+    },
+    {
+      "lat": 47.127475,
+      "lng": 27.617125,
+      "nume": "MOL Bucium",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.914115,
+      "lng": 25.972218,
+      "nume": "MOL",
+      "oras": "Giurgiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.443396,
+      "lng": 22.191239,
+      "nume": "MOL",
+      "oras": "Caransebeș",
+      "adresa": "Calea Timișoarei"
+    },
+    {
+      "lat": 46.77068,
+      "lng": 24.702924,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.838135,
+      "lng": 23.183019,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.955235,
+      "lng": 26.049648,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434616,
+      "lng": 26.044422,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 8"
+    },
+    {
+      "lat": 44.433871,
+      "lng": 26.041602,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 15B"
+    },
+    {
+      "lat": 45.672874,
+      "lng": 27.174515,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.40589,
+      "lng": 26.209018,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Theodor Pallady 117-119"
+    },
+    {
+      "lat": 44.454915,
+      "lng": 26.056168,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Calea Giulești 39"
+    },
+    {
+      "lat": 44.465781,
+      "lng": 26.10898,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Barbu Văcărescu 164B"
+    },
+    {
+      "lat": 44.431381,
+      "lng": 26.136747,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Decebal"
+    },
+    {
+      "lat": 46.531137,
+      "lng": 24.593549,
+      "nume": "MOL",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 240"
+    },
+    {
+      "lat": 44.441657,
+      "lng": 26.03585,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua Virtuții"
+    },
+    {
+      "lat": 45.73263,
+      "lng": 21.218374,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.415688,
+      "lng": 26.114078,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Calea Văcărești 132-134"
+    },
+    {
+      "lat": 44.40497,
+      "lng": 26.20746,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Theodor Pallady 66"
+    },
+    {
+      "lat": 44.404964,
+      "lng": 26.207657,
+      "nume": "MOL Shop",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.463169,
+      "lng": 26.152894,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua Fundeni 161"
+    },
+    {
+      "lat": 45.192563,
+      "lng": 26.042571,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778554,
+      "lng": 23.620244,
+      "nume": "MOL",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Teodor Mihali"
+    },
+    {
+      "lat": 44.527968,
+      "lng": 26.069943,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 127C"
+    },
+    {
+      "lat": 44.540217,
+      "lng": 26.069196,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.375709,
+      "lng": 26.118759,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Turnu Măgurele 110-112"
+    },
+    {
+      "lat": 44.383488,
+      "lng": 26.13819,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Sergent Ion Iriceanu 25"
+    },
+    {
+      "lat": 45.776546,
+      "lng": 24.171392,
+      "nume": "AutoMat MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.051606,
+      "lng": 21.918989,
+      "nume": "MOL",
+      "oras": "Oradea",
+      "adresa": "Bulevardul Decebal 51"
+    },
+    {
+      "lat": 44.377179,
+      "lng": 26.090785,
+      "nume": "MOL Giurgiului",
+      "oras": "București",
+      "adresa": "Șoseaua Giurgiului 200"
+    },
+    {
+      "lat": 46.230317,
+      "lng": 24.819774,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.633908,
+      "lng": 25.636426,
+      "nume": "MOL",
+      "oras": "Brașov",
+      "adresa": "Calea București 101"
+    },
+    {
+      "lat": 47.11728,
+      "lng": 23.894457,
+      "nume": "MOL",
+      "oras": "Dej",
+      "adresa": null
+    },
+    {
+      "lat": 47.204017,
+      "lng": 26.358102,
+      "nume": "MOL",
+      "oras": "Târgu Neamț",
+      "adresa": "Strada Mihai Eminescu"
+    },
+    {
+      "lat": 45.308251,
+      "lng": 21.879872,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755187,
+      "lng": 23.586022,
+      "nume": "MOL",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Observatorului"
+    },
+    {
+      "lat": 46.486816,
+      "lng": 24.097306,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.750538,
+      "lng": 23.593616,
+      "nume": "MOL",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Turzii 158"
+    },
+    {
+      "lat": 46.355759,
+      "lng": 25.797844,
+      "nume": "MOL",
+      "oras": "Miercurea Ciuc",
+      "adresa": "Calea Brașovului"
+    },
+    {
+      "lat": 43.999876,
+      "lng": 22.972938,
+      "nume": "MOL",
+      "oras": "Calafat",
+      "adresa": "Calea Craiovei 172"
+    },
+    {
+      "lat": 44.015697,
+      "lng": 28.642832,
+      "nume": "MOL",
+      "oras": "Eforie Sud",
+      "adresa": null
+    },
+    {
+      "lat": 46.023652,
+      "lng": 25.262032,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434289,
+      "lng": 25.986431,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 205-211"
+    },
+    {
+      "lat": 44.434194,
+      "lng": 25.986612,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 205-211"
+    },
+    {
+      "lat": 44.432007,
+      "lng": 26.033729,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Lujerului"
+    },
+    {
+      "lat": 44.444994,
+      "lng": 26.074667,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Dinicu Golescu 29"
+    },
+    {
+      "lat": 44.301373,
+      "lng": 23.798477,
+      "nume": "MOL",
+      "oras": "Craiova",
+      "adresa": "Calea Unirii 206"
+    },
+    {
+      "lat": 45.959906,
+      "lng": 23.549458,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.164628,
+      "lng": 26.817803,
+      "nume": "MOL",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Unirii"
+    },
+    {
+      "lat": 45.947612,
+      "lng": 23.585898,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.713041,
+      "lng": 25.567012,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.318996,
+      "lng": 25.305965,
+      "nume": "MOL",
+      "oras": "Odorheiu Secuiesc",
+      "adresa": "Strada Nicolae Bălcescu 89/K"
+    },
+    {
+      "lat": 44.382135,
+      "lng": 26.133009,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Măriuca 53-57"
+    },
+    {
+      "lat": 44.440244,
+      "lng": 24.372422,
+      "nume": "MOL",
+      "oras": "Slatina",
+      "adresa": "Strada Pitești 165"
+    },
+    {
+      "lat": 46.572755,
+      "lng": 26.915382,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.423791,
+      "lng": 25.998457,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Strada Valea Cascadelor 26"
+    },
+    {
+      "lat": 44.423837,
+      "lng": 25.998658,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Valea Cascadelor 26"
+    },
+    {
+      "lat": 46.160404,
+      "lng": 24.353984,
+      "nume": "MOL",
+      "oras": "Mediaș",
+      "adresa": null
+    },
+    {
+      "lat": 44.492117,
+      "lng": 26.12698,
+      "nume": "MOL",
+      "oras": "Voluntari",
+      "adresa": "Șoseaua București Nord 20"
+    },
+    {
+      "lat": 45.335322,
+      "lng": 21.863312,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.633753,
+      "lng": 25.63688,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.919536,
+      "lng": 25.452755,
+      "nume": "MOL",
+      "oras": "Târgoviște",
+      "adresa": "Strada Colonel Dumitru Băltărețu 74"
+    },
+    {
+      "lat": 45.759236,
+      "lng": 22.914528,
+      "nume": "MOL",
+      "oras": "Hunedoara",
+      "adresa": "Strada Avram Iancu 20"
+    },
+    {
+      "lat": 47.115058,
+      "lng": 21.805547,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.093242,
+      "lng": 21.869845,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.150204,
+      "lng": 24.517949,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.515727,
+      "lng": 26.016224,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua Odăii 425-431"
+    },
+    {
+      "lat": 44.486868,
+      "lng": 26.092437,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Nicolae G. Caramfil 76-80"
+    },
+    {
+      "lat": 44.431813,
+      "lng": 26.03363,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Strada Lujerului"
+    },
+    {
+      "lat": 46.587487,
+      "lng": 23.758486,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.758737,
+      "lng": 23.55817,
+      "nume": "MOL",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Almașului"
+    },
+    {
+      "lat": 47.81259,
+      "lng": 22.852562,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.414601,
+      "lng": 26.079017,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Strada Progresului 154"
+    },
+    {
+      "lat": 44.394742,
+      "lng": 26.119966,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 83A"
+    },
+    {
+      "lat": 44.94119,
+      "lng": 25.458589,
+      "nume": "MOL",
+      "oras": "Târgoviște",
+      "adresa": "Strada Mihai Bravu"
+    },
+    {
+      "lat": 44.49509,
+      "lng": 26.003,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 242C"
+    },
+    {
+      "lat": 44.517059,
+      "lng": 26.239122,
+      "nume": "MOL",
+      "oras": "Afumați",
+      "adresa": "Șoseaua București Urziceni"
+    },
+    {
+      "lat": 44.431634,
+      "lng": 26.110941,
+      "nume": "MOL",
+      "oras": "București",
+      "adresa": "Bulevardul Corneliu Coposu 14"
+    },
+    {
+      "lat": 45.700978,
+      "lng": 24.249388,
+      "nume": "MOL",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 46.595625,
+      "lng": 24.629182,
+      "nume": "MOL",
+      "oras": "Ernei",
+      "adresa": "Principală 630B"
+    },
+    {
+      "lat": 45.813446,
+      "lng": 21.263499,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.840222,
+      "lng": 24.985882,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.082516,
+      "lng": 21.920601,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.433692,
+      "lng": 26.041567,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 15B"
+    },
+    {
+      "lat": 46.260088,
+      "lng": 26.767794,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.994061,
+      "lng": 26.120045,
+      "nume": "MOL",
+      "oras": "Târgu Secuiesc",
+      "adresa": "Strada Cernat"
+    },
+    {
+      "lat": 46.155209,
+      "lng": 21.433611,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.94759,
+      "lng": 22.651275,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.94819,
+      "lng": 22.654755,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.614559,
+      "lng": 22.698495,
+      "nume": "MOL",
+      "oras": "Șimian",
+      "adresa": null
+    },
+    {
+      "lat": 45.127673,
+      "lng": 26.763441,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.940159,
+      "lng": 25.972208,
+      "nume": "MOL",
+      "oras": "Blejoi",
+      "adresa": "Strada Gheorghe Gr. Cantacuzino"
+    },
+    {
+      "lat": 44.564066,
+      "lng": 27.33964,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.173071,
+      "lng": 21.375215,
+      "nume": "MOL",
+      "oras": "Arad",
+      "adresa": "Calea Radnei 294"
+    },
+    {
+      "lat": 46.201375,
+      "lng": 21.292038,
+      "nume": "MOL",
+      "oras": "Arad",
+      "adresa": "Calea Aurel Vlaicu 244-246"
+    },
+    {
+      "lat": 46.772616,
+      "lng": 23.606342,
+      "nume": "MOL",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Dorobanților 58-60"
+    },
+    {
+      "lat": 47.719674,
+      "lng": 24.389282,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.080943,
+      "lng": 23.573447,
+      "nume": "MOL",
+      "oras": "Alba Iulia",
+      "adresa": "Strada Gheorghe Șincai 4"
+    },
+    {
+      "lat": 44.341493,
+      "lng": 26.164432,
+      "nume": "MOL Partener",
+      "oras": "Berceni",
+      "adresa": "Bulevardul 1 Mai 1"
+    },
+    {
+      "lat": 47.650677,
+      "lng": 23.54846,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.527657,
+      "lng": 24.542864,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.491983,
+      "lng": 26.126933,
+      "nume": "MOL Shop",
+      "oras": "Voluntari",
+      "adresa": "Șoseaua București Nord 20"
+    },
+    {
+      "lat": 45.752602,
+      "lng": 25.589407,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.30814,
+      "lng": 24.298442,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.280305,
+      "lng": 25.058298,
+      "nume": "Mol",
+      "oras": "Câmpulung",
+      "adresa": "Strada Alexandru cel Bun 1A"
+    },
+    {
+      "lat": 46.744461,
+      "lng": 23.457992,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.785816,
+      "lng": 21.218495,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.259989,
+      "lng": 26.767963,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.03574,
+      "lng": 21.987919,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.769512,
+      "lng": 21.222769,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.548806,
+      "lng": 25.872527,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.182343,
+      "lng": 27.468415,
+      "nume": "Mol Metro",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.389253,
+      "lng": 23.373422,
+      "nume": "MOL",
+      "oras": "Petroșani",
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 45.413358,
+      "lng": 23.369145,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.468744,
+      "lng": 25.955608,
+      "nume": "MOL",
+      "oras": "Chitila",
+      "adresa": "Șoseaua de Centură"
+    },
+    {
+      "lat": 47.798011,
+      "lng": 22.9004,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.415532,
+      "lng": 26.114156,
+      "nume": "Fresh Corner",
+      "oras": "București",
+      "adresa": "Calea Văcărești 132-134"
+    },
+    {
+      "lat": 45.369687,
+      "lng": 25.542483,
+      "nume": "MOL",
+      "oras": "Sinaia",
+      "adresa": "Bulevardul Ferdinand"
+    },
+    {
+      "lat": 45.821228,
+      "lng": 24.151938,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434656,
+      "lng": 26.044192,
+      "nume": "MOL Shop",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 8"
+    },
+    {
+      "lat": 46.917229,
+      "lng": 24.821333,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.151955,
+      "lng": 28.355385,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.14882,
+      "lng": 28.357211,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.940857,
+      "lng": 22.645443,
+      "nume": "MOL",
+      "oras": "Ilia",
+      "adresa": null
+    },
+    {
+      "lat": 44.360773,
+      "lng": 26.148829,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.70357,
+      "lng": 27.204615,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.655935,
+      "lng": 26.260783,
+      "nume": "MOL",
+      "oras": "Suceava",
+      "adresa": null
+    },
+    {
+      "lat": 44.200435,
+      "lng": 27.336321,
+      "nume": "MOL",
+      "oras": null,
+      "adresa": "Strada Sloboziei"
+    },
+    {
+      "lat": 46.087865,
+      "lng": 23.592044,
+      "nume": "MOL",
+      "oras": "Alba Iulia",
+      "adresa": null
+    }
+  ]
+}

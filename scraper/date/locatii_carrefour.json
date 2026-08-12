@@ -1,0 +1,2662 @@
+{
+  "brand": "Carrefour",
+  "wikidata_id": "Q217599",
+  "total": 379,
+  "cu_oras": 221,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 45.640967,
+      "lng": 25.61687,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 46.170312,
+      "lng": 21.351111,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.75059,
+      "lng": 23.534226,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.432798,
+      "lng": 28.05143,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.166603,
+      "lng": 27.513084,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": "121"
+    },
+    {
+      "lat": 44.477991,
+      "lng": 26.094344,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Strada Zăgazului 13"
+    },
+    {
+      "lat": 45.763693,
+      "lng": 25.640949,
+      "nume": "Carrefour",
+      "oras": "Bod",
+      "adresa": null
+    },
+    {
+      "lat": 45.732897,
+      "lng": 23.025699,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Strada Independenței 17"
+    },
+    {
+      "lat": 44.941506,
+      "lng": 26.026677,
+      "nume": "Carrefour Express",
+      "oras": "Ploiești",
+      "adresa": "Strada Basarabilor 6"
+    },
+    {
+      "lat": 45.794595,
+      "lng": 24.150579,
+      "nume": "Carrefour Express",
+      "oras": "Sibiu",
+      "adresa": "Strada Nicolae Bălcescu"
+    },
+    {
+      "lat": 44.427951,
+      "lng": 24.370765,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.757073,
+      "lng": 22.905114,
+      "nume": "Carrefour Express",
+      "oras": "Hunedoara",
+      "adresa": "Bulevardul Dacia 6 Bis"
+    },
+    {
+      "lat": 44.374227,
+      "lng": 26.120416,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Bulevardul Metalurgiei 12-18"
+    },
+    {
+      "lat": 45.79768,
+      "lng": 24.152338,
+      "nume": "Carrefour Express",
+      "oras": "Sibiu",
+      "adresa": "Strada Avram Iancu 1 - 3"
+    },
+    {
+      "lat": 47.174515,
+      "lng": 27.547082,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.53545,
+      "lng": 24.583302,
+      "nume": "Carrefour Market",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 217"
+    },
+    {
+      "lat": 47.927468,
+      "lng": 23.896656,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Strada 1 Decembrie 1918 23A"
+    },
+    {
+      "lat": 47.13362,
+      "lng": 24.486472,
+      "nume": "Carrefour Market",
+      "oras": "Bistrița",
+      "adresa": "Strada Gării 48"
+    },
+    {
+      "lat": 44.423267,
+      "lng": 26.134287,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Strada Traian Popovici"
+    },
+    {
+      "lat": 46.754834,
+      "lng": 23.578076,
+      "nume": "Carrefour Market",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Louis Pasteur 75"
+    },
+    {
+      "lat": 44.941306,
+      "lng": 26.020749,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.162878,
+      "lng": 27.564335,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Piața Voievozilor 1"
+    },
+    {
+      "lat": 44.417119,
+      "lng": 26.028211,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Strada Chilia Veche 2"
+    },
+    {
+      "lat": 44.430284,
+      "lng": 26.165868,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.42875,
+      "lng": 26.167664,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Aleea Barajul Dunării 12A"
+    },
+    {
+      "lat": 44.919574,
+      "lng": 25.451048,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.765186,
+      "lng": 21.218149,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Strada Burebista"
+    },
+    {
+      "lat": 47.161449,
+      "lng": 27.590361,
+      "nume": "Carrefour Market",
+      "oras": "Iași",
+      "adresa": "Strada Anastasie Panu 46"
+    },
+    {
+      "lat": 47.155374,
+      "lng": 27.605494,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755018,
+      "lng": 23.560333,
+      "nume": "Carrefour Market",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.482163,
+      "lng": 26.092033,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.434429,
+      "lng": 26.019653,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 140-142"
+    },
+    {
+      "lat": 44.44843,
+      "lng": 26.098859,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Calea Dorobanților 31-33"
+    },
+    {
+      "lat": 44.926198,
+      "lng": 26.028541,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.426777,
+      "lng": 28.017646,
+      "nume": "Carrefour Express",
+      "oras": "Galați",
+      "adresa": null
+    },
+    {
+      "lat": 46.530708,
+      "lng": 24.555889,
+      "nume": "Carrefour Market",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1848 46A"
+    },
+    {
+      "lat": 47.459258,
+      "lng": 26.301899,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.040561,
+      "lng": 21.903624,
+      "nume": "Carrefour",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 44.506735,
+      "lng": 26.137054,
+      "nume": "Carrefour Market",
+      "oras": "Pipera",
+      "adresa": "Bulevardul Pipera 17"
+    },
+    {
+      "lat": 44.303376,
+      "lng": 23.795373,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.43593,
+      "lng": 28.05607,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Strada Domnească 24"
+    },
+    {
+      "lat": 45.755325,
+      "lng": 21.230663,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Strada Carol Telbisz 3"
+    },
+    {
+      "lat": 44.085665,
+      "lng": 26.639347,
+      "nume": "Carrefour Market",
+      "oras": "Oltenița",
+      "adresa": "Strada Cuza Vodă 131"
+    },
+    {
+      "lat": 47.036799,
+      "lng": 21.950941,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.644417,
+      "lng": 25.623598,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.163201,
+      "lng": 26.818243,
+      "nume": "Carrefour",
+      "oras": "Buzău",
+      "adresa": null
+    },
+    {
+      "lat": 44.44416,
+      "lng": 26.130483,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Bulevardul Ferdinand I 118"
+    },
+    {
+      "lat": 44.41463,
+      "lng": 26.105208,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Gheorghe Șincai 1"
+    },
+    {
+      "lat": 44.422893,
+      "lng": 26.138786,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": "Strada Dristorului 91-95"
+    },
+    {
+      "lat": 44.443226,
+      "lng": 26.158634,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon 249"
+    },
+    {
+      "lat": 44.94699,
+      "lng": 26.032165,
+      "nume": "Carrefour",
+      "oras": "Ploiești",
+      "adresa": "Strada Calomfirescu 2"
+    },
+    {
+      "lat": 45.45076,
+      "lng": 28.031309,
+      "nume": "Carrefour",
+      "oras": "Galați",
+      "adresa": "Bulevardul George Coșbuc 251"
+    },
+    {
+      "lat": 44.628365,
+      "lng": 22.652878,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.68322,
+      "lng": 21.901364,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.42733,
+      "lng": 26.066075,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Șoseaua Panduri 71"
+    },
+    {
+      "lat": 46.539741,
+      "lng": 24.557665,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649552,
+      "lng": 25.634745,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 46.773004,
+      "lng": 23.5898,
+      "nume": "Carrefour Market",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.43461,
+      "lng": 26.037857,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 16"
+    },
+    {
+      "lat": 44.966913,
+      "lng": 25.97193,
+      "nume": "Carrefour",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 45.142661,
+      "lng": 26.809435,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Bulevardul Unirii"
+    },
+    {
+      "lat": 47.665388,
+      "lng": 26.266611,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.179876,
+      "lng": 21.321892,
+      "nume": "Carrefour Market",
+      "oras": "Arad",
+      "adresa": "Bulevardul Revoluției 39-41"
+    },
+    {
+      "lat": 44.418269,
+      "lng": 26.072177,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian 88"
+    },
+    {
+      "lat": 47.143535,
+      "lng": 27.577371,
+      "nume": "Carrefour Market",
+      "oras": "Iași",
+      "adresa": "Strada Sălciilor 8, bl 828"
+    },
+    {
+      "lat": 45.023786,
+      "lng": 23.264523,
+      "nume": "Carrefour",
+      "oras": "Târgu Jiu",
+      "adresa": "Strada Termocentralei"
+    },
+    {
+      "lat": 44.632874,
+      "lng": 22.672796,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.211543,
+      "lng": 28.624707,
+      "nume": "Carrefour Market",
+      "oras": "Constanța",
+      "adresa": "Strada Cișmelei"
+    },
+    {
+      "lat": 46.536579,
+      "lng": 24.591154,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.381721,
+      "lng": 26.116052,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Obregia 31"
+    },
+    {
+      "lat": 45.650794,
+      "lng": 25.616684,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.65768,
+      "lng": 25.597961,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.657717,
+      "lng": 25.61243,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Victoriei 4"
+    },
+    {
+      "lat": 45.349712,
+      "lng": 25.549145,
+      "nume": "Carrefour Market",
+      "oras": "Sinaia",
+      "adresa": "Bulevardul Carol I 41"
+    },
+    {
+      "lat": 45.653966,
+      "lng": 25.603366,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.045437,
+      "lng": 23.276121,
+      "nume": "Carrefour Market",
+      "oras": "Târgu Jiu",
+      "adresa": "Bulevardul Ecaterina Teodoroiu 19"
+    },
+    {
+      "lat": 45.150669,
+      "lng": 26.81879,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153069,
+      "lng": 26.821808,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.65353,
+      "lng": 25.625074,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Alexandru Vlahuță 10"
+    },
+    {
+      "lat": 45.500557,
+      "lng": 25.573907,
+      "nume": "Carrefour Market",
+      "oras": "Predeal",
+      "adresa": "Bulevardul Mihail Săulescu 111"
+    },
+    {
+      "lat": 44.178847,
+      "lng": 28.63631,
+      "nume": "Carrefour Market",
+      "oras": "Constanța",
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 44.208188,
+      "lng": 28.622677,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.726145,
+      "lng": 21.197991,
+      "nume": "Carrefour",
+      "oras": "Timișoara",
+      "adresa": "Calea Șagului 100"
+    },
+    {
+      "lat": 46.753759,
+      "lng": 23.58449,
+      "nume": "Carrefour Express",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Observatorului 109A"
+    },
+    {
+      "lat": 45.101779,
+      "lng": 24.362582,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.734677,
+      "lng": 21.246383,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Strada Uranus 9"
+    },
+    {
+      "lat": 45.1689,
+      "lng": 28.796657,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.745992,
+      "lng": 21.240296,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Eroilor de la Tisa 22"
+    },
+    {
+      "lat": 44.441155,
+      "lng": 26.153583,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Bulevardul Pierre de Coubertin 3-5"
+    },
+    {
+      "lat": 45.75837,
+      "lng": 21.208848,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Cetății 1A"
+    },
+    {
+      "lat": 45.776645,
+      "lng": 24.156753,
+      "nume": "Carrefour Express",
+      "oras": "Sibiu",
+      "adresa": "Strada Rahovei 45"
+    },
+    {
+      "lat": 44.460265,
+      "lng": 26.127077,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Strada Teiul Doamnei 14"
+    },
+    {
+      "lat": 46.571463,
+      "lng": 26.89852,
+      "nume": "Carrefour Market",
+      "oras": "Bacău",
+      "adresa": "Strada Mioriței 27"
+    },
+    {
+      "lat": 45.654312,
+      "lng": 25.62469,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.166616,
+      "lng": 27.547384,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": "Bulevardul Dacia"
+    },
+    {
+      "lat": 46.759364,
+      "lng": 23.614376,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.742343,
+      "lng": 26.667472,
+      "nume": "Carrefour Market",
+      "oras": "Botoșani",
+      "adresa": "Strada Armeană 2"
+    },
+    {
+      "lat": 47.745715,
+      "lng": 26.6524,
+      "nume": "Carrefour Express",
+      "oras": "Botoșani",
+      "adresa": "Bulevardul Mihai Eminescu"
+    },
+    {
+      "lat": 44.451835,
+      "lng": 26.13095,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 45.756478,
+      "lng": 21.222906,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Strada Coriolan Brediceanu 6"
+    },
+    {
+      "lat": 44.428753,
+      "lng": 24.362952,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.923626,
+      "lng": 26.378994,
+      "nume": "Carrefour Market",
+      "oras": "Piatra Neamț",
+      "adresa": "Bulevardul Traian 82"
+    },
+    {
+      "lat": 47.153075,
+      "lng": 27.570071,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.933716,
+      "lng": 26.347144,
+      "nume": "Carrefour",
+      "oras": "Piatra Neamț",
+      "adresa": null
+    },
+    {
+      "lat": 46.768013,
+      "lng": 23.602896,
+      "nume": "Carrefour Express",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.479436,
+      "lng": 26.105343,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Strada Gara Herăstrău 4C"
+    },
+    {
+      "lat": 45.412033,
+      "lng": 22.216987,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.32117,
+      "lng": 21.878868,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Bulevardul Republicii 5-7"
+    },
+    {
+      "lat": 45.102609,
+      "lng": 24.362747,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.572605,
+      "lng": 23.78469,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.749405,
+      "lng": 26.642975,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.196065,
+      "lng": 28.632927,
+      "nume": "Carrefour Market",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 235"
+    },
+    {
+      "lat": 44.382815,
+      "lng": 26.102946,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Strada Uioara 15"
+    },
+    {
+      "lat": 44.478931,
+      "lng": 26.103253,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 45.84243,
+      "lng": 24.972728,
+      "nume": "Carrefour Market",
+      "oras": "Făgăraș",
+      "adresa": null
+    },
+    {
+      "lat": 44.568539,
+      "lng": 26.077871,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.651796,
+      "lng": 25.620821,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": "Strada Ion Creangă 17"
+    },
+    {
+      "lat": 44.322026,
+      "lng": 23.82175,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": "Strada Nicolae Iorga 122-124"
+    },
+    {
+      "lat": 44.336864,
+      "lng": 28.035787,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649526,
+      "lng": 25.621667,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.320341,
+      "lng": 28.60894,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.644602,
+      "lng": 25.589712,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.454704,
+      "lng": 26.098109,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Calea Dorobanților 102-110"
+    },
+    {
+      "lat": 47.050431,
+      "lng": 21.937578,
+      "nume": "Carrefour Market",
+      "oras": "Oradea",
+      "adresa": "Piața Cetății 1"
+    },
+    {
+      "lat": 44.636947,
+      "lng": 22.632311,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.188505,
+      "lng": 21.303307,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.111517,
+      "lng": 24.379978,
+      "nume": "Carrefour",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Ferdinand 38A"
+    },
+    {
+      "lat": 44.453125,
+      "lng": 26.049626,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Calea Crângași 29"
+    },
+    {
+      "lat": 45.033574,
+      "lng": 25.849424,
+      "nume": "Carrefour Market",
+      "oras": "Băicoi",
+      "adresa": "Strada Republicii"
+    },
+    {
+      "lat": 46.757623,
+      "lng": 23.546638,
+      "nume": "Carrefour Express",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Florești 82"
+    },
+    {
+      "lat": 46.778751,
+      "lng": 23.615447,
+      "nume": "Carrefour Express",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 47.155305,
+      "lng": 27.62582,
+      "nume": "Carrefour Market",
+      "oras": "Iași",
+      "adresa": "Strada Ciurchi 148"
+    },
+    {
+      "lat": 44.963178,
+      "lng": 26.150036,
+      "nume": "Carrefour Market",
+      "oras": "Valea Călugărească",
+      "adresa": null
+    },
+    {
+      "lat": 45.147708,
+      "lng": 26.813658,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.263993,
+      "lng": 21.636211,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.170065,
+      "lng": 21.315427,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.877052,
+      "lng": 22.905555,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.14439,
+      "lng": 24.507745,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.927191,
+      "lng": 25.461536,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.934224,
+      "lng": 25.988961,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.937817,
+      "lng": 26.923416,
+      "nume": "Carrefour",
+      "oras": "Roman",
+      "adresa": "Strada Mihai Viteazul 3"
+    },
+    {
+      "lat": 47.784897,
+      "lng": 22.868408,
+      "nume": "Carrefour",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 47.646411,
+      "lng": 23.538065,
+      "nume": "Carrefour",
+      "oras": "Baia Mare",
+      "adresa": "Bulevardul București 51-53"
+    },
+    {
+      "lat": 44.432266,
+      "lng": 24.373401,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.649869,
+      "lng": 23.566314,
+      "nume": "Carrefour Express",
+      "oras": "Baia Mare",
+      "adresa": "Bulevardul Traian 3"
+    },
+    {
+      "lat": 44.421373,
+      "lng": 26.150851,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.948264,
+      "lng": 26.00812,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.288197,
+      "lng": 21.887265,
+      "nume": "Carrefour Market",
+      "oras": "Reșița",
+      "adresa": "Piața 1 Decembrie 1918 1"
+    },
+    {
+      "lat": 44.857484,
+      "lng": 24.871811,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.230433,
+      "lng": 27.938565,
+      "nume": "Carrefour",
+      "oras": "Vărsătura",
+      "adresa": "Strada Principală"
+    },
+    {
+      "lat": 45.442724,
+      "lng": 28.021483,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.178759,
+      "lng": 28.650527,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.98922,
+      "lng": 21.980064,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.271921,
+      "lng": 27.967281,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.757413,
+      "lng": 21.249439,
+      "nume": "Carrefour Express",
+      "oras": "Timișoara",
+      "adresa": "Strada Ștefan cel Mare 1"
+    },
+    {
+      "lat": 47.062237,
+      "lng": 21.937787,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.316729,
+      "lng": 23.816302,
+      "nume": "Carrefour Market",
+      "oras": "Craiova",
+      "adresa": "Calea București 42-44"
+    },
+    {
+      "lat": 44.363352,
+      "lng": 26.129584,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Metalurgiei 132"
+    },
+    {
+      "lat": 46.751484,
+      "lng": 23.522199,
+      "nume": "Carrefour Express",
+      "oras": "Florești",
+      "adresa": "Strada Avram Iancu 454"
+    },
+    {
+      "lat": 47.202451,
+      "lng": 23.057068,
+      "nume": "Carrefour",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul"
+    },
+    {
+      "lat": 44.434106,
+      "lng": 25.999701,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 244J"
+    },
+    {
+      "lat": 45.659393,
+      "lng": 25.606622,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.439651,
+      "lng": 26.079908,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Strada Știrbei Vodă 160"
+    },
+    {
+      "lat": 44.480122,
+      "lng": 26.116867,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Strada George Constantinescu 4B"
+    },
+    {
+      "lat": 44.510057,
+      "lng": 26.088672,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.437782,
+      "lng": 25.960117,
+      "nume": "Carrefour",
+      "oras": "Chiajna",
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 44.203321,
+      "lng": 28.631075,
+      "nume": "Carrefour",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Alexandru Lăpușneanu 116C"
+    },
+    {
+      "lat": 47.126162,
+      "lng": 27.566709,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434486,
+      "lng": 26.028449,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 78-80"
+    },
+    {
+      "lat": 46.930573,
+      "lng": 26.362806,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.547421,
+      "lng": 26.914311,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.528003,
+      "lng": 24.595629,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.577835,
+      "lng": 26.909481,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.531689,
+      "lng": 26.169588,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.910634,
+      "lng": 25.464656,
+      "nume": "Carrefour",
+      "oras": "Târgoviște",
+      "adresa": "Bulevardul Regele Ferdinand"
+    },
+    {
+      "lat": 45.705026,
+      "lng": 27.207344,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.6435,
+      "lng": 25.597729,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.493658,
+      "lng": 26.015513,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 284"
+    },
+    {
+      "lat": 45.777671,
+      "lng": 21.235622,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Strada Perlei 16A"
+    },
+    {
+      "lat": 44.444362,
+      "lng": 26.007034,
+      "nume": "Carrefour Express",
+      "oras": "Roșu",
+      "adresa": "Strada Drumul Bacriului"
+    },
+    {
+      "lat": 47.181298,
+      "lng": 27.515567,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649021,
+      "lng": 25.610729,
+      "nume": "Carrefour",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 45.03879,
+      "lng": 23.270911,
+      "nume": "Carrefour Market",
+      "oras": "Târgu Jiu",
+      "adresa": "Calea Eroilor 6"
+    },
+    {
+      "lat": 45.03681,
+      "lng": 23.267441,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.443343,
+      "lng": 25.983287,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": "Strada Tineretului 17"
+    },
+    {
+      "lat": 45.869206,
+      "lng": 25.799685,
+      "nume": "Carrefour",
+      "oras": "Sfântu Gheorghe",
+      "adresa": null
+    },
+    {
+      "lat": 45.258753,
+      "lng": 24.32879,
+      "nume": "Carrefour Market",
+      "oras": "Căciulata",
+      "adresa": null
+    },
+    {
+      "lat": 46.753955,
+      "lng": 23.388931,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.772118,
+      "lng": 21.216399,
+      "nume": "Carrefour Express",
+      "oras": "Timișoara",
+      "adresa": "Calea Torontalului 53"
+    },
+    {
+      "lat": 44.456341,
+      "lng": 26.080356,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 40"
+    },
+    {
+      "lat": 45.789978,
+      "lng": 24.153085,
+      "nume": "Carrefour Express",
+      "oras": "Sibiu",
+      "adresa": "Strada Revoluției 1"
+    },
+    {
+      "lat": 46.730592,
+      "lng": 23.487073,
+      "nume": "Carrefour Express",
+      "oras": "FLoresti",
+      "adresa": "Strada Stejarului 35"
+    },
+    {
+      "lat": 46.73667,
+      "lng": 23.489713,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.43771,
+      "lng": 26.18659,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Șoseaua Vergului 20"
+    },
+    {
+      "lat": 46.770192,
+      "lng": 23.596667,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.928748,
+      "lng": 26.038324,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.244396,
+      "lng": 27.682478,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778472,
+      "lng": 23.618238,
+      "nume": "Carrefour Express",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Aurel Vlaicu 8"
+    },
+    {
+      "lat": 46.748225,
+      "lng": 23.519529,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.65049,
+      "lng": 25.604641,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": "Strada Iuliu Maniu 43"
+    },
+    {
+      "lat": 47.172882,
+      "lng": 27.558848,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "2"
+    },
+    {
+      "lat": 44.45148,
+      "lng": 26.086102,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Piața Victoriei 155"
+    },
+    {
+      "lat": 45.665711,
+      "lng": 25.563878,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.73346,
+      "lng": 21.20163,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.144571,
+      "lng": 27.611452,
+      "nume": "Carrefour",
+      "oras": "Iași",
+      "adresa": "Strada Bucium 36"
+    },
+    {
+      "lat": 44.428929,
+      "lng": 26.041163,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 16B"
+    },
+    {
+      "lat": 46.7763,
+      "lng": 23.629328,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.657862,
+      "lng": 25.601697,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.175682,
+      "lng": 28.642917,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.758998,
+      "lng": 21.243001,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.430865,
+      "lng": 28.047488,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778682,
+      "lng": 23.60426,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.637101,
+      "lng": 27.723823,
+      "nume": "Carrefour Market",
+      "oras": "Vaslui",
+      "adresa": "Strada Traian"
+    },
+    {
+      "lat": 46.640448,
+      "lng": 27.73372,
+      "nume": "Carrefour Market",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 44.860394,
+      "lng": 24.870972,
+      "nume": "Carrefour Express",
+      "oras": "Pitești",
+      "adresa": null
+    },
+    {
+      "lat": 46.534288,
+      "lng": 26.918619,
+      "nume": "Carrefour Market",
+      "oras": "Bacău",
+      "adresa": "Calea Republicii"
+    },
+    {
+      "lat": 44.462042,
+      "lng": 26.073214,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 106"
+    },
+    {
+      "lat": 44.411587,
+      "lng": 26.197372,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Drumul Gura Crivățului"
+    },
+    {
+      "lat": 44.638046,
+      "lng": 22.676927,
+      "nume": "Carrefour",
+      "oras": "Drobeta-Turnu Severin",
+      "adresa": "Aleea Constructorilor 1"
+    },
+    {
+      "lat": 44.423584,
+      "lng": 26.072097,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.427394,
+      "lng": 26.099449,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.437177,
+      "lng": 26.099161,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 46.072495,
+      "lng": 23.55855,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.641412,
+      "lng": 25.636174,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Saturn 31A"
+    },
+    {
+      "lat": 45.427937,
+      "lng": 28.033521,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.389284,
+      "lng": 26.062914,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Șoseaua Sălaj 315-323"
+    },
+    {
+      "lat": 46.562392,
+      "lng": 26.922072,
+      "nume": "Carrefour",
+      "oras": "Bacău",
+      "adresa": "Strada Milcov 2-4"
+    },
+    {
+      "lat": 44.482854,
+      "lng": 26.073058,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Strada Menuetului 12"
+    },
+    {
+      "lat": 46.744187,
+      "lng": 23.590903,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.475541,
+      "lng": 26.161081,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 426-426A"
+    },
+    {
+      "lat": 47.056806,
+      "lng": 21.931636,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.777196,
+      "lng": 24.167385,
+      "nume": "Carrefour",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 44.484097,
+      "lng": 26.108975,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Șoseaua Pipera 61"
+    },
+    {
+      "lat": 45.783975,
+      "lng": 24.132321,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755332,
+      "lng": 23.598598,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.085404,
+      "lng": 23.593949,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.674155,
+      "lng": 25.59982,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": "Strada Ștefan Baciu 64"
+    },
+    {
+      "lat": 44.437017,
+      "lng": 25.964075,
+      "nume": "Carrefour",
+      "oras": "Chiajna",
+      "adresa": "Autostrada A1"
+    },
+    {
+      "lat": 44.436258,
+      "lng": 25.963482,
+      "nume": "Carrefour",
+      "oras": "Domnești",
+      "adresa": "Autostrada A1"
+    },
+    {
+      "lat": 44.43692,
+      "lng": 25.95364,
+      "nume": "Carrefour",
+      "oras": "Domnești",
+      "adresa": "Autostrada A1"
+    },
+    {
+      "lat": 46.191755,
+      "lng": 21.316739,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755668,
+      "lng": 23.561936,
+      "nume": "Carrefour Express",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Izlazului 6"
+    },
+    {
+      "lat": 44.330618,
+      "lng": 23.771406,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.160099,
+      "lng": 28.62818,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.753999,
+      "lng": 23.555067,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.761321,
+      "lng": 23.613842,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": "Strada Septimiu Albini 142"
+    },
+    {
+      "lat": 44.53082,
+      "lng": 26.143238,
+      "nume": "Carrefour Express",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Pipera 200A"
+    },
+    {
+      "lat": 46.780645,
+      "lng": 23.613565,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.665579,
+      "lng": 25.599345,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.070641,
+      "lng": 21.919983,
+      "nume": "Carrefour",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 44.441244,
+      "lng": 26.056617,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": "Strada Economu Cezărescu 40"
+    },
+    {
+      "lat": 44.426786,
+      "lng": 26.061492,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Strada Sergent Ion Nuțu 44"
+    },
+    {
+      "lat": 44.433076,
+      "lng": 26.037502,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 19"
+    },
+    {
+      "lat": 45.775443,
+      "lng": 21.239173,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.30726,
+      "lng": 23.792731,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.169139,
+      "lng": 28.611697,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.650746,
+      "lng": 25.626161,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.41542,
+      "lng": 26.045001,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Bulevardul Ghencea 34"
+    },
+    {
+      "lat": 44.537943,
+      "lng": 26.168153,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.619081,
+      "lng": 25.637102,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.668478,
+      "lng": 25.620476,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.163086,
+      "lng": 27.614109,
+      "nume": "Carrefour Express",
+      "oras": "Iași",
+      "adresa": "Stradela Ciric 24"
+    },
+    {
+      "lat": 44.359075,
+      "lng": 26.133969,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 47.156604,
+      "lng": 27.580597,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.450309,
+      "lng": 26.072142,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Strada Petru Rareș 12"
+    },
+    {
+      "lat": 44.873504,
+      "lng": 24.840929,
+      "nume": "Carrefour Express",
+      "oras": "Pitești",
+      "adresa": null
+    },
+    {
+      "lat": 44.375195,
+      "lng": 26.127578,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Drumul Binelui 7-9"
+    },
+    {
+      "lat": 44.959896,
+      "lng": 24.944307,
+      "nume": "Carrefour Market",
+      "oras": "Mioveni",
+      "adresa": null
+    },
+    {
+      "lat": 44.364994,
+      "lng": 26.153307,
+      "nume": "Carrefour Express",
+      "oras": "Popești-Leordeni",
+      "adresa": "Strada Biruinței 71"
+    },
+    {
+      "lat": 46.740569,
+      "lng": 23.507901,
+      "nume": "Carrefour Express",
+      "oras": "Florești",
+      "adresa": "Strada Abatorului 5"
+    },
+    {
+      "lat": 44.199061,
+      "lng": 28.650212,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.424919,
+      "lng": 28.014785,
+      "nume": "Carrefour Market",
+      "oras": "Galati",
+      "adresa": "Aleea Gorunului 6C"
+    },
+    {
+      "lat": 44.432039,
+      "lng": 24.365697,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.443866,
+      "lng": 26.059555,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Șoseaua Orhideelor 15A"
+    },
+    {
+      "lat": 45.867952,
+      "lng": 22.913738,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.439824,
+      "lng": 26.026555,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.406794,
+      "lng": 26.064483,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.384244,
+      "lng": 26.092631,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.463072,
+      "lng": 26.153891,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.424611,
+      "lng": 26.021672,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.415041,
+      "lng": 26.193466,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.20111,
+      "lng": 27.323264,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.446382,
+      "lng": 26.073711,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Piața Gării de Nord 1-3"
+    },
+    {
+      "lat": 44.371688,
+      "lng": 26.115106,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.562263,
+      "lng": 27.363047,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.53709,
+      "lng": 26.169856,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.739622,
+      "lng": 23.496975,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.75899,
+      "lng": 23.539618,
+      "nume": "Carrefour",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 1 Decembrie 1918 142"
+    },
+    {
+      "lat": 44.555524,
+      "lng": 23.517862,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.151258,
+      "lng": 27.633909,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.463908,
+      "lng": 26.037065,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.486069,
+      "lng": 26.033301,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.362406,
+      "lng": 26.151911,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.63217,
+      "lng": 25.639568,
+      "nume": "Carrefour",
+      "oras": "Brașov",
+      "adresa": "Calea București 107"
+    },
+    {
+      "lat": 44.438809,
+      "lng": 25.95643,
+      "nume": "Carrefour",
+      "oras": "Chiajna",
+      "adresa": "Autostrada Bucuresti - Pitesti km 11-12"
+    },
+    {
+      "lat": 44.329236,
+      "lng": 23.790956,
+      "nume": "Carrefour Market",
+      "oras": "Craiova",
+      "adresa": "Strada Făgăraș 6C"
+    },
+    {
+      "lat": 44.319791,
+      "lng": 23.806483,
+      "nume": "Carrefour Market",
+      "oras": "Craiova",
+      "adresa": "Calea București 51B"
+    },
+    {
+      "lat": 45.653416,
+      "lng": 25.60122,
+      "nume": "Carrefour Express",
+      "oras": "Brașov",
+      "adresa": "Strada Mihai Viteazul 1"
+    },
+    {
+      "lat": 45.419871,
+      "lng": 28.017964,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.727935,
+      "lng": 21.248487,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.459046,
+      "lng": 26.095354,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.276322,
+      "lng": 28.61788,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.159643,
+      "lng": 27.613315,
+      "nume": "Carrefour Express",
+      "oras": "Iași",
+      "adresa": "Strada Han Tătar"
+    },
+    {
+      "lat": 47.002196,
+      "lng": 21.884285,
+      "nume": "Carrefour Market",
+      "oras": "Nojorid",
+      "adresa": "Principala 93"
+    },
+    {
+      "lat": 45.657938,
+      "lng": 25.510023,
+      "nume": "Carrefour Express",
+      "oras": "Ghimbav",
+      "adresa": null
+    },
+    {
+      "lat": 45.733793,
+      "lng": 21.333518,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": "Strada Bisericii 288"
+    },
+    {
+      "lat": 47.17891,
+      "lng": 23.055134,
+      "nume": "Carrefour Market",
+      "oras": "Zalău",
+      "adresa": null
+    },
+    {
+      "lat": 45.430211,
+      "lng": 28.044151,
+      "nume": "Carrefour Express",
+      "oras": "galati",
+      "adresa": "Strada Brăilei 78"
+    },
+    {
+      "lat": 45.267913,
+      "lng": 27.966987,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.741152,
+      "lng": 23.464774,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.438839,
+      "lng": 25.9564,
+      "nume": "Carrefour",
+      "oras": "Chiajna",
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 46.166205,
+      "lng": 24.347056,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.464441,
+      "lng": 26.110071,
+      "nume": "Carrefour Market",
+      "oras": "București",
+      "adresa": "Strada Barbu Văcărescu 154-158"
+    },
+    {
+      "lat": 47.16905,
+      "lng": 27.567957,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Strada Arcu 29"
+    },
+    {
+      "lat": 45.885738,
+      "lng": 22.908696,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.272,
+      "lng": 27.954484,
+      "nume": "Carrefour Market",
+      "oras": "Brăila",
+      "adresa": "Strada Transilvaniei 1-5"
+    },
+    {
+      "lat": 44.926956,
+      "lng": 25.992709,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.786565,
+      "lng": 24.140037,
+      "nume": "Carrefour Market",
+      "oras": "Sibiu",
+      "adresa": "Bulevardul Victoriei 42-44"
+    },
+    {
+      "lat": 45.736304,
+      "lng": 21.244656,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Liviu Rebreanu 160"
+    },
+    {
+      "lat": 45.732838,
+      "lng": 21.212527,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Strada George Ranetti 28"
+    },
+    {
+      "lat": 44.720008,
+      "lng": 22.398899,
+      "nume": "Carrefour Market",
+      "oras": "Orșova",
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 43.808922,
+      "lng": 28.571549,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.105406,
+      "lng": 24.366304,
+      "nume": "Carrefour Market",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada General Gheorghe Magheru"
+    },
+    {
+      "lat": 45.12451,
+      "lng": 25.736592,
+      "nume": "Carrefour Market",
+      "oras": "Câmpina",
+      "adresa": "Strada Republicii 16-18"
+    },
+    {
+      "lat": 45.280242,
+      "lng": 25.057487,
+      "nume": "Carrefour Market",
+      "oras": "Câmpulung",
+      "adresa": "Bulevardul Ion C. Brătianu 8"
+    },
+    {
+      "lat": 45.419921,
+      "lng": 23.369083,
+      "nume": "Carrefour Market",
+      "oras": "Petroșani",
+      "adresa": "Strada Horia 7"
+    },
+    {
+      "lat": 45.409585,
+      "lng": 23.376306,
+      "nume": "Carrefour Market",
+      "oras": "Petroșani",
+      "adresa": "Strada 1 Decembrie 1918 135"
+    },
+    {
+      "lat": 43.906694,
+      "lng": 25.977351,
+      "nume": "Carrefour Market",
+      "oras": "Giurgiu",
+      "adresa": "Strada Constantin Brâncoveanu 88"
+    },
+    {
+      "lat": 46.143923,
+      "lng": 21.333294,
+      "nume": "Carrefour Market",
+      "oras": "Arad",
+      "adresa": null
+    },
+    {
+      "lat": 45.632142,
+      "lng": 25.639462,
+      "nume": "Carrefour",
+      "oras": "Brașov",
+      "adresa": "Calea București 107"
+    },
+    {
+      "lat": 45.61,
+      "lng": 22.950181,
+      "nume": "Carrefour Market",
+      "oras": "Hațeg",
+      "adresa": "Piața Unirii 2"
+    },
+    {
+      "lat": 45.326041,
+      "lng": 21.878839,
+      "nume": "Carrefour Market",
+      "oras": "Reșița",
+      "adresa": "Strada Făgărașului 15"
+    },
+    {
+      "lat": 47.212365,
+      "lng": 27.016239,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.071729,
+      "lng": 20.62939,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.638092,
+      "lng": 25.621026,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": "Strada Zorilor 4"
+    },
+    {
+      "lat": 47.644682,
+      "lng": 23.57923,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.323386,
+      "lng": 28.608592,
+      "nume": "Carrefour Market",
+      "oras": "Năvodari",
+      "adresa": "Strada Albinelor 9"
+    },
+    {
+      "lat": 45.643199,
+      "lng": 25.630824,
+      "nume": "Carrefour Market",
+      "oras": "Brașov",
+      "adresa": "Strada Uranus"
+    },
+    {
+      "lat": 47.130239,
+      "lng": 23.886877,
+      "nume": "Carrefour Market",
+      "oras": "Dej",
+      "adresa": "Strada Unirii 2"
+    },
+    {
+      "lat": 44.427937,
+      "lng": 24.370756,
+      "nume": "Carrefour Market",
+      "oras": "Slatina",
+      "adresa": "Aleea Muncii 2"
+    },
+    {
+      "lat": 46.784661,
+      "lng": 23.588462,
+      "nume": "Carrefour Market",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Gării 1-3"
+    },
+    {
+      "lat": 44.638553,
+      "lng": 22.655224,
+      "nume": "Carrefour Market",
+      "oras": "Drobeta-Turnu Severin",
+      "adresa": "Strada Revoluției 16-22 Dec. 1989"
+    },
+    {
+      "lat": 46.163016,
+      "lng": 21.290487,
+      "nume": "Carrefour Market",
+      "oras": "Arad",
+      "adresa": "Strada Tunarilor 1A"
+    },
+    {
+      "lat": 45.599617,
+      "lng": 25.464317,
+      "nume": "Carrefour Market",
+      "oras": "Râșnov",
+      "adresa": "Calea Brașovului 1"
+    },
+    {
+      "lat": 45.732988,
+      "lng": 23.025663,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.848348,
+      "lng": 23.013521,
+      "nume": "Carrefour Market",
+      "oras": "Simeria",
+      "adresa": "Strada Avram Iancu"
+    },
+    {
+      "lat": 45.112989,
+      "lng": 24.369973,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.320355,
+      "lng": 28.609012,
+      "nume": "Carrefour Market",
+      "oras": "Năvodari",
+      "adresa": "Strada Albinelor 13"
+    },
+    {
+      "lat": 44.477808,
+      "lng": 26.040609,
+      "nume": "Carrefour Express",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 39"
+    },
+    {
+      "lat": 44.42881,
+      "lng": 26.106024,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Bulevardul Corneliu Coposu 2"
+    },
+    {
+      "lat": 44.437356,
+      "lng": 24.37055,
+      "nume": "Carrefour Market",
+      "oras": "Slatina",
+      "adresa": "Strada Cornișei 11C"
+    },
+    {
+      "lat": 45.168816,
+      "lng": 28.796703,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": "Babadag"
+    },
+    {
+      "lat": 47.657671,
+      "lng": 23.562803,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.682245,
+      "lng": 21.904107,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.443309,
+      "lng": 26.158543,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.419353,
+      "lng": 24.384114,
+      "nume": "Carrefour Market",
+      "oras": "Slatina",
+      "adresa": null
+    },
+    {
+      "lat": 44.865567,
+      "lng": 24.923168,
+      "nume": "Carrefour",
+      "oras": "Ștefănești",
+      "adresa": "Strada Coasta Câmpului"
+    },
+    {
+      "lat": 46.739864,
+      "lng": 23.484582,
+      "nume": "Carrefour Market",
+      "oras": "Florești",
+      "adresa": "Strada Eroilor 13"
+    },
+    {
+      "lat": 44.927014,
+      "lng": 25.993217,
+      "nume": "Carrefour grill",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.336991,
+      "lng": 23.769741,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.256962,
+      "lng": 26.778031,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.309716,
+      "lng": 23.819434,
+      "nume": "Carrefour Market",
+      "oras": "Craiova",
+      "adresa": "Strada General Gheorghe Magheru"
+    },
+    {
+      "lat": 44.325577,
+      "lng": 26.177016,
+      "nume": "Carrefour Market",
+      "oras": "Berceni",
+      "adresa": "Bulevardul 1 Mai"
+    },
+    {
+      "lat": 44.948577,
+      "lng": 26.009027,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.213083,
+      "lng": 28.603801,
+      "nume": "Carrefour",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 391"
+    },
+    {
+      "lat": 46.559404,
+      "lng": 24.549208,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.604629,
+      "lng": 26.066873,
+      "nume": "Carrefour",
+      "oras": "Balotești",
+      "adresa": "Calea București 2"
+    },
+    {
+      "lat": 44.444457,
+      "lng": 26.063094,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 47.163149,
+      "lng": 27.604998,
+      "nume": "Carrefour Express",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.714975,
+      "lng": 25.681065,
+      "nume": "Carrefour Express",
+      "oras": "Hărman",
+      "adresa": "Strada Avram Iancu"
+    },
+    {
+      "lat": 45.770271,
+      "lng": 21.211924,
+      "nume": "Carrefour Market",
+      "oras": "Timișoara",
+      "adresa": "Strada Bucovinei 47"
+    },
+    {
+      "lat": 45.958614,
+      "lng": 23.564515,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.399864,
+      "lng": 26.043798,
+      "nume": "Carrefour",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandriei 152"
+    },
+    {
+      "lat": 45.029429,
+      "lng": 26.025092,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.251348,
+      "lng": 26.72308,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.64688,
+      "lng": 21.598364,
+      "nume": "Carrefour Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.842588,
+      "lng": 24.89924,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.002161,
+      "lng": 21.884289,
+      "nume": "Carrefour Market",
+      "oras": "Nojorid",
+      "adresa": "Principala 93"
+    },
+    {
+      "lat": 47.630278,
+      "lng": 26.288015,
+      "nume": "Carrefour",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

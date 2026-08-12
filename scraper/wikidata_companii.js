@@ -1,5 +1,5 @@
 // ============================================================
-// wikidata_companii.js (v3) — extrage date despre branduri/companii
+// wikidata_companii.js (v4) — extrage date despre branduri/companii
 // din API-ul oficial Wikidata.
 //
 // Rulezi din folderul scraper/ (fără npm install):
@@ -10,6 +10,15 @@
 //     - salvează după FIECARE brand, nu la final
 //     - ACUMULEAZĂ în date/companii_wikidata.json: brandurile noi se
 //       adaugă, cele re-căutate se actualizează, restul rămân
+// v4: - compania-mamă se caută pe mai multe proprietăți, în ordine:
+//       P749 parent organization → P127 owned by → P178 developer →
+//       P176 manufacturer. Firmele mari au P749; brandurile pe produse
+//       (Nescafé, Fanta...) au de obicei doar P127/P176/P178. Astfel și
+//       ele primesc companie_mama_detalii, în același format.
+//     - se notează în companie_mama_sursa din ce proprietate a venit.
+//     - sare peste fonduri-acționar (Vanguard/BlackRock...) care apar
+//       ca „owned by" fără să fie firma-mamă reală (vezi INVESTITORI).
+//     - OUT_FISIER=<cale> suprascrie fișierul de ieșire (util la test).
 // ============================================================
 
 const fs = require('fs');
@@ -23,7 +32,34 @@ if (BRANDURI.length === 0) {
 
 const API = 'https://www.wikidata.org/w/api.php';
 const LIMBA = 'en';
-const FISIER = path.join('date', 'companii_wikidata.json');
+const FISIER = process.env.OUT_FISIER || path.join('date', 'companii_wikidata.json');
+
+// Proprietățile din care poate veni compania-mamă, în ordinea de prioritate.
+// P749 (parent organization) pentru firme; P127 (owned by) pentru branduri
+// pe produse; P178 (developer) înaintea P176 (manufacturer) fiindcă la tech
+// „manufacturer" e adesea fabricantul-contractor (ex. iPhone → Foxconn), nu
+// compania brandului. Prima care are valoare câștigă.
+const PARINTE_PROPS = ['P749', 'P127', 'P178', 'P176'];
+const PARINTE_ETICHETA = {
+  P749: 'parent organization',
+  P127: 'owned by',
+  P178: 'developer',
+  P176: 'manufacturer',
+};
+
+// Fonduri de administrare care apar drept „owned by" ca ACȚIONARI, nu ca
+// firmă-mamă (ex. Pepsi → Vanguard). Le sărim la căutarea părintelui.
+// Berkshire Hathaway NU e aici: el chiar deține branduri (e mamă reală).
+const INVESTITORI = new Set([
+  'Q849363',    // The Vanguard Group
+  'Q219635',    // BlackRock
+  'Q2037125',   // State Street Corporation
+  'Q7603552',   // State Street Global Advisors
+  'Q1411292',   // FMR LLC (Fidelity)
+  'Q505275',    // Capital Group Companies
+  'Q3511946',   // T. Rowe Price
+  'Q105773164', // Geode Capital Management
+]);
 
 const pauza = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -108,6 +144,22 @@ const numarDin = (c) => {
   return v && v.amount ? parseFloat(v.amount) : null;
 };
 
+// caută compania-mamă pe rând, pe proprietățile din PARINTE_PROPS;
+// parcurge toate valorile fiecărei proprietăți și ia PRIMA care nu e
+// fond-acționar (INVESTITORI). Ex.: Lay's „owned by" = [Frito-Lay,
+// PepsiCo] → Frito-Lay; Pepsi „owned by" = [Vanguard, BlackRock, State
+// Street] → toate fonduri → trece mai departe și rămâne fără mamă.
+// Dacă întâlnești un fond care lipsește din listă, adaugă-i QID-ul acolo.
+function parinteDin(ent) {
+  for (const p of PARINTE_PROPS) {
+    for (const c of claims(ent, p)) {
+      const id = idDin(c);
+      if (id && !INVESTITORI.has(id)) return { id, sursa: p };
+    }
+  }
+  return { id: null, sursa: null };
+}
+
 async function fisa(entitateId) {
   const d = await api({
     action: 'wbgetentities',
@@ -120,11 +172,13 @@ async function fisa(entitateId) {
     bursa_id: idDin(c),
     simbol: c.qualifiers?.P249?.[0]?.datavalue?.value || null,
   }));
+  const parinte = parinteDin(ent);
   return {
     wikidata_id: entitateId,
     nume: ent.labels?.[LIMBA]?.value || entitateId,
     descriere: ent.descriptions?.[LIMBA]?.value || null,
-    companie_mama_id: idDin(claims(ent, 'P749')[0] || {}),
+    companie_mama_id: parinte.id,
+    companie_mama_sursa: parinte.sursa, // din ce proprietate a venit mama
     proprietar_id: idDin(claims(ent, 'P127')[0] || {}),
     listari,
     site_oficial: stringDin(claims(ent, 'P856')[0] || {}),
@@ -183,7 +237,7 @@ function salveaza(toate, info) {
   );
   if (idx >= 0) toate[idx] = info;
   else toate.push(info);
-  fs.mkdirSync('date', { recursive: true });
+  fs.mkdirSync(path.dirname(FISIER) || '.', { recursive: true });
   fs.writeFileSync(FISIER, JSON.stringify(toate, null, 2), 'utf-8');
 }
 
@@ -207,7 +261,8 @@ function salveaza(toate, info) {
       info.gasit = true;
 
       if (info.companie_mama_id) {
-        console.log(`  → compania mamă (${info.companie_mama_id})...`);
+        const via = PARINTE_ETICHETA[info.companie_mama_sursa] || info.companie_mama_sursa;
+        console.log(`  → compania mamă (${info.companie_mama_id}, via ${via})...`);
         info.companie_mama_detalii = await fisa(info.companie_mama_id);
       }
 
@@ -228,8 +283,11 @@ function salveaza(toate, info) {
       salveaza(toate, info); // salvat imediat — nu se pierde la erori ulterioare
 
       const l = info.listari[0] || info.companie_mama_detalii?.listari?.[0];
+      const viaMama = info.companie_mama_sursa
+        ? ` (${PARINTE_ETICHETA[info.companie_mama_sursa]})`
+        : '';
       console.log(
-        `  ✔ salvat | mamă: ${info.companie_mama || '—'} | bursă: ${
+        `  ✔ salvat | mamă: ${info.companie_mama || '—'}${viaMama} | bursă: ${
           l && l.simbol ? `${l.bursa}:${l.simbol}` : 'nelistată'
         }\n`
       );

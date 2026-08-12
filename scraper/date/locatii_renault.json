@@ -1,0 +1,226 @@
+{
+  "brand": "Renault",
+  "wikidata_id": null,
+  "total": 31,
+  "cu_oras": 15,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 45.861219,
+      "lng": 22.921632,
+      "nume": "Renault -Nissan Romania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.406565,
+      "lng": 26.133635,
+      "nume": "Renault",
+      "oras": "București",
+      "adresa": "Splaiul Unirii 311"
+    },
+    {
+      "lat": 44.886486,
+      "lng": 24.825698,
+      "nume": "AMAT Dacia & Renault",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Bălcescu Nicolae 204"
+    },
+    {
+      "lat": 47.1828,
+      "lng": 27.46549,
+      "nume": "Service Bras Renault (Metro)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.531047,
+      "lng": 26.068077,
+      "nume": "Renault Union Motors",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 145"
+    },
+    {
+      "lat": 45.631251,
+      "lng": 25.636422,
+      "nume": "Renault",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.754575,
+      "lng": 24.198985,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.102001,
+      "lng": 23.60277,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.301901,
+      "lng": 27.981435,
+      "nume": "Renault",
+      "oras": "Brăila",
+      "adresa": "DN 22B km 4"
+    },
+    {
+      "lat": 47.749871,
+      "lng": 26.644303,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.586357,
+      "lng": 23.759996,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.183169,
+      "lng": 26.831317,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.190821,
+      "lng": 26.841681,
+      "nume": "Renault Trucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.754806,
+      "lng": 24.198549,
+      "nume": "Service Renault Nissan",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.151384,
+      "lng": 27.602788,
+      "nume": "Renault",
+      "oras": "Iași",
+      "adresa": "Calea Chisinaului 23"
+    },
+    {
+      "lat": 45.796775,
+      "lng": 21.437823,
+      "nume": "Renault Trucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.440067,
+      "lng": 28.036486,
+      "nume": "Dealer Concesionar Dacia-Renault",
+      "oras": "Galați",
+      "adresa": "Bulevardul George Coșbuc 148"
+    },
+    {
+      "lat": 44.425232,
+      "lng": 26.011899,
+      "nume": "Serus Renault",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 60E"
+    },
+    {
+      "lat": 44.88665,
+      "lng": 24.826165,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.740967,
+      "lng": 23.592444,
+      "nume": "Dacia Renault Nissan",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Turzii"
+    },
+    {
+      "lat": 44.167766,
+      "lng": 28.569248,
+      "nume": "Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44189,
+      "lng": 25.96456,
+      "nume": "Serus Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.751959,
+      "lng": 23.413603,
+      "nume": "Volvo, Renault",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.201679,
+      "lng": 21.281005,
+      "nume": "Renault Verbiță",
+      "oras": "Arad",
+      "adresa": "Calea Aurel Vlaicu"
+    },
+    {
+      "lat": 45.120416,
+      "lng": 24.371471,
+      "nume": "Flamicom Impex Dacia Renault",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Barajului 10"
+    },
+    {
+      "lat": 47.143804,
+      "lng": 24.510454,
+      "nume": "Dealer Dacia Renault",
+      "oras": "Bistrița",
+      "adresa": "Calea Moldovei 22"
+    },
+    {
+      "lat": 44.440524,
+      "lng": 26.190097,
+      "nume": "Dacia Renault",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon"
+    },
+    {
+      "lat": 44.430714,
+      "lng": 24.382847,
+      "nume": "Renault",
+      "oras": "Slatina",
+      "adresa": "Strada Tunari 22"
+    },
+    {
+      "lat": 46.189417,
+      "lng": 21.394955,
+      "nume": "Renault Trucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.843747,
+      "lng": 25.804636,
+      "nume": "Renault Nissan MIDA",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.651394,
+      "lng": 26.217244,
+      "nume": "Renault Dacia Nissan Darex Auto Suceava",
+      "oras": "Șcheia",
+      "adresa": "Strada Humorului 96"
+    }
+  ]
+}

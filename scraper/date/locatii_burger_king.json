@@ -1,0 +1,219 @@
+{
+  "brand": "Burger King",
+  "wikidata_id": "Q177054",
+  "total": 30,
+  "cu_oras": 9,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 47.74303,
+      "lng": 26.666397,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.441657,
+      "lng": 26.152061,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430545,
+      "lng": 26.052866,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.4348,
+      "lng": 26.101646,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Bulevardul Regina Elisabeta 3"
+    },
+    {
+      "lat": 44.510511,
+      "lng": 26.086781,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.451426,
+      "lng": 26.085546,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Calea Victoriei 155"
+    },
+    {
+      "lat": 45.6496,
+      "lng": 25.611087,
+      "nume": "Burger King",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.420027,
+      "lng": 26.149897,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.452782,
+      "lng": 26.130134,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.453541,
+      "lng": 28.031321,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.723912,
+      "lng": 21.20044,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.330866,
+      "lng": 23.770929,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428672,
+      "lng": 26.034434,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 46.190589,
+      "lng": 21.318443,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.213053,
+      "lng": 28.604705,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.156852,
+      "lng": 27.589312,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.765652,
+      "lng": 21.226309,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.844598,
+      "lng": 24.894659,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.749248,
+      "lng": 23.531213,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.881772,
+      "lng": 24.835628,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.946845,
+      "lng": 26.032568,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.168134,
+      "lng": 27.516405,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.797017,
+      "lng": 24.162581,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.75629,
+      "lng": 23.595042,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.822184,
+      "lng": 24.14808,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.664707,
+      "lng": 26.270373,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.391797,
+      "lng": 26.12049,
+      "nume": "Burger King",
+      "oras": "București",
+      "adresa": "Strada Sergent Nițu Vasile 1"
+    },
+    {
+      "lat": 44.327845,
+      "lng": 23.769932,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.709859,
+      "lng": 27.198986,
+      "nume": "Burger King",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.746426,
+      "lng": 23.450773,
+      "nume": "Burger King",
+      "oras": "Luna de Sus",
+      "adresa": "Strada Principală KM488, C4"
+    }
+  ]
+}

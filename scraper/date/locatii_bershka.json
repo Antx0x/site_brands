@@ -1,0 +1,212 @@
+{
+  "brand": "Bershka",
+  "wikidata_id": "Q827258",
+  "total": 29,
+  "cu_oras": 8,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.395528,
+      "lng": 26.121925,
+      "nume": "Bershka",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 44.47788,
+      "lng": 26.103979,
+      "nume": "Bershka",
+      "oras": "București",
+      "adresa": "Calea Floreasca"
+    },
+    {
+      "lat": 44.966127,
+      "lng": 25.97197,
+      "nume": "Bershka",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 45.766316,
+      "lng": 21.22775,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.723762,
+      "lng": 21.199158,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.155257,
+      "lng": 27.605089,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": "Bulevardul Tudor Vladimirescu"
+    },
+    {
+      "lat": 45.672336,
+      "lng": 25.616114,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.65751,
+      "lng": 23.547174,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.771242,
+      "lng": 23.626427,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.035235,
+      "lng": 21.949661,
+      "nume": "Bershka",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 45.452953,
+      "lng": 28.03137,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.58033,
+      "lng": 26.914932,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.935421,
+      "lng": 26.348117,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.15761,
+      "lng": 27.589497,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.442036,
+      "lng": 26.15261,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.750903,
+      "lng": 23.533342,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.819309,
+      "lng": 24.941003,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.796915,
+      "lng": 24.162228,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.659288,
+      "lng": 26.271975,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431475,
+      "lng": 26.053397,
+      "nume": "Bershka",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.197878,
+      "lng": 28.608844,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.50698,
+      "lng": 26.088988,
+      "nume": "Bershka",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 45.649896,
+      "lng": 25.610959,
+      "nume": "Bershka",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.421083,
+      "lng": 26.150225,
+      "nume": "Bershka",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 46.191083,
+      "lng": 21.320777,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.329931,
+      "lng": 23.769634,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.312775,
+      "lng": 23.832594,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.203028,
+      "lng": 28.631432,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.8443,
+      "lng": 24.895631,
+      "nume": "Bershka",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

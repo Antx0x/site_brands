@@ -10,27 +10,46 @@
 // când `logo` din JSON e completat, se afișează imaginea în locul lor.
 // ============================================================
 
+import { useState } from 'react';
 import Logo from './Logo';
 
 const CARD = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700';
 
-function BrandPlaceholder({ nume, logo }) {
+const slug = (s) =>
+  s
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '');
+
+// Sursa imaginii: câmpul "logo" din JSON dacă e completat (cale explicită),
+// altfel automat /logos/<folder>/<slug(nume)>.png. Dacă fișierul lipsește,
+// se afișează placeholder-ul gri cu numele brandului.
+function BrandPlaceholder({ nume, logo, folder }) {
+  const src = logo || (folder ? `/logos/${folder}/${slug(nume)}.png` : null);
+  const [eroare, setEroare] = useState(!src);
   return (
     <div className="flex flex-col items-center gap-1.5">
       <div className="w-full aspect-[4/3] rounded-xl bg-slate-100 dark:bg-slate-700/60 border border-slate-200 dark:border-slate-600 flex items-center justify-center overflow-hidden p-2">
-        {logo ? (
-          <img src={logo} alt={nume} className="max-w-full max-h-full object-contain" />
-        ) : (
+        {eroare ? (
           <span className="text-xs font-medium text-slate-500 dark:text-slate-300 text-center leading-tight">
             {nume}
           </span>
+        ) : (
+          <img
+            src={src}
+            alt={nume}
+            className="max-w-full max-h-full object-contain"
+            onError={() => setEroare(true)}
+          />
         )}
       </div>
     </div>
   );
 }
 
-export default function PaginaCategorie({ eticheta, date = [] }) {
+export default function PaginaCategorie({ eticheta, date = [], folder }) {
   return (
     <main className="max-w-5xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold mb-1">{eticheta}</h1>
@@ -63,7 +82,7 @@ export default function PaginaCategorie({ eticheta, date = [] }) {
               style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(110px, 1fr))' }}
             >
               {(comp.branduri || []).map((b) => (
-                <BrandPlaceholder key={b.nume} nume={b.nume} logo={b.logo} />
+                <BrandPlaceholder key={b.nume} nume={b.nume} logo={b.logo} folder={folder} />
               ))}
             </div>
           </div>

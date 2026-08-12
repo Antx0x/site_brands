@@ -1,0 +1,1206 @@
+{
+  "brand": "UniCredit",
+  "wikidata_id": "Q45568",
+  "total": 171,
+  "cu_oras": 63,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.176272,
+      "lng": 21.31821,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.216972,
+      "lng": 24.793355,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.653248,
+      "lng": 25.609474,
+      "nume": "ATM Unicredit Țiriac",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.642278,
+      "lng": 25.615361,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421608,
+      "lng": 26.020546,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Drumul Taberei 82"
+    },
+    {
+      "lat": 47.159337,
+      "lng": 27.588012,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.762185,
+      "lng": 21.213453,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.453784,
+      "lng": 26.051135,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Calea Crângași 16"
+    },
+    {
+      "lat": 44.480011,
+      "lng": 26.10097,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Șoseaua Pipera 35"
+    },
+    {
+      "lat": 45.155492,
+      "lng": 26.821932,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.271165,
+      "lng": 27.973324,
+      "nume": "UniCredit Bank",
+      "oras": "Brăila",
+      "adresa": "Piața Traian"
+    },
+    {
+      "lat": 46.180437,
+      "lng": 21.320829,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.532984,
+      "lng": 24.58964,
+      "nume": "UniCredit Bank",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 255"
+    },
+    {
+      "lat": 45.757443,
+      "lng": 21.209991,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.163257,
+      "lng": 24.347436,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.412666,
+      "lng": 26.16414,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 47.173892,
+      "lng": 27.555506,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.429726,
+      "lng": 26.138722,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 204"
+    },
+    {
+      "lat": 44.463567,
+      "lng": 26.130009,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Strada Doamna Ghica 6"
+    },
+    {
+      "lat": 47.166214,
+      "lng": 27.586591,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.423353,
+      "lng": 26.074193,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Calea 13 Septembrie 123"
+    },
+    {
+      "lat": 44.11093,
+      "lng": 24.353309,
+      "nume": "UniCredit Bank",
+      "oras": "Caracal",
+      "adresa": "Calea București 22"
+    },
+    {
+      "lat": 47.74415,
+      "lng": 26.665175,
+      "nume": "UniCredit Bank",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 68"
+    },
+    {
+      "lat": 46.768857,
+      "lng": 23.589405,
+      "nume": "UniCredit Bank",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Unirii 10"
+    },
+    {
+      "lat": 45.701301,
+      "lng": 21.178829,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.793369,
+      "lng": 21.184922,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": "Strada General Leonard Mociulschi"
+    },
+    {
+      "lat": 45.740296,
+      "lng": 21.239145,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.785762,
+      "lng": 21.221519,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.753754,
+      "lng": 21.22501,
+      "nume": "UniCredit",
+      "oras": "Timișoara",
+      "adresa": "Piața Victoriei 2"
+    },
+    {
+      "lat": 45.767969,
+      "lng": 21.2164,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.871653,
+      "lng": 24.843922,
+      "nume": "UniCredit Țiriac Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.864269,
+      "lng": 25.790683,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778989,
+      "lng": 23.616221,
+      "nume": "UniCredit Bank",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Aurel Vlaicu 3"
+    },
+    {
+      "lat": 46.755108,
+      "lng": 23.558407,
+      "nume": "UniCredit Bank",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Izlazului 13-15"
+    },
+    {
+      "lat": 46.766946,
+      "lng": 23.602096,
+      "nume": "UniCredit Bank",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Constantin Brâncuși 2"
+    },
+    {
+      "lat": 44.440996,
+      "lng": 26.104242,
+      "nume": "UniCredit",
+      "oras": "București",
+      "adresa": "Strada C. A. Rosetti 36"
+    },
+    {
+      "lat": 44.318458,
+      "lng": 23.80712,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.155798,
+      "lng": 27.589568,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.155384,
+      "lng": 27.58932,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.032977,
+      "lng": 21.95057,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.816242,
+      "lng": 28.583554,
+      "nume": "UniCredit Bank",
+      "oras": "Mangalia",
+      "adresa": "Șoseaua Constanței 24"
+    },
+    {
+      "lat": 45.4131,
+      "lng": 23.375574,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.817342,
+      "lng": 28.58354,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778955,
+      "lng": 24.699977,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": "Strada Mihai Viteazul 9"
+    },
+    {
+      "lat": 44.196222,
+      "lng": 28.631747,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.425509,
+      "lng": 26.051307,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Drumul Taberei 18"
+    },
+    {
+      "lat": 44.171413,
+      "lng": 28.61082,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.414242,
+      "lng": 26.108726,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Strada Constantin Rădulescu Motru 13"
+    },
+    {
+      "lat": 44.443433,
+      "lng": 26.120351,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Strada Traian 248"
+    },
+    {
+      "lat": 44.459897,
+      "lng": 26.075918,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 70-82"
+    },
+    {
+      "lat": 45.68971,
+      "lng": 21.902977,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.439948,
+      "lng": 26.097273,
+      "nume": "UniCredit",
+      "oras": "București",
+      "adresa": "Calea Victoriei 88"
+    },
+    {
+      "lat": 44.37908,
+      "lng": 26.118562,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Obregia 35"
+    },
+    {
+      "lat": 47.683622,
+      "lng": 22.473707,
+      "nume": "UniCredit Bank",
+      "oras": "Carei",
+      "adresa": "Strada Mihai Viteazul 27"
+    },
+    {
+      "lat": 44.626583,
+      "lng": 22.652417,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.734758,
+      "lng": 21.267037,
+      "nume": "Unicredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.444306,
+      "lng": 26.098422,
+      "nume": "UniCredit",
+      "oras": "București",
+      "adresa": "Bulevardul General Gheorghe Magheru 24"
+    },
+    {
+      "lat": 43.918558,
+      "lng": 23.068276,
+      "nume": "UniCredit",
+      "oras": "Poiana Mare",
+      "adresa": "Strada 1 Decembrie"
+    },
+    {
+      "lat": 46.568082,
+      "lng": 26.90179,
+      "nume": "UniCredit Bank",
+      "oras": "Bacău",
+      "adresa": "Strada Energiei"
+    },
+    {
+      "lat": 46.568084,
+      "lng": 26.901785,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.335718,
+      "lng": 23.783115,
+      "nume": "UniCredit Bank",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Oltenia"
+    },
+    {
+      "lat": 44.434535,
+      "lng": 26.039502,
+      "nume": "UniCredit",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 14"
+    },
+    {
+      "lat": 46.766963,
+      "lng": 23.602165,
+      "nume": "UniCredit Bank",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Constantin Brâncuși 2"
+    },
+    {
+      "lat": 45.105935,
+      "lng": 24.366104,
+      "nume": "UniCredit Bank",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 45.654869,
+      "lng": 25.601967,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.772894,
+      "lng": 23.589224,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.751274,
+      "lng": 23.525857,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.749934,
+      "lng": 23.532289,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.752155,
+      "lng": 23.576553,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.756145,
+      "lng": 23.594663,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.76377,
+      "lng": 23.57695,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.768028,
+      "lng": 23.583869,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.507923,
+      "lng": 26.138204,
+      "nume": "UniCredit Bank",
+      "oras": "Pipera",
+      "adresa": "Strada Frăsari 1-3"
+    },
+    {
+      "lat": 44.392766,
+      "lng": 26.121693,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420321,
+      "lng": 26.139547,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Strada Dristorului 121A"
+    },
+    {
+      "lat": 44.441586,
+      "lng": 26.174744,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon 350"
+    },
+    {
+      "lat": 44.461291,
+      "lng": 26.094481,
+      "nume": "UniCredit",
+      "oras": "București",
+      "adresa": "Strada Locotenent Aviator Radu Beller 3-7"
+    },
+    {
+      "lat": 44.465235,
+      "lng": 26.087444,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Piața Charles de Gaulle 15"
+    },
+    {
+      "lat": 44.481318,
+      "lng": 26.119067,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Dimitrie Pompeiu 6E"
+    },
+    {
+      "lat": 44.474235,
+      "lng": 26.067993,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Expoziției 1F"
+    },
+    {
+      "lat": 45.739472,
+      "lng": 21.20939,
+      "nume": "UniCredit",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Iuliu Maniu 1"
+    },
+    {
+      "lat": 45.741071,
+      "lng": 21.225565,
+      "nume": "UniCredit",
+      "oras": "Timișoara",
+      "adresa": "Piața Nicolae Bălcescu 5"
+    },
+    {
+      "lat": 46.776117,
+      "lng": 23.604593,
+      "nume": "UniCredit",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 81"
+    },
+    {
+      "lat": 45.776581,
+      "lng": 21.232831,
+      "nume": "UniCredit",
+      "oras": "Timișoara",
+      "adresa": "Calea Sever Bocu 45"
+    },
+    {
+      "lat": 44.252104,
+      "lng": 28.565582,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.361623,
+      "lng": 25.800374,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.9431,
+      "lng": 26.021444,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.433866,
+      "lng": 26.025156,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu"
+    },
+    {
+      "lat": 43.993468,
+      "lng": 22.93456,
+      "nume": "UniCredit Bank",
+      "oras": "Calafat",
+      "adresa": "Strada Alexandru Ioan Cuza 16"
+    },
+    {
+      "lat": 45.680516,
+      "lng": 21.904427,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.112365,
+      "lng": 24.990301,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.107456,
+      "lng": 24.364731,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.054809,
+      "lng": 21.929362,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.157443,
+      "lng": 28.629588,
+      "nume": "UniCredit Bank",
+      "oras": "Constanța",
+      "adresa": "Strada Caraiman 1-4"
+    },
+    {
+      "lat": 44.184806,
+      "lng": 28.646179,
+      "nume": "UniCredit Bank",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis"
+    },
+    {
+      "lat": 44.561928,
+      "lng": 27.368153,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.423139,
+      "lng": 26.109256,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.658372,
+      "lng": 23.577963,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.342652,
+      "lng": 26.104997,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": "Strada Gării"
+    },
+    {
+      "lat": 44.532898,
+      "lng": 26.09448,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": "Drumul Pădurea Neagră 2A"
+    },
+    {
+      "lat": 44.434108,
+      "lng": 26.00002,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 244"
+    },
+    {
+      "lat": 44.432433,
+      "lng": 24.372635,
+      "nume": "UniCredit Bank",
+      "oras": "Slatina",
+      "adresa": null
+    },
+    {
+      "lat": 45.728441,
+      "lng": 21.206107,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.744067,
+      "lng": 26.665216,
+      "nume": "UniCredit Bank",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 68"
+    },
+    {
+      "lat": 45.764936,
+      "lng": 21.227528,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.642945,
+      "lng": 25.588984,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.659143,
+      "lng": 26.272833,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.432094,
+      "lng": 26.104879,
+      "nume": "UniCredit",
+      "oras": "București",
+      "adresa": "Strada Lipscani 102"
+    },
+    {
+      "lat": 44.438026,
+      "lng": 26.115026,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.451816,
+      "lng": 26.082798,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": "Șoseaua Nicolae Titulescu 1"
+    },
+    {
+      "lat": 44.453102,
+      "lng": 26.110378,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.492599,
+      "lng": 26.125434,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44911,
+      "lng": 26.065358,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.204068,
+      "lng": 28.644405,
+      "nume": "UniCredit Bank",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Mamaia 243-245"
+    },
+    {
+      "lat": 44.934444,
+      "lng": 25.987669,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.035455,
+      "lng": 23.270284,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.635501,
+      "lng": 25.632204,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.93642,
+      "lng": 26.026834,
+      "nume": "UniCredit Bank",
+      "oras": "Ploiești",
+      "adresa": "Strada Golești 25"
+    },
+    {
+      "lat": 44.940808,
+      "lng": 26.025042,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.152731,
+      "lng": 26.817073,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.192046,
+      "lng": 28.640359,
+      "nume": "UniCredit Bank",
+      "oras": "Constanța",
+      "adresa": "Strada Mircea cel Bătrân 152Bis"
+    },
+    {
+      "lat": 46.491026,
+      "lng": 24.468677,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.258062,
+      "lng": 27.961433,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.657669,
+      "lng": 25.585751,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.544113,
+      "lng": 24.560998,
+      "nume": "UniCredit Bank",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 44"
+    },
+    {
+      "lat": 45.279673,
+      "lng": 26.649215,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.920487,
+      "lng": 25.468221,
+      "nume": "UniCredit Bank",
+      "oras": "Târgoviște",
+      "adresa": "Bulevardul Independenței"
+    },
+    {
+      "lat": 47.037127,
+      "lng": 21.948925,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.061332,
+      "lng": 21.939284,
+      "nume": "UniCredit Bank",
+      "oras": "Oradea",
+      "adresa": "Strada General Gheorghe Magheru 2"
+    },
+    {
+      "lat": 46.566432,
+      "lng": 26.911176,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.641792,
+      "lng": 27.734671,
+      "nume": "UniCredit Bank",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 46.754729,
+      "lng": 23.556069,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.38565,
+      "lng": 26.138665,
+      "nume": "UniCredit Bank",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 45.698865,
+      "lng": 27.190058,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.111342,
+      "lng": 28.187957,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": "Strada Troesmis"
+    },
+    {
+      "lat": 47.128795,
+      "lng": 24.476955,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.784042,
+      "lng": 24.133574,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.160111,
+      "lng": 27.590593,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.178804,
+      "lng": 28.648081,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.80056,
+      "lng": 24.166875,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.537524,
+      "lng": 26.096191,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.304029,
+      "lng": 23.814781,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.316241,
+      "lng": 23.794,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.665665,
+      "lng": 25.599079,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.475346,
+      "lng": 27.942321,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.569896,
+      "lng": 26.077618,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.178632,
+      "lng": 28.802533,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.452886,
+      "lng": 24.368202,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.653274,
+      "lng": 25.609477,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.890206,
+      "lng": 25.965698,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.758137,
+      "lng": 21.223192,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.75746,
+      "lng": 21.209995,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.793016,
+      "lng": 21.211995,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.100194,
+      "lng": 24.37258,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.150939,
+      "lng": 27.588252,
+      "nume": "UniCredit",
+      "oras": "Iași",
+      "adresa": "Bulevardul Socola 1"
+    },
+    {
+      "lat": 47.1549,
+      "lng": 27.589518,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": "Strada Sfântul Lazăr"
+    },
+    {
+      "lat": 47.174991,
+      "lng": 27.543738,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": "Șoseaua Păcurari 36"
+    },
+    {
+      "lat": 47.75239,
+      "lng": 26.634599,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.754832,
+      "lng": 26.634668,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.925666,
+      "lng": 26.928889,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.925672,
+      "lng": 26.928927,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.844626,
+      "lng": 25.915599,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.420373,
+      "lng": 28.018962,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.803184,
+      "lng": 21.654019,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.956329,
+      "lng": 24.935477,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.728442,
+      "lng": 21.206065,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.632531,
+      "lng": 22.660178,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.926114,
+      "lng": 26.372421,
+      "nume": "UniCredit",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.169462,
+      "lng": 21.315588,
+      "nume": "UniCredit Bank",
+      "oras": "Arad",
+      "adresa": "Piața Avram Iancu 13"
+    },
+    {
+      "lat": 44.320176,
+      "lng": 23.794177,
+      "nume": "UniCredit Bank",
+      "oras": "Craiova",
+      "adresa": "Calea Unirii 4"
+    },
+    {
+      "lat": 47.793503,
+      "lng": 22.877604,
+      "nume": "UniCredit Bank",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

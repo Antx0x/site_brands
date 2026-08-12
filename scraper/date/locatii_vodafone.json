@@ -1,0 +1,1542 @@
+{
+  "brand": "Vodafone",
+  "wikidata_id": "Q122141",
+  "total": 219,
+  "cu_oras": 95,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.000678,
+      "lng": 26.136795,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.796122,
+      "lng": 24.151129,
+      "nume": "Vodafone",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.783496,
+      "lng": 24.148522,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.41319,
+      "lng": 26.165249,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 46.77004,
+      "lng": 23.590605,
+      "nume": "Vodafone",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Unirii"
+    },
+    {
+      "lat": 44.15026,
+      "lng": 28.624411,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778322,
+      "lng": 23.612675,
+      "nume": "Vodafone",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989"
+    },
+    {
+      "lat": 44.443282,
+      "lng": 26.155854,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.453605,
+      "lng": 26.049423,
+      "nume": "Ilex Vodafone",
+      "oras": "București",
+      "adresa": "Calea Crângași 20"
+    },
+    {
+      "lat": 46.176715,
+      "lng": 23.914836,
+      "nume": "Vodafone",
+      "oras": "Blaj",
+      "adresa": "Strada Eroilor"
+    },
+    {
+      "lat": 43.811945,
+      "lng": 28.583325,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.812197,
+      "lng": 28.583137,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.417067,
+      "lng": 26.020586,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.421697,
+      "lng": 26.020624,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Drumul Taberei"
+    },
+    {
+      "lat": 44.45278,
+      "lng": 26.048378,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Șoseaua Virtuții"
+    },
+    {
+      "lat": 44.440906,
+      "lng": 26.099472,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.424982,
+      "lng": 26.165211,
+      "nume": "Ilex Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.424451,
+      "lng": 26.161469,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 6A"
+    },
+    {
+      "lat": 45.126563,
+      "lng": 25.732908,
+      "nume": "Vodafone",
+      "oras": "Câmpina",
+      "adresa": "Bulevardul Carol I 59"
+    },
+    {
+      "lat": 45.642232,
+      "lng": 25.590428,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": "Strada Diaconul Coresi 1"
+    },
+    {
+      "lat": 45.864541,
+      "lng": 25.78859,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.405005,
+      "lng": 26.061378,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandria 16"
+    },
+    {
+      "lat": 44.625997,
+      "lng": 22.652636,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.637286,
+      "lng": 22.632831,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.049481,
+      "lng": 25.952949,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.865347,
+      "lng": 25.78724,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.63093,
+      "lng": 22.656978,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.637726,
+      "lng": 22.651443,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.319463,
+      "lng": 23.804935,
+      "nume": "Vodafone",
+      "oras": "Craiova",
+      "adresa": "Calea București 41"
+    },
+    {
+      "lat": 44.318343,
+      "lng": 23.798261,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.729722,
+      "lng": 24.70075,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.15266,
+      "lng": 26.819308,
+      "nume": "Vodafone",
+      "oras": "Buzău",
+      "adresa": "Strada Ostrovului"
+    },
+    {
+      "lat": 45.143401,
+      "lng": 26.80853,
+      "nume": "Dealer Vodafone - Sayfone 2009",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153389,
+      "lng": 26.82185,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.93083,
+      "lng": 26.363744,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452781,
+      "lng": 26.099905,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 46.773909,
+      "lng": 23.589444,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.949139,
+      "lng": 28.63474,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.07527,
+      "lng": 25.434582,
+      "nume": "Arsis - partener Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.64173,
+      "lng": 25.625617,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": "Calea București 78 A"
+    },
+    {
+      "lat": 47.92834,
+      "lng": 23.889717,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.174383,
+      "lng": 23.665979,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153131,
+      "lng": 26.817131,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.855453,
+      "lng": 24.879285,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.843106,
+      "lng": 24.973802,
+      "nume": "Vodafone",
+      "oras": "Făgăraș",
+      "adresa": "Strada Tăbăcari Bloc 4"
+    },
+    {
+      "lat": 44.39596,
+      "lng": 26.122585,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 44.965129,
+      "lng": 25.973588,
+      "nume": "Vodafone",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 45.140312,
+      "lng": 24.675747,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.162609,
+      "lng": 24.671682,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.780323,
+      "lng": 24.153397,
+      "nume": "Vodafone",
+      "oras": "Sibiu",
+      "adresa": "Bulevardul Mihai Viteazul 15"
+    },
+    {
+      "lat": 47.346624,
+      "lng": 25.355267,
+      "nume": "Vodafone",
+      "oras": "Vatra Dornei",
+      "adresa": "Strada Luceafărului"
+    },
+    {
+      "lat": 45.002085,
+      "lng": 26.445483,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.943508,
+      "lng": 26.020386,
+      "nume": "Vodafone",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 44.416099,
+      "lng": 26.135751,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 45.144653,
+      "lng": 23.990659,
+      "nume": "Vodafone",
+      "oras": "Horezu",
+      "adresa": null
+    },
+    {
+      "lat": 47.160274,
+      "lng": 27.589184,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.534214,
+      "lng": 22.455363,
+      "nume": "Vodafone.",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.782914,
+      "lng": 23.612692,
+      "nume": "Vodafone",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Fabricii 9"
+    },
+    {
+      "lat": 45.421404,
+      "lng": 23.370273,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.721486,
+      "lng": 25.598907,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.05667,
+      "lng": 21.931494,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.742813,
+      "lng": 26.665634,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.478033,
+      "lng": 26.103569,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Calea Floreasca"
+    },
+    {
+      "lat": 44.667854,
+      "lng": 24.878999,
+      "nume": "New Vision - dealer Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.755721,
+      "lng": 21.230187,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.881133,
+      "lng": 22.905676,
+      "nume": "Vodafone",
+      "oras": "Deva",
+      "adresa": null
+    },
+    {
+      "lat": 44.880633,
+      "lng": 22.412844,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.752363,
+      "lng": 21.225478,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.751689,
+      "lng": 21.22423,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.771972,
+      "lng": 21.222865,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.574243,
+      "lng": 23.785139,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.12207,
+      "lng": 25.737074,
+      "nume": "Arsis Partener Vodafone",
+      "oras": "Câmpina",
+      "adresa": "Bulevardul Carol I 26"
+    },
+    {
+      "lat": 44.415338,
+      "lng": 26.104771,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul Dimitrie Cantemir"
+    },
+    {
+      "lat": 46.573403,
+      "lng": 23.785829,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.166647,
+      "lng": 27.580429,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.327478,
+      "lng": 23.774623,
+      "nume": "Vodafone",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului 5A"
+    },
+    {
+      "lat": 47.142475,
+      "lng": 23.875382,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434197,
+      "lng": 26.015507,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 166"
+    },
+    {
+      "lat": 45.349127,
+      "lng": 25.548859,
+      "nume": "Vodafone",
+      "oras": "Sinaia",
+      "adresa": null
+    },
+    {
+      "lat": 45.766686,
+      "lng": 21.228281,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.673486,
+      "lng": 25.617328,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.934154,
+      "lng": 26.347983,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.422285,
+      "lng": 26.1243,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Calea Vitan 23D"
+    },
+    {
+      "lat": 44.442586,
+      "lng": 26.15223,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.433891,
+      "lng": 26.02761,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 59"
+    },
+    {
+      "lat": 46.750531,
+      "lng": 23.533751,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.822749,
+      "lng": 24.911265,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.731049,
+      "lng": 21.207227,
+      "nume": "Vodafone",
+      "oras": "Timișoara",
+      "adresa": "Strada Giuseppe Verdi 1A"
+    },
+    {
+      "lat": 44.427326,
+      "lng": 24.371131,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.784861,
+      "lng": 22.868709,
+      "nume": "Vodafone",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 44.20383,
+      "lng": 28.631024,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.507704,
+      "lng": 26.08977,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 45.785642,
+      "lng": 21.221254,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.506189,
+      "lng": 25.574601,
+      "nume": "Vodafone",
+      "oras": "Predeal",
+      "adresa": null
+    },
+    {
+      "lat": 46.931308,
+      "lng": 26.367172,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.52803,
+      "lng": 24.59605,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.45022,
+      "lng": 24.236067,
+      "nume": "Vodafone",
+      "oras": "Iernut",
+      "adresa": "Strada Tudor Vladimirescu 39"
+    },
+    {
+      "lat": 46.129795,
+      "lng": 22.79123,
+      "nume": "Vodafone",
+      "oras": "Brad",
+      "adresa": "Bulevardul Republicii"
+    },
+    {
+      "lat": 45.451503,
+      "lng": 28.031005,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.161347,
+      "lng": 27.575274,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.16219,
+      "lng": 27.563526,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.080295,
+      "lng": 23.585919,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.037362,
+      "lng": 23.270686,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.037341,
+      "lng": 23.271362,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.604866,
+      "lng": 26.067547,
+      "nume": "Arsis Vodafone",
+      "oras": "Balotești",
+      "adresa": "Calea București 2 bis"
+    },
+    {
+      "lat": 44.942262,
+      "lng": 26.024998,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": "Strada Romană"
+    },
+    {
+      "lat": 44.940461,
+      "lng": 26.025406,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428782,
+      "lng": 26.138314,
+      "nume": "Ilex Vodafone",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 288"
+    },
+    {
+      "lat": 44.395324,
+      "lng": 26.116657,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.4202,
+      "lng": 26.126429,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.417174,
+      "lng": 26.035273,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.417105,
+      "lng": 26.035788,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.428658,
+      "lng": 26.034731,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.439947,
+      "lng": 25.982047,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 546-560"
+    },
+    {
+      "lat": 45.843243,
+      "lng": 27.43253,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.43325,
+      "lng": 26.037212,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 19"
+    },
+    {
+      "lat": 44.941408,
+      "lng": 26.021299,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.143745,
+      "lng": 27.587459,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.438723,
+      "lng": 25.957127,
+      "nume": "Arsis Vodafone",
+      "oras": "Chiajna",
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 44.382439,
+      "lng": 26.115479,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.038,
+      "lng": 25.220843,
+      "nume": "Vodafone",
+      "oras": "Rupea",
+      "adresa": "Strada Republicii"
+    },
+    {
+      "lat": 44.437849,
+      "lng": 26.186125,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Șoseaua Vergului 20"
+    },
+    {
+      "lat": 45.282516,
+      "lng": 27.971488,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": "Calea Galați"
+    },
+    {
+      "lat": 45.262465,
+      "lng": 27.967187,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.259855,
+      "lng": 27.964326,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.258198,
+      "lng": 27.96169,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.271245,
+      "lng": 27.964306,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428453,
+      "lng": 26.10079,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 45.631943,
+      "lng": 25.634723,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.868644,
+      "lng": 25.799868,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.937406,
+      "lng": 26.923392,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.244759,
+      "lng": 27.682463,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452001,
+      "lng": 26.130658,
+      "nume": "IQBox Vodafone",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.452106,
+      "lng": 26.130906,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 46.543869,
+      "lng": 24.560602,
+      "nume": "Vodafone",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 42"
+    },
+    {
+      "lat": 45.643899,
+      "lng": 25.631961,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 46.864401,
+      "lng": 23.027753,
+      "nume": "Vodafone",
+      "oras": "Huedin",
+      "adresa": null
+    },
+    {
+      "lat": 45.872396,
+      "lng": 22.910296,
+      "nume": "Vodafone",
+      "oras": "Deva",
+      "adresa": "Strada Mărăști"
+    },
+    {
+      "lat": 47.059487,
+      "lng": 21.935673,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.394016,
+      "lng": 21.224789,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.174376,
+      "lng": 27.549282,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.884211,
+      "lng": 23.397035,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.884264,
+      "lng": 23.395963,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.092146,
+      "lng": 21.694949,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.782094,
+      "lng": 24.701961,
+      "nume": "Vodafone",
+      "oras": "Reghin",
+      "adresa": "Piața Petru Maior 36"
+    },
+    {
+      "lat": 44.949758,
+      "lng": 26.005408,
+      "nume": "Vodafone",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 45.40982,
+      "lng": 23.375709,
+      "nume": "Vodafone",
+      "oras": "Petroșani",
+      "adresa": "Strada 1 Decembrie 1918"
+    },
+    {
+      "lat": 45.351444,
+      "lng": 23.203833,
+      "nume": "Vodafone",
+      "oras": "Lupeni",
+      "adresa": "Strada Tudor Vladimirescu"
+    },
+    {
+      "lat": 46.177797,
+      "lng": 21.318985,
+      "nume": "Vodafone",
+      "oras": "Arad",
+      "adresa": "Strada Cloșca 2"
+    },
+    {
+      "lat": 44.942502,
+      "lng": 25.997582,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.361444,
+      "lng": 26.122249,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Drumul Dealul Bisericii 67-109"
+    },
+    {
+      "lat": 45.270271,
+      "lng": 25.043927,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.444815,
+      "lng": 26.120825,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.571449,
+      "lng": 25.341819,
+      "nume": "Vodafone",
+      "oras": "Zărnești",
+      "adresa": "Strada Ciucaș"
+    },
+    {
+      "lat": 46.546428,
+      "lng": 23.88603,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431362,
+      "lng": 26.051003,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 45.957051,
+      "lng": 23.570621,
+      "nume": "Vodafone",
+      "oras": "Sebeș",
+      "adresa": "Bulevardul Lucian Blaga 13"
+    },
+    {
+      "lat": 46.565593,
+      "lng": 26.91138,
+      "nume": "Vodafone",
+      "oras": "Bacău",
+      "adresa": "Strada Nicolae Bălcescu"
+    },
+    {
+      "lat": 46.635851,
+      "lng": 27.725151,
+      "nume": "Vodafone",
+      "oras": "Vaslui",
+      "adresa": "Strada Traian"
+    },
+    {
+      "lat": 46.641013,
+      "lng": 27.734158,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.656824,
+      "lng": 25.59862,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.841231,
+      "lng": 23.360899,
+      "nume": "Vodafone",
+      "oras": "Cugir",
+      "adresa": "Strada Alexandru Sahia"
+    },
+    {
+      "lat": 46.755069,
+      "lng": 23.557443,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.419971,
+      "lng": 26.139133,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.714534,
+      "lng": 26.642677,
+      "nume": "Vodafone",
+      "oras": "Urziceni",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.408242,
+      "lng": 26.139975,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Calea Vitan 236"
+    },
+    {
+      "lat": 43.776417,
+      "lng": 24.501034,
+      "nume": "Vodafone",
+      "oras": "Corabia",
+      "adresa": "Bulevardul 1 Mai 7"
+    },
+    {
+      "lat": 44.40127,
+      "lng": 26.097762,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.807253,
+      "lng": 25.084548,
+      "nume": "Vodafone",
+      "oras": "Topoloveni",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.660919,
+      "lng": 24.260931,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.66083,
+      "lng": 24.264175,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.037103,
+      "lng": 25.219154,
+      "nume": "Vodafone",
+      "oras": "Rupea",
+      "adresa": "Strada Republicii"
+    },
+    {
+      "lat": 44.418088,
+      "lng": 26.072794,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian 88"
+    },
+    {
+      "lat": 46.279987,
+      "lng": 26.610479,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.674692,
+      "lng": 26.032638,
+      "nume": "Vodafone",
+      "oras": "Întorsura Buzăului",
+      "adresa": null
+    },
+    {
+      "lat": 45.697938,
+      "lng": 27.183005,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": "Bulevardul Unirii 65"
+    },
+    {
+      "lat": 44.444848,
+      "lng": 26.062471,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 44.421156,
+      "lng": 26.150415,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.382486,
+      "lng": 26.092682,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.50977,
+      "lng": 26.088036,
+      "nume": "Arsis Vodafone",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.419682,
+      "lng": 26.17821,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 44.420886,
+      "lng": 26.179838,
+      "nume": "Vodafone",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 44.178721,
+      "lng": 28.64835,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.190627,
+      "lng": 21.320639,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.211711,
+      "lng": 28.60345,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.144862,
+      "lng": 27.611292,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.460462,
+      "lng": 26.07439,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.178783,
+      "lng": 28.802078,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.890837,
+      "lng": 25.964667,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.483268,
+      "lng": 26.040981,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.183591,
+      "lng": 23.056571,
+      "nume": "Vodafone",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul"
+    },
+    {
+      "lat": 45.64938,
+      "lng": 25.610516,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.948428,
+      "lng": 26.007667,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.951737,
+      "lng": 26.001077,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.857119,
+      "lng": 24.873684,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.56228,
+      "lng": 27.362282,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.632098,
+      "lng": 25.639514,
+      "nume": "Vodafone",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 47.166857,
+      "lng": 27.513324,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.946455,
+      "lng": 26.032549,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.198107,
+      "lng": 27.319595,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.923091,
+      "lng": 25.352361,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.172731,
+      "lng": 21.315849,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.102682,
+      "lng": 24.365103,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.102165,
+      "lng": 24.363668,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.094687,
+      "lng": 24.372982,
+      "nume": "Vodafone Ostroveni",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.036139,
+      "lng": 21.951025,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.735233,
+      "lng": 21.237643,
+      "nume": "Vodafone",
+      "oras": "Timișoara",
+      "adresa": "Calea Martirilor 1989 54"
+    },
+    {
+      "lat": 44.470603,
+      "lng": 26.050858,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.793293,
+      "lng": 22.880724,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": "Bulevardul Ion Constantin Brătianu"
+    },
+    {
+      "lat": 45.855867,
+      "lng": 22.177,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202134,
+      "lng": 23.056825,
+      "nume": "Vodafone",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul"
+    },
+    {
+      "lat": 45.152963,
+      "lng": 26.820337,
+      "nume": "Vodafone Arsis",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.1618,
+      "lng": 26.820532,
+      "nume": "Vodafone Arsis",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.15389,
+      "lng": 26.823062,
+      "nume": "Vodafone Arsis",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.641625,
+      "lng": 22.649403,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.331583,
+      "lng": 23.124856,
+      "nume": "Vodafone",
+      "oras": "Uricani",
+      "adresa": "Bulevardul Muncii 5"
+    },
+    {
+      "lat": 44.312032,
+      "lng": 23.832468,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.708593,
+      "lng": 25.686011,
+      "nume": "Vodafone",
+      "oras": "Hărman",
+      "adresa": "Strada Gării"
+    },
+    {
+      "lat": 44.843082,
+      "lng": 24.898794,
+      "nume": "Vodafone",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

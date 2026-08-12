@@ -1,0 +1,1465 @@
+{
+  "brand": "OMV",
+  "wikidata_id": "Q168238",
+  "total": 208,
+  "cu_oras": 101,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.999308,
+      "lng": 26.429824,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.525965,
+      "lng": 24.599881,
+      "nume": "OMV",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 256"
+    },
+    {
+      "lat": 46.226674,
+      "lng": 24.809965,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.651053,
+      "lng": 25.603759,
+      "nume": "OMV",
+      "oras": "Brașov",
+      "adresa": "Strada 13 Decembrie"
+    },
+    {
+      "lat": 45.845194,
+      "lng": 23.007389,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.312598,
+      "lng": 23.858528,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.119328,
+      "lng": 24.469967,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.141425,
+      "lng": 24.50718,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420142,
+      "lng": 26.08844,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.409616,
+      "lng": 27.934354,
+      "nume": "OMV",
+      "oras": "Șendreni",
+      "adresa": null
+    },
+    {
+      "lat": 47.13515,
+      "lng": 27.6099,
+      "nume": "OMV (Bucium)",
+      "oras": null,
+      "adresa": "17"
+    },
+    {
+      "lat": 45.241304,
+      "lng": 27.9316,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.660504,
+      "lng": 25.569201,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.02757,
+      "lng": 23.268296,
+      "nume": "OMV",
+      "oras": "Târgu Jiu",
+      "adresa": "Strada Victoriei"
+    },
+    {
+      "lat": 46.629812,
+      "lng": 27.734634,
+      "nume": "OMV",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 45.678041,
+      "lng": 27.188576,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.59155,
+      "lng": 24.62396,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Strada Transilvaniei 1046A"
+    },
+    {
+      "lat": 45.793554,
+      "lng": 24.130191,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.53306,
+      "lng": 25.532338,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.782686,
+      "lng": 24.165677,
+      "nume": "OMV",
+      "oras": "Sibiu",
+      "adresa": "Bulevardul General Vasile Milea"
+    },
+    {
+      "lat": 45.840546,
+      "lng": 24.986779,
+      "nume": "OMV",
+      "oras": "Făgăraș",
+      "adresa": null
+    },
+    {
+      "lat": 47.140824,
+      "lng": 27.578828,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.442422,
+      "lng": 26.679983,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.119689,
+      "lng": 25.739982,
+      "nume": "OMV-Petrom Câmpina",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.443376,
+      "lng": 26.680545,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.941123,
+      "lng": 26.315874,
+      "nume": "OMV 1 Viisoara",
+      "oras": "Bistrița",
+      "adresa": "Strada Petru Rareș 221"
+    },
+    {
+      "lat": 47.206271,
+      "lng": 27.010065,
+      "nume": "OMV (Tg Frumos)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.025277,
+      "lng": 24.489376,
+      "nume": "OMV",
+      "oras": "Milcoiu",
+      "adresa": null
+    },
+    {
+      "lat": 46.537623,
+      "lng": 23.78352,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.079814,
+      "lng": 24.351435,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.372687,
+      "lng": 26.090537,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Șoseaua Giurgiului"
+    },
+    {
+      "lat": 45.115781,
+      "lng": 24.363651,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.759694,
+      "lng": 24.876936,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.791086,
+      "lng": 24.858906,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.618738,
+      "lng": 23.225532,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.157888,
+      "lng": 28.628171,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.398214,
+      "lng": 27.452114,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.398843,
+      "lng": 27.452624,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.089718,
+      "lng": 27.190303,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.636743,
+      "lng": 26.237849,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.749409,
+      "lng": 26.64473,
+      "nume": "OMV",
+      "oras": "Botoșani",
+      "adresa": "Strada Sucevei"
+    },
+    {
+      "lat": 46.071545,
+      "lng": 25.587844,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.704826,
+      "lng": 25.451505,
+      "nume": "OMV",
+      "oras": "Codlea",
+      "adresa": "Strada Lungă"
+    },
+    {
+      "lat": 45.169581,
+      "lng": 26.819979,
+      "nume": "OMV",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Unirii"
+    },
+    {
+      "lat": 47.807659,
+      "lng": 22.916377,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.451112,
+      "lng": 26.295354,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.140935,
+      "lng": 24.507499,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.041114,
+      "lng": 21.975467,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.059154,
+      "lng": 21.917078,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.693655,
+      "lng": 25.586643,
+      "nume": "OMV",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.306283,
+      "lng": 21.879012,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.918549,
+      "lng": 25.973139,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.649922,
+      "lng": 24.686607,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.690717,
+      "lng": 27.968297,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.539282,
+      "lng": 26.095054,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.660144,
+      "lng": 25.61538,
+      "nume": "OMV",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Gării"
+    },
+    {
+      "lat": 46.166457,
+      "lng": 20.72378,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.313906,
+      "lng": 23.831072,
+      "nume": "OMV",
+      "oras": "Craiova",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.328344,
+      "lng": 23.77627,
+      "nume": "OMV",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului 7"
+    },
+    {
+      "lat": 44.477829,
+      "lng": 26.164109,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Șoseaua Colentina 446"
+    },
+    {
+      "lat": 44.950573,
+      "lng": 24.926374,
+      "nume": "OMV",
+      "oras": "Mioveni",
+      "adresa": null
+    },
+    {
+      "lat": 46.937584,
+      "lng": 26.388675,
+      "nume": "OMV Piatra Neamt",
+      "oras": "Piatra Neamț",
+      "adresa": "Strada Mihai Viteazul FN"
+    },
+    {
+      "lat": 47.059688,
+      "lng": 22.382484,
+      "nume": "OMV",
+      "oras": "Aleșd",
+      "adresa": null
+    },
+    {
+      "lat": 44.203543,
+      "lng": 28.622624,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.112932,
+      "lng": 22.787369,
+      "nume": "OMV",
+      "oras": "Brad",
+      "adresa": "Strada Vânătorilor 69"
+    },
+    {
+      "lat": 46.574431,
+      "lng": 26.901167,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.65472,
+      "lng": 23.53069,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.978375,
+      "lng": 25.314548,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.139443,
+      "lng": 26.802877,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.337749,
+      "lng": 23.765768,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.090031,
+      "lng": 23.59394,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.40317,
+      "lng": 26.47712,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.471334,
+      "lng": 28.034313,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.300872,
+      "lng": 26.061536,
+      "nume": "OMV",
+      "oras": "1 Decembrie",
+      "adresa": "Șoseaua Giurgiului 136"
+    },
+    {
+      "lat": 45.840763,
+      "lng": 24.986606,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.163658,
+      "lng": 26.813985,
+      "nume": "Romvitrine",
+      "oras": "Buzău",
+      "adresa": null
+    },
+    {
+      "lat": 44.526866,
+      "lng": 26.041015,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Șoseaua Odăi 36"
+    },
+    {
+      "lat": 45.025257,
+      "lng": 24.489612,
+      "nume": "Viva",
+      "oras": "Milcoiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.47929,
+      "lng": 25.564518,
+      "nume": "OMV shop",
+      "oras": "Predeal",
+      "adresa": "Șoseaua Națională"
+    },
+    {
+      "lat": 45.479473,
+      "lng": 25.564563,
+      "nume": "OMV",
+      "oras": "Predeal",
+      "adresa": "Șoseaua Națională"
+    },
+    {
+      "lat": 45.588632,
+      "lng": 25.454569,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.58846,
+      "lng": 25.454416,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.535537,
+      "lng": 25.503557,
+      "nume": "OMV",
+      "oras": "Câmpulung Moldovenesc",
+      "adresa": null
+    },
+    {
+      "lat": 45.139511,
+      "lng": 26.803164,
+      "nume": "Viva",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.667962,
+      "lng": 26.292289,
+      "nume": "OMV",
+      "oras": "Suceava",
+      "adresa": "Strada Cuza Vodă"
+    },
+    {
+      "lat": 44.300826,
+      "lng": 26.061399,
+      "nume": "Viva",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.977125,
+      "lng": 25.332476,
+      "nume": "OMV",
+      "oras": "Alexandria",
+      "adresa": null
+    },
+    {
+      "lat": 44.214543,
+      "lng": 28.642883,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.030904,
+      "lng": 21.991791,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.223703,
+      "lng": 23.020332,
+      "nume": "OMV",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul 151A"
+    },
+    {
+      "lat": 45.765551,
+      "lng": 22.31665,
+      "nume": "Magazin Mixt Magtomvic",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.390638,
+      "lng": 23.373354,
+      "nume": "OMV",
+      "oras": "Petroșani",
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 44.492131,
+      "lng": 26.087566,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Șerbănescu 85"
+    },
+    {
+      "lat": 47.158984,
+      "lng": 27.573496,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.900781,
+      "lng": 23.759277,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.900677,
+      "lng": 23.76414,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 48.034691,
+      "lng": 23.148951,
+      "nume": "Omv-gas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.304606,
+      "lng": 27.934578,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.140634,
+      "lng": 27.579278,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.41688,
+      "lng": 28.005361,
+      "nume": "OMV",
+      "oras": "Galați",
+      "adresa": "Strada Drumul de Centură"
+    },
+    {
+      "lat": 44.910682,
+      "lng": 25.486537,
+      "nume": "OMV",
+      "oras": "Târgoviște",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 45.144309,
+      "lng": 23.988904,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.510027,
+      "lng": 24.518961,
+      "nume": "OMV",
+      "oras": "Târgu Mureș",
+      "adresa": null
+    },
+    {
+      "lat": 44.411265,
+      "lng": 26.127384,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 485-489"
+    },
+    {
+      "lat": 45.875499,
+      "lng": 22.915723,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.531191,
+      "lng": 24.549293,
+      "nume": "OMV",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Gheorghe Doja 62"
+    },
+    {
+      "lat": 45.742263,
+      "lng": 21.238449,
+      "nume": "OMV",
+      "oras": "Timișoara",
+      "adresa": "Strada Arieș 9"
+    },
+    {
+      "lat": 45.748038,
+      "lng": 21.243093,
+      "nume": "OMV",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Eroilor de la Tisa 37a"
+    },
+    {
+      "lat": 44.488359,
+      "lng": 26.015929,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 228A"
+    },
+    {
+      "lat": 46.758656,
+      "lng": 23.549211,
+      "nume": "OMV",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Florești 56"
+    },
+    {
+      "lat": 45.781466,
+      "lng": 21.220527,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.161815,
+      "lng": 28.604029,
+      "nume": "OMV",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Aurel Vlaicu 123"
+    },
+    {
+      "lat": 44.173988,
+      "lng": 28.595261,
+      "nume": "OMV",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Aurel Vlaicu 180B"
+    },
+    {
+      "lat": 45.186076,
+      "lng": 25.679884,
+      "nume": "OMV",
+      "oras": "Cornu",
+      "adresa": null
+    },
+    {
+      "lat": 45.750513,
+      "lng": 21.209904,
+      "nume": "OMV",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Republicii 17"
+    },
+    {
+      "lat": 44.477953,
+      "lng": 26.164342,
+      "nume": "Market OMV Colentina",
+      "oras": null,
+      "adresa": "Șoseaua Colentina 446"
+    },
+    {
+      "lat": 44.442915,
+      "lng": 26.151007,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Pierre de Coubertin"
+    },
+    {
+      "lat": 47.173889,
+      "lng": 27.53807,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.215704,
+      "lng": 21.291954,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Șoseaua Câmpurilor 2A"
+    },
+    {
+      "lat": 45.428503,
+      "lng": 22.196454,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.928764,
+      "lng": 25.991838,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Șoseaua Vestului"
+    },
+    {
+      "lat": 44.38986,
+      "lng": 26.124605,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Șoseaua Berceni 8"
+    },
+    {
+      "lat": 44.203677,
+      "lng": 28.622482,
+      "nume": "Market OMV Tomis Nord",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.438344,
+      "lng": 26.056601,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Doina Cornea 5"
+    },
+    {
+      "lat": 45.609409,
+      "lng": 25.657843,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.455571,
+      "lng": 26.120636,
+      "nume": "Market OMV Lizeanu",
+      "oras": "București",
+      "adresa": "Strada Maica Domnului 1"
+    },
+    {
+      "lat": 44.455532,
+      "lng": 26.120802,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Strada Maica Domnului 1-1A"
+    },
+    {
+      "lat": 44.491911,
+      "lng": 26.189891,
+      "nume": "OMV",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Voluntari 93-95"
+    },
+    {
+      "lat": 44.567074,
+      "lng": 26.070407,
+      "nume": "Viva",
+      "oras": "Otopeni",
+      "adresa": "Calea Bucureștilor 224D"
+    },
+    {
+      "lat": 44.567067,
+      "lng": 26.070199,
+      "nume": "OMV",
+      "oras": "Otopeni",
+      "adresa": "Calea Bucureștilor 224D"
+    },
+    {
+      "lat": 44.493205,
+      "lng": 26.126618,
+      "nume": "Viva",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Pipera 1A"
+    },
+    {
+      "lat": 44.493062,
+      "lng": 26.126467,
+      "nume": "OMV",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Pipera 1A"
+    },
+    {
+      "lat": 44.958234,
+      "lng": 25.986264,
+      "nume": "OMV",
+      "oras": "Ploiești",
+      "adresa": "Bulevardul Republicii 168"
+    },
+    {
+      "lat": 44.431241,
+      "lng": 26.110202,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Corneliu Coposu 12"
+    },
+    {
+      "lat": 46.780938,
+      "lng": 23.631895,
+      "nume": "OMV",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Aurel Vlaicu"
+    },
+    {
+      "lat": 45.8394,
+      "lng": 27.434164,
+      "nume": "OMV",
+      "oras": "Tecuci",
+      "adresa": "Strada Transilvania"
+    },
+    {
+      "lat": 44.401017,
+      "lng": 26.050619,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Șoseaua Alexandria"
+    },
+    {
+      "lat": 44.639761,
+      "lng": 22.663703,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.21675,
+      "lng": 28.627421,
+      "nume": "OMV",
+      "oras": "Constanța",
+      "adresa": null
+    },
+    {
+      "lat": 44.867401,
+      "lng": 24.884645,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.86733,
+      "lng": 24.884159,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.185381,
+      "lng": 21.316048,
+      "nume": "OMV",
+      "oras": "Arad",
+      "adresa": "Strada Banu Mărăcine"
+    },
+    {
+      "lat": 46.200962,
+      "lng": 21.28244,
+      "nume": "OMV",
+      "oras": "Arad",
+      "adresa": "Calea Aurel Vlaicu 267"
+    },
+    {
+      "lat": 46.210237,
+      "lng": 21.349971,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.327886,
+      "lng": 25.822115,
+      "nume": "OMV",
+      "oras": "Miercurea Ciuc",
+      "adresa": "Zsögödi Nagy Imre 229"
+    },
+    {
+      "lat": 45.739304,
+      "lng": 21.210518,
+      "nume": "OMV",
+      "oras": "Timișoara",
+      "adresa": null
+    },
+    {
+      "lat": 44.434296,
+      "lng": 25.995487,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 390-400"
+    },
+    {
+      "lat": 44.882226,
+      "lng": 24.833879,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.744513,
+      "lng": 23.591467,
+      "nume": "OMV",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.443302,
+      "lng": 24.377231,
+      "nume": "OMV",
+      "oras": "Slatina",
+      "adresa": "Strada Pitești 193"
+    },
+    {
+      "lat": 44.436456,
+      "lng": 24.371565,
+      "nume": "OMV",
+      "oras": "Slatina",
+      "adresa": "Strada Cornișei"
+    },
+    {
+      "lat": 44.91222,
+      "lng": 25.474255,
+      "nume": "OMV",
+      "oras": "Târgoviște",
+      "adresa": null
+    },
+    {
+      "lat": 45.76497,
+      "lng": 21.26027,
+      "nume": "OMV",
+      "oras": "Timișoara",
+      "adresa": null
+    },
+    {
+      "lat": 47.646038,
+      "lng": 23.53225,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.42543,
+      "lng": 26.013776,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 60B"
+    },
+    {
+      "lat": 44.425293,
+      "lng": 26.013386,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "60B"
+    },
+    {
+      "lat": 45.697355,
+      "lng": 21.897272,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.433161,
+      "lng": 26.160183,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Bulevardul Nicolae Grigorescu"
+    },
+    {
+      "lat": 45.742427,
+      "lng": 21.238769,
+      "nume": "OMV Top Wash",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.762275,
+      "lng": 22.902102,
+      "nume": "OMV",
+      "oras": "Hunedoara",
+      "adresa": "Bulevardul Traian 1A"
+    },
+    {
+      "lat": 44.494335,
+      "lng": 26.031415,
+      "nume": "OMV Bucureștii Noi",
+      "oras": null,
+      "adresa": "Bulevardul Bucureștii Noi"
+    },
+    {
+      "lat": 46.75051,
+      "lng": 23.431217,
+      "nume": "OMV",
+      "oras": "Luna de Sus",
+      "adresa": null
+    },
+    {
+      "lat": 44.59352,
+      "lng": 26.070575,
+      "nume": "OMV",
+      "oras": "Balotești",
+      "adresa": "Șoseaua București-Ploiești"
+    },
+    {
+      "lat": 44.531311,
+      "lng": 26.057222,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.789469,
+      "lng": 24.085585,
+      "nume": "OMV",
+      "oras": "Sibiu",
+      "adresa": "Șoseaua Alba Iulia"
+    },
+    {
+      "lat": 47.059275,
+      "lng": 21.917185,
+      "nume": "OMV",
+      "oras": "Oradea",
+      "adresa": "Bulevardul Decebal 61B"
+    },
+    {
+      "lat": 44.413102,
+      "lng": 25.971712,
+      "nume": "OMV",
+      "oras": "Domnești",
+      "adresa": "Șoseaua de Centură"
+    },
+    {
+      "lat": 44.41442,
+      "lng": 26.075261,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Calea Rahovei 266A"
+    },
+    {
+      "lat": 46.777763,
+      "lng": 23.615691,
+      "nume": "OMV",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 46.777722,
+      "lng": 23.615457,
+      "nume": "OMV",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Mărăști"
+    },
+    {
+      "lat": 44.411352,
+      "lng": 26.127551,
+      "nume": "Viva",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 485-489"
+    },
+    {
+      "lat": 45.712502,
+      "lng": 21.193221,
+      "nume": "OMV",
+      "oras": "Timișoara",
+      "adresa": "Calea Șagului 203"
+    },
+    {
+      "lat": 45.776677,
+      "lng": 21.306635,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.803355,
+      "lng": 21.647097,
+      "nume": "OMV",
+      "oras": "Salonta",
+      "adresa": "Strada Aradului 11"
+    },
+    {
+      "lat": 46.766954,
+      "lng": 24.680507,
+      "nume": "OMV",
+      "oras": "Reghin",
+      "adresa": "Strada Mihai Viteazul 230"
+    },
+    {
+      "lat": 46.129655,
+      "lng": 21.317752,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.402701,
+      "lng": 26.097653,
+      "nume": "OMV Gas",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 4"
+    },
+    {
+      "lat": 44.402355,
+      "lng": 26.097768,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 47.116519,
+      "lng": 23.89353,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Strada Vâlcele"
+    },
+    {
+      "lat": 44.447001,
+      "lng": 26.076413,
+      "nume": "Viva",
+      "oras": "București",
+      "adresa": "Calea Griviței 183"
+    },
+    {
+      "lat": 44.446919,
+      "lng": 26.076311,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Calea Griviței 183"
+    },
+    {
+      "lat": 46.74452,
+      "lng": 23.591816,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Calea Turzii"
+    },
+    {
+      "lat": 45.781495,
+      "lng": 21.220086,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.079089,
+      "lng": 23.564688,
+      "nume": "OMV",
+      "oras": "Alba Iulia",
+      "adresa": "Calea Moților 114A"
+    },
+    {
+      "lat": 46.798184,
+      "lng": 23.71748,
+      "nume": "OMV",
+      "oras": "Sub Coastă",
+      "adresa": "Strada Principală 60A"
+    },
+    {
+      "lat": 46.798007,
+      "lng": 23.717124,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.935904,
+      "lng": 26.920716,
+      "nume": "OMV",
+      "oras": "Roman",
+      "adresa": null
+    },
+    {
+      "lat": 47.197984,
+      "lng": 23.058373,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.197896,
+      "lng": 23.057999,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.789013,
+      "lng": 22.8888,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.275758,
+      "lng": 27.976471,
+      "nume": "OMV Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.140783,
+      "lng": 27.578968,
+      "nume": "OMV",
+      "oras": "Iași",
+      "adresa": "Șoseaua Nicolina 2A"
+    },
+    {
+      "lat": 45.769923,
+      "lng": 21.23093,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.857009,
+      "lng": 22.247805,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.27764,
+      "lng": 24.306904,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.390451,
+      "lng": 23.373154,
+      "nume": "OMV",
+      "oras": "Petroșani",
+      "adresa": "Bulevardul 1 Decembrie 1918"
+    },
+    {
+      "lat": 45.390466,
+      "lng": 23.372995,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.390881,
+      "lng": 23.373027,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.630019,
+      "lng": 22.685685,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.411073,
+      "lng": 26.127813,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 485-489"
+    },
+    {
+      "lat": 47.116132,
+      "lng": 23.893553,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": "Strada Vâlcele"
+    },
+    {
+      "lat": 44.434251,
+      "lng": 25.995363,
+      "nume": "OMV",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 390-400"
+    },
+    {
+      "lat": 44.493231,
+      "lng": 26.126487,
+      "nume": "OMV",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Pipera 1A"
+    },
+    {
+      "lat": 44.492994,
+      "lng": 26.126092,
+      "nume": "OMV",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.950344,
+      "lng": 24.926441,
+      "nume": "OMV",
+      "oras": "Mioveni",
+      "adresa": null
+    },
+    {
+      "lat": 46.935889,
+      "lng": 26.920895,
+      "nume": "OMV",
+      "oras": "Roman",
+      "adresa": null
+    },
+    {
+      "lat": 47.668169,
+      "lng": 26.292092,
+      "nume": "OMV",
+      "oras": "Suceava",
+      "adresa": "Strada Cuza Vodă"
+    },
+    {
+      "lat": 47.535562,
+      "lng": 25.5035,
+      "nume": "OMV",
+      "oras": "Câmpulung Moldovenesc",
+      "adresa": "Strada Barbu Lăutarul"
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "brand": "Starbucks",
+  "wikidata_id": "Q37158",
+  "total": 63,
+  "cu_oras": 40,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.506141,
+      "lng": 26.089029,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 44.429107,
+      "lng": 26.034949,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.823097,
+      "lng": 24.910125,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421211,
+      "lng": 26.126989,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.452398,
+      "lng": 26.082811,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Șoseaua Nicolae Titulescu 4-8"
+    },
+    {
+      "lat": 44.394258,
+      "lng": 26.121926,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 45.126117,
+      "lng": 25.732634,
+      "nume": "Starbucks",
+      "oras": "Câmpina",
+      "adresa": "Bulevardul Carol I 47"
+    },
+    {
+      "lat": 44.447021,
+      "lng": 26.097887,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Strada Stanislav Cihoschi 2"
+    },
+    {
+      "lat": 46.771619,
+      "lng": 23.625713,
+      "nume": "Starbucks",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Alexandru Vaida Voevod"
+    },
+    {
+      "lat": 44.4293,
+      "lng": 26.101861,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Strada Franceză 62-64"
+    },
+    {
+      "lat": 45.672781,
+      "lng": 25.612695,
+      "nume": "Starbucks",
+      "oras": "Brașov",
+      "adresa": "Strada Zaharia Stancu 1"
+    },
+    {
+      "lat": 44.478096,
+      "lng": 26.114928,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Șoseaua Fabrica de Glucoză 9B"
+    },
+    {
+      "lat": 45.724133,
+      "lng": 21.200231,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44941,
+      "lng": 26.088146,
+      "nume": "Piata9",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 45.754171,
+      "lng": 21.225467,
+      "nume": "Starbucks",
+      "oras": "Timișoara",
+      "adresa": "Strada Mărășești 1-3"
+    },
+    {
+      "lat": 46.580087,
+      "lng": 26.914189,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.478638,
+      "lng": 26.102603,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 47.158075,
+      "lng": 27.588862,
+      "nume": "Starbucks",
+      "oras": "Iași",
+      "adresa": "Strada Palas 5D"
+    },
+    {
+      "lat": 47.155678,
+      "lng": 27.588655,
+      "nume": "Starbucks",
+      "oras": "Iași",
+      "adresa": "Strada Palas 5D"
+    },
+    {
+      "lat": 45.797199,
+      "lng": 24.152521,
+      "nume": "Starbucks",
+      "oras": "Sibiu",
+      "adresa": "Piața Mare 16"
+    },
+    {
+      "lat": 45.454212,
+      "lng": 28.032012,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430418,
+      "lng": 26.051917,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.434976,
+      "lng": 26.053833,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 6G"
+    },
+    {
+      "lat": 44.426921,
+      "lng": 26.111496,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul Unirii 37A"
+    },
+    {
+      "lat": 44.431756,
+      "lng": 26.053522,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.317459,
+      "lng": 23.794253,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.656646,
+      "lng": 23.547565,
+      "nume": "Starbucks",
+      "oras": "Baia Mare",
+      "adresa": "Strada Victoriei 73"
+    },
+    {
+      "lat": 44.513955,
+      "lng": 26.126887,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.490361,
+      "lng": 26.127006,
+      "nume": "Starbucks",
+      "oras": "Voluntari",
+      "adresa": "Șoseaua București Nord 14"
+    },
+    {
+      "lat": 44.417485,
+      "lng": 26.035595,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.480734,
+      "lng": 26.117511,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul Dimitrie Pompeiu 4-6"
+    },
+    {
+      "lat": 44.452066,
+      "lng": 26.129802,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.421374,
+      "lng": 26.14944,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 46.751644,
+      "lng": 23.533596,
+      "nume": "Starbucks",
+      "oras": "Florești",
+      "adresa": "Strada Avram Iancu 492-500"
+    },
+    {
+      "lat": 44.946694,
+      "lng": 26.033361,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.965587,
+      "lng": 25.975616,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.857007,
+      "lng": 24.873334,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.035958,
+      "lng": 21.949156,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.451448,
+      "lng": 26.085054,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Piața Victoriei"
+    },
+    {
+      "lat": 44.445371,
+      "lng": 26.062529,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 45.766255,
+      "lng": 21.226284,
+      "nume": "Starbucks",
+      "oras": "Timișoara",
+      "adresa": "Piața Consiliul Europei 2"
+    },
+    {
+      "lat": 45.797641,
+      "lng": 24.162307,
+      "nume": "Starbucks",
+      "oras": "Sibiu",
+      "adresa": "Strada Lector"
+    },
+    {
+      "lat": 46.763542,
+      "lng": 23.571985,
+      "nume": "Starbucks",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Mănăștur 2-6"
+    },
+    {
+      "lat": 47.658948,
+      "lng": 26.271101,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.441915,
+      "lng": 26.151961,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.199371,
+      "lng": 28.608819,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.51011,
+      "lng": 26.086945,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 46.529541,
+      "lng": 24.594266,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434946,
+      "lng": 26.101835,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul Regina Elisabeta 3"
+    },
+    {
+      "lat": 45.651008,
+      "lng": 25.610462,
+      "nume": "Starbucks",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.203162,
+      "lng": 28.630787,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.182754,
+      "lng": 28.647815,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.43183,
+      "lng": 26.102793,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Strada Lipscani 71"
+    },
+    {
+      "lat": 46.191506,
+      "lng": 21.316829,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.230535,
+      "lng": 27.938204,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.465266,
+      "lng": 26.087134,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Piața Charles de Gaulle 15"
+    },
+    {
+      "lat": 45.111436,
+      "lng": 24.383198,
+      "nume": "Starbucks",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Ferdinand 38"
+    },
+    {
+      "lat": 47.168293,
+      "lng": 27.515808,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.447174,
+      "lng": 26.074852,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.435741,
+      "lng": 25.983485,
+      "nume": "Starbucks",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 560A"
+    },
+    {
+      "lat": 44.312981,
+      "lng": 23.833592,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.84501,
+      "lng": 24.895267,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.746218,
+      "lng": 23.451489,
+      "nume": "Starbucks",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

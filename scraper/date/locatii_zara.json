@@ -1,0 +1,233 @@
+{
+  "brand": "Zara",
+  "wikidata_id": null,
+  "total": 32,
+  "cu_oras": 17,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.750898,
+      "lng": 23.533815,
+      "nume": "Zara",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 46.937125,
+      "lng": 26.377324,
+      "nume": "Salon Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.395045,
+      "lng": 26.121925,
+      "nume": "Zara",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 44.477798,
+      "lng": 26.103286,
+      "nume": "Zara Home",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 44.965492,
+      "lng": 25.97304,
+      "nume": "Zara",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 45.766022,
+      "lng": 21.228154,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.47755,
+      "lng": 26.103369,
+      "nume": "Zara",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 45.672656,
+      "lng": 25.616475,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.771959,
+      "lng": 23.626053,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.766004,
+      "lng": 21.227724,
+      "nume": "Zara Home",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.034898,
+      "lng": 21.948848,
+      "nume": "Zara",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 46.580067,
+      "lng": 26.915481,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.157528,
+      "lng": 27.590026,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.440857,
+      "lng": 26.152657,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.797762,
+      "lng": 24.162599,
+      "nume": "Zara",
+      "oras": "Sibiu",
+      "adresa": "Strada Lector"
+    },
+    {
+      "lat": 44.429487,
+      "lng": 26.053045,
+      "nume": "Zara",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.43097,
+      "lng": 26.053167,
+      "nume": "Zara Home",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.203496,
+      "lng": 28.632875,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.203432,
+      "lng": 28.631499,
+      "nume": "Zara Home",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.197684,
+      "lng": 28.609097,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.507186,
+      "lng": 26.089491,
+      "nume": "Zara",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 45.650737,
+      "lng": 25.610578,
+      "nume": "Zara",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 45.650307,
+      "lng": 25.609815,
+      "nume": "Zara Home",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.428036,
+      "lng": 26.034332,
+      "nume": "Zara",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 46.751142,
+      "lng": 23.533503,
+      "nume": "Zara Home",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421693,
+      "lng": 26.150547,
+      "nume": "Zara",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.421131,
+      "lng": 26.150541,
+      "nume": "Zara Home",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.925291,
+      "lng": 26.028354,
+      "nume": "STATIE ITP - AUTORIZARA RAR",
+      "oras": "Ploiești",
+      "adresa": "Strada Depoului 1"
+    },
+    {
+      "lat": 44.507559,
+      "lng": 26.08922,
+      "nume": "Zara Home",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 44.330635,
+      "lng": 23.770451,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.312527,
+      "lng": 23.832647,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.844289,
+      "lng": 24.894413,
+      "nume": "Zara",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

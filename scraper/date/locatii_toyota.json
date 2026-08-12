@@ -1,0 +1,240 @@
+{
+  "brand": "Toyota",
+  "wikidata_id": "Q53268",
+  "total": 33,
+  "cu_oras": 12,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 47.652489,
+      "lng": 26.210055,
+      "nume": "TOYOTA SUCEAVA - Revlaco Motors",
+      "oras": "Șcheia",
+      "adresa": null
+    },
+    {
+      "lat": 47.185629,
+      "lng": 27.45227,
+      "nume": "Toyota",
+      "oras": "Iași",
+      "adresa": "DN28 Km 10"
+    },
+    {
+      "lat": 44.448771,
+      "lng": 26.214495,
+      "nume": "Avia Motors Est - Toyota Bucuresti Est",
+      "oras": "Pantelimon",
+      "adresa": "Bulevardul Biruinței 13"
+    },
+    {
+      "lat": 45.619744,
+      "lng": 25.650356,
+      "nume": "Toyota",
+      "oras": "Brașov",
+      "adresa": "Calea București 249"
+    },
+    {
+      "lat": 45.06131,
+      "lng": 24.334734,
+      "nume": "Toyota",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.449793,
+      "lng": 26.062001,
+      "nume": "Toyota București Vest",
+      "oras": "București",
+      "adresa": "Calea Giulești 8D"
+    },
+    {
+      "lat": 47.189481,
+      "lng": 27.431739,
+      "nume": "Toyota",
+      "oras": "Lețcani",
+      "adresa": "Soseaua Iași-Tg. Frumos, km. 12"
+    },
+    {
+      "lat": 44.452061,
+      "lng": 25.961881,
+      "nume": "Toyota București Vest",
+      "oras": "Chiajna",
+      "adresa": "Șoseaua de Centură 57"
+    },
+    {
+      "lat": 45.061245,
+      "lng": 24.334784,
+      "nume": "TOYOTA VALCEA - Next Automobile",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.073302,
+      "lng": 24.350545,
+      "nume": "TOYOTA VALCEA EST - Autovil Trading SRL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.12745,
+      "lng": 26.867706,
+      "nume": "Toyota Buzau - Rol Car Motors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.774532,
+      "lng": 21.29451,
+      "nume": "TOYOTA TIMISOARA - New Wavemotors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.037639,
+      "lng": 22.00386,
+      "nume": "TOYOTA ORADEA VEST - Cars & Management SRL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.657315,
+      "lng": 23.511569,
+      "nume": "Toyota Baia Mare - Land Motors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.102268,
+      "lng": 23.604551,
+      "nume": "Toyota Alba Iulia - Dinamic Exclusiv Auto Enb",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.115027,
+      "lng": 24.463634,
+      "nume": "Toyota Bistrita - Mondial Motors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.316835,
+      "lng": 25.309014,
+      "nume": "TOYOTA ODORHEI - Euro-Car Trading",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.286491,
+      "lng": 27.975894,
+      "nume": "Toyota Braila - Estima Motors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.778047,
+      "lng": 24.17205,
+      "nume": "TOYOTA SIBIU - Son Motors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.507394,
+      "lng": 24.619067,
+      "nume": "TOYOTA TARGU MURES - Euro-Car Trading",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.189482,
+      "lng": 27.431031,
+      "nume": "Toyota IASI - Sunrise Motors SRL",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.515049,
+      "lng": 26.924604,
+      "nume": "Toyota Bacau - Auto Best Center",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.933142,
+      "lng": 26.347287,
+      "nume": "Toyota Piatra Neamt - Tokyo Motors",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.685696,
+      "lng": 27.195695,
+      "nume": "TOYOTA FOCSANI - Auto Best Center",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.773554,
+      "lng": 21.296033,
+      "nume": "Toyota",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.166611,
+      "lng": 28.553342,
+      "nume": "Toyota Constanța",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.312381,
+      "lng": 23.895076,
+      "nume": "Toyota Craiova",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.824832,
+      "lng": 24.92045,
+      "nume": "TOYOTA Pitești",
+      "oras": "Pitești",
+      "adresa": "DN65B km4"
+    },
+    {
+      "lat": 44.958224,
+      "lng": 26.054853,
+      "nume": "Toyota",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.747957,
+      "lng": 23.592254,
+      "nume": "Toyota",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Turzii 176-178"
+    },
+    {
+      "lat": 44.4928,
+      "lng": 26.125253,
+      "nume": "Toyota Bucuresti Nord",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Pipera 1"
+    },
+    {
+      "lat": 44.407949,
+      "lng": 26.12855,
+      "nume": "Toyota",
+      "oras": "București",
+      "adresa": "Splaiul Unirii 281-283"
+    },
+    {
+      "lat": 44.40836,
+      "lng": 26.12873,
+      "nume": "Toyota",
+      "oras": "București",
+      "adresa": "Splaiul Unirii 281-283"
+    }
+  ]
+}

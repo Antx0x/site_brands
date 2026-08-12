@@ -1,0 +1,3943 @@
+{
+  "brand": "Banca Transilvania",
+  "wikidata_id": "Q806161",
+  "total": 562,
+  "cu_oras": 249,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.17588,
+      "lng": 21.318022,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.182073,
+      "lng": 21.310821,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.16562,
+      "lng": 27.581124,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.150473,
+      "lng": 27.587682,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.171477,
+      "lng": 21.31734,
+      "nume": "Banca Transilvania",
+      "oras": "Arad",
+      "adresa": "Strada Unirii 5-7"
+    },
+    {
+      "lat": 46.190668,
+      "lng": 21.330328,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.152484,
+      "lng": 21.321461,
+      "nume": "Banca Transilvania",
+      "oras": "Arad",
+      "adresa": "Calea Timișorii 50"
+    },
+    {
+      "lat": 46.163821,
+      "lng": 21.404823,
+      "nume": "Bancomat Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.41735,
+      "lng": 26.020509,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Drumul Taberei 96"
+    },
+    {
+      "lat": 44.41546,
+      "lng": 26.040724,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Ghencea 126-132"
+    },
+    {
+      "lat": 47.160627,
+      "lng": 27.592469,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.432915,
+      "lng": 28.051827,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.4846,
+      "lng": 26.097103,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Căpitan Aviator Alexandru Șerbănescu 26"
+    },
+    {
+      "lat": 47.17452,
+      "lng": 27.552144,
+      "nume": "Banca Transilvania",
+      "oras": "Iasi",
+      "adresa": "Strada Păcurari"
+    },
+    {
+      "lat": 44.453719,
+      "lng": 26.050501,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Crângași 16"
+    },
+    {
+      "lat": 47.128016,
+      "lng": 24.486526,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.162757,
+      "lng": 27.56461,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153358,
+      "lng": 26.817771,
+      "nume": "Banca Transilvania",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Unirii bl13C"
+    },
+    {
+      "lat": 47.159273,
+      "lng": 27.587917,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.429315,
+      "lng": 28.024134,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.269326,
+      "lng": 27.974917,
+      "nume": "Banca Transilvania",
+      "oras": "Brăila",
+      "adresa": "Calea Călărașilor 11"
+    },
+    {
+      "lat": 47.554053,
+      "lng": 25.89291,
+      "nume": "Banca Transilvania",
+      "oras": "Gura Humorului",
+      "adresa": "Bulevardul Bucovina"
+    },
+    {
+      "lat": 47.748922,
+      "lng": 26.654914,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.170111,
+      "lng": 21.311641,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.178849,
+      "lng": 28.802383,
+      "nume": "Banca Transilvania",
+      "oras": "Tulcea",
+      "adresa": "Strada Isaccei 3"
+    },
+    {
+      "lat": 46.535071,
+      "lng": 24.583998,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 219"
+    },
+    {
+      "lat": 46.536648,
+      "lng": 24.591072,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Cutezanței 21"
+    },
+    {
+      "lat": 46.554305,
+      "lng": 24.569136,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 22 Decembrie 1989 11-15"
+    },
+    {
+      "lat": 45.637608,
+      "lng": 25.611841,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Strada Jepilor 2"
+    },
+    {
+      "lat": 47.139649,
+      "lng": 27.578664,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.484614,
+      "lng": 26.097269,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.933817,
+      "lng": 26.031989,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada Democrației 49"
+    },
+    {
+      "lat": 45.774425,
+      "lng": 21.22221,
+      "nume": "Banca Transilvania",
+      "oras": "Timișoara",
+      "adresa": "Calea Aradului 44"
+    },
+    {
+      "lat": 45.777388,
+      "lng": 21.23415,
+      "nume": "Banca Transilvania",
+      "oras": "Timișoara",
+      "adresa": "Calea Sever Bocu"
+    },
+    {
+      "lat": 45.749199,
+      "lng": 21.208087,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.383151,
+      "lng": 27.041083,
+      "nume": "Banca Transilvania",
+      "oras": "Râmnicu Sărat",
+      "adresa": "Strada Victoriei 13F"
+    },
+    {
+      "lat": 43.891134,
+      "lng": 25.9656,
+      "nume": "Banca Transilvania",
+      "oras": "Giurgiu",
+      "adresa": "Piața Unirii"
+    },
+    {
+      "lat": 43.899553,
+      "lng": 25.963372,
+      "nume": "Banca Transilvania",
+      "oras": "Giurgiu",
+      "adresa": "Bulevardul Mihai Viteazul 5"
+    },
+    {
+      "lat": 46.530932,
+      "lng": 24.556159,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1848 46A"
+    },
+    {
+      "lat": 45.788666,
+      "lng": 24.135255,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Bihorului 5"
+    },
+    {
+      "lat": 45.775169,
+      "lng": 24.170861,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.743473,
+      "lng": 26.664892,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.16932,
+      "lng": 27.581036,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.167125,
+      "lng": 27.573201,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.644658,
+      "lng": 25.594999,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.413219,
+      "lng": 26.165152,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Theodor Pallady 1"
+    },
+    {
+      "lat": 47.173702,
+      "lng": 27.557289,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Păcurari 121"
+    },
+    {
+      "lat": 44.426295,
+      "lng": 26.129814,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Piața Alba Iulia 2"
+    },
+    {
+      "lat": 45.884065,
+      "lng": 22.904191,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.881881,
+      "lng": 22.905264,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.878065,
+      "lng": 22.903038,
+      "nume": "Banca Transilvania",
+      "oras": "Deva",
+      "adresa": null
+    },
+    {
+      "lat": 46.551094,
+      "lng": 24.573652,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Mihai Viteazul 31"
+    },
+    {
+      "lat": 46.070668,
+      "lng": 23.557869,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.744241,
+      "lng": 23.48615,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.764613,
+      "lng": 23.585184,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Victor Babeș 29"
+    },
+    {
+      "lat": 47.156427,
+      "lng": 27.603874,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Bulevardul Tudor Vladimirescu 1"
+    },
+    {
+      "lat": 44.941031,
+      "lng": 26.021818,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Bulevardul Republicii 15"
+    },
+    {
+      "lat": 47.343976,
+      "lng": 25.353609,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.347194,
+      "lng": 25.35358,
+      "nume": "Banca Transilvania",
+      "oras": "Vatra Dornei",
+      "adresa": "Strada Mihai Eminescu 29"
+    },
+    {
+      "lat": 44.870182,
+      "lng": 24.854568,
+      "nume": "Banca Transilvania",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Nicolae Bălcescu"
+    },
+    {
+      "lat": 44.436283,
+      "lng": 26.105551,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Carol I 23"
+    },
+    {
+      "lat": 44.202303,
+      "lng": 27.31542,
+      "nume": "Banca Transilvania",
+      "oras": "Călărași",
+      "adresa": "Prelungirea București 15"
+    },
+    {
+      "lat": 46.575043,
+      "lng": 24.603218,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.941319,
+      "lng": 26.025987,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada Constantin Dobrogeanu Gherea 1B"
+    },
+    {
+      "lat": 44.461808,
+      "lng": 26.118686,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Lacul Tei 109"
+    },
+    {
+      "lat": 44.944276,
+      "lng": 26.019541,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada Văleni 18"
+    },
+    {
+      "lat": 45.761972,
+      "lng": 21.21403,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.486178,
+      "lng": 26.038783,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Bucureștii Noi 68"
+    },
+    {
+      "lat": 44.470368,
+      "lng": 26.05015,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Griviței 395"
+    },
+    {
+      "lat": 45.750039,
+      "lng": 21.23871,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.864019,
+      "lng": 25.797722,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.195782,
+      "lng": 28.649105,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Mamaia 134"
+    },
+    {
+      "lat": 44.445148,
+      "lng": 26.046086,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 319"
+    },
+    {
+      "lat": 46.785546,
+      "lng": 23.535461,
+      "nume": "Banca Transilvania",
+      "oras": "Baciu",
+      "adresa": "Strada Transilvania 923"
+    },
+    {
+      "lat": 46.785568,
+      "lng": 23.535396,
+      "nume": "Banca Transilvania",
+      "oras": "Baciu",
+      "adresa": "Strada Transilvania 923"
+    },
+    {
+      "lat": 45.609265,
+      "lng": 22.949373,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.443462,
+      "lng": 26.095022,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Piața Amzei 10"
+    },
+    {
+      "lat": 44.179667,
+      "lng": 28.64982,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.756106,
+      "lng": 23.594488,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Republicii 109"
+    },
+    {
+      "lat": 46.240575,
+      "lng": 24.810898,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.783567,
+      "lng": 23.587767,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Horea 112"
+    },
+    {
+      "lat": 46.774039,
+      "lng": 23.592054,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Mihai Viteazu 29"
+    },
+    {
+      "lat": 46.778711,
+      "lng": 23.613873,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 137"
+    },
+    {
+      "lat": 46.764836,
+      "lng": 23.583867,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 46.771474,
+      "lng": 23.591021,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 5"
+    },
+    {
+      "lat": 45.956558,
+      "lng": 23.57422,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "47"
+    },
+    {
+      "lat": 46.767327,
+      "lng": 23.586895,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Republicii 1"
+    },
+    {
+      "lat": 46.759347,
+      "lng": 23.615436,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Constantin Brâncuși 174"
+    },
+    {
+      "lat": 46.769286,
+      "lng": 23.616084,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul Nicolae Titulescu 163"
+    },
+    {
+      "lat": 46.782067,
+      "lng": 23.612634,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Fabricii 7"
+    },
+    {
+      "lat": 46.771393,
+      "lng": 23.598945,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Dorobanților 3"
+    },
+    {
+      "lat": 46.787943,
+      "lng": 23.580251,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Giordano Bruno 30"
+    },
+    {
+      "lat": 46.75857,
+      "lng": 23.550994,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Florești 75"
+    },
+    {
+      "lat": 46.755165,
+      "lng": 23.558769,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Bucegi 13-15"
+    },
+    {
+      "lat": 46.091533,
+      "lng": 21.694648,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Nicolae Bălcescu 27"
+    },
+    {
+      "lat": 46.791818,
+      "lng": 23.599766,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Piața Karl Liebknecht 7-8"
+    },
+    {
+      "lat": 46.781831,
+      "lng": 23.62655,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Dâmboviței 47"
+    },
+    {
+      "lat": 46.766682,
+      "lng": 23.550122,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Fântânele 7"
+    },
+    {
+      "lat": 46.749997,
+      "lng": 23.557563,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Mehedinți 74"
+    },
+    {
+      "lat": 46.779671,
+      "lng": 23.581783,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Gruia 2"
+    },
+    {
+      "lat": 46.79551,
+      "lng": 23.624465,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Bulevardul Muncii 12"
+    },
+    {
+      "lat": 46.771929,
+      "lng": 23.626672,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Alexandru Vaida Voevod 53-55"
+    },
+    {
+      "lat": 46.776385,
+      "lng": 23.629742,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Dunării 26"
+    },
+    {
+      "lat": 46.754961,
+      "lng": 23.577497,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Louis Pasteur 77"
+    },
+    {
+      "lat": 46.780564,
+      "lng": 23.665585,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Traian Vuia 140"
+    },
+    {
+      "lat": 46.772278,
+      "lng": 23.558425,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Donath 15"
+    },
+    {
+      "lat": 46.772585,
+      "lng": 23.588874,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Regele Ferdinand 22-26"
+    },
+    {
+      "lat": 45.862959,
+      "lng": 25.778105,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.76542,
+      "lng": 21.259959,
+      "nume": "Banca Transilvania",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Simion Bărnuțiu 75"
+    },
+    {
+      "lat": 45.763239,
+      "lng": 21.243739,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.760146,
+      "lng": 21.241288,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.763607,
+      "lng": 21.251011,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.76369,
+      "lng": 23.587711,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Republicii 34-36"
+    },
+    {
+      "lat": 46.778608,
+      "lng": 23.589396,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Decebal 28"
+    },
+    {
+      "lat": 46.764406,
+      "lng": 23.587677,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.112485,
+      "lng": 24.349457,
+      "nume": "Banca Transilvania",
+      "oras": "Caracal",
+      "adresa": "Bulevardul Antonius Caracalla 33"
+    },
+    {
+      "lat": 46.799032,
+      "lng": 23.611862,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul Muncii 1-5"
+    },
+    {
+      "lat": 44.431914,
+      "lng": 26.103172,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Constantin Brătianu 34"
+    },
+    {
+      "lat": 46.803222,
+      "lng": 23.75257,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.426486,
+      "lng": 26.120013,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434805,
+      "lng": 26.050545,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 6Q"
+    },
+    {
+      "lat": 45.74792,
+      "lng": 21.238704,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.361636,
+      "lng": 25.79962,
+      "nume": "Banca Transilvania",
+      "oras": "Miercurea Ciuc",
+      "adresa": "Strada Kossuth Lajos 11-13"
+    },
+    {
+      "lat": 44.926066,
+      "lng": 26.028582,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada 1 Decembrie 1918 14"
+    },
+    {
+      "lat": 45.700578,
+      "lng": 25.448033,
+      "nume": "Banca Transilvania",
+      "oras": "Codlea",
+      "adresa": "Strada Lungă"
+    },
+    {
+      "lat": 45.994352,
+      "lng": 26.129488,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Secuiesc",
+      "adresa": "Strada Dózsa György 40"
+    },
+    {
+      "lat": 44.426368,
+      "lng": 26.163449,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Nicolae Grigorescu 29A"
+    },
+    {
+      "lat": 46.543622,
+      "lng": 24.560217,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 39-41"
+    },
+    {
+      "lat": 46.557862,
+      "lng": 24.545594,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Decebal 6"
+    },
+    {
+      "lat": 47.133206,
+      "lng": 24.487926,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.143234,
+      "lng": 24.503402,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.176707,
+      "lng": 23.914498,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.416634,
+      "lng": 23.371806,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.162328,
+      "lng": 27.606829,
+      "nume": "Banca Transilvania",
+      "oras": "Iași",
+      "adresa": "Strada Ion Creangă 7"
+    },
+    {
+      "lat": 45.271793,
+      "lng": 27.956163,
+      "nume": "Banca Transilvania",
+      "oras": "Brăila",
+      "adresa": "Bulevardul Dorobanților 311"
+    },
+    {
+      "lat": 47.162447,
+      "lng": 27.582441,
+      "nume": "Banca Transilvania",
+      "oras": "Iași",
+      "adresa": "Bulevardul Ștefan cel Mare și Sfânt 14"
+    },
+    {
+      "lat": 46.470587,
+      "lng": 22.476602,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.421611,
+      "lng": 23.370157,
+      "nume": "Banca Transilvania",
+      "oras": "Petroșani",
+      "adresa": null
+    },
+    {
+      "lat": 44.387309,
+      "lng": 26.109635,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Constantin Brâncoveanu 114"
+    },
+    {
+      "lat": 46.779686,
+      "lng": 24.699824,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Mihai Viteazul 2"
+    },
+    {
+      "lat": 44.445012,
+      "lng": 26.078029,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Gării de Nord 6-8"
+    },
+    {
+      "lat": 44.179841,
+      "lng": 28.635436,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Strada Ion Luca Caragiale 1"
+    },
+    {
+      "lat": 47.23135,
+      "lng": 22.800236,
+      "nume": "Banca Transilvania",
+      "oras": "Șimleu Silvaniei",
+      "adresa": null
+    },
+    {
+      "lat": 44.195892,
+      "lng": 28.633238,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 235"
+    },
+    {
+      "lat": 45.842913,
+      "lng": 24.97223,
+      "nume": "Banca Transilvania",
+      "oras": "Făgăraș",
+      "adresa": "Strada Nicolae Bălcescu 5"
+    },
+    {
+      "lat": 44.433685,
+      "lng": 26.155978,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434534,
+      "lng": 26.038951,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 14"
+    },
+    {
+      "lat": 44.458304,
+      "lng": 26.077184,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Ion Mihalache 65"
+    },
+    {
+      "lat": 44.439681,
+      "lng": 26.080884,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Știrbei Vodă 97-99"
+    },
+    {
+      "lat": 44.319108,
+      "lng": 23.807015,
+      "nume": "Banca Transilvania",
+      "oras": "Craiova",
+      "adresa": "Calea București 59"
+    },
+    {
+      "lat": 44.950158,
+      "lng": 26.004412,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Bulevardul Republicii 118"
+    },
+    {
+      "lat": 46.772766,
+      "lng": 23.58872,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Regele Ferdinand"
+    },
+    {
+      "lat": 45.124755,
+      "lng": 25.734401,
+      "nume": "Banca Transilvania",
+      "oras": "Câmpina",
+      "adresa": "Bulevardul Carol I 50"
+    },
+    {
+      "lat": 47.155814,
+      "lng": 27.58568,
+      "nume": "Banca Transilvania",
+      "oras": "Iași",
+      "adresa": "Strada Palat 3C"
+    },
+    {
+      "lat": 44.384567,
+      "lng": 26.130471,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Berceni 35"
+    },
+    {
+      "lat": 47.030408,
+      "lng": 23.908149,
+      "nume": "Banca Transilvania",
+      "oras": "Gherla",
+      "adresa": null
+    },
+    {
+      "lat": 46.540997,
+      "lng": 24.557958,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.028086,
+      "lng": 23.91058,
+      "nume": "Banca Transilvania",
+      "oras": "Gherla",
+      "adresa": null
+    },
+    {
+      "lat": 44.437111,
+      "lng": 26.098729,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Academiei 29"
+    },
+    {
+      "lat": 45.650293,
+      "lng": 25.626433,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Strada Zizinului 71"
+    },
+    {
+      "lat": 44.378878,
+      "lng": 26.118753,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Obregia 35"
+    },
+    {
+      "lat": 44.38014,
+      "lng": 26.166742,
+      "nume": "Banca Transilvania",
+      "oras": "Popești-Leordeni",
+      "adresa": "Șoseaua Olteniței 23"
+    },
+    {
+      "lat": 46.783516,
+      "lng": 23.58777,
+      "nume": "BT",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Horea 112"
+    },
+    {
+      "lat": 44.405159,
+      "lng": 26.061765,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandria 16"
+    },
+    {
+      "lat": 46.768732,
+      "lng": 23.590215,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Unirii"
+    },
+    {
+      "lat": 46.767055,
+      "lng": 23.586402,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.399187,
+      "lng": 26.10639,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 50"
+    },
+    {
+      "lat": 44.626087,
+      "lng": 22.651644,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.641289,
+      "lng": 22.649597,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.522407,
+      "lng": 21.514975,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.663251,
+      "lng": 25.578349,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.271533,
+      "lng": 25.045493,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.150161,
+      "lng": 24.675967,
+      "nume": "Banca Transilvania",
+      "oras": "Curtea de Argeș",
+      "adresa": "Bulevardul Basarabilor Bl. A1"
+    },
+    {
+      "lat": 47.65011,
+      "lng": 23.561158,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.627219,
+      "lng": 22.651904,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.438063,
+      "lng": 26.13651,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 139-145"
+    },
+    {
+      "lat": 45.658015,
+      "lng": 25.612538,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.200465,
+      "lng": 28.626205,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.323214,
+      "lng": 23.792133,
+      "nume": "Banca Transilvania",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Nicolae Titulescu"
+    },
+    {
+      "lat": 44.318352,
+      "lng": 23.797588,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.309562,
+      "lng": 23.822169,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.319889,
+      "lng": 23.787677,
+      "nume": "Banca Transilvania",
+      "oras": "Craiova",
+      "adresa": "Strada Iancu Jianu 2"
+    },
+    {
+      "lat": 45.739486,
+      "lng": 21.239651,
+      "nume": "Banca Transilvania",
+      "oras": "Timișoara",
+      "adresa": "Strada Arieș 20"
+    },
+    {
+      "lat": 45.732125,
+      "lng": 21.25939,
+      "nume": "Banca Transilvania",
+      "oras": "Timișoara",
+      "adresa": "Calea Buziașului 1"
+    },
+    {
+      "lat": 44.322513,
+      "lng": 23.821677,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.128676,
+      "lng": 22.792186,
+      "nume": "Banca Transilvania",
+      "oras": "Brad",
+      "adresa": "Bulevardul Republicii 6"
+    },
+    {
+      "lat": 46.473089,
+      "lng": 26.488678,
+      "nume": "BT",
+      "oras": "Moinești",
+      "adresa": "Strada Tudor Vladimirescu"
+    },
+    {
+      "lat": 44.169758,
+      "lng": 28.610997,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.288324,
+      "lng": 21.885807,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.441927,
+      "lng": 26.118278,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Moșilor 274"
+    },
+    {
+      "lat": 45.659277,
+      "lng": 25.595497,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.320661,
+      "lng": 23.814486,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.124734,
+      "lng": 25.734421,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.441872,
+      "lng": 26.171039,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon"
+    },
+    {
+      "lat": 45.103836,
+      "lng": 24.363623,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.777927,
+      "lng": 23.610342,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.002571,
+      "lng": 26.443243,
+      "nume": "Banca Transilvania",
+      "oras": "Mizil",
+      "adresa": "Strada Mihai Bravu 63"
+    },
+    {
+      "lat": 45.504185,
+      "lng": 25.574111,
+      "nume": "Banca Transilvania",
+      "oras": "Predeal",
+      "adresa": null
+    },
+    {
+      "lat": 45.147816,
+      "lng": 26.813797,
+      "nume": "Banca Transilvania",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Unirii"
+    },
+    {
+      "lat": 46.964141,
+      "lng": 25.561763,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.461426,
+      "lng": 26.094918,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Locotenent Aviator Radu Beller 6"
+    },
+    {
+      "lat": 44.480421,
+      "lng": 26.035235,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 90"
+    },
+    {
+      "lat": 44.454406,
+      "lng": 26.098246,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Dorobanților 102-110"
+    },
+    {
+      "lat": 44.509672,
+      "lng": 26.088129,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.424374,
+      "lng": 26.074789,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea 13 Septembrie 108-112"
+    },
+    {
+      "lat": 44.412878,
+      "lng": 26.072831,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Rahovei 322"
+    },
+    {
+      "lat": 44.434148,
+      "lng": 26.009808,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 190"
+    },
+    {
+      "lat": 44.433843,
+      "lng": 26.0209,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 65"
+    },
+    {
+      "lat": 44.42368,
+      "lng": 26.042072,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Drumul Taberei 32"
+    },
+    {
+      "lat": 44.420523,
+      "lng": 26.137119,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 305"
+    },
+    {
+      "lat": 44.714083,
+      "lng": 26.642961,
+      "nume": "Banca Transilvania",
+      "oras": "Urziceni",
+      "adresa": "Strada Aurora 1"
+    },
+    {
+      "lat": 43.811579,
+      "lng": 28.582232,
+      "nume": "Banca Transilvania",
+      "oras": "Mangalia",
+      "adresa": "Strada Ștefan cel Mare 6"
+    },
+    {
+      "lat": 44.432133,
+      "lng": 26.105231,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Lipscani 102"
+    },
+    {
+      "lat": 44.427753,
+      "lng": 26.137865,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 290"
+    },
+    {
+      "lat": 44.429982,
+      "lng": 26.106156,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Corneliu Coposu 3-5"
+    },
+    {
+      "lat": 44.435188,
+      "lng": 26.099388,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Regina Elisabeta 16"
+    },
+    {
+      "lat": 44.423768,
+      "lng": 26.119918,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.414684,
+      "lng": 26.133278,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Vitan 199"
+    },
+    {
+      "lat": 44.407849,
+      "lng": 26.140416,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Vitan 236"
+    },
+    {
+      "lat": 44.199525,
+      "lng": 28.609537,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Aurel Vlaicu 220"
+    },
+    {
+      "lat": 44.169653,
+      "lng": 28.658707,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": null
+    },
+    {
+      "lat": 44.185775,
+      "lng": 28.645154,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 138"
+    },
+    {
+      "lat": 44.15866,
+      "lng": 28.631272,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Strada Aurora 6"
+    },
+    {
+      "lat": 44.204559,
+      "lng": 28.624582,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.188907,
+      "lng": 28.634345,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Alexandru Lăpușneanu 82"
+    },
+    {
+      "lat": 44.191306,
+      "lng": 28.624053,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Strada Soveja 104"
+    },
+    {
+      "lat": 44.154531,
+      "lng": 28.61843,
+      "nume": "Banca Transilvania",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Aurel Vlaicu 60"
+    },
+    {
+      "lat": 44.246806,
+      "lng": 28.269648,
+      "nume": "Banca Transilvania",
+      "oras": "Medgidia",
+      "adresa": "Strada Republicii 7"
+    },
+    {
+      "lat": 44.321947,
+      "lng": 28.608002,
+      "nume": "Banca Transilvania",
+      "oras": "Năvodari",
+      "adresa": "Albinelor A2A"
+    },
+    {
+      "lat": 46.911552,
+      "lng": 26.088051,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.56048,
+      "lng": 25.947248,
+      "nume": "Banca Transilvania",
+      "oras": "Buftea",
+      "adresa": "Strada Mihai Eminescu 12"
+    },
+    {
+      "lat": 44.490244,
+      "lng": 26.187096,
+      "nume": "Banca Transilvania",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Voluntari 77"
+    },
+    {
+      "lat": 44.461582,
+      "lng": 26.132414,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 53"
+    },
+    {
+      "lat": 44.441831,
+      "lng": 26.152143,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Pierre de Coubertin 3-5"
+    },
+    {
+      "lat": 44.452787,
+      "lng": 26.103907,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Ștefan cel Mare 16"
+    },
+    {
+      "lat": 44.446788,
+      "lng": 26.125939,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.415418,
+      "lng": 26.106501,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Lânăriei 5"
+    },
+    {
+      "lat": 44.427531,
+      "lng": 26.100717,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Unirii 25-27"
+    },
+    {
+      "lat": 44.382796,
+      "lng": 26.092678,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Giurgiului 127"
+    },
+    {
+      "lat": 44.390518,
+      "lng": 26.128328,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 232"
+    },
+    {
+      "lat": 45.185707,
+      "lng": 26.038618,
+      "nume": "Banca Transilvania",
+      "oras": "Vălenii de Munte",
+      "adresa": "Bulevardul Nicolae Iorga 83"
+    },
+    {
+      "lat": 45.35187,
+      "lng": 25.550161,
+      "nume": "Banca Transilvania",
+      "oras": "Sinaia",
+      "adresa": "Bulevardul Carol I 19"
+    },
+    {
+      "lat": 44.944052,
+      "lng": 26.023567,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada Coșbuc 13"
+    },
+    {
+      "lat": 44.927296,
+      "lng": 25.997615,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada Domnișori 91"
+    },
+    {
+      "lat": 44.945603,
+      "lng": 26.034636,
+      "nume": "Banca Transilvania - Ag. Ploiești Est",
+      "oras": "Ploiești",
+      "adresa": "Strada Poștei 77"
+    },
+    {
+      "lat": 44.938512,
+      "lng": 25.983573,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Strada Gheorghe Gr. Cantacuzino 271"
+    },
+    {
+      "lat": 44.953733,
+      "lng": 26.001391,
+      "nume": "Banca Transilvania - Ag. Complex Nord",
+      "oras": "Ploiești",
+      "adresa": "Șoseaua Nordului 1"
+    },
+    {
+      "lat": 45.244829,
+      "lng": 28.131105,
+      "nume": "Banca Transilvania",
+      "oras": "Măcin",
+      "adresa": "Strada Romană 21"
+    },
+    {
+      "lat": 45.262601,
+      "lng": 27.966568,
+      "nume": "Banca Transilvania",
+      "oras": "Brăila",
+      "adresa": "Calea Călărașilor 54"
+    },
+    {
+      "lat": 45.24955,
+      "lng": 27.952331,
+      "nume": "Banca Transilvania",
+      "oras": "Brăila",
+      "adresa": "Calea Călărașilor 228"
+    },
+    {
+      "lat": 45.250257,
+      "lng": 27.93996,
+      "nume": "Banca Transilvania",
+      "oras": "Brăila",
+      "adresa": "Șoseaua Buzăului 5"
+    },
+    {
+      "lat": 47.707733,
+      "lng": 24.432796,
+      "nume": "Banca Transilvania",
+      "oras": "Vișeu de Sus",
+      "adresa": "Strada Carpați 2"
+    },
+    {
+      "lat": 47.707696,
+      "lng": 24.432764,
+      "nume": "Bancomat Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.15136,
+      "lng": 26.836957,
+      "nume": "Banca Transilvania",
+      "oras": "Buzău",
+      "adresa": "Strada Dorobanți 1"
+    },
+    {
+      "lat": 45.417207,
+      "lng": 26.301795,
+      "nume": "Banca Transilvania",
+      "oras": "Nehoiu",
+      "adresa": "Calea Mihai Viteazul 12"
+    },
+    {
+      "lat": 45.143707,
+      "lng": 26.825536,
+      "nume": "Banca Transilvania",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Gării 42"
+    },
+    {
+      "lat": 45.162619,
+      "lng": 26.817486,
+      "nume": "Banca Transilvania",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Unirii 232"
+    },
+    {
+      "lat": 46.722444,
+      "lng": 25.592651,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430898,
+      "lng": 26.091544,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431399,
+      "lng": 26.137224,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Decebal 25-29"
+    },
+    {
+      "lat": 47.927982,
+      "lng": 23.887492,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.928327,
+      "lng": 23.889326,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.155587,
+      "lng": 26.819687,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.174293,
+      "lng": 23.66533,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.174257,
+      "lng": 23.665312,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.943769,
+      "lng": 26.021078,
+      "nume": "Bancpost",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.476356,
+      "lng": 22.582796,
+      "nume": "Banca Transilvania",
+      "oras": "Tășnad",
+      "adresa": null
+    },
+    {
+      "lat": 46.186776,
+      "lng": 21.325047,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Bulevardul Revoluției 4-6"
+    },
+    {
+      "lat": 45.869762,
+      "lng": 22.911253,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Bulevardul 22 Decembrie 1989 42"
+    },
+    {
+      "lat": 46.763675,
+      "lng": 23.578758,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.784467,
+      "lng": 23.636653,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.387221,
+      "lng": 26.109641,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 47.680268,
+      "lng": 22.470652,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153548,
+      "lng": 26.796665,
+      "nume": "Banca Transilvania",
+      "oras": "Buzău",
+      "adresa": "Aleea Centrală"
+    },
+    {
+      "lat": 44.998541,
+      "lng": 25.741546,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.981866,
+      "lng": 25.6457,
+      "nume": "Banca Transilvania",
+      "oras": "Moreni",
+      "adresa": null
+    },
+    {
+      "lat": 44.547912,
+      "lng": 26.069222,
+      "nume": "Banca Transilvania",
+      "oras": "Otopeni",
+      "adresa": "Calea Bucureștilor"
+    },
+    {
+      "lat": 46.776828,
+      "lng": 23.616231,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.699435,
+      "lng": 27.185622,
+      "nume": "Banca Transilvania",
+      "oras": "Focșani",
+      "adresa": "Strada Mare a Unirii 1"
+    },
+    {
+      "lat": 45.757323,
+      "lng": 21.23,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.025804,
+      "lng": 23.268347,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.683933,
+      "lng": 22.471984,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.776077,
+      "lng": 23.604461,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.781251,
+      "lng": 23.605321,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.767342,
+      "lng": 23.599882,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Timotei Cipariu 5"
+    },
+    {
+      "lat": 46.163422,
+      "lng": 24.347496,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.760959,
+      "lng": 26.009118,
+      "nume": "Banca Transilvania",
+      "oras": "Poienarii Burchii",
+      "adresa": "General Angelescu 22"
+    },
+    {
+      "lat": 44.087648,
+      "lng": 26.638299,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44446,
+      "lng": 26.077932,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Gării de Nord"
+    },
+    {
+      "lat": 46.362355,
+      "lng": 25.802428,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.167178,
+      "lng": 27.595155,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.186549,
+      "lng": 23.055677,
+      "nume": "Banca Transilvania",
+      "oras": "Zalău",
+      "adresa": null
+    },
+    {
+      "lat": 47.080986,
+      "lng": 21.921066,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.310747,
+      "lng": 23.719433,
+      "nume": "Banca Transilvania",
+      "oras": "Aiud",
+      "adresa": null
+    },
+    {
+      "lat": 44.43145,
+      "lng": 26.053152,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 45.412472,
+      "lng": 28.015604,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.636117,
+      "lng": 27.731952,
+      "nume": "Banca Transilvania",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 46.635567,
+      "lng": 27.724857,
+      "nume": "Banca Transilvania",
+      "oras": "Vaslui",
+      "adresa": "Strada Traian"
+    },
+    {
+      "lat": 45.756677,
+      "lng": 21.221262,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.741921,
+      "lng": 21.225223,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.375282,
+      "lng": 23.290247,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.103815,
+      "lng": 24.360508,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.987103,
+      "lng": 26.014019,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.349732,
+      "lng": 26.033428,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.104985,
+      "lng": 24.365578,
+      "nume": "Banca Transilvania",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Tudor Vladimirescu 21"
+    },
+    {
+      "lat": 46.572484,
+      "lng": 23.785303,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.721797,
+      "lng": 25.601275,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.142794,
+      "lng": 26.807228,
+      "nume": "ATM BT",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.054223,
+      "lng": 21.929026,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.422202,
+      "lng": 24.383129,
+      "nume": "Banca Transilvania",
+      "oras": "Slatina",
+      "adresa": "Strada Ecaterina Teodoroiu 18"
+    },
+    {
+      "lat": 46.545815,
+      "lng": 23.886731,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.83959,
+      "lng": 23.192052,
+      "nume": "ATM Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.839557,
+      "lng": 23.192068,
+      "nume": "Banca Transilvania",
+      "oras": "Orăștie",
+      "adresa": "Bulevardul Eroilor bloc E"
+    },
+    {
+      "lat": 44.918892,
+      "lng": 25.460708,
+      "nume": "Banca Transilvania",
+      "oras": "Târgoviște",
+      "adresa": null
+    },
+    {
+      "lat": 46.7631,
+      "lng": 23.571973,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Mănăștur 2"
+    },
+    {
+      "lat": 44.486151,
+      "lng": 26.038705,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.428103,
+      "lng": 28.035173,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Brăilei"
+    },
+    {
+      "lat": 46.225994,
+      "lng": 27.670532,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.642632,
+      "lng": 25.631212,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.884174,
+      "lng": 22.910163,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.562311,
+      "lng": 27.371223,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.136825,
+      "lng": 24.498643,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.776288,
+      "lng": 24.500795,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Tudor Vladimirescu Bl. 39"
+    },
+    {
+      "lat": 46.279968,
+      "lng": 26.610567,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.207397,
+      "lng": 23.674217,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.5571,
+      "lng": 23.806478,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.650879,
+      "lng": 25.606826,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Strada Iuliu Maniu 49"
+    },
+    {
+      "lat": 45.72844,
+      "lng": 21.204717,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.744205,
+      "lng": 21.207915,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.773348,
+      "lng": 23.588056,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.160194,
+      "lng": 27.61395,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.66287,
+      "lng": 25.630007,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Strada Hărmanului 102"
+    },
+    {
+      "lat": 46.773316,
+      "lng": 23.621053,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.804089,
+      "lng": 22.968495,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.57992,
+      "lng": 23.770332,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.565422,
+      "lng": 23.780904,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.671632,
+      "lng": 26.278086,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.793719,
+      "lng": 24.123517,
+      "nume": "Banca Transilvania",
+      "oras": "Sibiu",
+      "adresa": "Șoseaua Alba Iulia 50"
+    },
+    {
+      "lat": 46.77004,
+      "lng": 23.588384,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Memorandumului 1"
+    },
+    {
+      "lat": 47.784996,
+      "lng": 22.869183,
+      "nume": "Banca Transilvania",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 44.313376,
+      "lng": 23.795869,
+      "nume": "Banca Transilvania",
+      "oras": "Craiova",
+      "adresa": "Calea Unirii 52"
+    },
+    {
+      "lat": 45.274183,
+      "lng": 25.046557,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.793366,
+      "lng": 22.878991,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.927857,
+      "lng": 25.461001,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Stelea"
+    },
+    {
+      "lat": 44.431975,
+      "lng": 26.12997,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Călărașilor"
+    },
+    {
+      "lat": 46.748546,
+      "lng": 23.598568,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Erkel Ferenc 2-4"
+    },
+    {
+      "lat": 46.785963,
+      "lng": 23.60522,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.994178,
+      "lng": 22.934081,
+      "nume": "Banca Transilvania",
+      "oras": "Calafat",
+      "adresa": "Bulevardul Tudor Vladimirescu"
+    },
+    {
+      "lat": 46.218351,
+      "lng": 27.67157,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.928144,
+      "lng": 23.890627,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.927691,
+      "lng": 23.897996,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.037093,
+      "lng": 21.947848,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.415964,
+      "lng": 27.823123,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.580288,
+      "lng": 26.916278,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.777334,
+      "lng": 24.158247,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.167069,
+      "lng": 27.583524,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.638278,
+      "lng": 25.629143,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Calea București 92"
+    },
+    {
+      "lat": 44.419767,
+      "lng": 26.126574,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 45.765796,
+      "lng": 21.229233,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.150579,
+      "lng": 27.588497,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.750762,
+      "lng": 23.533681,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.48335,
+      "lng": 26.092001,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.233452,
+      "lng": 27.670418,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452393,
+      "lng": 26.130523,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 45.665368,
+      "lng": 25.59892,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Strada 1 Decembrie 1918 8"
+    },
+    {
+      "lat": 45.647728,
+      "lng": 25.619095,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Calea București 10B"
+    },
+    {
+      "lat": 45.664541,
+      "lng": 25.61397,
+      "nume": "ATM Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Turnului 5"
+    },
+    {
+      "lat": 47.665041,
+      "lng": 26.266871,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428763,
+      "lng": 24.364742,
+      "nume": "Banca Transilvania",
+      "oras": "Slatina",
+      "adresa": "Bulevardul Alexandru Ioan Cuza"
+    },
+    {
+      "lat": 45.411353,
+      "lng": 22.217193,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.750955,
+      "lng": 21.207999,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.180272,
+      "lng": 23.053649,
+      "nume": "Banca Transilvania",
+      "oras": "Zalău",
+      "adresa": "Strada Unirii"
+    },
+    {
+      "lat": 45.845418,
+      "lng": 26.16845,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Ignácz Rózsa"
+    },
+    {
+      "lat": 46.527918,
+      "lng": 24.595073,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.80241,
+      "lng": 21.659943,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.450433,
+      "lng": 24.236137,
+      "nume": "Banca Transilvania",
+      "oras": "Iernut",
+      "adresa": "Piața 1 Decembrie 1918 2"
+    },
+    {
+      "lat": 46.502093,
+      "lng": 24.492294,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.705217,
+      "lng": 27.206926,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.71426,
+      "lng": 25.684837,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.951777,
+      "lng": 26.000966,
+      "nume": "Banca Transilvania",
+      "oras": "Ploiești",
+      "adresa": "Bulevardul Republicii 130"
+    },
+    {
+      "lat": 44.936937,
+      "lng": 26.02181,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.079368,
+      "lng": 23.584119,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.934004,
+      "lng": 26.34787,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.083399,
+      "lng": 23.582913,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.041357,
+      "lng": 23.274033,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Jiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.037028,
+      "lng": 23.273607,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.772433,
+      "lng": 23.628271,
+      "nume": "Banca Transilvania",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 46.764104,
+      "lng": 23.607253,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.780418,
+      "lng": 22.883128,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.483697,
+      "lng": 24.45721,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.528654,
+      "lng": 25.56147,
+      "nume": "Banca Transilvania",
+      "oras": "Câmpulung Moldovenesc",
+      "adresa": null
+    },
+    {
+      "lat": 44.395237,
+      "lng": 26.116878,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428597,
+      "lng": 26.035203,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.432484,
+      "lng": 24.369902,
+      "nume": "Banca Transilvania",
+      "oras": "Slatina",
+      "adresa": "Strada Crișan 1"
+    },
+    {
+      "lat": 46.185928,
+      "lng": 21.325435,
+      "nume": "Banca Transilvania",
+      "oras": "Arad",
+      "adresa": "Bulevardul Revoluției"
+    },
+    {
+      "lat": 46.934917,
+      "lng": 26.356027,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.772336,
+      "lng": 23.603042,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Calea Dorobanților 27-29"
+    },
+    {
+      "lat": 43.966126,
+      "lng": 25.333584,
+      "nume": "Banca Transilvania",
+      "oras": "Alexandria",
+      "adresa": "Strada Dunării"
+    },
+    {
+      "lat": 46.599847,
+      "lng": 25.085383,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.116698,
+      "lng": 25.944269,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.220897,
+      "lng": 24.794802,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.220906,
+      "lng": 24.794776,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.305256,
+      "lng": 27.963148,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.154536,
+      "lng": 28.618338,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.154497,
+      "lng": 28.61846,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.544822,
+      "lng": 24.560465,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.779813,
+      "lng": 23.595524,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.161581,
+      "lng": 22.876775,
+      "nume": "ATM Banca Transilvania",
+      "oras": "Crasna",
+      "adresa": "Piața Cserey Farkas 380"
+    },
+    {
+      "lat": 46.938027,
+      "lng": 26.922722,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.759045,
+      "lng": 23.540886,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.364717,
+      "lng": 26.147586,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.539334,
+      "lng": 24.563847,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 49"
+    },
+    {
+      "lat": 46.5448,
+      "lng": 24.560922,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 17"
+    },
+    {
+      "lat": 45.689565,
+      "lng": 21.904,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.931004,
+      "lng": 26.371119,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.632901,
+      "lng": 27.728493,
+      "nume": "Banca Transilvania",
+      "oras": "Vaslui",
+      "adresa": "Strada Traian"
+    },
+    {
+      "lat": 47.07747,
+      "lng": 21.917024,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.774771,
+      "lng": 21.239041,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.766658,
+      "lng": 23.57002,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.708307,
+      "lng": 21.233249,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.059363,
+      "lng": 21.935871,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.733679,
+      "lng": 21.201522,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.59786,
+      "lng": 25.463729,
+      "nume": "Banca Transilvania",
+      "oras": "Râșnov",
+      "adresa": "Strada Caraiman"
+    },
+    {
+      "lat": 45.79669,
+      "lng": 24.152668,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.84176,
+      "lng": 25.9225,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.192255,
+      "lng": 23.061279,
+      "nume": "Banca Transilvania",
+      "oras": "Zalău",
+      "adresa": null
+    },
+    {
+      "lat": 47.192237,
+      "lng": 23.061286,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.00264,
+      "lng": 23.256495,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.493807,
+      "lng": 26.151102,
+      "nume": "Banca Transilvania",
+      "oras": "Voluntari",
+      "adresa": "Strada Popasului 110"
+    },
+    {
+      "lat": 44.479618,
+      "lng": 26.114013,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Dimitrie Pompeiu 6A"
+    },
+    {
+      "lat": 47.077419,
+      "lng": 21.917009,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.779348,
+      "lng": 24.721637,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.730764,
+      "lng": 21.247915,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.451018,
+      "lng": 26.045758,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.958036,
+      "lng": 23.564506,
+      "nume": "Banca Transilvania",
+      "oras": "Sebeș",
+      "adresa": "Strada Valea Frumoasei"
+    },
+    {
+      "lat": 45.958057,
+      "lng": 23.564495,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.749236,
+      "lng": 26.643467,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.594793,
+      "lng": 25.071808,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.906713,
+      "lng": 27.088711,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.669575,
+      "lng": 25.636812,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.617661,
+      "lng": 25.692924,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.533705,
+      "lng": 26.919509,
+      "nume": "Banca Transilvania",
+      "oras": "Bacău",
+      "adresa": null
+    },
+    {
+      "lat": 47.656331,
+      "lng": 24.664693,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.778146,
+      "lng": 23.578056,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.753486,
+      "lng": 23.552738,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.826089,
+      "lng": 24.067202,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.842535,
+      "lng": 23.36064,
+      "nume": "Banca Transilvania",
+      "oras": "Cugir",
+      "adresa": "Strada Alexandru Sahia"
+    },
+    {
+      "lat": 46.763094,
+      "lng": 23.572069,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.753989,
+      "lng": 23.554932,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.073644,
+      "lng": 23.579404,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.672064,
+      "lng": 25.617431,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.565333,
+      "lng": 26.895765,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660809,
+      "lng": 24.264896,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660787,
+      "lng": 24.264913,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660773,
+      "lng": 24.264913,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.780289,
+      "lng": 23.557024,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.754816,
+      "lng": 23.627703,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.784331,
+      "lng": 21.236816,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.179648,
+      "lng": 21.321624,
+      "nume": "Banca Transilvania",
+      "oras": "Arad",
+      "adresa": "Bulevardul Revoluției 43"
+    },
+    {
+      "lat": 46.256838,
+      "lng": 26.77586,
+      "nume": "Banca Transilvania",
+      "oras": "Onești",
+      "adresa": "Bulevardul Mărășești 10"
+    },
+    {
+      "lat": 47.803652,
+      "lng": 22.891304,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.835515,
+      "lng": 24.903766,
+      "nume": "Banca Transilvania",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Petrochimiștilor"
+    },
+    {
+      "lat": 44.421667,
+      "lng": 26.150761,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 47.143276,
+      "lng": 24.503377,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.128785,
+      "lng": 24.476943,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.181546,
+      "lng": 21.310665,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.500954,
+      "lng": 26.068086,
+      "nume": "BT Enayati Medical City",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430826,
+      "lng": 26.051789,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.395115,
+      "lng": 26.122451,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 44.440202,
+      "lng": 25.982996,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 546-560"
+    },
+    {
+      "lat": 46.086011,
+      "lng": 23.59401,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.065108,
+      "lng": 28.634173,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.146464,
+      "lng": 27.591258,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.067525,
+      "lng": 21.928907,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.190597,
+      "lng": 21.320916,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.080983,
+      "lng": 21.921079,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.330289,
+      "lng": 23.770952,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.354157,
+      "lng": 25.80512,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.879439,
+      "lng": 22.906885,
+      "nume": "Banca Transilvania",
+      "oras": "Deva",
+      "adresa": "Bulevardul Decebal"
+    },
+    {
+      "lat": 45.158,
+      "lng": 26.81167,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.417112,
+      "lng": 26.114278,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Splaiul Unirii 165"
+    },
+    {
+      "lat": 46.784403,
+      "lng": 23.586338,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.810096,
+      "lng": 21.31978,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.685689,
+      "lng": 26.350052,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.467349,
+      "lng": 24.423837,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.344468,
+      "lng": 21.307595,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.359891,
+      "lng": 25.804866,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.767195,
+      "lng": 23.624598,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.203723,
+      "lng": 26.733308,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.653717,
+      "lng": 25.613177,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Mihail Kogălniceanu 3"
+    },
+    {
+      "lat": 47.781622,
+      "lng": 22.872205,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.617993,
+      "lng": 25.650918,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.490116,
+      "lng": 26.127092,
+      "nume": "Banca Transilvania",
+      "oras": "Voluntari",
+      "adresa": "Șoseaua București Nord 14"
+    },
+    {
+      "lat": 45.146205,
+      "lng": 23.990817,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.720079,
+      "lng": 23.617211,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.897899,
+      "lng": 25.962786,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.560837,
+      "lng": 27.349045,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202305,
+      "lng": 23.056363,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.53653,
+      "lng": 24.55349,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.366724,
+      "lng": 25.79923,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.152282,
+      "lng": 26.81884,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.168393,
+      "lng": 27.516142,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.601541,
+      "lng": 25.086751,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.74874,
+      "lng": 23.281605,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.569412,
+      "lng": 26.910365,
+      "nume": "Banca Transilvania",
+      "oras": "Bacău",
+      "adresa": "Strada Oituz 2 bis"
+    },
+    {
+      "lat": 45.19027,
+      "lng": 28.234623,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.249231,
+      "lng": 26.71939,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.220462,
+      "lng": 23.041013,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.650687,
+      "lng": 25.603681,
+      "nume": "Banca Transilvania",
+      "oras": "Brașov",
+      "adresa": "Strada 13 Decembrie 1"
+    },
+    {
+      "lat": 44.408093,
+      "lng": 26.203211,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 45.753519,
+      "lng": 21.223954,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.528898,
+      "lng": 24.545762,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Gheorghe Doja 74"
+    },
+    {
+      "lat": 44.318732,
+      "lng": 23.958146,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.975367,
+      "lng": 24.622718,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.42032,
+      "lng": 28.018879,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.802516,
+      "lng": 21.658225,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.050269,
+      "lng": 21.937375,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.848326,
+      "lng": 27.424393,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.847683,
+      "lng": 27.429751,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.555491,
+      "lng": 23.518154,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.027285,
+      "lng": 23.276194,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755769,
+      "lng": 23.386988,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.096112,
+      "lng": 24.365167,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.199857,
+      "lng": 27.332049,
+      "nume": "Banca Transilvania",
+      "oras": "Călărași",
+      "adresa": "Strada Eroilor Revolutiei din 22 Decembrie 1989 49"
+    },
+    {
+      "lat": 44.319788,
+      "lng": 26.282468,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.943171,
+      "lng": 26.022091,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.870356,
+      "lng": 27.912784,
+      "nume": "Banca Transilvania",
+      "oras": "Târgu Bujor",
+      "adresa": "Strada General Eremia Grigorescu 101"
+    },
+    {
+      "lat": 45.741901,
+      "lng": 21.225112,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Piața Nicolae Bălcescu 1"
+    },
+    {
+      "lat": 47.180312,
+      "lng": 23.053646,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.180313,
+      "lng": 23.053672,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.115474,
+      "lng": 24.363611,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.087634,
+      "lng": 26.638201,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.747193,
+      "lng": 23.449722,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.747151,
+      "lng": 23.449702,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.968843,
+      "lng": 24.96013,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.957974,
+      "lng": 24.939274,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202299,
+      "lng": 23.05633,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202316,
+      "lng": 23.056349,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202306,
+      "lng": 23.056324,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.345529,
+      "lng": 21.50198,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.058023,
+      "lng": 21.914601,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.331144,
+      "lng": 23.122436,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.904398,
+      "lng": 25.97022,
+      "nume": "Banca Transilvania",
+      "oras": "Giurgiu",
+      "adresa": "Bulevardul București"
+    },
+    {
+      "lat": 47.647774,
+      "lng": 26.257236,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.864992,
+      "lng": 25.790676,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.495267,
+      "lng": 26.078597,
+      "nume": "Banca Transilvania",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 43"
+    },
+    {
+      "lat": 44.631681,
+      "lng": 22.651814,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.420223,
+      "lng": 24.815024,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Strada Principală"
+    },
+    {
+      "lat": 47.137108,
+      "lng": 24.504915,
+      "nume": "Banca Transilvania",
+      "oras": "Bistrița",
+      "adresa": "Strada General Grigore Bălan 23 / 85"
+    },
+    {
+      "lat": 47.136367,
+      "lng": 24.499062,
+      "nume": "Banca Transilvania",
+      "oras": "Bistrița",
+      "adresa": null
+    },
+    {
+      "lat": 47.059992,
+      "lng": 22.396285,
+      "nume": "Banca Transilvania",
+      "oras": "Aleșd",
+      "adresa": "Strada Piața Unirii 16"
+    },
+    {
+      "lat": 45.760907,
+      "lng": 22.909936,
+      "nume": "Banca Transilvania",
+      "oras": "Hunedoara",
+      "adresa": "Bulevardul Dacia 8A"
+    },
+    {
+      "lat": 46.744187,
+      "lng": 23.486214,
+      "nume": "Banca Transilvania",
+      "oras": "Florești",
+      "adresa": "Strada Avram Iancu"
+    },
+    {
+      "lat": 44.505673,
+      "lng": 26.216863,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": "Șoseaua București Urziceni"
+    },
+    {
+      "lat": 46.928462,
+      "lng": 26.367461,
+      "nume": "Banca Transilvania",
+      "oras": "Piatra Neamț",
+      "adresa": "Bulevardul Decebal 3"
+    },
+    {
+      "lat": 44.311972,
+      "lng": 23.833043,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.956544,
+      "lng": 23.574303,
+      "nume": "Banca Transilvania",
+      "oras": "Sebeș",
+      "adresa": null
+    },
+    {
+      "lat": 44.490312,
+      "lng": 26.186951,
+      "nume": "Banca Transilvania",
+      "oras": "Voluntari",
+      "adresa": "Bulevardul Voluntari 77"
+    },
+    {
+      "lat": 45.413085,
+      "lng": 22.213957,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.754004,
+      "lng": 22.904532,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.790169,
+      "lng": 22.872847,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.84282,
+      "lng": 24.898578,
+      "nume": "Banca Transilvania",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

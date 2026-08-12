@@ -1,0 +1,800 @@
+{
+  "brand": "McDonald's",
+  "wikidata_id": "Q38076",
+  "total": 113,
+  "cu_oras": 81,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.428504,
+      "lng": 26.104239,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Piața Unirii 1"
+    },
+    {
+      "lat": 46.175366,
+      "lng": 21.317706,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.753461,
+      "lng": 21.226021,
+      "nume": "McDonald's",
+      "oras": "Timișoara",
+      "adresa": "Piața Victoriei 1"
+    },
+    {
+      "lat": 44.940516,
+      "lng": 26.025012,
+      "nume": "McDonald's",
+      "oras": "Ploiești",
+      "adresa": "Piața Victoriei 3"
+    },
+    {
+      "lat": 44.420096,
+      "lng": 26.126306,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 47.062284,
+      "lng": 21.938039,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.444445,
+      "lng": 26.098354,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul General Gheorghe Magheru 24"
+    },
+    {
+      "lat": 44.415503,
+      "lng": 26.080043,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Progresului 151-171"
+    },
+    {
+      "lat": 46.774149,
+      "lng": 23.592765,
+      "nume": "McDonald's",
+      "oras": "Cluj-Napoca",
+      "adresa": "Piața Mihai Viteazu"
+    },
+    {
+      "lat": 44.846307,
+      "lng": 24.887791,
+      "nume": "McDonald's",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Republicii 214B"
+    },
+    {
+      "lat": 44.452401,
+      "lng": 26.082131,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Nicolae Titulescu 4-8"
+    },
+    {
+      "lat": 44.395832,
+      "lng": 26.122584,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 45.632382,
+      "lng": 25.638711,
+      "nume": "McDonald's",
+      "oras": "Brașov",
+      "adresa": "Calea București 107"
+    },
+    {
+      "lat": 44.478458,
+      "lng": 26.103415,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 46.748777,
+      "lng": 23.531459,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452569,
+      "lng": 26.129521,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.445554,
+      "lng": 26.062762,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 46.580459,
+      "lng": 26.915689,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.946467,
+      "lng": 26.03303,
+      "nume": "McDonald's",
+      "oras": "Ploiești",
+      "adresa": "Strada Calomfirescu 2"
+    },
+    {
+      "lat": 45.766745,
+      "lng": 21.228791,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.773144,
+      "lng": 23.629875,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.313186,
+      "lng": 23.831487,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.441516,
+      "lng": 26.152089,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul Pierre de Coubertin 3-5"
+    },
+    {
+      "lat": 44.510519,
+      "lng": 26.086905,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 45.163261,
+      "lng": 26.817675,
+      "nume": "McDonald's",
+      "oras": "Buzău",
+      "adresa": null
+    },
+    {
+      "lat": 47.659371,
+      "lng": 26.271058,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430896,
+      "lng": 26.052715,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.20417,
+      "lng": 28.633706,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.197714,
+      "lng": 28.611124,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.505756,
+      "lng": 26.08922,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 44.392089,
+      "lng": 26.093727,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.157083,
+      "lng": 27.589662,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649586,
+      "lng": 25.610881,
+      "nume": "McDonald's",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.438215,
+      "lng": 25.957248,
+      "nume": "McDonald's",
+      "oras": "Chiajna",
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 44.428512,
+      "lng": 26.035054,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.438002,
+      "lng": 26.186627,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Vergului 20"
+    },
+    {
+      "lat": 44.434858,
+      "lng": 25.987535,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.420881,
+      "lng": 26.150491,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.965205,
+      "lng": 25.97443,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.543228,
+      "lng": 24.559467,
+      "nume": "McDonald's",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 35-37"
+    },
+    {
+      "lat": 44.405925,
+      "lng": 26.200069,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.178288,
+      "lng": 28.646769,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.329996,
+      "lng": 23.771096,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.843943,
+      "lng": 24.895091,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.101897,
+      "lng": 24.362631,
+      "nume": "McDonald's",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 45.794042,
+      "lng": 24.149937,
+      "nume": "McDonald's",
+      "oras": "Sibiu",
+      "adresa": "Strada Nicolae Bălcescu 24"
+    },
+    {
+      "lat": 43.899144,
+      "lng": 25.962719,
+      "nume": "McDonald's",
+      "oras": "Giurgiu",
+      "adresa": "Bulevardul Mihai Viteazul 5"
+    },
+    {
+      "lat": 47.168301,
+      "lng": 27.516375,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.444355,
+      "lng": 26.036634,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.107836,
+      "lng": 24.378925,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.746505,
+      "lng": 23.45082,
+      "nume": "McDonald's PlayPlace",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.463812,
+      "lng": 26.108595,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Barbu Văcărescu 146-158"
+    },
+    {
+      "lat": 45.88428,
+      "lng": 22.908801,
+      "nume": "McDonald's",
+      "oras": "Deva",
+      "adresa": "Calea Zarandului"
+    },
+    {
+      "lat": 47.644574,
+      "lng": 26.262264,
+      "nume": "McDonald's",
+      "oras": "Suceava",
+      "adresa": "Bulevardul Ana Ipătescu 10A"
+    },
+    {
+      "lat": 44.418645,
+      "lng": 26.035035,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Brașov 23A"
+    },
+    {
+      "lat": 44.436955,
+      "lng": 26.167238,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul Basarabia 99"
+    },
+    {
+      "lat": 44.419619,
+      "lng": 26.137013,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 307"
+    },
+    {
+      "lat": 44.442777,
+      "lng": 26.150392,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul Pierre de Coubertin 3-5"
+    },
+    {
+      "lat": 46.753984,
+      "lng": 23.554066,
+      "nume": "McDonald's",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Primăverii"
+    },
+    {
+      "lat": 46.556208,
+      "lng": 26.912085,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420211,
+      "lng": 26.176037,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 45.738917,
+      "lng": 21.240931,
+      "nume": "McDonald's",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Liviu Rebreanu"
+    },
+    {
+      "lat": 44.466396,
+      "lng": 26.137097,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 79"
+    },
+    {
+      "lat": 47.032625,
+      "lng": 21.950232,
+      "nume": "McDonald's",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 44.414873,
+      "lng": 26.078525,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Calea Rahovei 241"
+    },
+    {
+      "lat": 45.151915,
+      "lng": 26.818109,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": "Bulevardul Unirii"
+    },
+    {
+      "lat": 47.165425,
+      "lng": 27.570929,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": "Piața Gării 4"
+    },
+    {
+      "lat": 44.95251,
+      "lng": 25.999668,
+      "nume": "McDonald's",
+      "oras": "Ploiești",
+      "adresa": "Bulevardul Republicii 136"
+    },
+    {
+      "lat": 46.919164,
+      "lng": 26.38748,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.4444,
+      "lng": 26.036557,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Virtuții 27B"
+    },
+    {
+      "lat": 44.398937,
+      "lng": 26.109794,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 21"
+    },
+    {
+      "lat": 44.317803,
+      "lng": 23.810125,
+      "nume": "McDonald's",
+      "oras": "Craiova",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.435126,
+      "lng": 25.987627,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 488-490"
+    },
+    {
+      "lat": 45.780777,
+      "lng": 24.167779,
+      "nume": "McDonald's",
+      "oras": "Șelimbăr",
+      "adresa": "Strada Sibiului"
+    },
+    {
+      "lat": 44.448515,
+      "lng": 26.082428,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Doctor Iacob Felix 8"
+    },
+    {
+      "lat": 44.204989,
+      "lng": 28.643915,
+      "nume": "McDonald's",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Mamaia 255"
+    },
+    {
+      "lat": 45.633458,
+      "lng": 25.634188,
+      "nume": "McDonald's",
+      "oras": "Brașov",
+      "adresa": "Calea București 108"
+    },
+    {
+      "lat": 44.539761,
+      "lng": 26.068955,
+      "nume": "McDonald's",
+      "oras": "Otopeni",
+      "adresa": "Calea Bucureștilor 4"
+    },
+    {
+      "lat": 44.60241,
+      "lng": 26.070937,
+      "nume": "McDonald's",
+      "oras": "Balotești",
+      "adresa": "Calea București KM20"
+    },
+    {
+      "lat": 47.654745,
+      "lng": 23.566993,
+      "nume": "McDonald's",
+      "oras": "Baia Mare",
+      "adresa": "Bulevardul Unirii 8A"
+    },
+    {
+      "lat": 44.491935,
+      "lng": 26.126284,
+      "nume": "McDonald's",
+      "oras": "Pipera",
+      "adresa": "Șoseaua București Nord 33"
+    },
+    {
+      "lat": 45.759336,
+      "lng": 21.217252,
+      "nume": "McDonald's",
+      "oras": "Timișoara",
+      "adresa": "Calea Circumvalațiunii 35"
+    },
+    {
+      "lat": 44.446719,
+      "lng": 26.074249,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Piața Gării de Nord"
+    },
+    {
+      "lat": 44.37522,
+      "lng": 26.116787,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Turnu Măgurele 92-108"
+    },
+    {
+      "lat": 45.688984,
+      "lng": 27.195853,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.255111,
+      "lng": 27.958094,
+      "nume": "McDonald's",
+      "oras": "Brăila",
+      "adresa": "Calea Călărașilor 247"
+    },
+    {
+      "lat": 44.388661,
+      "lng": 26.010871,
+      "nume": "McDonald's",
+      "oras": "Bragadiru",
+      "adresa": "Șoseaua Alexandriei 108"
+    },
+    {
+      "lat": 44.417381,
+      "lng": 26.071778,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian 88"
+    },
+    {
+      "lat": 45.420597,
+      "lng": 28.020814,
+      "nume": "McDonald's",
+      "oras": "Galați",
+      "adresa": "Strada Stadionului 1"
+    },
+    {
+      "lat": 44.427183,
+      "lng": 24.382454,
+      "nume": "McDonald's",
+      "oras": "Slatina",
+      "adresa": "Strada Tunari 1B"
+    },
+    {
+      "lat": 44.424168,
+      "lng": 25.998515,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Strada Valea Cascadelor 26P"
+    },
+    {
+      "lat": 47.784455,
+      "lng": 22.872484,
+      "nume": "McDonald's",
+      "oras": "Satu Mare",
+      "adresa": "Strada Careiului 9"
+    },
+    {
+      "lat": 45.090756,
+      "lng": 24.370201,
+      "nume": "McDonald's",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Bulevardul Dem Rădulescu 2-14"
+    },
+    {
+      "lat": 45.670926,
+      "lng": 25.612271,
+      "nume": "McDonald's",
+      "oras": "Brașov",
+      "adresa": "Strada Zaharia Stancu 2"
+    },
+    {
+      "lat": 44.406044,
+      "lng": 26.200238,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Bulevardul Theodor Pallady 50"
+    },
+    {
+      "lat": 44.919508,
+      "lng": 25.460323,
+      "nume": "McDonald's",
+      "oras": "Târgoviște",
+      "adresa": null
+    },
+    {
+      "lat": 46.191143,
+      "lng": 21.315904,
+      "nume": "McDonald's",
+      "oras": "Arad",
+      "adresa": "Calea Aurel Vlaicu 14"
+    },
+    {
+      "lat": 47.19866,
+      "lng": 23.05739,
+      "nume": "McDonald's",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul 59"
+    },
+    {
+      "lat": 44.448593,
+      "lng": 26.08224,
+      "nume": "McDonald's PlayPlace",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.131965,
+      "lng": 27.612437,
+      "nume": "McDonald's",
+      "oras": "Iași",
+      "adresa": "Șoseaua Bucium 34E"
+    },
+    {
+      "lat": 47.075867,
+      "lng": 21.929081,
+      "nume": "McDonald's",
+      "oras": "Oradea",
+      "adresa": "Strada Lacul Roșu 3"
+    },
+    {
+      "lat": 46.081196,
+      "lng": 23.562853,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.786361,
+      "lng": 21.237485,
+      "nume": "McDonald's",
+      "oras": "Dumbrăvița",
+      "adresa": "Strada Conac"
+    },
+    {
+      "lat": 44.8789,
+      "lng": 24.841626,
+      "nume": "McDonald's",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Nicolae Bălcescu 158b"
+    },
+    {
+      "lat": 44.637704,
+      "lng": 22.63639,
+      "nume": "McDonald's",
+      "oras": "Drobeta-Turnu Severin",
+      "adresa": "Bulevardul Mihai Viteazu 78"
+    },
+    {
+      "lat": 47.727419,
+      "lng": 26.673041,
+      "nume": "McDonald's",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 356"
+    },
+    {
+      "lat": 44.444176,
+      "lng": 26.036328,
+      "nume": "McDonald's PlayPlace",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.400288,
+      "lng": 26.143964,
+      "nume": "McDonald's",
+      "oras": "București",
+      "adresa": "Șoseaua Vitan-Bârzești 7A"
+    },
+    {
+      "lat": 45.766851,
+      "lng": 22.905482,
+      "nume": "McDonald's",
+      "oras": "Hunedoara",
+      "adresa": "Bulevardul Traian"
+    },
+    {
+      "lat": 45.452958,
+      "lng": 28.034129,
+      "nume": "McDonald's",
+      "oras": "Galați",
+      "adresa": "Bulevardul George Coșbuc 251"
+    },
+    {
+      "lat": 44.927385,
+      "lng": 26.035155,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.746637,
+      "lng": 23.450232,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.538694,
+      "lng": 26.908962,
+      "nume": "McDonald's",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

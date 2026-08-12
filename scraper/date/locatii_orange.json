@@ -1,0 +1,1780 @@
+{
+  "brand": "Orange",
+  "wikidata_id": "Q1431486",
+  "total": 253,
+  "cu_oras": 111,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 47.744711,
+      "lng": 26.659405,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.491403,
+      "lng": 26.092333,
+      "nume": "Orange Service",
+      "oras": "București",
+      "adresa": "Strada Biharia 26"
+    },
+    {
+      "lat": 47.174431,
+      "lng": 27.547804,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.626222,
+      "lng": 22.652521,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.160231,
+      "lng": 27.589397,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.346353,
+      "lng": 25.355602,
+      "nume": "Orange",
+      "oras": "Vatra Dornei",
+      "adresa": "Strada Luceafărului"
+    },
+    {
+      "lat": 44.443313,
+      "lng": 26.156635,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon 245"
+    },
+    {
+      "lat": 44.453533,
+      "lng": 26.048768,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Calea Crângași 22"
+    },
+    {
+      "lat": 44.413642,
+      "lng": 26.16493,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.43172,
+      "lng": 28.049027,
+      "nume": "Orange Shop",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.435882,
+      "lng": 28.024703,
+      "nume": "Orange Store",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.81196,
+      "lng": 28.583571,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.772419,
+      "lng": 23.594449,
+      "nume": "Orange",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 23-25"
+    },
+    {
+      "lat": 44.422147,
+      "lng": 26.021128,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Drumul Taberei 82"
+    },
+    {
+      "lat": 44.452741,
+      "lng": 26.09851,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 46.544128,
+      "lng": 24.559684,
+      "nume": "Orange",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 23"
+    },
+    {
+      "lat": 46.510452,
+      "lng": 24.512731,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.530715,
+      "lng": 24.598385,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.543408,
+      "lng": 24.558503,
+      "nume": "Orange",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 23"
+    },
+    {
+      "lat": 44.415674,
+      "lng": 26.048211,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.457911,
+      "lng": 26.096143,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 46.7713,
+      "lng": 23.591388,
+      "nume": "Orange",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 12"
+    },
+    {
+      "lat": 45.864561,
+      "lng": 25.788425,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.028275,
+      "lng": 23.908412,
+      "nume": "Orange",
+      "oras": "Gherla",
+      "adresa": null
+    },
+    {
+      "lat": 44.405119,
+      "lng": 26.061671,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandria 16"
+    },
+    {
+      "lat": 45.033756,
+      "lng": 25.873604,
+      "nume": "Orange",
+      "oras": "Băicoi",
+      "adresa": null
+    },
+    {
+      "lat": 45.033657,
+      "lng": 25.874965,
+      "nume": "Orange Partener",
+      "oras": "Băicoi",
+      "adresa": null
+    },
+    {
+      "lat": 44.450442,
+      "lng": 26.125997,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.637352,
+      "lng": 22.632808,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 48.18531,
+      "lng": 26.596324,
+      "nume": "Orange Shop",
+      "oras": "Darabani",
+      "adresa": "Strada Pieții"
+    },
+    {
+      "lat": 46.546372,
+      "lng": 23.886028,
+      "nume": "Orange",
+      "oras": "Câmpia Turzii",
+      "adresa": null
+    },
+    {
+      "lat": 44.637718,
+      "lng": 22.651376,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.313251,
+      "lng": 23.792168,
+      "nume": "Orange",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Știrbei Vodă"
+    },
+    {
+      "lat": 44.318574,
+      "lng": 23.7972,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.319128,
+      "lng": 23.803003,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.319336,
+      "lng": 23.807906,
+      "nume": "Orange",
+      "oras": "Craiova",
+      "adresa": "Strada Frații Golești 2A"
+    },
+    {
+      "lat": 44.451073,
+      "lng": 26.08795,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Lascăr Catargiu 47-53"
+    },
+    {
+      "lat": 46.17696,
+      "lng": 23.915206,
+      "nume": "Orange",
+      "oras": "Blaj",
+      "adresa": "Strada Eroilor"
+    },
+    {
+      "lat": 44.424192,
+      "lng": 26.161278,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.152677,
+      "lng": 26.820297,
+      "nume": "Orange",
+      "oras": "Buzău",
+      "adresa": "Aleea Trandafirilor"
+    },
+    {
+      "lat": 45.152696,
+      "lng": 26.819658,
+      "nume": "CELULAR S.R.L;Orange Store",
+      "oras": "Buzau",
+      "adresa": "Aleea Tradafirilor Bloc B1"
+    },
+    {
+      "lat": 47.646357,
+      "lng": 26.248508,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.77388,
+      "lng": 23.589242,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434181,
+      "lng": 26.014689,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 160"
+    },
+    {
+      "lat": 44.39038,
+      "lng": 26.092203,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44096,
+      "lng": 26.134481,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 107-119"
+    },
+    {
+      "lat": 47.928596,
+      "lng": 23.890697,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.174951,
+      "lng": 23.667306,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.842858,
+      "lng": 24.971497,
+      "nume": "Orange",
+      "oras": "Făgăraș",
+      "adresa": "Bulevardul Unirii Bloc 7B"
+    },
+    {
+      "lat": 45.843252,
+      "lng": 24.96976,
+      "nume": "Orange",
+      "oras": "Făgăraș",
+      "adresa": "Bulevardul Unirii Bloc 1B"
+    },
+    {
+      "lat": 46.781679,
+      "lng": 23.625479,
+      "nume": "Orange",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.395071,
+      "lng": 26.12253,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 45.697448,
+      "lng": 27.183082,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.05005,
+      "lng": 21.937701,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.749547,
+      "lng": 23.532911,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.162409,
+      "lng": 24.348121,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.733816,
+      "lng": 21.237507,
+      "nume": "Orange",
+      "oras": "Timișoara",
+      "adresa": "Calea Martirilor 1989"
+    },
+    {
+      "lat": 45.140239,
+      "lng": 24.675714,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.162672,
+      "lng": 24.671666,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.782447,
+      "lng": 24.149034,
+      "nume": "Orange",
+      "oras": "Sibiu",
+      "adresa": "Bulevardul Mihai Viteazul 1"
+    },
+    {
+      "lat": 46.36187,
+      "lng": 25.798365,
+      "nume": "Orange",
+      "oras": "Miercurea Ciuc",
+      "adresa": "Strada Kossuth Lajos"
+    },
+    {
+      "lat": 46.361667,
+      "lng": 25.79989,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.16886,
+      "lng": 24.521178,
+      "nume": "Partener Orange",
+      "oras": "Drăgănești-Olt",
+      "adresa": "Strada Nicolae Titulescu"
+    },
+    {
+      "lat": 45.441042,
+      "lng": 28.021177,
+      "nume": "Orange Store",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.753713,
+      "lng": 21.223851,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.535956,
+      "lng": 22.459783,
+      "nume": "Orange.",
+      "oras": "Ștei",
+      "adresa": "Strada Cuza Vodă"
+    },
+    {
+      "lat": 44.381093,
+      "lng": 26.13388,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.57367,
+      "lng": 23.785729,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.056604,
+      "lng": 21.931372,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.478023,
+      "lng": 26.103891,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Calea Floreasca"
+    },
+    {
+      "lat": 45.878037,
+      "lng": 22.902923,
+      "nume": "Orange",
+      "oras": "Deva",
+      "adresa": null
+    },
+    {
+      "lat": 45.144637,
+      "lng": 23.990783,
+      "nume": "Orange Store",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.440931,
+      "lng": 26.102217,
+      "nume": "Dira Orange. Marți-Vineri",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.534554,
+      "lng": 24.58401,
+      "nume": "Orange",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1 Decembrie 1918 221"
+    },
+    {
+      "lat": 45.72591,
+      "lng": 21.198794,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.761934,
+      "lng": 21.214146,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.121648,
+      "lng": 25.737463,
+      "nume": "Orange",
+      "oras": "Câmpina",
+      "adresa": "Bulevardul Carol I 22"
+    },
+    {
+      "lat": 45.102651,
+      "lng": 24.360412,
+      "nume": "Orange",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 46.201651,
+      "lng": 27.384909,
+      "nume": "Orange Store",
+      "oras": "Podu Turcului",
+      "adresa": "Str.Tudor Vladimirescu 111"
+    },
+    {
+      "lat": 46.560724,
+      "lng": 23.817732,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.327744,
+      "lng": 23.77481,
+      "nume": "Orange",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului 5A"
+    },
+    {
+      "lat": 47.142454,
+      "lng": 23.874724,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.752422,
+      "lng": 21.226353,
+      "nume": "Orange",
+      "oras": "Timișoara",
+      "adresa": "Strada Nikolaus Lenau 2"
+    },
+    {
+      "lat": 46.779239,
+      "lng": 23.614105,
+      "nume": "Orange",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 44.428813,
+      "lng": 26.100238,
+      "nume": "Optica Orange",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 1"
+    },
+    {
+      "lat": 45.343191,
+      "lng": 25.548807,
+      "nume": "Orange",
+      "oras": "Sinaia",
+      "adresa": null
+    },
+    {
+      "lat": 46.777822,
+      "lng": 23.614274,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.727739,
+      "lng": 21.204298,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.036016,
+      "lng": 21.951125,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.058531,
+      "lng": 21.914273,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.766475,
+      "lng": 21.22929,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.74588,
+      "lng": 26.666952,
+      "nume": "Orange",
+      "oras": "Botoșani",
+      "adresa": "Strada 1 Decembrie 1918 25"
+    },
+    {
+      "lat": 45.673509,
+      "lng": 25.616953,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.166445,
+      "lng": 27.572636,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.273663,
+      "lng": 23.064714,
+      "nume": "Partener Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.129984,
+      "lng": 22.791591,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.446014,
+      "lng": 26.06324,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 44.381772,
+      "lng": 26.116007,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.785446,
+      "lng": 22.844614,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.750394,
+      "lng": 23.533602,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.818424,
+      "lng": 24.943279,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.822712,
+      "lng": 24.911084,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.864194,
+      "lng": 23.028705,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.946783,
+      "lng": 26.033214,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.4411,
+      "lng": 26.152974,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.604587,
+      "lng": 26.067543,
+      "nume": "Orange",
+      "oras": "Balotești",
+      "adresa": "Calea București 2 bis"
+    },
+    {
+      "lat": 47.659497,
+      "lng": 26.272077,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431425,
+      "lng": 26.05095,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 47.784968,
+      "lng": 22.868793,
+      "nume": "Orange",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 47.144094,
+      "lng": 27.580627,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.506436,
+      "lng": 26.089447,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 44.510217,
+      "lng": 26.08752,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.446061,
+      "lng": 26.096935,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul General Gheorghe Magheru 41"
+    },
+    {
+      "lat": 46.9315,
+      "lng": 26.366885,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.933122,
+      "lng": 26.359747,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.458003,
+      "lng": 26.040793,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Constructorilor 16A"
+    },
+    {
+      "lat": 46.528129,
+      "lng": 24.595061,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.415389,
+      "lng": 26.104768,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Dimitrie Cantemir"
+    },
+    {
+      "lat": 44.927262,
+      "lng": 25.461713,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.451883,
+      "lng": 28.03085,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.704921,
+      "lng": 27.206926,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.493385,
+      "lng": 26.015277,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 284"
+    },
+    {
+      "lat": 47.161261,
+      "lng": 27.575453,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.162381,
+      "lng": 27.563717,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649413,
+      "lng": 25.610905,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.438572,
+      "lng": 25.957276,
+      "nume": "Orange",
+      "oras": "Chiajna",
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 44.43989,
+      "lng": 25.982051,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 546-560"
+    },
+    {
+      "lat": 46.933856,
+      "lng": 26.347797,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.037147,
+      "lng": 23.270642,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.037303,
+      "lng": 23.27176,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.03721,
+      "lng": 23.272769,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.037887,
+      "lng": 23.271496,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.192557,
+      "lng": 28.63803,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.561121,
+      "lng": 24.547427,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428847,
+      "lng": 26.138342,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 288"
+    },
+    {
+      "lat": 44.420005,
+      "lng": 26.126722,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.417068,
+      "lng": 26.035407,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.428448,
+      "lng": 26.035227,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.427185,
+      "lng": 24.373392,
+      "nume": "Orange",
+      "oras": "Slatina",
+      "adresa": "Strada Primăverii"
+    },
+    {
+      "lat": 43.776308,
+      "lng": 24.501036,
+      "nume": "Orange",
+      "oras": "Corabia",
+      "adresa": "Bulevardul 1 Mai 7"
+    },
+    {
+      "lat": 44.433248,
+      "lng": 26.037087,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 19"
+    },
+    {
+      "lat": 47.143749,
+      "lng": 27.587371,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.843238,
+      "lng": 27.432353,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.218675,
+      "lng": 24.795399,
+      "nume": "Orange store",
+      "oras": "Sighișoara",
+      "adresa": null
+    },
+    {
+      "lat": 46.224752,
+      "lng": 24.575442,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.438001,
+      "lng": 26.186934,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Vergului 20"
+    },
+    {
+      "lat": 45.271597,
+      "lng": 27.966063,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.271607,
+      "lng": 27.963257,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.258842,
+      "lng": 27.961766,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.264973,
+      "lng": 27.970283,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.164075,
+      "lng": 27.581591,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.163453,
+      "lng": 27.582061,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.739318,
+      "lng": 23.484227,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.111544,
+      "lng": 24.380485,
+      "nume": "Orange",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 44.941752,
+      "lng": 26.024845,
+      "nume": "Orange",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 46.758661,
+      "lng": 23.540216,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.561882,
+      "lng": 26.922622,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452049,
+      "lng": 26.130772,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.434454,
+      "lng": 26.029377,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 78"
+    },
+    {
+      "lat": 46.532811,
+      "lng": 24.559368,
+      "nume": "Orange",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 1848 17"
+    },
+    {
+      "lat": 46.554678,
+      "lng": 24.569643,
+      "nume": "Orange",
+      "oras": "Târgu Mureș",
+      "adresa": "Bulevardul 22 Decembrie 1989 15"
+    },
+    {
+      "lat": 46.929661,
+      "lng": 26.363405,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.799872,
+      "lng": 23.611171,
+      "nume": "Orange",
+      "oras": "Cluj-Napoca",
+      "adresa": null
+    },
+    {
+      "lat": 47.147355,
+      "lng": 24.51463,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.763317,
+      "lng": 25.166004,
+      "nume": "Aldea Trans",
+      "oras": "Șinca Veche",
+      "adresa": "Strada Principală"
+    },
+    {
+      "lat": 47.683728,
+      "lng": 22.472235,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.592422,
+      "lng": 25.463873,
+      "nume": "Orange",
+      "oras": "Râșnov",
+      "adresa": "Strada Republicii"
+    },
+    {
+      "lat": 44.483753,
+      "lng": 26.040575,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul Bucureștii Noi 60"
+    },
+    {
+      "lat": 44.443024,
+      "lng": 26.128244,
+      "nume": "Orange Communications Ferdinand",
+      "oras": "București",
+      "adresa": "Bulevardul Ferdinand I 96-98"
+    },
+    {
+      "lat": 47.16187,
+      "lng": 27.566466,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.643633,
+      "lng": 25.63223,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.755541,
+      "lng": 21.230609,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.794784,
+      "lng": 24.150669,
+      "nume": "Orange",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 47.684308,
+      "lng": 22.469549,
+      "nume": "Orange",
+      "oras": "Carei",
+      "adresa": null
+    },
+    {
+      "lat": 45.085246,
+      "lng": 27.273819,
+      "nume": "Universal 2000",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.092418,
+      "lng": 21.695454,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.779904,
+      "lng": 24.700559,
+      "nume": "Orange",
+      "oras": "Reghin",
+      "adresa": "Piața Petru Maior 56"
+    },
+    {
+      "lat": 46.782179,
+      "lng": 24.702007,
+      "nume": "Orange",
+      "oras": "Reghin",
+      "adresa": "Piața Petru Maior 35"
+    },
+    {
+      "lat": 44.949926,
+      "lng": 26.00504,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.076526,
+      "lng": 21.916251,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.076568,
+      "lng": 21.915645,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.361373,
+      "lng": 26.122374,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Drumul Dealul Bisericii 67-109"
+    },
+    {
+      "lat": 45.958061,
+      "lng": 23.564415,
+      "nume": "Orange",
+      "oras": "Sebeș",
+      "adresa": "Strada Valea Frumoasei"
+    },
+    {
+      "lat": 47.749359,
+      "lng": 26.643595,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.755553,
+      "lng": 23.559398,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.957421,
+      "lng": 23.566255,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.957413,
+      "lng": 23.566309,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.957092,
+      "lng": 23.570322,
+      "nume": "Orange",
+      "oras": "Sebeș",
+      "adresa": "Bulevardul Lucian Blaga 9"
+    },
+    {
+      "lat": 46.6407,
+      "lng": 27.734606,
+      "nume": "Orange",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 45.654905,
+      "lng": 25.601921,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.646158,
+      "lng": 25.62103,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 46.081243,
+      "lng": 23.564202,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.460251,
+      "lng": 26.074645,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.844136,
+      "lng": 23.359831,
+      "nume": "Orange",
+      "oras": "Cugir",
+      "adresa": "Strada Alexandru Sahia"
+    },
+    {
+      "lat": 44.713894,
+      "lng": 26.641394,
+      "nume": "Orange",
+      "oras": "Urziceni",
+      "adresa": "Calea București"
+    },
+    {
+      "lat": 44.408206,
+      "lng": 26.140007,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Calea Vitan 236"
+    },
+    {
+      "lat": 47.793204,
+      "lng": 22.873653,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.080442,
+      "lng": 23.585893,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660716,
+      "lng": 24.261936,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.037142,
+      "lng": 25.219224,
+      "nume": "Orange",
+      "oras": "Rupea",
+      "adresa": "Strada Republicii"
+    },
+    {
+      "lat": 44.421779,
+      "lng": 26.037842,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Drumul Taberei 41-43"
+    },
+    {
+      "lat": 44.418283,
+      "lng": 26.072963,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian 88"
+    },
+    {
+      "lat": 45.674639,
+      "lng": 26.032398,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421334,
+      "lng": 26.150113,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.421122,
+      "lng": 26.180154,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 46.754849,
+      "lng": 23.578916,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.178643,
+      "lng": 28.648246,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.17735,
+      "lng": 28.646052,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.444957,
+      "lng": 26.120972,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.190671,
+      "lng": 21.320186,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.330465,
+      "lng": 23.770813,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.192143,
+      "lng": 21.317183,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.211857,
+      "lng": 28.603675,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.145011,
+      "lng": 27.611331,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.148041,
+      "lng": 24.676075,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.399141,
+      "lng": 26.043825,
+      "nume": "Orange",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandriei 152"
+    },
+    {
+      "lat": 47.792452,
+      "lng": 22.873566,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.179288,
+      "lng": 28.788648,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.231588,
+      "lng": 22.79849,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.178708,
+      "lng": 28.803001,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.178952,
+      "lng": 28.800028,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.643024,
+      "lng": 25.591837,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 47.183483,
+      "lng": 23.056539,
+      "nume": "Orange",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul"
+    },
+    {
+      "lat": 45.793421,
+      "lng": 24.149828,
+      "nume": "Orange",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.642832,
+      "lng": 25.631444,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 45.632159,
+      "lng": 25.639416,
+      "nume": "Orange",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 47.066123,
+      "lng": 21.923896,
+      "nume": "Orange",
+      "oras": "Oradea",
+      "adresa": "Bulevardul Decebal 18-20"
+    },
+    {
+      "lat": 44.180334,
+      "lng": 28.64942,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.168738,
+      "lng": 21.380081,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.757654,
+      "lng": 23.546735,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.13059,
+      "lng": 23.886479,
+      "nume": "Orange",
+      "oras": "Dej",
+      "adresa": "Strada Unirii 2"
+    },
+    {
+      "lat": 47.742643,
+      "lng": 26.648531,
+      "nume": "Orange Shop",
+      "oras": null,
+      "adresa": "Primăverii 11"
+    },
+    {
+      "lat": 44.555471,
+      "lng": 23.518402,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.565786,
+      "lng": 26.91196,
+      "nume": "Orange",
+      "oras": "Bacău",
+      "adresa": "Strada Nicolae Bălcescu 4"
+    },
+    {
+      "lat": 46.56652,
+      "lng": 26.911149,
+      "nume": "Orange",
+      "oras": "Bacău",
+      "adresa": "Strada Nicolae Bălcescu 1"
+    },
+    {
+      "lat": 47.127935,
+      "lng": 24.486378,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.923232,
+      "lng": 25.352062,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.171985,
+      "lng": 21.316414,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.102056,
+      "lng": 24.363652,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.766112,
+      "lng": 21.199294,
+      "nume": "Orange Garden",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.844693,
+      "lng": 25.914984,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.839523,
+      "lng": 23.18127,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.685324,
+      "lng": 21.905485,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.470372,
+      "lng": 26.05104,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.284348,
+      "lng": 21.805095,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.870572,
+      "lng": 27.912807,
+      "nume": "Orange",
+      "oras": "Târgu Bujor",
+      "adresa": "Strada General Eremia Grigorescu 103"
+    },
+    {
+      "lat": 45.102605,
+      "lng": 24.362976,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421437,
+      "lng": 24.384255,
+      "nume": "Orange",
+      "oras": "Slatina",
+      "adresa": "Strada Ecaterina Teodoroiu 20"
+    },
+    {
+      "lat": 47.202326,
+      "lng": 23.056318,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.850117,
+      "lng": 24.854278,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.564963,
+      "lng": 27.358947,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.312063,
+      "lng": 23.832241,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.843146,
+      "lng": 24.898938,
+      "nume": "Orange",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

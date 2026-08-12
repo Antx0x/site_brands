@@ -57,8 +57,7 @@ export default function Header({
   onLista,
   categorii = [],
   onCategorie,
-  orase = [],
-  onOras,
+  onMap,
   tema,
   comutaTema,
 }) {
@@ -148,13 +147,12 @@ export default function Header({
             Brands
           </button>
 
-          <NavDropdown eticheta="Maps">
-            {orase.map((o) => (
-              <ItemDropdown key={o.id} onClick={() => onOras && onOras(o.id)}>
-                {o.nume}
-              </ItemDropdown>
-            ))}
-          </NavDropdown>
+          <button
+            onClick={onMap}
+            className="ml-1 px-4 py-1.5 text-sm font-bold rounded-lg bg-blue-600 hover:bg-blue-500 text-white whitespace-nowrap"
+          >
+            MAP
+          </button>
 
           <button
             onClick={comutaTema}

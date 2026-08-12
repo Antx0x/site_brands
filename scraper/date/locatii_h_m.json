@@ -1,0 +1,366 @@
+{
+  "brand": "H&M",
+  "wikidata_id": "Q188326",
+  "total": 51,
+  "cu_oras": 22,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.42725,
+      "lng": 26.104485,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.4788,
+      "lng": 26.102858,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Calea Floreasca"
+    },
+    {
+      "lat": 44.965187,
+      "lng": 25.973957,
+      "nume": "H&M",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 44.506595,
+      "lng": 26.089035,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 47.747437,
+      "lng": 26.66554,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.153215,
+      "lng": 26.821724,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.765757,
+      "lng": 21.229858,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.725303,
+      "lng": 21.198789,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.749234,
+      "lng": 23.532732,
+      "nume": "H&M",
+      "oras": "Florești",
+      "adresa": "492-500"
+    },
+    {
+      "lat": 47.657126,
+      "lng": 23.546512,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.102527,
+      "lng": 24.363189,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.394238,
+      "lng": 26.123049,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 46.764031,
+      "lng": 23.571554,
+      "nume": "H&M",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Mănăștur 2-6"
+    },
+    {
+      "lat": 47.791256,
+      "lng": 22.867852,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.863765,
+      "lng": 22.930392,
+      "nume": "H&M",
+      "oras": "Deva",
+      "adresa": "Calea Zarandului 87"
+    },
+    {
+      "lat": 45.025222,
+      "lng": 23.264936,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.035311,
+      "lng": 21.948598,
+      "nume": "H&M",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 47.147622,
+      "lng": 24.515072,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.672144,
+      "lng": 25.617163,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.317396,
+      "lng": 23.793945,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.05922,
+      "lng": 21.912762,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.771898,
+      "lng": 23.626753,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.771167,
+      "lng": 23.626534,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.229618,
+      "lng": 27.937289,
+      "nume": "H&M",
+      "oras": "Vărsătura",
+      "adresa": "Strada Principală"
+    },
+    {
+      "lat": 46.508847,
+      "lng": 24.51046,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.453417,
+      "lng": 28.030753,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.580257,
+      "lng": 26.914685,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.1575,
+      "lng": 27.589853,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.442694,
+      "lng": 26.152441,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.866033,
+      "lng": 24.883937,
+      "nume": "H&M",
+      "oras": "Pitești",
+      "adresa": null
+    },
+    {
+      "lat": 44.819524,
+      "lng": 24.941087,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.797284,
+      "lng": 24.161789,
+      "nume": "H&M",
+      "oras": "Sibiu",
+      "adresa": "Strada Lector"
+    },
+    {
+      "lat": 44.94725,
+      "lng": 26.033355,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.659371,
+      "lng": 26.270677,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.429414,
+      "lng": 26.053758,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.204419,
+      "lng": 28.631029,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.198488,
+      "lng": 28.609824,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.705363,
+      "lng": 27.206137,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420882,
+      "lng": 26.126768,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.419883,
+      "lng": 26.178026,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 44.439807,
+      "lng": 25.982509,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 546-560"
+    },
+    {
+      "lat": 46.935649,
+      "lng": 26.348206,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.941189,
+      "lng": 26.020287,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428838,
+      "lng": 26.035139,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.419668,
+      "lng": 26.148462,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.452685,
+      "lng": 26.129956,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 45.774993,
+      "lng": 24.169758,
+      "nume": "H&M",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 45.177826,
+      "lng": 28.804414,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": "Piața Mircea cel Bătrân"
+    },
+    {
+      "lat": 46.189914,
+      "lng": 21.321196,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.416794,
+      "lng": 26.072523,
+      "nume": "H&M",
+      "oras": "București",
+      "adresa": "Strada Mihail Sebastian 88"
+    },
+    {
+      "lat": 44.312814,
+      "lng": 23.831537,
+      "nume": "H&M",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

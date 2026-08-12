@@ -13,14 +13,13 @@ import companiiRaw from './companii.json';
 import financiar from './financiar.json';
 import fundamentale from './fundamentale.json';
 import { LOCATII, CULORI } from './locatii';
-import { ORASE_HARTA } from './orase';
 import { CATEGORII } from './categorii';
 import Logo from './Logo';
 import Header from './Header';
 import PaginaCategorie from './PaginaCategorie';
 import Harta from './Harta';
 import Grafic from './Grafic';
-import PaginaOrase from './PaginaOrase';
+import HartaRomania from './HartaRomania';
 
 const companii = companiiRaw.filter((c) => c.gasit);
 
@@ -321,13 +320,12 @@ export default function App() {
     setCategorie(id);
     susPagina();
   };
-  const deschideOras = (id) => {
+  const deschideMap = () => {
     setSelectat(null);
     setCategorie(null);
-    setOrasId(id);
+    setOrasId('__romania__');
   };
 
-  const orase = Object.entries(ORASE_HARTA).map(([id, o]) => ({ id, nume: o.nume }));
   const categoriiNav = CATEGORII.map((c) => ({ id: c.id, eticheta: c.eticheta }));
 
   const header = (
@@ -337,8 +335,7 @@ export default function App() {
       onLista={mergiLista}
       categorii={categoriiNav}
       onCategorie={deschideCategorie}
-      orase={orase}
-      onOras={deschideOras}
+      onMap={deschideMap}
       tema={tema}
       comutaTema={comutaTema}
     />
@@ -351,22 +348,14 @@ export default function App() {
     // context, ca dropdown-urile din header să rămână deasupra hărții
     corp = (
       <div className="isolate h-[calc(100vh-3.5rem)]">
-        <PaginaOrase
-          key={orasId}
-          orasId={orasId}
-          tema={tema}
-          deschideBrand={(nume) => {
-            const e = entitati.find((x) => x.nume === nume);
-            if (e) deschideEntitate(e);
-          }}
-        />
+        <HartaRomania />
       </div>
     );
   } else if (selectat) {
     corp = <Pagina c={selectat} entitati={entitati} tema={tema} deschide={deschideEntitate} />;
   } else if (categorie) {
     const cat = CATEGORII.find((c) => c.id === categorie);
-    corp = <PaginaCategorie eticheta={cat.eticheta} date={cat.date} />;
+    corp = <PaginaCategorie eticheta={cat.eticheta} date={cat.date} folder={cat.folder} />;
   } else {
     const lista = entitati.filter((c) => {
       if (filtru === 'Companii' && c.tip !== 'companie') return false;

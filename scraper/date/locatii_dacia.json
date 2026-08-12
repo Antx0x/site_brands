@@ -1,0 +1,415 @@
+{
+  "brand": "Dacia",
+  "wikidata_id": "Q27460",
+  "total": 58,
+  "cu_oras": 27,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 47.137372,
+      "lng": 27.60763,
+      "nume": "Dacia Service",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.168753,
+      "lng": 27.549885,
+      "nume": "Vascar (Pța Dacia)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.861099,
+      "lng": 22.922297,
+      "nume": "Dacia Service",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.301743,
+      "lng": 27.981425,
+      "nume": "Dacia",
+      "oras": "Brăila",
+      "adresa": "DN 22B km 4"
+    },
+    {
+      "lat": 44.662555,
+      "lng": 24.263754,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.204459,
+      "lng": 28.624796,
+      "nume": "Dacia Plant",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.406501,
+      "lng": 26.133888,
+      "nume": "Dacia",
+      "oras": "București",
+      "adresa": "Splaiul Unirii 311"
+    },
+    {
+      "lat": 44.886486,
+      "lng": 24.825698,
+      "nume": "AMAT Dacia & Renault",
+      "oras": "Pitești",
+      "adresa": "Bulevardul Bălcescu Nicolae 204"
+    },
+    {
+      "lat": 44.418551,
+      "lng": 26.01978,
+      "nume": "Piese Auto Dacia",
+      "oras": "București",
+      "adresa": "Drumul Taberei 94"
+    },
+    {
+      "lat": 45.761358,
+      "lng": 22.908864,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.388702,
+      "lng": 26.103277,
+      "nume": "Piese auto Dacia",
+      "oras": "București",
+      "adresa": "Strada Izvorul Rece"
+    },
+    {
+      "lat": 44.196052,
+      "lng": 28.633107,
+      "nume": "Casă Bilete R.A.T.C.- Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.321222,
+      "lng": 23.809553,
+      "nume": "Piese Auto Dacia Logan",
+      "oras": "Craiova",
+      "adresa": "Strada Vasile Alecsandri 67"
+    },
+    {
+      "lat": 44.445678,
+      "lng": 26.110966,
+      "nume": "Florăria Iris - pct. Dacia x Vasile Lascăr",
+      "oras": "București",
+      "adresa": "Strada Vasile Lascăr 111"
+    },
+    {
+      "lat": 45.655958,
+      "lng": 25.633076,
+      "nume": "Rapid Dacia",
+      "oras": "Brașov",
+      "adresa": "Strada Dacia 68"
+    },
+    {
+      "lat": 45.631014,
+      "lng": 25.636675,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.746924,
+      "lng": 24.203633,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.97323,
+      "lng": 25.343017,
+      "nume": "Dacia",
+      "oras": "Alexandria",
+      "adresa": null
+    },
+    {
+      "lat": 46.068016,
+      "lng": 23.564077,
+      "nume": "Dacia Market",
+      "oras": "Alba Iulia",
+      "adresa": null
+    },
+    {
+      "lat": 46.152276,
+      "lng": 21.321521,
+      "nume": "Dacia Service",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.069842,
+      "lng": 23.562553,
+      "nume": "Dacia market",
+      "oras": "Alba Iulia",
+      "adresa": null
+    },
+    {
+      "lat": 46.082832,
+      "lng": 23.583134,
+      "nume": "Dacia Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.965557,
+      "lng": 23.557765,
+      "nume": "Dacia Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.042796,
+      "lng": 23.274131,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.678717,
+      "lng": 27.190264,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.43065,
+      "lng": 26.108715,
+      "nume": "Piese auto Dacia",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 45.295049,
+      "lng": 25.069553,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.658004,
+      "lng": 25.612665,
+      "nume": "Dacia",
+      "oras": "Brașov",
+      "adresa": null
+    },
+    {
+      "lat": 44.808232,
+      "lng": 25.084831,
+      "nume": "Piese auto Dacia",
+      "oras": "Topoloveni",
+      "adresa": null
+    },
+    {
+      "lat": 46.586479,
+      "lng": 23.759819,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.183693,
+      "lng": 26.830662,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.774273,
+      "lng": 24.702167,
+      "nume": "Cofetaria Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.151593,
+      "lng": 27.602859,
+      "nume": "Dacia",
+      "oras": "Iași",
+      "adresa": "Calea Chisinaului 23"
+    },
+    {
+      "lat": 45.32075,
+      "lng": 21.889601,
+      "nume": "Dacia Auto Group Reșița",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.440067,
+      "lng": 28.036486,
+      "nume": "Dealer Concesionar Dacia-Renault",
+      "oras": "Galați",
+      "adresa": "Bulevardul George Coșbuc 148"
+    },
+    {
+      "lat": 45.860702,
+      "lng": 22.922349,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.740967,
+      "lng": 23.592444,
+      "nume": "Dacia Renault Nissan",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Turzii"
+    },
+    {
+      "lat": 45.397276,
+      "lng": 23.374928,
+      "nume": "Piața Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.397307,
+      "lng": 23.374582,
+      "nume": "Piață Agroalimentară Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.167762,
+      "lng": 28.569781,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.830266,
+      "lng": 28.579331,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": "Șoseaua Constanța"
+    },
+    {
+      "lat": 44.444182,
+      "lng": 26.115682,
+      "nume": "Bd. Dacia, nr 130A",
+      "oras": "București",
+      "adresa": "Bulevardul Dacia 130-130A"
+    },
+    {
+      "lat": 44.472274,
+      "lng": 26.151432,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.672831,
+      "lng": 25.642755,
+      "nume": "DACIA Sicaro",
+      "oras": "Brașov",
+      "adresa": "Strada Ciceu 1"
+    },
+    {
+      "lat": 46.201866,
+      "lng": 21.282,
+      "nume": "Dacia Verbiță",
+      "oras": "Arad",
+      "adresa": "Calea Aurel Vlaicu 282"
+    },
+    {
+      "lat": 45.844195,
+      "lng": 23.201361,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.120416,
+      "lng": 24.371471,
+      "nume": "Flamicom Impex Dacia Renault",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Barajului 10"
+    },
+    {
+      "lat": 47.143804,
+      "lng": 24.510454,
+      "nume": "Dealer Dacia Renault",
+      "oras": "Bistrița",
+      "adresa": "Calea Moldovei 22"
+    },
+    {
+      "lat": 45.661716,
+      "lng": 25.522348,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.101964,
+      "lng": 23.602742,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.796021,
+      "lng": 22.897803,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.757053,
+      "lng": 26.629562,
+      "nume": "Dacia Xandor Grup Botosani",
+      "oras": "Botoșani",
+      "adresa": "Strada Manolești Deal"
+    },
+    {
+      "lat": 44.661964,
+      "lng": 24.262598,
+      "nume": "Showroom Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431731,
+      "lng": 26.000747,
+      "nume": "Dacoserv Dacia",
+      "oras": "București",
+      "adresa": "Strada Preciziei 4"
+    },
+    {
+      "lat": 44.440524,
+      "lng": 26.190097,
+      "nume": "Dacia Renault",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon"
+    },
+    {
+      "lat": 44.949257,
+      "lng": 25.473994,
+      "nume": "Dacia",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.651394,
+      "lng": 26.217244,
+      "nume": "Renault Dacia Nissan Darex Auto Suceava",
+      "oras": "Șcheia",
+      "adresa": "Strada Humorului 96"
+    },
+    {
+      "lat": 44.195894,
+      "lng": 28.632895,
+      "nume": "Complex Dacia",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Tomis 235"
+    }
+  ]
+}

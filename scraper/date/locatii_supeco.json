@@ -1,0 +1,212 @@
+{
+  "brand": "Supeco",
+  "wikidata_id": "Q110066889",
+  "total": 29,
+  "cu_oras": 16,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.729219,
+      "lng": 25.580526,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434689,
+      "lng": 24.377122,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.648912,
+      "lng": 23.550467,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.146986,
+      "lng": 27.613605,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.899552,
+      "lng": 25.963171,
+      "nume": "Supeco",
+      "oras": "Giurgiu",
+      "adresa": "Bulevardul Mihai Viteazul 5"
+    },
+    {
+      "lat": 44.558782,
+      "lng": 27.368455,
+      "nume": "Supeco",
+      "oras": "Slobozia",
+      "adresa": "Șoseaua de Centură"
+    },
+    {
+      "lat": 47.663592,
+      "lng": 26.265162,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.935696,
+      "lng": 26.921724,
+      "nume": "Supeco",
+      "oras": "Roman",
+      "adresa": "Strada Mihai Viteazul 1A"
+    },
+    {
+      "lat": 44.960743,
+      "lng": 26.011317,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.452546,
+      "lng": 28.017301,
+      "nume": "Supeco",
+      "oras": "Galați",
+      "adresa": "Bulevardul Milcov 66"
+    },
+    {
+      "lat": 46.172453,
+      "lng": 21.346009,
+      "nume": "Supeco",
+      "oras": "Arad",
+      "adresa": "Bulevardul Nicolae Titulescu"
+    },
+    {
+      "lat": 44.415621,
+      "lng": 26.170408,
+      "nume": "Supeco",
+      "oras": "București",
+      "adresa": "Strada Postăvarul"
+    },
+    {
+      "lat": 45.773074,
+      "lng": 24.152572,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.760156,
+      "lng": 23.550183,
+      "nume": "Supeco",
+      "oras": "Cluj-Napoca",
+      "adresa": "Calea Florești 56"
+    },
+    {
+      "lat": 44.154559,
+      "lng": 28.627173,
+      "nume": "Supeco",
+      "oras": "Constanța",
+      "adresa": "Șoseaua Mangaliei 74"
+    },
+    {
+      "lat": 46.58097,
+      "lng": 26.914878,
+      "nume": "Supeco",
+      "oras": "Bacău",
+      "adresa": "Strada Ștefan cel Mare 28A"
+    },
+    {
+      "lat": 44.32683,
+      "lng": 23.776974,
+      "nume": "Supeco",
+      "oras": "Craiova",
+      "adresa": "Calea Severinului 3"
+    },
+    {
+      "lat": 47.074379,
+      "lng": 21.91831,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.2046,
+      "lng": 27.323595,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.776485,
+      "lng": 24.705104,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.864961,
+      "lng": 25.802358,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.127525,
+      "lng": 24.36282,
+      "nume": "Supeco",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Calea lui Traian"
+    },
+    {
+      "lat": 44.920284,
+      "lng": 25.459768,
+      "nume": "Supeco",
+      "oras": "Târgoviște",
+      "adresa": "Bulevardul Ion C. Brătianu 14"
+    },
+    {
+      "lat": 47.780344,
+      "lng": 22.87931,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.762766,
+      "lng": 22.91122,
+      "nume": "Supeco",
+      "oras": "Hunedoara",
+      "adresa": "Strada Mihai Viteazu 12"
+    },
+    {
+      "lat": 44.344166,
+      "lng": 24.123265,
+      "nume": "Supeco",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.419187,
+      "lng": 26.14689,
+      "nume": "Supeco",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 1"
+    },
+    {
+      "lat": 46.928748,
+      "lng": 26.361501,
+      "nume": "Supeco",
+      "oras": "Piatra Neamț",
+      "adresa": "Strada Bistriței 2"
+    },
+    {
+      "lat": 45.674953,
+      "lng": 27.182634,
+      "nume": "Supeco",
+      "oras": "Focșani",
+      "adresa": null
+    }
+  ]
+}

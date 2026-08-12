@@ -1,0 +1,821 @@
+{
+  "brand": "KFC",
+  "wikidata_id": "Q524757",
+  "total": 116,
+  "cu_oras": 66,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.428826,
+      "lng": 26.104571,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Piața Unirii 1"
+    },
+    {
+      "lat": 44.444948,
+      "lng": 26.098195,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul General Gheorghe Magheru 28-30"
+    },
+    {
+      "lat": 44.420591,
+      "lng": 26.179442,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul 1 Decembrie 1918 33A"
+    },
+    {
+      "lat": 46.579931,
+      "lng": 26.915417,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.155526,
+      "lng": 27.605472,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.443566,
+      "lng": 26.118685,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Calea Moșilor 219"
+    },
+    {
+      "lat": 44.940834,
+      "lng": 26.022282,
+      "nume": "KFC",
+      "oras": "Ploiești",
+      "adresa": "Bulevardul Republicii"
+    },
+    {
+      "lat": 45.752483,
+      "lng": 21.224719,
+      "nume": "KFC",
+      "oras": "Timișoara",
+      "adresa": "Strada Johann Wolfgang von Goethe 2"
+    },
+    {
+      "lat": 47.035951,
+      "lng": 21.950437,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.464775,
+      "lng": 26.088307,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Calea Dorobanților 239"
+    },
+    {
+      "lat": 47.154994,
+      "lng": 27.587302,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": "Strada Palas 5B"
+    },
+    {
+      "lat": 46.770235,
+      "lng": 23.590533,
+      "nume": "KFC",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Iuliu Maniu 1"
+    },
+    {
+      "lat": 44.395427,
+      "lng": 26.122532,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 44.478321,
+      "lng": 26.103509,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Calea Floreasca 246B"
+    },
+    {
+      "lat": 44.965424,
+      "lng": 25.975064,
+      "nume": "KFC",
+      "oras": "Ploiești",
+      "adresa": null
+    },
+    {
+      "lat": 45.642637,
+      "lng": 25.58947,
+      "nume": "KFC",
+      "oras": "Brașov",
+      "adresa": "Piața Sfatului 4"
+    },
+    {
+      "lat": 45.162733,
+      "lng": 26.818249,
+      "nume": "KFC",
+      "oras": "Buzău",
+      "adresa": "Bulevardul Unirii 232"
+    },
+    {
+      "lat": 44.445587,
+      "lng": 26.062865,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 210-210B"
+    },
+    {
+      "lat": 45.863499,
+      "lng": 22.930962,
+      "nume": "KFC",
+      "oras": "Deva",
+      "adresa": "Calea Zarandului 87"
+    },
+    {
+      "lat": 45.724178,
+      "lng": 21.199659,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.766804,
+      "lng": 21.228775,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.748873,
+      "lng": 23.531801,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.101851,
+      "lng": 24.362174,
+      "nume": "KFC",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 44.637998,
+      "lng": 22.632366,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452567,
+      "lng": 26.04802,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Calea Crângași 29"
+    },
+    {
+      "lat": 47.657373,
+      "lng": 23.546855,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.750937,
+      "lng": 26.642129,
+      "nume": "KFC",
+      "oras": "Botoșani",
+      "adresa": "Bulevardul Mihai Eminescu 4"
+    },
+    {
+      "lat": 44.946499,
+      "lng": 26.032992,
+      "nume": "KFC",
+      "oras": "Ploiești",
+      "adresa": "Strada Calomfirescu 2"
+    },
+    {
+      "lat": 45.672661,
+      "lng": 25.613406,
+      "nume": "KFC",
+      "oras": "Brașov",
+      "adresa": "Strada Zaharia Stancu 1"
+    },
+    {
+      "lat": 47.786175,
+      "lng": 22.871176,
+      "nume": "KFC",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 46.772925,
+      "lng": 23.62951,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.229335,
+      "lng": 27.938091,
+      "nume": "KFC",
+      "oras": "Vărsătura",
+      "adresa": "Strada Principală"
+    },
+    {
+      "lat": 45.453506,
+      "lng": 28.031065,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.417404,
+      "lng": 26.036334,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Strada Brașov 25"
+    },
+    {
+      "lat": 44.312916,
+      "lng": 23.833483,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.041127,
+      "lng": 21.904634,
+      "nume": "KFC",
+      "oras": "Oradea",
+      "adresa": null
+    },
+    {
+      "lat": 44.865575,
+      "lng": 24.884453,
+      "nume": "KFC",
+      "oras": "Pitești",
+      "adresa": null
+    },
+    {
+      "lat": 45.796768,
+      "lng": 24.162727,
+      "nume": "KFC",
+      "oras": "Sibiu",
+      "adresa": "Strada Lector 1"
+    },
+    {
+      "lat": 44.452527,
+      "lng": 26.130022,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Strada Ziduri Moși 23"
+    },
+    {
+      "lat": 44.441039,
+      "lng": 26.152224,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.659508,
+      "lng": 26.271181,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.66503,
+      "lng": 26.266318,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.430968,
+      "lng": 26.052644,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 44.204104,
+      "lng": 28.633668,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.197829,
+      "lng": 28.610841,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.475601,
+      "lng": 26.160336,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua Colentina 246"
+    },
+    {
+      "lat": 47.202651,
+      "lng": 23.056124,
+      "nume": "KFC",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul"
+    },
+    {
+      "lat": 44.505657,
+      "lng": 26.089009,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 44.510484,
+      "lng": 26.086999,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 46.529425,
+      "lng": 24.592952,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.91278,
+      "lng": 25.462629,
+      "nume": "KFC",
+      "oras": "Târgoviște",
+      "adresa": "Bulevardul Regele Ferdinand"
+    },
+    {
+      "lat": 45.649729,
+      "lng": 25.610491,
+      "nume": "KFC",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 46.079525,
+      "lng": 23.583903,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.935176,
+      "lng": 26.348597,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.023481,
+      "lng": 23.264761,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.645791,
+      "lng": 23.537892,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.420248,
+      "lng": 26.126171,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.42848,
+      "lng": 26.034472,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 45.774722,
+      "lng": 24.169439,
+      "nume": "KFC",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 46.938066,
+      "lng": 26.923071,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.76713,
+      "lng": 21.229459,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.437898,
+      "lng": 26.186387,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua Vergului 20"
+    },
+    {
+      "lat": 44.433321,
+      "lng": 26.03709,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 19"
+    },
+    {
+      "lat": 44.856343,
+      "lng": 24.873332,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.42033,
+      "lng": 26.149622,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 45.868998,
+      "lng": 25.800115,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.212184,
+      "lng": 28.604198,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.435671,
+      "lng": 25.914195,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.111634,
+      "lng": 24.383406,
+      "nume": "KFC",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": null
+    },
+    {
+      "lat": 44.929014,
+      "lng": 26.037712,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.244746,
+      "lng": 27.682971,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.250724,
+      "lng": 27.681382,
+      "nume": "KFC",
+      "oras": "Bârlad",
+      "adresa": null
+    },
+    {
+      "lat": 44.492418,
+      "lng": 26.017543,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 284"
+    },
+    {
+      "lat": 45.877866,
+      "lng": 23.1897,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.838736,
+      "lng": 21.351559,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.194284,
+      "lng": 21.091705,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.905381,
+      "lng": 25.973503,
+      "nume": "KFC",
+      "oras": "Giurgiu",
+      "adresa": "Strada Academician Miron Nicolescu 10"
+    },
+    {
+      "lat": 46.085291,
+      "lng": 23.593238,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.190302,
+      "lng": 21.320223,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.331252,
+      "lng": 23.770562,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.773928,
+      "lng": 24.169998,
+      "nume": "KFC",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 46.10141,
+      "lng": 23.605993,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.844454,
+      "lng": 24.894388,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.763392,
+      "lng": 22.902465,
+      "nume": "KFC",
+      "oras": "Hunedoara",
+      "adresa": "Bulevardul Traian 5"
+    },
+    {
+      "lat": 47.16844,
+      "lng": 27.516354,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.405612,
+      "lng": 26.161542,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Strada Ilioara 54"
+    },
+    {
+      "lat": 45.703596,
+      "lng": 27.204083,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.536795,
+      "lng": 25.37586,
+      "nume": "KFC",
+      "oras": "Zărnești",
+      "adresa": "Strada Branului"
+    },
+    {
+      "lat": 44.32002,
+      "lng": 23.801572,
+      "nume": "KFC",
+      "oras": "Craiova",
+      "adresa": "Calea București 29"
+    },
+    {
+      "lat": 45.778804,
+      "lng": 24.169401,
+      "nume": "KFC",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 44.442659,
+      "lng": 26.130256,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 102A"
+    },
+    {
+      "lat": 46.185331,
+      "lng": 21.315213,
+      "nume": "KFC",
+      "oras": "Arad",
+      "adresa": "Strada 9 Mai 6"
+    },
+    {
+      "lat": 46.529784,
+      "lng": 24.547213,
+      "nume": "KFC",
+      "oras": "Târgu Mureș",
+      "adresa": null
+    },
+    {
+      "lat": 44.435699,
+      "lng": 25.98422,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 560A"
+    },
+    {
+      "lat": 44.507764,
+      "lng": 26.084645,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42-44"
+    },
+    {
+      "lat": 44.393773,
+      "lng": 26.122666,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței 85"
+    },
+    {
+      "lat": 47.146731,
+      "lng": 24.514029,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.0585,
+      "lng": 21.916501,
+      "nume": "KFC",
+      "oras": "Oradea",
+      "adresa": "Bulevardul Decebal 61A"
+    },
+    {
+      "lat": 47.784419,
+      "lng": 22.847965,
+      "nume": "KFC",
+      "oras": "Satu Mare",
+      "adresa": "Strada Careiului 75"
+    },
+    {
+      "lat": 44.447488,
+      "lng": 26.074565,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Piața Gării de Nord"
+    },
+    {
+      "lat": 44.418673,
+      "lng": 26.073955,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Strada Progresului 126"
+    },
+    {
+      "lat": 46.362312,
+      "lng": 25.812162,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.417122,
+      "lng": 26.13573,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 319"
+    },
+    {
+      "lat": 44.406542,
+      "lng": 26.2045,
+      "nume": "KFC",
+      "oras": "București",
+      "adresa": "Bulevardul Theodor Pallady"
+    },
+    {
+      "lat": 44.921248,
+      "lng": 25.464015,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.255897,
+      "lng": 27.960091,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.740238,
+      "lng": 21.256992,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.200034,
+      "lng": 27.332346,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.426184,
+      "lng": 24.382674,
+      "nume": "KFC",
+      "oras": "Slatina",
+      "adresa": "Strada Tunari 1D"
+    },
+    {
+      "lat": 44.603841,
+      "lng": 26.069577,
+      "nume": "KFC",
+      "oras": "Balotești",
+      "adresa": "Calea București 2bis"
+    },
+    {
+      "lat": 45.369176,
+      "lng": 25.542866,
+      "nume": "KFC",
+      "oras": "Sinaia",
+      "adresa": "Calea Brașovului 50-52"
+    },
+    {
+      "lat": 44.561476,
+      "lng": 27.349352,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.763432,
+      "lng": 22.902353,
+      "nume": "KFC",
+      "oras": "Hunedoara",
+      "adresa": "Bulevardul Traian 5"
+    },
+    {
+      "lat": 44.328171,
+      "lng": 23.769791,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.821987,
+      "lng": 24.150821,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.703589,
+      "lng": 27.204125,
+      "nume": "KFC",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

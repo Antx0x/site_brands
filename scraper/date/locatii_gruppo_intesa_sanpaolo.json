@@ -1,0 +1,163 @@
+{
+  "brand": "Gruppo Intesa Sanpaolo",
+  "wikidata_id": "Q1343118",
+  "total": 22,
+  "cu_oras": 9,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.173943,
+      "lng": 21.316596,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.163845,
+      "lng": 27.588728,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.207072,
+      "lng": 27.310898,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Călărași",
+      "adresa": "Prelungirea București 30"
+    },
+    {
+      "lat": 46.220015,
+      "lng": 24.795966,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.766695,
+      "lng": 23.593424,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Avram Iancu 48"
+    },
+    {
+      "lat": 44.45145,
+      "lng": 26.085908,
+      "nume": "Intesa Sanpaolo",
+      "oras": "București",
+      "adresa": "Calea Victoriei 155"
+    },
+    {
+      "lat": 45.689648,
+      "lng": 21.902812,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.317278,
+      "lng": 23.80164,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.437833,
+      "lng": 26.097637,
+      "nume": "Intesa Sanpaolo",
+      "oras": "București",
+      "adresa": "Calea Victoriei 68-70"
+    },
+    {
+      "lat": 44.179563,
+      "lng": 28.636451,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Constanța",
+      "adresa": "Bulevardul 1 Decembrie 1918 12"
+    },
+    {
+      "lat": 45.156757,
+      "lng": 26.81654,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.780591,
+      "lng": 21.220609,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.755921,
+      "lng": 21.232364,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.180439,
+      "lng": 23.052993,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Zalău",
+      "adresa": "Strada 1 Decembrie 1918"
+    },
+    {
+      "lat": 44.537596,
+      "lng": 26.095908,
+      "nume": "Gruppo Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.145255,
+      "lng": 27.611427,
+      "nume": "Gruppo Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.65069,
+      "lng": 25.61664,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.418752,
+      "lng": 26.114949,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.535907,
+      "lng": 24.555798,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Târgu Mureș",
+      "adresa": "Strada Gheorghe Doja 23"
+    },
+    {
+      "lat": 46.774827,
+      "lng": 23.601177,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul 21 Decembrie 1989 61"
+    },
+    {
+      "lat": 45.759389,
+      "lng": 21.238616,
+      "nume": "Intesa Sanpaolo",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Take Ionescu 36"
+    },
+    {
+      "lat": 47.788651,
+      "lng": 22.874064,
+      "nume": "Intesa Sanpaolo",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "brand": "Garanti BBVA",
+  "wikidata_id": "Q322962",
+  "total": 44,
+  "cu_oras": 21,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 46.173274,
+      "lng": 21.317019,
+      "nume": "Garanti Bankası",
+      "oras": "Arad",
+      "adresa": "Bulevardul Revoluției 83"
+    },
+    {
+      "lat": 47.167022,
+      "lng": 27.58558,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": "Bulevardul Independenței 9"
+    },
+    {
+      "lat": 44.413719,
+      "lng": 26.16443,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.881262,
+      "lng": 22.902522,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.179467,
+      "lng": 28.651105,
+      "nume": "Garanti Bankası",
+      "oras": "Constanța",
+      "adresa": "Strada Cuza Vodă 15"
+    },
+    {
+      "lat": 46.770112,
+      "lng": 23.593509,
+      "nume": "Garanti Bankası",
+      "oras": "Cluj-Napoca",
+      "adresa": "Bulevardul Eroilor 23-25"
+    },
+    {
+      "lat": 44.460937,
+      "lng": 26.074456,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421319,
+      "lng": 26.020216,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Drumul Taberei"
+    },
+    {
+      "lat": 44.439335,
+      "lng": 26.10083,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.424091,
+      "lng": 26.074197,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Calea 13 Septembrie 114"
+    },
+    {
+      "lat": 44.430278,
+      "lng": 26.106341,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.452407,
+      "lng": 26.07435,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Șoseaua Nicolae Titulescu 117"
+    },
+    {
+      "lat": 44.378925,
+      "lng": 26.118009,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Obregia 46"
+    },
+    {
+      "lat": 44.41325,
+      "lng": 26.074655,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Calea Rahovei 295"
+    },
+    {
+      "lat": 44.626174,
+      "lng": 22.652152,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.179832,
+      "lng": 28.635143,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.316854,
+      "lng": 23.815571,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.65544,
+      "lng": 25.601124,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.14564,
+      "lng": 26.811688,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.94852,
+      "lng": 26.008747,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.739307,
+      "lng": 21.239779,
+      "nume": "Garanti Bankası",
+      "oras": "Timișoara",
+      "adresa": "Strada Arieș 20"
+    },
+    {
+      "lat": 46.310638,
+      "lng": 23.71968,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.161031,
+      "lng": 27.591531,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.454985,
+      "lng": 26.097268,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Calea Dorobanților 111-131"
+    },
+    {
+      "lat": 47.056933,
+      "lng": 21.931111,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.75557,
+      "lng": 21.229102,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.378158,
+      "lng": 26.11846,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Obregia"
+    },
+    {
+      "lat": 45.76517,
+      "lng": 21.259641,
+      "nume": "Garanti Bank",
+      "oras": "Timișoara",
+      "adresa": "Bulevardul Simion Bărnuțiu 73"
+    },
+    {
+      "lat": 45.768055,
+      "lng": 24.125375,
+      "nume": "Garanti Bankası",
+      "oras": "Sibiu",
+      "adresa": "Strada Ludoș 33"
+    },
+    {
+      "lat": 44.510373,
+      "lng": 26.087765,
+      "nume": "Garanti BBVA",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 45.03794,
+      "lng": 23.269159,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.544322,
+      "lng": 24.560033,
+      "nume": "Garanti Bankası",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Trandafirilor 20"
+    },
+    {
+      "lat": 44.45233,
+      "lng": 26.116506,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.78176,
+      "lng": 23.62599,
+      "nume": "Garanti BBVA",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.567075,
+      "lng": 26.910975,
+      "nume": "Garanti Bankası",
+      "oras": "Bacău",
+      "adresa": "Strada Nicolae Bălcescu"
+    },
+    {
+      "lat": 46.640696,
+      "lng": 27.733977,
+      "nume": "Garanti Bankası",
+      "oras": "Vaslui",
+      "adresa": "Strada Ștefan cel Mare"
+    },
+    {
+      "lat": 46.75506,
+      "lng": 23.557335,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.173334,
+      "lng": 21.317062,
+      "nume": "Garanti BBVA",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.660942,
+      "lng": 24.262165,
+      "nume": "Garanti BBVA",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.42781,
+      "lng": 28.032781,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.479477,
+      "lng": 26.096895,
+      "nume": "Garanti Bankası",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.442037,
+      "lng": 26.166281,
+      "nume": "Garanti Bankası",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.434168,
+      "lng": 26.013435,
+      "nume": "Garanti Bank",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 170A"
+    },
+    {
+      "lat": 44.197721,
+      "lng": 28.648164,
+      "nume": "Garanti Bankası",
+      "oras": "Constanța",
+      "adresa": "Bulevardul Mamaia 152"
+    }
+  ]
+}

@@ -1090,5 +1090,292 @@
     "proprietar": "Germany",
     "sediu": "Bonn",
     "industrie": "telecommunications"
+  },
+    {
+    "wikidata_id": "Q503191",
+    "nume": "Nescafé",
+    "descriere": "instant coffee brand",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.nescafe.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Nescafé",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1150326",
+    "nume": "Nesquik",
+    "descriere": "brand of products by Nestlé",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.goodnes.com/nesquik/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Nesquik",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q367251",
+    "nume": "Kit Kat",
+    "descriere": "brand of chocolate products",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.kitkat.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "KitKat",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q542376",
+    "nume": "Nestlé Purina PetCare",
+    "descriere": "American pet food manufacturer, subsidiary of the Swiss corporation Nestlé",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.purina.com/",
+    "sediu_id": "Q4074",
+    "industrie_id": "Q540912",
+    "angajati": null,
+    "cautare": "Purina",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": "Euskirchen",
+    "industrie": "food industry"
+  },
+  {
+    "wikidata_id": "Q2964257",
+    "nume": "Chocapic",
+    "descriere": "chocolate-flavoured whole-grain breakfast cereal distributed by Nestlé",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "https://www.nestle-cereals.com/global/products-promotions/brands/chocapic-brand",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Chocapic",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1993628",
+    "nume": "Nestea",
+    "descriere": "Iced tea brand",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": "http://www.nestea.com",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Nestea",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1827229",
+    "nume": "Lion Bar",
+    "descriere": "chocolate bar",
+    "companie_mama_id": "Q160746",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q160746",
+    "listari": [],
+    "site_oficial": null,
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q1827229",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q160746",
+      "nume": "Nestlé",
+      "descriere": "Swiss multi-national food and beverage company",
+      "companie_mama_id": "Q1516464",
+      "companie_mama_sursa": "P127",
+      "proprietar_id": "Q1516464",
+      "listari": [
+        {
+          "bursa": "Swiss Stock Exchange",
+          "simbol": "NESN"
+        }
+      ],
+      "site_oficial": "https://www.nestle.com/",
+      "sediu_id": "Q68160",
+      "industrie_id": "Q540912",
+      "angajati": 335000,
+      "companie_mama": "treasury stock",
+      "proprietar": "treasury stock",
+      "sediu": "Vevey",
+      "industrie": "food industry"
+    },
+    "companie_mama": "Nestlé",
+    "proprietar": "Nestlé",
+    "sediu": null,
+    "industrie": null
   }
 ]

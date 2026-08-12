@@ -1,0 +1,3082 @@
+{
+  "brand": "Petrom",
+  "wikidata_id": "Q1755034",
+  "total": 439,
+  "cu_oras": 228,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.388539,
+      "lng": 26.109439,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Constantin Brâncoveanu 110A"
+    },
+    {
+      "lat": 45.421565,
+      "lng": 28.029061,
+      "nume": "Petrom",
+      "oras": "Galați",
+      "adresa": "Strada Saturn 23"
+    },
+    {
+      "lat": 45.454674,
+      "lng": 28.024709,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.729767,
+      "lng": 26.672137,
+      "nume": "Petrom",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 142"
+    },
+    {
+      "lat": 46.222866,
+      "lng": 24.788009,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.168996,
+      "lng": 23.945046,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.905639,
+      "lng": 25.97147,
+      "nume": "Petrom",
+      "oras": "Giurgiu",
+      "adresa": "Bulevardul București 44A"
+    },
+    {
+      "lat": 47.169518,
+      "lng": 27.554762,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.265864,
+      "lng": 28.257784,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.423301,
+      "lng": 26.095577,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada 11 Iunie 10"
+    },
+    {
+      "lat": 46.187698,
+      "lng": 21.30211,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.673433,
+      "lng": 25.644725,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.751562,
+      "lng": 22.900282,
+      "nume": "Petrom",
+      "oras": "Hunedoara",
+      "adresa": "Strada Victoriei 2A"
+    },
+    {
+      "lat": 45.7528,
+      "lng": 21.254819,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.525137,
+      "lng": 26.921923,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.782094,
+      "lng": 28.137544,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.117083,
+      "lng": 24.385012,
+      "nume": "Petrom",
+      "oras": "Caracal",
+      "adresa": "Strada 1 Decembrie 1918"
+    },
+    {
+      "lat": 44.119669,
+      "lng": 24.351084,
+      "nume": "Petrom",
+      "oras": "Caracal",
+      "adresa": "Strada Carpați 47"
+    },
+    {
+      "lat": 47.173408,
+      "lng": 27.534987,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.284681,
+      "lng": 24.422768,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.155643,
+      "lng": 26.81854,
+      "nume": "Petrom",
+      "oras": "Buzău",
+      "adresa": null
+    },
+    {
+      "lat": 44.406147,
+      "lng": 27.83008,
+      "nume": "Petrom Fetești",
+      "oras": "Fetești",
+      "adresa": "Strada Călărași 514"
+    },
+    {
+      "lat": 45.709226,
+      "lng": 27.19775,
+      "nume": "Petrom",
+      "oras": "Focșani",
+      "adresa": null
+    },
+    {
+      "lat": 45.891756,
+      "lng": 22.89845,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.326494,
+      "lng": 23.819487,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Decebal 10"
+    },
+    {
+      "lat": 45.275772,
+      "lng": 27.976411,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.215436,
+      "lng": 27.300311,
+      "nume": "Petrom",
+      "oras": "Călărași",
+      "adresa": "Prelungirea București 295"
+    },
+    {
+      "lat": 44.441,
+      "lng": 26.192328,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Pantelimon 454"
+    },
+    {
+      "lat": 44.430997,
+      "lng": 26.071548,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Doctor Petre Herescu 2A"
+    },
+    {
+      "lat": 45.661082,
+      "lng": 25.571161,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.910832,
+      "lng": 26.093184,
+      "nume": "Petrom",
+      "oras": "Bicaz",
+      "adresa": "Strada Republicii 3A"
+    },
+    {
+      "lat": 46.0895,
+      "lng": 21.691708,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.114345,
+      "lng": 24.233327,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.152178,
+      "lng": 24.332654,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.679151,
+      "lng": 25.586121,
+      "nume": "Petrom",
+      "oras": "Brașov",
+      "adresa": "Bulevardul Griviței A26"
+    },
+    {
+      "lat": 47.362027,
+      "lng": 25.350906,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Strada Argestru 4"
+    },
+    {
+      "lat": 44.444477,
+      "lng": 26.8471,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.781742,
+      "lng": 22.876286,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.156607,
+      "lng": 26.810958,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.132163,
+      "lng": 26.8597,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.11665,
+      "lng": 21.798018,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.065677,
+      "lng": 21.928947,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.459752,
+      "lng": 26.107036,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Barbu Văcărescu 78"
+    },
+    {
+      "lat": 45.398897,
+      "lng": 27.046537,
+      "nume": "Petrom",
+      "oras": "Râmnicu Sărat",
+      "adresa": "Strada Focșani 7"
+    },
+    {
+      "lat": 45.163866,
+      "lng": 28.790284,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.147258,
+      "lng": 27.605822,
+      "nume": "Petrom (Chișinăului)",
+      "oras": "Iași",
+      "adresa": "Calea Chișinăului 26C"
+    },
+    {
+      "lat": 46.204307,
+      "lng": 21.208326,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.445265,
+      "lng": 28.010351,
+      "nume": "Petrom",
+      "oras": "Galați",
+      "adresa": "Strada Nicolae Mantu 30"
+    },
+    {
+      "lat": 45.792794,
+      "lng": 24.133103,
+      "nume": "Petrom",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.817607,
+      "lng": 24.150106,
+      "nume": "Petrom",
+      "oras": "Sibiu",
+      "adresa": "Calea Șurii Mari"
+    },
+    {
+      "lat": 47.188272,
+      "lng": 27.565354,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.408451,
+      "lng": 26.07621,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Sălaj 124"
+    },
+    {
+      "lat": 44.113571,
+      "lng": 24.994419,
+      "nume": "Petrom",
+      "oras": "Roșiorii de Vede",
+      "adresa": null
+    },
+    {
+      "lat": 44.414811,
+      "lng": 26.165013,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Nicolae Grigorescu 51"
+    },
+    {
+      "lat": 43.784326,
+      "lng": 23.969074,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.728322,
+      "lng": 25.300478,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.217087,
+      "lng": 23.679202,
+      "nume": "Petrom",
+      "oras": "Teiuș",
+      "adresa": null
+    },
+    {
+      "lat": 47.417717,
+      "lng": 26.920185,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.108057,
+      "lng": 26.638747,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.869912,
+      "lng": 27.210432,
+      "nume": "Petrom",
+      "oras": "Mărășești",
+      "adresa": "Bucuresti-Bacau km 203-205 2A"
+    },
+    {
+      "lat": 46.957091,
+      "lng": 26.914435,
+      "nume": "Petrom (Roman N)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.552422,
+      "lng": 25.906111,
+      "nume": "Petrom",
+      "oras": "Gura Humorului",
+      "adresa": "Bulevardul Bucovina"
+    },
+    {
+      "lat": 44.223485,
+      "lng": 28.59484,
+      "nume": "Petrom",
+      "oras": "Palazu Mare",
+      "adresa": "Bulevardul Tomis"
+    },
+    {
+      "lat": 44.889668,
+      "lng": 24.822522,
+      "nume": "Petrom",
+      "oras": "Pitești",
+      "adresa": null
+    },
+    {
+      "lat": 45.759304,
+      "lng": 24.825779,
+      "nume": "PETROMF-P",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.3132,
+      "lng": 23.788397,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Știrbei Vodă"
+    },
+    {
+      "lat": 44.939316,
+      "lng": 25.500952,
+      "nume": "Petrom",
+      "oras": "Răzvad",
+      "adresa": null
+    },
+    {
+      "lat": 46.462922,
+      "lng": 23.962425,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.322451,
+      "lng": 26.358333,
+      "nume": "Petrom",
+      "oras": "Pătârlagele",
+      "adresa": "Strada Nicolae Bălcescu"
+    },
+    {
+      "lat": 45.247226,
+      "lng": 28.12746,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.699843,
+      "lng": 25.22885,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.374379,
+      "lng": 23.367604,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.957387,
+      "lng": 27.430363,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.831522,
+      "lng": 24.883652,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.266622,
+      "lng": 27.691028,
+      "nume": "Petrom (Simila)",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.666789,
+      "lng": 26.055821,
+      "nume": "Petrom",
+      "oras": "Întorsura Buzăului",
+      "adresa": "Strada Mihai Viteazul"
+    },
+    {
+      "lat": 44.138056,
+      "lng": 28.620408,
+      "nume": "Petrom",
+      "oras": "Constanța",
+      "adresa": "Șoseaua Mangaliei"
+    },
+    {
+      "lat": 46.574734,
+      "lng": 26.931428,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.541781,
+      "lng": 26.902458,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.990291,
+      "lng": 24.255069,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.936891,
+      "lng": 26.378017,
+      "nume": "Petrom 11 Darmanesti",
+      "oras": "Piatra Neamț",
+      "adresa": "Petru Rares 65"
+    },
+    {
+      "lat": 46.924727,
+      "lng": 26.909294,
+      "nume": "Petrom",
+      "oras": "Roman",
+      "adresa": "Strada Artera Vest"
+    },
+    {
+      "lat": 46.376541,
+      "lng": 25.219402,
+      "nume": "Hadnagy Oil",
+      "oras": "Lupeni",
+      "adresa": null
+    },
+    {
+      "lat": 47.455402,
+      "lng": 23.84016,
+      "nume": "Petrom",
+      "oras": "Tărgu Lăpuș",
+      "adresa": "Strada Liviu Rebreanu"
+    },
+    {
+      "lat": 46.483363,
+      "lng": 26.502605,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.108859,
+      "lng": 24.455182,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.817811,
+      "lng": 28.582907,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.514466,
+      "lng": 22.137438,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.740158,
+      "lng": 23.592197,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.117581,
+      "lng": 21.797545,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.772699,
+      "lng": 24.487625,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.673631,
+      "lng": 21.914983,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.848839,
+      "lng": 23.360959,
+      "nume": "Petrom",
+      "oras": "Cugir",
+      "adresa": null
+    },
+    {
+      "lat": 45.291025,
+      "lng": 27.971344,
+      "nume": "Petrom",
+      "oras": "Brăila",
+      "adresa": "Strada Mircea Mălăeru"
+    },
+    {
+      "lat": 46.550055,
+      "lng": 23.891736,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.908081,
+      "lng": 25.986453,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.928012,
+      "lng": 23.895542,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Strada 1 Decembrie 1918"
+    },
+    {
+      "lat": 44.298671,
+      "lng": 23.831871,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Strada Caracal"
+    },
+    {
+      "lat": 47.804108,
+      "lng": 23.167445,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.671856,
+      "lng": 23.423667,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.555898,
+      "lng": 23.51224,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.642671,
+      "lng": 27.67799,
+      "nume": "Petrom",
+      "oras": "Țăndărei",
+      "adresa": "Strada București"
+    },
+    {
+      "lat": 45.152021,
+      "lng": 23.78968,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.691668,
+      "lng": 24.448052,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.870454,
+      "lng": 23.099179,
+      "nume": "Petrom",
+      "oras": "Livada",
+      "adresa": null
+    },
+    {
+      "lat": 44.653852,
+      "lng": 25.544964,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.201708,
+      "lng": 27.648532,
+      "nume": "Petrom",
+      "oras": "Bârlad",
+      "adresa": "Șoseaua Tecuciului"
+    },
+    {
+      "lat": 45.175445,
+      "lng": 28.756749,
+      "nume": "Petrom",
+      "oras": "Tulcea",
+      "adresa": "Strada Isaccei 127"
+    },
+    {
+      "lat": 44.48703,
+      "lng": 26.078798,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 2"
+    },
+    {
+      "lat": 44.887301,
+      "lng": 22.381603,
+      "nume": "Petrom",
+      "oras": "Mehadia",
+      "adresa": null
+    },
+    {
+      "lat": 44.362806,
+      "lng": 26.086952,
+      "nume": "Petrom",
+      "oras": "Jilava",
+      "adresa": "Șoseaua Giurgiului 46A"
+    },
+    {
+      "lat": 44.889757,
+      "lng": 24.822263,
+      "nume": "GPL petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.384046,
+      "lng": 25.537221,
+      "nume": "Petrom",
+      "oras": "Bușteni",
+      "adresa": null
+    },
+    {
+      "lat": 44.21686,
+      "lng": 22.923644,
+      "nume": "Petrom",
+      "oras": "Cujmir",
+      "adresa": "DN56A"
+    },
+    {
+      "lat": 46.925879,
+      "lng": 25.356493,
+      "nume": "Petrom",
+      "oras": "Toplița",
+      "adresa": null
+    },
+    {
+      "lat": 45.617074,
+      "lng": 25.646123,
+      "nume": "Petrom",
+      "oras": "Brașov",
+      "adresa": "Strada Lacurilor 4"
+    },
+    {
+      "lat": 46.50797,
+      "lng": 21.50694,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.861331,
+      "lng": 28.575117,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.106346,
+      "lng": 24.670017,
+      "nume": "Petrom",
+      "oras": "Curtea de Argeș",
+      "adresa": null
+    },
+    {
+      "lat": 46.205633,
+      "lng": 21.190354,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.229531,
+      "lng": 22.814898,
+      "nume": "Petrom",
+      "oras": "Șimleu Silvaniei",
+      "adresa": "Tudor Vladimirescu 40"
+    },
+    {
+      "lat": 45.859777,
+      "lng": 23.214411,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.014477,
+      "lng": 25.275226,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.14942,
+      "lng": 24.677199,
+      "nume": "Petrom",
+      "oras": "Curtea de Argeș",
+      "adresa": "Strada Cuza Vodă"
+    },
+    {
+      "lat": 45.044148,
+      "lng": 23.274954,
+      "nume": "Petrom",
+      "oras": "Târgu Jiu",
+      "adresa": "Bulevardul Ecaterina Teodoroiu"
+    },
+    {
+      "lat": 44.299496,
+      "lng": 23.828026,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Strada Caracal 162A"
+    },
+    {
+      "lat": 44.291053,
+      "lng": 23.798903,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Bulevardul Nicolae Romanescu 112C"
+    },
+    {
+      "lat": 44.453708,
+      "lng": 26.261907,
+      "nume": "Petrom",
+      "oras": "Pantelimon",
+      "adresa": "Bulevardul Biruinței 130"
+    },
+    {
+      "lat": 44.068408,
+      "lng": 27.692984,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.035997,
+      "lng": 25.843573,
+      "nume": "Petrom",
+      "oras": "Băicoi",
+      "adresa": null
+    },
+    {
+      "lat": 44.280029,
+      "lng": 25.524943,
+      "nume": "Petrom",
+      "oras": "Videle",
+      "adresa": null
+    },
+    {
+      "lat": 45.12819,
+      "lng": 26.810558,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.805238,
+      "lng": 22.886335,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.329212,
+      "lng": 23.76076,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Strada Brestei"
+    },
+    {
+      "lat": 45.31995,
+      "lng": 21.88782,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.834824,
+      "lng": 27.465816,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": "Strada Decebal 348"
+    },
+    {
+      "lat": 47.752937,
+      "lng": 26.640555,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.03432,
+      "lng": 23.352735,
+      "nume": "Petrom",
+      "oras": "Băilești",
+      "adresa": null
+    },
+    {
+      "lat": 45.076108,
+      "lng": 23.303444,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.143644,
+      "lng": 26.829781,
+      "nume": "Petrom",
+      "oras": "Buzău",
+      "adresa": null
+    },
+    {
+      "lat": 45.79329,
+      "lng": 22.91891,
+      "nume": "Petrom",
+      "oras": "Hunedoara",
+      "adresa": "Calea Hunedoarei"
+    },
+    {
+      "lat": 43.88434,
+      "lng": 24.62872,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.0795,
+      "lng": 25.428459,
+      "nume": "Petrom",
+      "oras": "Pucioasa",
+      "adresa": "Strada Fântânelor"
+    },
+    {
+      "lat": 45.059096,
+      "lng": 25.262031,
+      "nume": "Petrom",
+      "oras": "Voinești",
+      "adresa": null
+    },
+    {
+      "lat": 44.728777,
+      "lng": 25.891728,
+      "nume": "Petrom",
+      "oras": "Bujoreanca",
+      "adresa": null
+    },
+    {
+      "lat": 45.374769,
+      "lng": 23.301513,
+      "nume": "Petrom",
+      "oras": "Aninoasa",
+      "adresa": "Bulevardul Mihai Viteazul"
+    },
+    {
+      "lat": 44.444635,
+      "lng": 24.960878,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.393006,
+      "lng": 25.176271,
+      "nume": "Petrom",
+      "oras": "Rucăr",
+      "adresa": "Strada Brașovului 110"
+    },
+    {
+      "lat": 45.132154,
+      "lng": 24.675174,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.669982,
+      "lng": 28.07855,
+      "nume": "Petrom",
+      "oras": "Huși",
+      "adresa": "Strada Calea Basarabiei 36"
+    },
+    {
+      "lat": 46.860907,
+      "lng": 26.470206,
+      "nume": "Petrom 3 Savinesti",
+      "oras": "Săvinești",
+      "adresa": "Strada Chimiei 9"
+    },
+    {
+      "lat": 44.789342,
+      "lng": 25.13741,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.902383,
+      "lng": 23.154804,
+      "nume": "Petrom",
+      "oras": "Rovinari",
+      "adresa": null
+    },
+    {
+      "lat": 43.949356,
+      "lng": 25.35044,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.63461,
+      "lng": 23.942729,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.680516,
+      "lng": 27.180569,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.899764,
+      "lng": 26.416729,
+      "nume": "Petrom 12 Piatra Neamt",
+      "oras": "Piatra Neamț",
+      "adresa": "Bulevardul General Nicolae Dăscălescu 397"
+    },
+    {
+      "lat": 46.3304,
+      "lng": 25.33449,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.426927,
+      "lng": 22.852209,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.14334,
+      "lng": 28.623714,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.348464,
+      "lng": 23.75644,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.08568,
+      "lng": 27.889819,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.307245,
+      "lng": 23.805447,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Strada Ana Ipătescu"
+    },
+    {
+      "lat": 45.07956,
+      "lng": 25.428557,
+      "nume": "Minimarket Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.383994,
+      "lng": 25.537228,
+      "nume": "Petrom market",
+      "oras": "Bușteni",
+      "adresa": null
+    },
+    {
+      "lat": 44.500855,
+      "lng": 26.208898,
+      "nume": "Petrom",
+      "oras": "Voluntari - Afumați",
+      "adresa": "Șoseaua București Urziceni"
+    },
+    {
+      "lat": 45.049053,
+      "lng": 25.271025,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.362682,
+      "lng": 26.0869,
+      "nume": "Petrom market",
+      "oras": null,
+      "adresa": "Șoseaua Giurgiului"
+    },
+    {
+      "lat": 43.653038,
+      "lng": 25.362683,
+      "nume": "Petrom",
+      "oras": "Zimnicea",
+      "adresa": "Strada Mihail Kogălniceanu 24"
+    },
+    {
+      "lat": 44.728437,
+      "lng": 25.300371,
+      "nume": "Petrom market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.354808,
+      "lng": 26.085763,
+      "nume": "Petrom",
+      "oras": "Jilava",
+      "adresa": "Șoseaua Giurgiului 24A"
+    },
+    {
+      "lat": 44.978082,
+      "lng": 25.656119,
+      "nume": "Petrom",
+      "oras": "Moreni",
+      "adresa": null
+    },
+    {
+      "lat": 45.503235,
+      "lng": 25.574198,
+      "nume": "Petrom market",
+      "oras": "Predeal",
+      "adresa": null
+    },
+    {
+      "lat": 45.503024,
+      "lng": 25.574185,
+      "nume": "Petrom",
+      "oras": "Predeal",
+      "adresa": null
+    },
+    {
+      "lat": 46.578288,
+      "lng": 26.914203,
+      "nume": "Petrom",
+      "oras": "Bacău",
+      "adresa": null
+    },
+    {
+      "lat": 46.234379,
+      "lng": 24.832809,
+      "nume": "Petrom",
+      "oras": "Sighișoara",
+      "adresa": "Strada Mihai Viteazul 143"
+    },
+    {
+      "lat": 44.949979,
+      "lng": 23.513601,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.389137,
+      "lng": 26.091794,
+      "nume": "Petrom minimarket",
+      "oras": "București",
+      "adresa": "Strada Toporași 1B"
+    },
+    {
+      "lat": 46.298853,
+      "lng": 25.288528,
+      "nume": "Petrom minimarket",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.819251,
+      "lng": 24.874348,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.40121,
+      "lng": 25.130157,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.666794,
+      "lng": 24.878034,
+      "nume": "Petrom",
+      "oras": "Costești",
+      "adresa": "Strada Victoriei 58"
+    },
+    {
+      "lat": 47.193415,
+      "lng": 26.34516,
+      "nume": "Petrom",
+      "oras": "Târgu Neamț",
+      "adresa": "Strada Mihail Sadoveanu 100"
+    },
+    {
+      "lat": 45.169666,
+      "lng": 24.118132,
+      "nume": "Butelii Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.150923,
+      "lng": 24.113772,
+      "nume": "Butelii Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.055816,
+      "lng": 21.916245,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.953359,
+      "lng": 24.930272,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.361657,
+      "lng": 23.048872,
+      "nume": "Petrom",
+      "oras": "Câmpeni",
+      "adresa": "Strada Libertății 19B"
+    },
+    {
+      "lat": 47.55231,
+      "lng": 25.906184,
+      "nume": "Petrom Market",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.197325,
+      "lng": 27.381744,
+      "nume": "Tehnostrade",
+      "oras": "Podu Turcului",
+      "adresa": "Tudor Vladimirescu DN11A"
+    },
+    {
+      "lat": 47.665693,
+      "lng": 26.246187,
+      "nume": "Petrom",
+      "oras": "Suceava",
+      "adresa": null
+    },
+    {
+      "lat": 44.426284,
+      "lng": 26.059065,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Locotenent Aviator Gheorghe Caranda 5"
+    },
+    {
+      "lat": 44.298137,
+      "lng": 23.835936,
+      "nume": "Petrom",
+      "oras": "Craiova",
+      "adresa": "Strada Henry Ford 5"
+    },
+    {
+      "lat": 46.057354,
+      "lng": 23.573782,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.247262,
+      "lng": 28.127492,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.368718,
+      "lng": 22.241393,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.723393,
+      "lng": 26.853206,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.225749,
+      "lng": 22.764916,
+      "nume": "SC PETROROM SRL",
+      "oras": "Șimleu Silvaniei",
+      "adresa": "Strada 22 Decembrie 1989 54"
+    },
+    {
+      "lat": 44.202899,
+      "lng": 28.634529,
+      "nume": "Petrom",
+      "oras": "Constanța",
+      "adresa": "Strada Soveja 44"
+    },
+    {
+      "lat": 44.482726,
+      "lng": 26.22259,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.4259,
+      "lng": 21.84202,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.331278,
+      "lng": 24.276667,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.900086,
+      "lng": 27.094886,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.753461,
+      "lng": 23.552754,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.493417,
+      "lng": 26.063375,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Străulești 69A"
+    },
+    {
+      "lat": 45.106561,
+      "lng": 24.669907,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.505344,
+      "lng": 26.2174,
+      "nume": "Petrom",
+      "oras": "Afumați",
+      "adresa": "Șoseaua București Urziceni 26"
+    },
+    {
+      "lat": 44.204163,
+      "lng": 28.620584,
+      "nume": "Petrom 26 Constanța",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.260402,
+      "lng": 25.687998,
+      "nume": "Petrom",
+      "oras": "Broșteni",
+      "adresa": "Strada Mihai 5"
+    },
+    {
+      "lat": 46.515144,
+      "lng": 24.517035,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.727963,
+      "lng": 25.58172,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.678876,
+      "lng": 25.586416,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.039604,
+      "lng": 21.680749,
+      "nume": "Petrom Electric Charging Station",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.384797,
+      "lng": 26.141148,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței"
+    },
+    {
+      "lat": 46.960574,
+      "lng": 25.546955,
+      "nume": "Petrom",
+      "oras": "Borsec",
+      "adresa": null
+    },
+    {
+      "lat": 44.383344,
+      "lng": 26.147556,
+      "nume": "Petrom Market",
+      "oras": null,
+      "adresa": "Șoseaua Olteniței 253A"
+    },
+    {
+      "lat": 44.383249,
+      "lng": 26.147505,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Olteniței"
+    },
+    {
+      "lat": 47.659501,
+      "lng": 26.265337,
+      "nume": "Petrom",
+      "oras": "Suceava",
+      "adresa": "Calea Unirii 22"
+    },
+    {
+      "lat": 43.914466,
+      "lng": 25.972782,
+      "nume": "Petrom",
+      "oras": "Giurgiu",
+      "adresa": "Șoseaua Prieteniei"
+    },
+    {
+      "lat": 45.964976,
+      "lng": 21.287766,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.652932,
+      "lng": 25.362772,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.93905,
+      "lng": 26.408509,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.143889,
+      "lng": 22.874943,
+      "nume": "Petrom",
+      "oras": "Crasna",
+      "adresa": "Strada Ciucei 757"
+    },
+    {
+      "lat": 44.4594,
+      "lng": 26.095097,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Calea Dorobanților"
+    },
+    {
+      "lat": 44.624113,
+      "lng": 22.631583,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.426028,
+      "lng": 26.047655,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Sibiu 5A"
+    },
+    {
+      "lat": 44.41416,
+      "lng": 26.163655,
+      "nume": "Market Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Nicolae Grigorescu 34B"
+    },
+    {
+      "lat": 44.4147,
+      "lng": 26.165194,
+      "nume": "Market Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Nicolae Grigorescu 51"
+    },
+    {
+      "lat": 44.436608,
+      "lng": 26.169421,
+      "nume": "Market Petrom",
+      "oras": "București",
+      "adresa": "Strada Lucrețiu Pătrășcanu 2"
+    },
+    {
+      "lat": 44.428957,
+      "lng": 26.894485,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.876819,
+      "lng": 22.901163,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.551277,
+      "lng": 24.565358,
+      "nume": "Petrom",
+      "oras": "Târgu Mureș",
+      "adresa": "Piața Mărășești 24"
+    },
+    {
+      "lat": 45.866899,
+      "lng": 22.922134,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.857288,
+      "lng": 22.945819,
+      "nume": "Petrom",
+      "oras": "Sântuhalm",
+      "adresa": null
+    },
+    {
+      "lat": 45.774533,
+      "lng": 21.213837,
+      "nume": "Petrom",
+      "oras": "Timișoara",
+      "adresa": "Calea Torontalului"
+    },
+    {
+      "lat": 45.767864,
+      "lng": 21.221886,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.910583,
+      "lng": 26.037233,
+      "nume": "Petrom Bulevardul București",
+      "oras": null,
+      "adresa": "Bulevardul București"
+    },
+    {
+      "lat": 46.184846,
+      "lng": 21.326273,
+      "nume": "Petrom",
+      "oras": "Arad",
+      "adresa": null
+    },
+    {
+      "lat": 44.168751,
+      "lng": 28.573905,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.204651,
+      "lng": 28.611374,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.213054,
+      "lng": 28.642279,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.669628,
+      "lng": 22.336317,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.941031,
+      "lng": 25.990831,
+      "nume": "Petrom",
+      "oras": "Ploiești",
+      "adresa": "Șoseaua Vestului 9D"
+    },
+    {
+      "lat": 44.831561,
+      "lng": 24.883601,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.868132,
+      "lng": 24.883364,
+      "nume": "Petrom",
+      "oras": "Pitești",
+      "adresa": "Calea București 35"
+    },
+    {
+      "lat": 44.432015,
+      "lng": 26.123793,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": null
+    },
+    {
+      "lat": 44.433289,
+      "lng": 26.092892,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 26"
+    },
+    {
+      "lat": 44.438348,
+      "lng": 26.069323,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Splaiul Independenței 191"
+    },
+    {
+      "lat": 46.558088,
+      "lng": 26.91194,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.414822,
+      "lng": 26.165029,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.967739,
+      "lng": 25.962888,
+      "nume": "Petrom",
+      "oras": "Ploiești",
+      "adresa": "Centura de Vest"
+    },
+    {
+      "lat": 44.466143,
+      "lng": 26.147566,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Fundeni 217"
+    },
+    {
+      "lat": 45.907915,
+      "lng": 22.581507,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.849584,
+      "lng": 22.167748,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.391429,
+      "lng": 26.109461,
+      "nume": "Petrom Brâncoveanu",
+      "oras": "București",
+      "adresa": "Bulevardul Constantin Brâncoveanu 16A"
+    },
+    {
+      "lat": 44.416653,
+      "lng": 26.135224,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 321"
+    },
+    {
+      "lat": 47.159985,
+      "lng": 27.581364,
+      "nume": "Petrom",
+      "oras": "Iași",
+      "adresa": null
+    },
+    {
+      "lat": 45.718052,
+      "lng": 21.195941,
+      "nume": "Petrom",
+      "oras": "Timișoara",
+      "adresa": "Calea Șagului"
+    },
+    {
+      "lat": 45.615693,
+      "lng": 22.956355,
+      "nume": "Petrom",
+      "oras": "Hațeg",
+      "adresa": null
+    },
+    {
+      "lat": 45.615684,
+      "lng": 22.956553,
+      "nume": "Petrom",
+      "oras": "Hațeg",
+      "adresa": "Strada Mihai Eminescu"
+    },
+    {
+      "lat": 45.787877,
+      "lng": 21.237762,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.243514,
+      "lng": 26.755732,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.130989,
+      "lng": 24.363813,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.204488,
+      "lng": 27.338489,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.569136,
+      "lng": 27.385102,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.150889,
+      "lng": 23.877407,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.411839,
+      "lng": 26.125479,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 566"
+    },
+    {
+      "lat": 44.411652,
+      "lng": 26.125507,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Mihai Bravu 566"
+    },
+    {
+      "lat": 44.891506,
+      "lng": 28.716766,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.024098,
+      "lng": 22.135949,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.69973,
+      "lng": 24.249504,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.436519,
+      "lng": 26.169202,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Lucrețiu Pătrășcanu 2"
+    },
+    {
+      "lat": 44.428412,
+      "lng": 26.140102,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Gheorghe Petrașcu 2A"
+    },
+    {
+      "lat": 44.451725,
+      "lng": 26.073738,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Alexandru Ioan Cuza 96"
+    },
+    {
+      "lat": 44.44273,
+      "lng": 26.036259,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Virtuții 48"
+    },
+    {
+      "lat": 44.442579,
+      "lng": 26.036124,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Virtuții 48"
+    },
+    {
+      "lat": 44.443931,
+      "lng": 26.036057,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Virtuții 27"
+    },
+    {
+      "lat": 45.380146,
+      "lng": 21.739178,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.414271,
+      "lng": 26.16376,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Nicolae Grigorescu 34B"
+    },
+    {
+      "lat": 44.428534,
+      "lng": 26.046088,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 8C"
+    },
+    {
+      "lat": 47.9212,
+      "lng": 23.912455,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Strada Bogdan Vodă"
+    },
+    {
+      "lat": 45.573754,
+      "lng": 25.614748,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.39131,
+      "lng": 26.109434,
+      "nume": "Market Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Constantin Brâncoveanu"
+    },
+    {
+      "lat": 44.479574,
+      "lng": 26.098709,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Pipera 23A"
+    },
+    {
+      "lat": 45.200787,
+      "lng": 26.04381,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.354514,
+      "lng": 25.55363,
+      "nume": "Petrom",
+      "oras": "Sinaia",
+      "adresa": "Bulevardul Carol I"
+    },
+    {
+      "lat": 44.889576,
+      "lng": 24.822385,
+      "nume": "Market Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.562978,
+      "lng": 27.346389,
+      "nume": "Petrom",
+      "oras": "Slobozia",
+      "adresa": null
+    },
+    {
+      "lat": 44.956953,
+      "lng": 26.050893,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.321851,
+      "lng": 23.796626,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.072676,
+      "lng": 28.628164,
+      "nume": "Petrom",
+      "oras": "Eforie Nord",
+      "adresa": "Bulevardul Republicii 1"
+    },
+    {
+      "lat": 45.331434,
+      "lng": 24.276903,
+      "nume": "Petrom",
+      "oras": "Brezoi",
+      "adresa": "DN7"
+    },
+    {
+      "lat": 45.16357,
+      "lng": 28.790437,
+      "nume": "Petrom",
+      "oras": "Tulcea",
+      "adresa": "Strada Babadag 148"
+    },
+    {
+      "lat": 45.163882,
+      "lng": 28.790164,
+      "nume": "Petrom",
+      "oras": "Tulcea",
+      "adresa": "Strada Babadag 148"
+    },
+    {
+      "lat": 47.644993,
+      "lng": 23.570221,
+      "nume": "Petrom",
+      "oras": "Baia Mare",
+      "adresa": "Bulevardul Unirii"
+    },
+    {
+      "lat": 47.024749,
+      "lng": 23.895468,
+      "nume": "Petrom",
+      "oras": "Gherla",
+      "adresa": null
+    },
+    {
+      "lat": 46.591682,
+      "lng": 26.9116,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.633139,
+      "lng": 25.634562,
+      "nume": "Petrom",
+      "oras": "Brașov",
+      "adresa": "Calea București 110"
+    },
+    {
+      "lat": 44.727614,
+      "lng": 26.109387,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.639479,
+      "lng": 25.617495,
+      "nume": "Petrom",
+      "oras": "Brașov",
+      "adresa": "Strada Temeliei 1"
+    },
+    {
+      "lat": 45.673425,
+      "lng": 25.644731,
+      "nume": "Petrom",
+      "oras": "Brașov",
+      "adresa": "Strada Hărmanului 55"
+    },
+    {
+      "lat": 46.787829,
+      "lng": 23.596984,
+      "nume": "Petrom",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Oașului 16"
+    },
+    {
+      "lat": 44.397664,
+      "lng": 26.042542,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Alexandria 166"
+    },
+    {
+      "lat": 45.81776,
+      "lng": 24.150132,
+      "nume": "Petrom",
+      "oras": "Sibiu",
+      "adresa": "Calea Șurii Mari"
+    },
+    {
+      "lat": 44.638549,
+      "lng": 22.6567,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.383491,
+      "lng": 26.110375,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Constantin Brâncoveanu 97A"
+    },
+    {
+      "lat": 46.382161,
+      "lng": 25.79901,
+      "nume": "Petrom",
+      "oras": "Miercurea Ciuc",
+      "adresa": "Strada Toplița 149"
+    },
+    {
+      "lat": 43.861549,
+      "lng": 28.575178,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.785935,
+      "lng": 23.548125,
+      "nume": "Petrom",
+      "oras": "Baciu",
+      "adresa": "Strada Transilvaniei 4"
+    },
+    {
+      "lat": 44.420825,
+      "lng": 26.12578,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Calea Vitan 49-55"
+    },
+    {
+      "lat": 44.429636,
+      "lng": 26.895909,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.434796,
+      "lng": 25.988519,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Iuliu Maniu 486"
+    },
+    {
+      "lat": 44.106049,
+      "lng": 23.742711,
+      "nume": "Petrom",
+      "oras": "Segarcea",
+      "adresa": "Strada Unirii 6A"
+    },
+    {
+      "lat": 46.014473,
+      "lng": 25.275418,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.44801,
+      "lng": 26.107398,
+      "nume": "Petrom - Mihai Eminescu",
+      "oras": "București",
+      "adresa": "Strada Mihai Eminescu 85"
+    },
+    {
+      "lat": 44.400604,
+      "lng": 27.834212,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.076049,
+      "lng": 23.3031,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.729775,
+      "lng": 26.672123,
+      "nume": "Petrom",
+      "oras": "Botoșani",
+      "adresa": "Calea Națională 142"
+    },
+    {
+      "lat": 46.383662,
+      "lng": 25.218241,
+      "nume": "Petrom",
+      "oras": "Lupeni",
+      "adresa": null
+    },
+    {
+      "lat": 44.5876,
+      "lng": 22.737823,
+      "nume": "Petrom",
+      "oras": "Șimian",
+      "adresa": null
+    },
+    {
+      "lat": 47.18977,
+      "lng": 23.064962,
+      "nume": "Petrom",
+      "oras": "Zalău",
+      "adresa": null
+    },
+    {
+      "lat": 45.104534,
+      "lng": 24.378595,
+      "nume": "Petrom",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Libertății 56"
+    },
+    {
+      "lat": 45.105085,
+      "lng": 24.375267,
+      "nume": "Petrom",
+      "oras": "Râmnicu Vâlcea",
+      "adresa": "Strada Tudor Vladimirescu 40"
+    },
+    {
+      "lat": 45.793639,
+      "lng": 24.129927,
+      "nume": "Petrom",
+      "oras": "Sibiu",
+      "adresa": null
+    },
+    {
+      "lat": 45.175079,
+      "lng": 26.772366,
+      "nume": "Petrom",
+      "oras": "Buzău",
+      "adresa": "Strada Transilvaniei"
+    },
+    {
+      "lat": 45.884988,
+      "lng": 22.908463,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.479966,
+      "lng": 25.672752,
+      "nume": "Petrom",
+      "oras": "Găiseni",
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 45.290073,
+      "lng": 25.064652,
+      "nume": "Petrom",
+      "oras": "Câmpulung",
+      "adresa": null
+    },
+    {
+      "lat": 45.170466,
+      "lng": 26.818043,
+      "nume": "Petrom",
+      "oras": "Buzău",
+      "adresa": "Șoseaua Nordului 3"
+    },
+    {
+      "lat": 45.087035,
+      "lng": 24.35847,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.411536,
+      "lng": 26.092504,
+      "nume": "Petrom - Veniamin Costache",
+      "oras": "București",
+      "adresa": "Strada Mitropolitul Veniamin Costache 3A"
+    },
+    {
+      "lat": 44.912616,
+      "lng": 25.451246,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.912613,
+      "lng": 25.450947,
+      "nume": "Petrom",
+      "oras": "Targoviste",
+      "adresa": "Șoseaua Găești"
+    },
+    {
+      "lat": 44.42469,
+      "lng": 24.351721,
+      "nume": "Petrom",
+      "oras": "Slatina",
+      "adresa": null
+    },
+    {
+      "lat": 44.433455,
+      "lng": 24.37445,
+      "nume": "Petrom",
+      "oras": "Slatina",
+      "adresa": "Strada Crișan 21"
+    },
+    {
+      "lat": 44.483649,
+      "lng": 26.045178,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Jiului 10a"
+    },
+    {
+      "lat": 44.754975,
+      "lng": 25.081914,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Autostrada București-Pitești"
+    },
+    {
+      "lat": 44.389168,
+      "lng": 26.091804,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Toporași 1B"
+    },
+    {
+      "lat": 44.407705,
+      "lng": 26.078052,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Calea Ferentari 65-75"
+    },
+    {
+      "lat": 47.05117,
+      "lng": 21.934404,
+      "nume": "Petrom",
+      "oras": "Oradea",
+      "adresa": "Strada Mihail Kogălniceanu 4"
+    },
+    {
+      "lat": 44.419282,
+      "lng": 26.035004,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Brașov 23"
+    },
+    {
+      "lat": 47.663172,
+      "lng": 23.606721,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.855729,
+      "lng": 23.044673,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.649513,
+      "lng": 23.549765,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.354255,
+      "lng": 25.803064,
+      "nume": "Petrom",
+      "oras": "Miercurea Ciuc",
+      "adresa": null
+    },
+    {
+      "lat": 46.298905,
+      "lng": 25.288479,
+      "nume": "Petrom",
+      "oras": "Odorheiu Secuiesc",
+      "adresa": "Strada II. Rákóczi Ferenc"
+    },
+    {
+      "lat": 47.659984,
+      "lng": 23.566522,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.032683,
+      "lng": 23.554184,
+      "nume": "Petrom",
+      "oras": "Oarda",
+      "adresa": "Strada Biruinței 78"
+    },
+    {
+      "lat": 47.662898,
+      "lng": 23.583351,
+      "nume": "Petrom",
+      "oras": "Baia Mare",
+      "adresa": "Strada Minerilor 2"
+    },
+    {
+      "lat": 46.329027,
+      "lng": 25.331903,
+      "nume": "Petrom",
+      "oras": "Odorheiu Secuiesc",
+      "adresa": "Strada Beclean"
+    },
+    {
+      "lat": 44.437139,
+      "lng": 26.104937,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Tudor Arghezi 3A"
+    },
+    {
+      "lat": 45.654769,
+      "lng": 21.173434,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.507842,
+      "lng": 22.341761,
+      "nume": "PETROM",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.592394,
+      "lng": 25.920806,
+      "nume": "Petrom",
+      "oras": "Crevedia",
+      "adresa": "Șoseaua București-Târgoviște 666"
+    },
+    {
+      "lat": 47.798272,
+      "lng": 22.899139,
+      "nume": "Petrom",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 46.760145,
+      "lng": 24.713491,
+      "nume": "Petrom",
+      "oras": "Reghin",
+      "adresa": "Strada Iernuțeni 160"
+    },
+    {
+      "lat": 44.480899,
+      "lng": 25.970913,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.437117,
+      "lng": 26.113909,
+      "nume": "Petrom Mântuleasa",
+      "oras": "București",
+      "adresa": "Strada Mântuleasa 35"
+    },
+    {
+      "lat": 43.977896,
+      "lng": 25.351659,
+      "nume": "Petrom",
+      "oras": "Alexandria",
+      "adresa": null
+    },
+    {
+      "lat": 43.999759,
+      "lng": 22.975488,
+      "nume": "Petrom",
+      "oras": "Calafat",
+      "adresa": null
+    },
+    {
+      "lat": 43.999666,
+      "lng": 22.975477,
+      "nume": "Petrom",
+      "oras": "Calafat",
+      "adresa": null
+    },
+    {
+      "lat": 46.150216,
+      "lng": 25.860917,
+      "nume": "Petrom",
+      "oras": "Băile Tușnad",
+      "adresa": "Strada Oltului 29"
+    },
+    {
+      "lat": 47.856952,
+      "lng": 26.309641,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.960479,
+      "lng": 25.546686,
+      "nume": "Petrom",
+      "oras": "Borsec",
+      "adresa": null
+    },
+    {
+      "lat": 44.345576,
+      "lng": 24.136105,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.78437,
+      "lng": 22.853601,
+      "nume": "Petrom",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 44.417768,
+      "lng": 26.05815,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Șoseaua Antiaeriană 2A"
+    },
+    {
+      "lat": 44.421053,
+      "lng": 26.074696,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Tudor Vladimirescu 64-78"
+    },
+    {
+      "lat": 44.955988,
+      "lng": 26.007752,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Strada Andrei Mureșanu"
+    },
+    {
+      "lat": 44.434679,
+      "lng": 26.083977,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Vasile Pârvan 1A"
+    },
+    {
+      "lat": 44.589633,
+      "lng": 25.792446,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "DN7"
+    },
+    {
+      "lat": 45.793839,
+      "lng": 20.732158,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.210869,
+      "lng": 21.348023,
+      "nume": "Petrom",
+      "oras": "Arad",
+      "adresa": "Calea Zimandului 45"
+    },
+    {
+      "lat": 46.932411,
+      "lng": 26.375262,
+      "nume": "Petrom 2 Faget",
+      "oras": "Piatra Neamț",
+      "adresa": "Strada Orhei"
+    },
+    {
+      "lat": 47.07534,
+      "lng": 21.904186,
+      "nume": "Petrom",
+      "oras": "Oradea",
+      "adresa": "Calea Borșului 2B"
+    },
+    {
+      "lat": 45.133972,
+      "lng": 27.537932,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.214659,
+      "lng": 23.042142,
+      "nume": "Petrom",
+      "oras": "Zalău",
+      "adresa": "Bulevardul Mihai Viteazul 107-109"
+    },
+    {
+      "lat": 44.819185,
+      "lng": 24.874533,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.721423,
+      "lng": 21.89672,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.995181,
+      "lng": 26.121909,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.948178,
+      "lng": 22.575608,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.754449,
+      "lng": 28.686751,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.414416,
+      "lng": 26.163816,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.850624,
+      "lng": 22.783237,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.131154,
+      "lng": 24.363832,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.86025,
+      "lng": 23.416346,
+      "nume": "Petrom",
+      "oras": "Negrești-Oaș",
+      "adresa": "Strada Victoriei 2"
+    },
+    {
+      "lat": 46.080866,
+      "lng": 23.574728,
+      "nume": "Petrom",
+      "oras": "Alba Iulia",
+      "adresa": "Strada Republicii 30"
+    },
+    {
+      "lat": 45.26541,
+      "lng": 25.03897,
+      "nume": "Petrom",
+      "oras": "Câmpulung",
+      "adresa": "Strada Elena Doamna 11"
+    },
+    {
+      "lat": 44.420948,
+      "lng": 26.125686,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Calea Vitan 49-55"
+    },
+    {
+      "lat": 44.709349,
+      "lng": 26.623027,
+      "nume": "Petrom Urziceni",
+      "oras": "Urziceni",
+      "adresa": null
+    },
+    {
+      "lat": 46.160924,
+      "lng": 20.759752,
+      "nume": "Petrom",
+      "oras": "Nădlac",
+      "adresa": "Calea Aradului"
+    },
+    {
+      "lat": 44.575651,
+      "lng": 25.941176,
+      "nume": "Petrom",
+      "oras": "Buftea",
+      "adresa": "Șoseaua București-Târgoviște 298B"
+    },
+    {
+      "lat": 45.246213,
+      "lng": 25.026619,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 43.907624,
+      "lng": 25.985672,
+      "nume": "Petrom",
+      "oras": "Giurgiu",
+      "adresa": "Strada Unirii 32"
+    },
+    {
+      "lat": 47.148914,
+      "lng": 27.578724,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.243915,
+      "lng": 26.723666,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.215943,
+      "lng": 27.008527,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.448348,
+      "lng": 24.243148,
+      "nume": "Petrom",
+      "oras": "Iernut",
+      "adresa": "Strada Tudor Vladimirescu 1"
+    },
+    {
+      "lat": 46.579939,
+      "lng": 25.048728,
+      "nume": "Petrom",
+      "oras": "Sovata",
+      "adresa": "Strada Primăverii"
+    },
+    {
+      "lat": 45.869854,
+      "lng": 27.210554,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.869977,
+      "lng": 27.210513,
+      "nume": "Petrom",
+      "oras": "Mărășești",
+      "adresa": null
+    },
+    {
+      "lat": 46.779786,
+      "lng": 24.707472,
+      "nume": "Petrom",
+      "oras": "Reghin",
+      "adresa": null
+    },
+    {
+      "lat": 45.859559,
+      "lng": 23.214733,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.955073,
+      "lng": 23.578062,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.362015,
+      "lng": 25.351073,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.669983,
+      "lng": 28.07855,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.552271,
+      "lng": 25.906105,
+      "nume": "Petrom",
+      "oras": "Gura Humorului",
+      "adresa": "Bulevardul Bucovina"
+    },
+    {
+      "lat": 45.401454,
+      "lng": 24.298061,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.428665,
+      "lng": 26.04615,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 8C"
+    },
+    {
+      "lat": 46.781081,
+      "lng": 23.67183,
+      "nume": "Petrom",
+      "oras": "Cluj-Napoca",
+      "adresa": "Strada Traian Vuia 141A"
+    },
+    {
+      "lat": 44.204299,
+      "lng": 25.79149,
+      "nume": "Petrom",
+      "oras": "Ghimpați",
+      "adresa": "Șoseaua Alexandriei 4"
+    },
+    {
+      "lat": 45.374347,
+      "lng": 23.367397,
+      "nume": "Petrom",
+      "oras": "Petroșani",
+      "adresa": null
+    },
+    {
+      "lat": 45.039598,
+      "lng": 21.681099,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.468499,
+      "lng": 22.484493,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Strada Bihorului"
+    },
+    {
+      "lat": 46.468587,
+      "lng": 22.484428,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "Strada Bihorului"
+    },
+    {
+      "lat": 44.793827,
+      "lng": 26.092758,
+      "nume": "Petrom",
+      "oras": "Gorgota",
+      "adresa": null
+    },
+    {
+      "lat": 44.793935,
+      "lng": 26.092629,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.174662,
+      "lng": 21.367411,
+      "nume": "Petrom",
+      "oras": "Arad",
+      "adresa": "Calea Radnei 286"
+    },
+    {
+      "lat": 44.625103,
+      "lng": 24.269417,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": "DN64 km. 55, 703"
+    },
+    {
+      "lat": 46.51523,
+      "lng": 24.516927,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.857667,
+      "lng": 25.806769,
+      "nume": "Petrom-V",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.786014,
+      "lng": 21.217586,
+      "nume": "Petrom",
+      "oras": "Timișoara",
+      "adresa": "Calea Aradului"
+    },
+    {
+      "lat": 44.42622,
+      "lng": 26.048038,
+      "nume": "Petrom",
+      "oras": "București",
+      "adresa": "Strada Sibiu 5A"
+    },
+    {
+      "lat": 44.265774,
+      "lng": 28.257921,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.729851,
+      "lng": 21.219662,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.782215,
+      "lng": 28.137586,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 48.183741,
+      "lng": 26.602017,
+      "nume": "Petrom",
+      "oras": "Darabani",
+      "adresa": "Strada 1 Decembrie 1918 176"
+    },
+    {
+      "lat": 47.406242,
+      "lng": 23.162393,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.117171,
+      "lng": 24.384928,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.798216,
+      "lng": 22.86586,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.266591,
+      "lng": 27.691232,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.659549,
+      "lng": 26.265354,
+      "nume": "Petrom",
+      "oras": "Suceava",
+      "adresa": "Calea Unirii 22"
+    },
+    {
+      "lat": 45.216991,
+      "lng": 27.923227,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.091881,
+      "lng": 25.956498,
+      "nume": "Petrom 14 Poiana Teiului",
+      "oras": "Poiana Teiului",
+      "adresa": "DN17B"
+    },
+    {
+      "lat": 47.939194,
+      "lng": 26.408416,
+      "nume": "Petrom & Auchan",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.724312,
+      "lng": 24.699671,
+      "nume": "Petrom",
+      "oras": "Victoria",
+      "adresa": "Strada Tineretului 2"
+    },
+    {
+      "lat": 47.036141,
+      "lng": 21.945723,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.799793,
+      "lng": 22.978344,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.902305,
+      "lng": 23.15495,
+      "nume": "Petrom",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}

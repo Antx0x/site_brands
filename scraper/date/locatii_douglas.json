@@ -1,0 +1,247 @@
+{
+  "brand": "Douglas",
+  "wikidata_id": null,
+  "total": 34,
+  "cu_oras": 16,
+  "generat": "2026-08-12",
+  "locatii": [
+    {
+      "lat": 44.478173,
+      "lng": 26.103879,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Calea Floreasca"
+    },
+    {
+      "lat": 44.394587,
+      "lng": 26.121926,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Calea Văcărești 391"
+    },
+    {
+      "lat": 45.454116,
+      "lng": 28.031622,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.672573,
+      "lng": 25.614941,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.540233,
+      "lng": 24.557677,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.765867,
+      "lng": 21.227017,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.751366,
+      "lng": 23.533664,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.724514,
+      "lng": 21.19927,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.79704,
+      "lng": 24.16283,
+      "nume": "Douglas",
+      "oras": "Sibiu",
+      "adresa": "Strada Lector 1"
+    },
+    {
+      "lat": 44.947056,
+      "lng": 26.033541,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.431696,
+      "lng": 26.053324,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Bulevardul General Paul Teodorescu 4"
+    },
+    {
+      "lat": 47.786095,
+      "lng": 22.870851,
+      "nume": "Douglas",
+      "oras": "Satu Mare",
+      "adresa": null
+    },
+    {
+      "lat": 44.203517,
+      "lng": 28.631596,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.507695,
+      "lng": 26.09007,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 42D"
+    },
+    {
+      "lat": 46.529095,
+      "lng": 24.593919,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.649601,
+      "lng": 25.610868,
+      "nume": "Douglas",
+      "oras": "Brașov",
+      "adresa": "Bulevardul 15 Noiembrie 78"
+    },
+    {
+      "lat": 44.421011,
+      "lng": 26.127583,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Calea Vitan 55-59"
+    },
+    {
+      "lat": 44.428562,
+      "lng": 26.03551,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Bulevardul Timișoara 26"
+    },
+    {
+      "lat": 44.428204,
+      "lng": 26.104588,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Piața Unirii 1"
+    },
+    {
+      "lat": 47.035942,
+      "lng": 21.951438,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.421182,
+      "lng": 26.149758,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Strada Liviu Rebreanu 4"
+    },
+    {
+      "lat": 44.60411,
+      "lng": 26.067536,
+      "nume": "Douglas",
+      "oras": "Balotești",
+      "adresa": "Calea București 2 bis"
+    },
+    {
+      "lat": 44.508659,
+      "lng": 26.089088,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Șoseaua București-Ploiești 44A"
+    },
+    {
+      "lat": 44.491577,
+      "lng": 26.016561,
+      "nume": "Douglas",
+      "oras": "București",
+      "adresa": "Șoseaua Chitilei 284"
+    },
+    {
+      "lat": 45.774614,
+      "lng": 24.170715,
+      "nume": "Douglas",
+      "oras": "Șelimbăr",
+      "adresa": null
+    },
+    {
+      "lat": 46.086401,
+      "lng": 23.591426,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 46.190351,
+      "lng": 21.321138,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.111654,
+      "lng": 24.382641,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.167341,
+      "lng": 27.514692,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.035795,
+      "lng": 21.949885,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 45.162686,
+      "lng": 26.818304,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 47.202052,
+      "lng": 23.057083,
+      "nume": "Douglas",
+      "oras": "Zalău",
+      "adresa": null
+    },
+    {
+      "lat": 44.312426,
+      "lng": 23.831579,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    },
+    {
+      "lat": 44.844359,
+      "lng": 24.89537,
+      "nume": "Douglas",
+      "oras": null,
+      "adresa": null
+    }
+  ]
+}
