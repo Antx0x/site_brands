@@ -59,35 +59,83 @@ for (const c of companii) {
   if (l2 && !parentSimbol.has(c.nume)) parentSimbol.set(c.nume, l2.simbol);
 }
 
-let totalImagini = 0;
+// ── companii „self-brand" ─────────────────────────────────────
+// Companii care apar ȘI ca plăcuță de brand în propriul container
+// (numele companiei = numele brandului, ex. Ferrari, unde marca se
+// identifică chiar cu firma). Lista o scrii în scraper/self_brand.json:
+//   ["Ferrari", "BMW", "Toyota"]
+// Merge pe TOATE categoriile. Companiile care NU-s în listă rămân doar
+// containere-holding, fără plăcuță proprie (ex. Unilever).
+const SELF_BRAND = fs.existsSync('self_brand.json')
+  ? JSON.parse(fs.readFileSync('self_brand.json', 'utf-8'))
+  : [];
+for (const nume of SELF_BRAND) {
+  brandInfo.set(slug(nume), { nume, parent: nume }); // se auto-parentează
+}
+
+// Fișier de date opțional per categorie: dă lista COMPLETĂ de branduri
+// (ca să apară și cele fără logo, ca placeholder cu numele). Categoriile
+// fără fișier de date rămân „image-driven" (doar ce are imagine).
+const CATEGORIE_DATA = {
+  consumables: path.join('date', 'companii_wikidata_consumables.json'),
+  auto: path.join('date', 'companii_wikidata_auto.json'),
+};
+
 const totalNepotrivite = [];
 
 for (const cat of CATEGORII) {
   const dir = path.join(LOGOS, cat);
-  if (!fs.existsSync(dir)) {
-    console.log(`(${cat}: fără folder public/logos/${cat}/ — sar)`);
-    continue;
+
+  // imaginile existente în folderul categoriei: slug → nume fișier
+  const fisierPtSlug = new Map();
+  if (fs.existsSync(dir)) {
+    for (const f of fs.readdirSync(dir).filter((f) => /\.(png|jpe?g|webp|svg)$/i.test(f))) {
+      fisierPtSlug.set(f.replace(/\.[^.]+$/, ''), f);
+    }
   }
-  const files = fs.readdirSync(dir).filter((f) => /\.(png|jpe?g|webp|svg)$/i.test(f));
-  if (files.length === 0) {
-    console.log(`(${cat}: fără imagini — nu ating categorie_${cat}.json)`);
+
+  // setul de branduri = imaginile + brandurile din fișierul de date (dacă e)
+  const slugSet = new Set(fisierPtSlug.keys());
+  const dataFile = CATEGORIE_DATA[cat];
+  if (dataFile && fs.existsSync(dataFile)) {
+    for (const b of JSON.parse(fs.readFileSync(dataFile, 'utf-8'))) {
+      if (b.gasit && b.nume) slugSet.add(slug(b.nume));
+    }
+  }
+
+  // self-brand: o companie din listă apare ca plăcuță în containerul ei
+  // dacă are imagine în categorie SAU e părinte al vreunui brand de aici
+  const parintiPrezenti = new Set();
+  for (const s of slugSet) {
+    const info = brandInfo.get(s);
+    if (info) parintiPrezenti.add(info.parent);
+  }
+  for (const nume of SELF_BRAND) {
+    const sl = slug(nume);
+    if (fisierPtSlug.has(sl) || parintiPrezenti.has(nume)) slugSet.add(sl);
+  }
+
+  if (slugSet.size === 0) {
+    console.log(`(${cat}: fără branduri — nu ating categorie_${cat}.json)`);
     continue;
   }
 
   const grupuri = new Map(); // parent → [{ nume, logo }]
   const nepotrivite = [];
-  for (const f of files) {
-    const s = f.replace(/\.[^.]+$/, '');
+  let cuLogo = 0, placeholder = 0;
+  for (const s of slugSet) {
     const info = brandInfo.get(s);
     if (!info) {
-      nepotrivite.push(f);
+      nepotrivite.push(s);
       continue;
     }
+    const fisier = fisierPtSlug.get(s);
+    const logo = fisier ? `/logos/${cat}/${fisier}` : ''; // gol → placeholder cu numele
+    if (fisier) cuLogo++; else placeholder++;
     if (!grupuri.has(info.parent)) grupuri.set(info.parent, []);
-    grupuri.get(info.parent).push({ nume: info.nume, logo: `/logos/${cat}/${f}` });
+    grupuri.get(info.parent).push({ nume: info.nume, logo });
   }
 
-  // companiile cu cele mai multe branduri primele; brandurile alfabetic
   const date = [...grupuri.entries()]
     .map(([parinte, branduri]) => ({
       parinte,
@@ -98,17 +146,13 @@ for (const cat of CATEGORII) {
 
   fs.writeFileSync(path.join(SRC, `categorie_${cat}.json`), JSON.stringify(date, null, 2) + '\n', 'utf-8');
 
-  const potrivite = files.length - nepotrivite.length;
-  totalImagini += potrivite;
-  console.log(`\n✔ ${cat}: ${potrivite} imagini în ${date.length} companii → categorie_${cat}.json`);
-  for (const g of date) console.log(`    ${g.parinte}: ${g.branduri.map((b) => b.nume).join(', ')}`);
+  console.log(`\n✔ ${cat}: ${date.length} companii · ${cuLogo} cu logo + ${placeholder} placeholder → categorie_${cat}.json`);
   if (nepotrivite.length) {
-    console.log(`  ⚠ fără potrivire în companii.json (rulează wikidata_companii.js pentru ele sau verifică numele):`);
-    for (const f of nepotrivite) console.log(`      ${f}`);
-    totalNepotrivite.push(...nepotrivite.map((f) => `${cat}/${f}`));
+    console.log(`  ⚠ ${nepotrivite.length} sluguri fără potrivire în companii.json: ${nepotrivite.join(', ')}`);
+    totalNepotrivite.push(...nepotrivite.map((s) => `${cat}/${s}`));
   }
 }
 
 console.log(`\n============================================`);
-console.log(`✔ ${totalImagini} imagini plasate. ${totalNepotrivite.length} nepotrivite.`);
+console.log(`✔ Gata. ${totalNepotrivite.length} nepotrivite în total.`);
 console.log(`============================================\n`);

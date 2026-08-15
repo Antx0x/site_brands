@@ -3,5 +3,8 @@
 .env.*
 !.env.exemplu
 
-# logo-uri descărcate de la Brandfetch (se regenerează cu scriptul)
+# logo-uri de pregătire (staging) — se regenerează cu scripturile
 site/public/logos_bf/
+site/public/logos_bf_consumables/
+site/public/logos_bf_auto/
+site/src/companii.backup.json

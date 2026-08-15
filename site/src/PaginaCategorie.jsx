@@ -1,49 +1,81 @@
 // ============================================================
-// site/src/PaginaCategorie.jsx — o pagină de categorie "Brands You Know"
+// site/src/PaginaCategorie.jsx — pagină de categorie "Brands You Know"
 //
-// Un card per companie-mamă (Nestlé, PepsiCo…), unul sub altul.
-// Numele + logo-ul mamei stau DEASUPRA containerului; în container,
-// brandurile deținute pe un grid cu coloane dinamice (auto-fill),
-// deci numărul de rânduri/coloane se adaptează la câte branduri are.
+// Layout dens (bin-packing / masonry): fiecare companie e un card care
+// se dimensionează după câte branduri are — companiile mari se întind pe
+// mai multe coloane/rânduri, cele mici (1-3 branduri) se strâng și se
+// împachetează una lângă alta în golurile rămase (grid-auto-flow: dense).
+// Ex.: Tesla (1 brand) încape lângă Boeing și Airbus, sub un card mare.
 //
-// Momentan brandurile sunt PLACEHOLDER-e (dreptunghiuri gri cu numele);
-// când `logo` din JSON e completat, se afișează imaginea în locul lor.
+// Fiecare card: antet (logo + nume mamă + ticker) + grid de branduri.
+// Imaginea vine din "logo" (JSON) sau /logos/<folder>/<slug>.png; dacă
+// lipsește, se afișează placeholder cu numele.
 // ============================================================
 
 import { useState } from 'react';
 import Logo from './Logo';
 
-const CARD = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700';
-
 const slug = (s) =>
-  s
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .replace(/[^a-z0-9]+/g, '_')
-    .replace(/^_+|_+$/g, '');
+  s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
 
-// Sursa imaginii: câmpul "logo" din JSON dacă e completat (cale explicită),
-// altfel automat /logos/<folder>/<slug(nume)>.png. Dacă fișierul lipsește,
-// se afișează placeholder-ul gri cu numele brandului.
-function BrandPlaceholder({ nume, logo, folder }) {
+// câte coloane/rânduri de branduri (interior) pentru B branduri — ținem
+// forma aproape pătrată, max 4 coloane
+function dimensiuni(B) {
+  let innerCols;
+  if (B <= 1) innerCols = 1;
+  else if (B === 2) innerCols = 2;
+  else if (B === 3) innerCols = 3;
+  else if (B === 4) innerCols = 2;
+  else innerCols = Math.min(4, Math.ceil(Math.sqrt(B)));
+  const rows = Math.ceil(B / innerCols);
+  // cardurile single sunt 2 coloane late (ca să încapă numele companiei în
+  // antet și logo-ul să iasă mai mare), dar interiorul rămâne pe 1 coloană
+  const colSpan = B <= 1 ? 2 : innerCols;
+  return { innerCols, colSpan, rows };
+}
+
+function PlacutaBrand({ nume, logo, folder }) {
   const src = logo || (folder ? `/logos/${folder}/${slug(nume)}.png` : null);
   const [eroare, setEroare] = useState(!src);
   return (
-    <div className="flex flex-col items-center gap-1.5">
-      <div className="w-full aspect-[4/3] rounded-xl bg-slate-100 dark:bg-slate-700/60 border border-slate-200 dark:border-slate-600 flex items-center justify-center overflow-hidden p-2">
-        {eroare ? (
-          <span className="text-xs font-medium text-slate-500 dark:text-slate-300 text-center leading-tight">
-            {nume}
+    <div className="min-h-0 rounded-lg bg-white flex items-center justify-center overflow-hidden p-2">
+      {eroare ? (
+        <span className="text-[11px] font-medium text-slate-500 text-center leading-tight">
+          {nume}
+        </span>
+      ) : (
+        <img src={src} alt={nume} title={nume} className="max-w-full max-h-full object-contain" onError={() => setEroare(true)} />
+      )}
+    </div>
+  );
+}
+
+function CardCompanie({ comp, folder }) {
+  const branduri = comp.branduri || [];
+  const { innerCols, colSpan, rows } = dimensiuni(branduri.length);
+  return (
+    <div
+      style={{ gridColumn: `span ${colSpan}`, gridRow: `span ${rows + 1}` }}
+      className="flex flex-col overflow-hidden rounded-2xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 shadow-sm hover:shadow-md transition-shadow"
+    >
+      {/* antet: logo + nume + ticker */}
+      <div className="flex items-center gap-2.5 px-4 py-3 border-2 border-white rounded-t-2xl shrink-0">
+        <Logo nume={comp.parinte} marime="w-9 h-9" />
+        <span className="font-semibold text-base leading-tight truncate">{comp.parinte}</span>
+        {comp.simbol && (
+          <span className="ml-auto shrink-0 text-[11px] font-bold px-2 py-0.5 rounded bg-emerald-100 text-emerald-700 dark:bg-emerald-900/60 dark:text-emerald-300">
+            {comp.simbol}
           </span>
-        ) : (
-          <img
-            src={src}
-            alt={nume}
-            className="max-w-full max-h-full object-contain"
-            onError={() => setEroare(true)}
-          />
         )}
+      </div>
+      {/* grid de branduri — umple restul cardului */}
+      <div
+        className="flex-1 grid gap-3.5 p-1.5 min-h-0 bg-white"
+        style={{ gridTemplateColumns: `repeat(${innerCols}, minmax(0,1fr))`, gridAutoRows: '1fr' }}
+      >
+        {branduri.map((b) => (
+          <PlacutaBrand key={b.nume} nume={b.nume} logo={b.logo} folder={folder} />
+        ))}
       </div>
     </div>
   );
@@ -51,41 +83,23 @@ function BrandPlaceholder({ nume, logo, folder }) {
 
 export default function PaginaCategorie({ eticheta, date = [], folder }) {
   return (
-    <main className="max-w-5xl mx-auto px-4 py-8">
+    <main className="max-w-7xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold mb-1">{eticheta}</h1>
       <p className="text-sm text-slate-500 dark:text-slate-400 mb-6">
         Companiile-mamă și brandurile pe care le dețin.
       </p>
 
-      <div className="flex flex-col gap-6">
+      <div
+        style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))',
+          gridAutoRows: '90px',
+          gridAutoFlow: 'row dense',
+          gap: '25px',
+        }}
+      >
         {date.map((comp) => (
-          <div key={comp.parinte} className={`${CARD} p-5`}>
-            {/* antet: logo + nume mamă + simbol de bursă */}
-            <div className="flex items-center gap-3 mb-4">
-              <Logo nume={comp.parinte} marime="w-11 h-11" />
-              <div className="min-w-0">
-                <h2 className="font-bold text-lg leading-tight truncate">{comp.parinte}</h2>
-                {comp.simbol && (
-                  <span className="text-xs font-semibold text-emerald-600 dark:text-emerald-400">
-                    {comp.simbol}
-                  </span>
-                )}
-              </div>
-              <span className="ml-auto text-xs text-slate-400 shrink-0">
-                {(comp.branduri || []).length} branduri
-              </span>
-            </div>
-
-            {/* grid dinamic de branduri (auto-fill) */}
-            <div
-              className="grid gap-3"
-              style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(110px, 1fr))' }}
-            >
-              {(comp.branduri || []).map((b) => (
-                <BrandPlaceholder key={b.nume} nume={b.nume} logo={b.logo} folder={folder} />
-              ))}
-            </div>
-          </div>
+          <CardCompanie key={comp.parinte} comp={comp} folder={folder} />
         ))}
       </div>
     </main>

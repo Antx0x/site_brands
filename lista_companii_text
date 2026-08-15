@@ -26,3 +26,87 @@ MedLife
 Digi
 Vodafone
 Deutsche Telekom
+
+1.Unilever
+node wikidata_companii.js "Dove" "Rexona" "Axe" "Vaseline" "Clear" "Tresemmé" "Cif" "Domestos" "Coccolino" "Surf" "Knorr" "Hellmann's" "Lipton" "Magnum" "Cornetto" "Ben & Jerry's" "Algida" "Lux"
+node wikidata_companii.js Q962709 Q1183694 Q791930 Q185120 Q3680372 Q7671316 Q2972358 Q2089295 Q3090142 Q313882 Q809061 Q660801 Q1899311 Q816412 Q48800484  
+
+2.Colgate-Palmolive
+node wikidata_companii.js "Colgate" "Palmolive" "Ajax" "Protex" "Sanex" "Speed Stick" "Softsoap" "Irish Spring" "Elmex" "Hill's Science Diet"
+node wikidata_companii.js Q2523492 Q6059081 Q2828856 Q28709822 Q20823437 Q7575515 Q1434941 Q6071238 Q2235618 Q7433509 
+
+3.Procter & Gamble
+node wikidata_companii.js "Gillette" "Head & Shoulders" "Pantene" "Always" "Ariel" "Tide" "Lenor" "Fairy" "Pampers" "Oral-B" "Blend-a-med" "Braun" "Old Spice" "Herbal Essences" "Febreze" "Vicks" "SK-II" "Olay" "Ambi Pur"
+node wikidata_companii.js Q503592 Q555900 Q1353013 Q3500302 Q658915 Q2024644 Q903922 Q1393460 Q2340498 Q1987067 Q3002499 Q631220 Q2325626 Q3785130 Q910264 Q910740  Q7390579 Q2062742
+
+4.PepsiCo
+node wikidata_companii.js "Pepsi" "7UP" "Mirinda" "Mountain Dew" "Lipton Ice Tea" "Rockstar Energy" "Gatorade" "Lay's" "Doritos" "Cheetos" "Ruffles" "Chio" "Quaker" "SodaStream" "Tropicana" "Aquafina" "Bubly"
+node wikidata_companii.js Q47719 Q270059 Q568384 Q896 Q874407 Q1459797 Q304992 "Q723513" "Q776795" Q484544 Q2947936 Q108201931 Q2699694 Q683006 Q1846049 Q845813 Q116347263
+
+5.The Coca-Cola Company
+node wikidata_companii.js "Coca-Cola" "Fanta" "Sprite" "Burn" Schweppes  "Minute Maid" "Powerade" "Dasani" "Smartwater" "Fuze Tea" "Costa Coffee" "Simply" "vitaminwater" "Topo Chico" "fairlife"
+node wikidata_companii.js Q2813 Q9935 Q206978 Q284148 Q838651 Q1206056 Q934273 Q1171787 Q55612687 Q21178899 Q608845 Q106942002 Q7824950 Q30314030
+
+6.Kraft-Heinz
+node wikidata_companii.js "Philadelphia" "Oscar Mayer" "Jell-O" "Maxwell House" "Velveeta" "Lunchables" "Capri Sun" "Planters" "Grey Poupon" "A.1." "Classico" "Miracle Whip" "Kool-Aid" "Ore-Ida" "Smart Ones"
+node wikidata_companii.js Q2085762 Q20992639 Q1686705 Q3306551 Q7919370 Q6704012 Q969761 Q7201637 Q3116568 Q279668 Q99522861 Q3315811 Q1531983 Q3355804 Q25110693"
+
+7.Mars
+node wikidata_companii.js "M&M's" "Snickers" "Twix" "Milky Way" "Bounty" "Maltesers" "Skittles" "Starburst" "Dove" "3 Musketeers" "Whiskas" "Pedigree" "Royal Canin" "IAMS" "Sheba"
+node wikidata_companii.js Q739550 Q714179 Q869733 Q1752705 Q895167 Q2716518 Q868612 Q3497102 Q2816512 Q163355 Q2027177 Q1849609 Q1466792 Q3481691 Q566095
+
+8.Mondelez
+node wikidata_companii.js "Oreo" "Milka" "Cadbury" "Toblerone" "Chips Ahoy!" "Ritz" "BelVita" "TUC" "Sour Patch Kids" 
+node wikidata_companii.js Q138585 Q757388 Q125544610 Q215707 Q5101736 Q1763170 Q4884916  Q658671 Q7565075 
+
+9.Danone
+node wikidata_companii.js "Activia" "Actimel" "Danette" "Oikos" "Alpro" "Aptamil"  "Evian" "Volvic" "Danonino"  
+node wikidata_companii.js Q176740 Q343276 Q3013458 Q27902414 Q498666 Q66654543 Q1050918 Q1047243 Q27910073  
+
+10.General Mills
+node wikidata_companii.js "Cheerios" "Häagen-Dazs" "Nature Valley" "Old El Paso"  "Betty Crocker" "Lucky Charms" "Cinnamon Toast Crunch" "Fiber One" "Green Giant" "Totino's" " "Progresso" "Bugles" "Gushers" "Wheaties" "Chex"
+node wikidata_companii.js Q2425291 Q1143333 Q23661669 Q600407 Q4898793 Q3265931 Q3303481 Q123108847 Q3122865 Q7828332 Q136952902 Q4843841 Q5506367 Q286455 Q5094553
+
+11.Lindt & Sprüngli
+node wikidata_companii.js "Ghirardelli" "Russell Stover" "Caffarel" "Whitman's"
+node wikidata_companii.js Q1134349 Q7381799 Q500723 Q2567164
+ 
+
+12.Monster Beverage
+node wikidata_companii.js "Monster Energy" "Reign" "Full Throttle" "Relentless"
+node wikidata_companii.js Q544293 Q104857663 Q16839358 Q7310963
+
+13.L'Oréal
+node wikidata_companii.js "L'Oréal Paris" "Maybelline" "Garnier" "Lancôme" "Kérastase" "CeraVe" "La Roche-Posay" "Vichy" "The Ordinary" "Kiehl's" "Redken" "NYX Professional Makeup" "Mugler" "Aesop"
+node wikidata_companii.js Q134789096 Q1351054 Q599755 Q1541268 Q1999812 Q23731275 Q1356442 Q2079719 Q126595227 Q3196447 Q7305998 Q23671513 Q134788567 Q4688560
+
+14.Beiersdorf
+node wikidata_companii.js "Nivea" "Eucerin" "Hansaplast" "Aquaphor" "8x4" "Labello" "Coppertone"
+node wikidata_companii.js Q337408 Q1372140 Q911211 Q4782724 Q274955 Q1799401 Q77466790
+
+15.Kenvue
+node wikidata_companii.js  "Tyrinol" "Neutrogena" "Aveeno" "Listerine" "Johnson's" "Nicorette" "BAND-AID" "Clean & Clear" "OGX" "Zyrtec" "Benadryl"
+node wikidata_companii.js Q3245302 Q2451589 Q4827975 Q944073  Q2566669 Q2737652 Q3502747 Q47521342 Q4886804
+
+16.Reckitt
+node wikidata_companii.js "Dettol" "Durex" "Finish" "Lysol" "Vanish" "Air Wick" "Nurofen" "Strepsils" "Mucinex" "Gaviscon" "Clearasil" "Veet"
+node wikidata_companii.js Q15061688 Q1267311 Q21169666 Q1879006 Q25203167 Q4698268 Q2915868 Q583054 Q100720150 Q5528332 Q247527 Q1981838
+
+17.Henkel
+node wikidata_companii.js "Persil" "Schwarzkopf" "Loctite" "Pritt"  
+node wikidata_companii.js Q2071993 Q2254291 Q567411 Q937966
+
+18.Clorox
+node wikidata_companii.js "Pine-Sol" "Burt's Bees" "Kingsford" "Liquid-Plumr" 
+node wikidata_companii.js Q7195047 Q5000673 Q17102059 Q6557318 
+
+19.Keurig Dr Pepper
+node wikidata_companii.js  Dr Pepper, 7UP*, Canada Dry, A&W, Snapple, Mott's, Core Hydration, Keurig, Green Mountain Coffee
+node wikidata_companii.js Q623561 Q270059 Q584215 Q2818849 Q7547340 Q6918609 Q3116111 
+
+20.Cris-Tim
+node wikidata_companii.js "Cris-Tim" "Matache Măcelaru'" "Alpinia" "Obrăjori" "Csárdás" "Bunătăți"
+node wikidata_companii.js "Cris-Tim" "Matache Măcelaru'" "Alpinia" "Obrăjori" "Csárdás" "Bunătăți"
+
+21.Purcari Wineries
+node wikidata_companii.js "Purcari" "Crama Ceptura" "Bostavan" "Bardar" "Domeniile Cuza" "Angel's Estate"

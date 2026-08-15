@@ -28,8 +28,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const COMPANII = path.join('..', 'site', 'src', 'companii.json');
+// De unde citește entitățile. Implicit datele site-ului; poți suprascrie
+// cu IN_FISIER (ex. IN_FISIER=date/companii_wikidata_consumables.json).
+const COMPANII = process.env.IN_FISIER || path.join('..', 'site', 'src', 'companii.json');
 const LATIME = 256;
+const MAX_LOGO_PER_ENTITATE = Number(process.env.MAX_LOGO) || 12; // câte fișiere-logo/entitate
 
 // ── argumente ────────────────────────────────────────────────
 const argv = process.argv.slice(2);
@@ -91,6 +94,56 @@ function toateLogourile(declaratii) {
   valide.sort((a, b) => (b.rank === 'preferred' ? 1 : 0) - (a.rank === 'preferred' ? 1 : 0));
   const fisiere = valide.map((c) => c.mainsnak.datavalue.value);
   return [...new Set(fisiere)]; // elimină duplicatele, păstrează ordinea
+}
+
+// apel la API-ul Commons (nu Wikidata)
+async function apiCommons(params) {
+  const url =
+    'https://commons.wikimedia.org/w/api.php?' + new URLSearchParams({ format: 'json', ...params });
+  const r = await fetchWiki(url);
+  if (!r.ok) throw new Error(`Commons ${r.status}`);
+  return r.json();
+}
+
+// P373 = numele categoriei Commons a entității. Multe categorii au un
+// subgrup de logo-uri (ex. "Foo logos") sau fișiere cu "logo"/"icon" în
+// nume. Întoarcem fișierele-logo din categorie + din subcategoriile-logo.
+async function logouriDinCategorie(categorie) {
+  const gasite = [];
+  const cats = ['Category:' + categorie];
+  try {
+    const sub = await apiCommons({
+      action: 'query',
+      list: 'categorymembers',
+      cmtitle: 'Category:' + categorie,
+      cmtype: 'subcat',
+      cmlimit: '50',
+    });
+    for (const m of sub?.query?.categorymembers || []) {
+      if (/logo/i.test(m.title)) cats.push(m.title); // ex. "Category:Foo logos"
+    }
+  } catch {}
+  for (const cat of cats) {
+    try {
+      const d = await apiCommons({
+        action: 'query',
+        list: 'categorymembers',
+        cmtitle: cat,
+        cmtype: 'file',
+        cmlimit: '200',
+      });
+      const catELogo = /logo/i.test(cat);
+      for (const m of d?.query?.categorymembers || []) {
+        const titlu = m.title.replace(/^File:/, '');
+        if (!/\.(png|svg|jpe?g|webp)$/i.test(titlu)) continue;
+        // dintr-o categorie generală luăm doar fișierele cu "logo"/"icon" în
+        // nume; dintr-o subcategorie de logo-uri le luăm pe toate
+        if (catELogo || /logo|icon/i.test(titlu)) gasite.push(titlu);
+      }
+    } catch {}
+    await pauza(300);
+  }
+  return [...new Set(gasite)];
 }
 
 // URL de descărcare prin API-ul Commons (metoda de rezervă)
@@ -158,9 +211,10 @@ async function descarcaCommons(fisier) {
   console.log(`Destinație: ${DEST}${USCAT ? '  (--dry: nu se scrie nimic)' : ''}\n`);
   if (!USCAT) fs.mkdirSync(DEST, { recursive: true });
 
-  // P154 pentru toate entitățile, în loturi de 50
+  // P154 (logo image) + P373 (Commons category) pentru toate entitățile
   const ids = lista.map(([qid]) => qid);
   const logos = {}; // qid → [fisier1, fisier2, ...]
+  const commonsCat = {}; // qid → numele categoriei Commons (P373)
   for (let i = 0; i < ids.length; i += 50) {
     try {
       const d = await apiWikidata({
@@ -170,11 +224,28 @@ async function descarcaCommons(fisier) {
       });
       for (const [qid, ent] of Object.entries(d.entities || {})) {
         logos[qid] = toateLogourile(ent?.claims?.P154);
+        const cat = ent?.claims?.P373?.[0]?.mainsnak?.datavalue?.value;
+        if (cat) commonsCat[qid] = cat;
       }
     } catch (e) {
       console.log(`! lotul ${i / 50 + 1} a eșuat (${e.message}) — reîncearcă mai târziu`);
     }
     await pauza(1200);
+  }
+
+  // Îmbogățire: logo-uri suplimentare din categoria Commons (P373)
+  const cuCat = ids.filter((q) => commonsCat[q]);
+  if (cuCat.length) console.log(`\nCaut logo-uri în categorii Commons (P373) pentru ${cuCat.length} entități...`);
+  for (const q of cuCat) {
+    try {
+      const extra = await logouriDinCategorie(commonsCat[q]);
+      if (extra.length) {
+        const set = new Set(logos[q] || []); // P154 rămân primele
+        for (const f of extra) set.add(f);
+        logos[q] = [...set].slice(0, MAX_LOGO_PER_ENTITATE);
+      }
+    } catch {}
+    await pauza(300);
   }
 
   let descarcate = 0, sarite = 0;

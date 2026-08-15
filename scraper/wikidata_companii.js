@@ -263,7 +263,27 @@ function salveaza(toate, info) {
       if (info.companie_mama_id) {
         const via = PARINTE_ETICHETA[info.companie_mama_sursa] || info.companie_mama_sursa;
         console.log(`  → compania mamă (${info.companie_mama_id}, via ${via})...`);
-        info.companie_mama_detalii = await fisa(info.companie_mama_id);
+        let mamaDet = await fisa(info.companie_mama_id);
+        // Urcă prin subsidiarele NELISTATE până la prima companie listată la
+        // bursă (ex. Lay's → Frito-Lay [nelistată] → PepsiCo [listată]). Așa
+        // brandul apare sub compania-mamă recognoscibilă/investibilă, nu sub
+        // filiala intermediară. Se oprește și dacă nu mai există părinte.
+        const vazut = new Set([info.wikidata_id, mamaDet.wikidata_id]);
+        let pasi = 0;
+        while (
+          !(mamaDet.listari || []).some((l) => l.simbol) &&
+          mamaDet.companie_mama_id &&
+          !vazut.has(mamaDet.companie_mama_id) &&
+          pasi < 5
+        ) {
+          vazut.add(mamaDet.companie_mama_id);
+          console.log(`    ↑ ${mamaDet.nume} nu e listată → urc la ${mamaDet.companie_mama_id}`);
+          mamaDet = await fisa(mamaDet.companie_mama_id);
+          pasi++;
+          await pauza(400 + Math.random() * 400);
+        }
+        info.companie_mama_id = mamaDet.wikidata_id;
+        info.companie_mama_detalii = mamaDet;
       }
 
       // etichetele pentru acest brand (+ mama lui)

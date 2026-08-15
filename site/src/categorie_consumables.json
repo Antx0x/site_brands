@@ -1,5 +1,709 @@
 [
   {
+    "parinte": "Procter & Gamble",
+    "simbol": "PG",
+    "branduri": [
+      {
+        "nume": "Always",
+        "logo": "/logos/consumables/always.png"
+      },
+      {
+        "nume": "Ambi Pur",
+        "logo": ""
+      },
+      {
+        "nume": "Ariel",
+        "logo": "/logos/consumables/ariel.webp"
+      },
+      {
+        "nume": "Braun",
+        "logo": "/logos/consumables/braun.png"
+      },
+      {
+        "nume": "Crest",
+        "logo": "/logos/consumables/crest.png"
+      },
+      {
+        "nume": "Downy",
+        "logo": "/logos/consumables/downy.webp"
+      },
+      {
+        "nume": "Fairy",
+        "logo": "/logos/consumables/fairy.webp"
+      },
+      {
+        "nume": "Febreze",
+        "logo": "/logos/consumables/febreze.png"
+      },
+      {
+        "nume": "Gillette",
+        "logo": "/logos/consumables/gillette.png"
+      },
+      {
+        "nume": "Head & Shoulders",
+        "logo": "/logos/consumables/head_shoulders.png"
+      },
+      {
+        "nume": "Herbal Essences",
+        "logo": "/logos/consumables/herbal_essences.webp"
+      },
+      {
+        "nume": "Old Spice",
+        "logo": "/logos/consumables/old_spice.png"
+      },
+      {
+        "nume": "Oral-B",
+        "logo": "/logos/consumables/oral_b.png"
+      },
+      {
+        "nume": "Pampers",
+        "logo": "/logos/consumables/pampers.webp"
+      },
+      {
+        "nume": "Pantene",
+        "logo": "/logos/consumables/pantene.png"
+      },
+      {
+        "nume": "SK-II",
+        "logo": "/logos/consumables/sk_ii.png"
+      },
+      {
+        "nume": "Tide",
+        "logo": "/logos/consumables/tide.png"
+      },
+      {
+        "nume": "Vicks",
+        "logo": "/logos/consumables/vicks.webp"
+      }
+    ]
+  },
+  {
+    "parinte": "Mars, Incorporated",
+    "simbol": null,
+    "branduri": [
+      {
+        "nume": "3 Musketeers",
+        "logo": "/logos/consumables/3_musketeers.png"
+      },
+      {
+        "nume": "Ben's Original",
+        "logo": "/logos/consumables/ben_s_original.png"
+      },
+      {
+        "nume": "Bounty",
+        "logo": ""
+      },
+      {
+        "nume": "Iams",
+        "logo": "/logos/consumables/iams.png"
+      },
+      {
+        "nume": "M&M's",
+        "logo": "/logos/consumables/m_m_s.png"
+      },
+      {
+        "nume": "Maltesers",
+        "logo": ""
+      },
+      {
+        "nume": "Mars, Incorporated",
+        "logo": "/logos/consumables/mars_incorporated.png"
+      },
+      {
+        "nume": "Milky Way",
+        "logo": "/logos/consumables/milky_way.png"
+      },
+      {
+        "nume": "Pedigree Petfoods",
+        "logo": "/logos/consumables/pedigree_petfoods.webp"
+      },
+      {
+        "nume": "Royal Canin",
+        "logo": "/logos/consumables/royal_canin.png"
+      },
+      {
+        "nume": "Sheba",
+        "logo": "/logos/consumables/sheba.webp"
+      },
+      {
+        "nume": "Skittles",
+        "logo": "/logos/consumables/skittles.png"
+      },
+      {
+        "nume": "Snickers",
+        "logo": "/logos/consumables/snickers.png"
+      },
+      {
+        "nume": "Starburst",
+        "logo": "/logos/consumables/starburst.webp"
+      },
+      {
+        "nume": "Twix",
+        "logo": "/logos/consumables/twix.png"
+      },
+      {
+        "nume": "Whiskas",
+        "logo": "/logos/consumables/whiskas.webp"
+      }
+    ]
+  },
+  {
+    "parinte": "The Coca-Cola Company",
+    "simbol": "KO",
+    "branduri": [
+      {
+        "nume": "Burn",
+        "logo": "/logos/consumables/burn.webp"
+      },
+      {
+        "nume": "Coca-Cola",
+        "logo": "/logos/consumables/coca_cola.png"
+      },
+      {
+        "nume": "Costa Coffee",
+        "logo": "/logos/consumables/costa_coffee.png"
+      },
+      {
+        "nume": "Dasani",
+        "logo": "/logos/consumables/dasani.png"
+      },
+      {
+        "nume": "Fairlife",
+        "logo": "/logos/consumables/fairlife.webp"
+      },
+      {
+        "nume": "Fanta",
+        "logo": "/logos/consumables/fanta.png"
+      },
+      {
+        "nume": "Fuze Beverage",
+        "logo": "/logos/consumables/fuze_beverage.png"
+      },
+      {
+        "nume": "Glaceau Smartwater",
+        "logo": "/logos/consumables/glaceau_smartwater.webp"
+      },
+      {
+        "nume": "Minute Maid",
+        "logo": "/logos/consumables/minute_maid.png"
+      },
+      {
+        "nume": "Powerade",
+        "logo": "/logos/consumables/powerade.png"
+      },
+      {
+        "nume": "Schweppes",
+        "logo": "/logos/consumables/schweppes.png"
+      },
+      {
+        "nume": "Sprite",
+        "logo": "/logos/consumables/sprite.png"
+      },
+      {
+        "nume": "Topo Chico",
+        "logo": "/logos/consumables/topo_chico.webp"
+      },
+      {
+        "nume": "VitaminWater",
+        "logo": "/logos/consumables/vitaminwater.webp"
+      }
+    ]
+  },
+  {
+    "parinte": "Unilever",
+    "simbol": "UL",
+    "branduri": [
+      {
+        "nume": "Algida",
+        "logo": "/logos/consumables/algida.png"
+      },
+      {
+        "nume": "Axe",
+        "logo": "/logos/consumables/axe.png"
+      },
+      {
+        "nume": "Cif",
+        "logo": ""
+      },
+      {
+        "nume": "Clear",
+        "logo": "/logos/consumables/clear.webp"
+      },
+      {
+        "nume": "Cornetto",
+        "logo": ""
+      },
+      {
+        "nume": "Domestos",
+        "logo": "/logos/consumables/domestos.png"
+      },
+      {
+        "nume": "Dove",
+        "logo": "/logos/consumables/dove.png"
+      },
+      {
+        "nume": "Hellmann's and Best Foods",
+        "logo": "/logos/consumables/hellmann_s_and_best_foods.png"
+      },
+      {
+        "nume": "Knorr",
+        "logo": "/logos/consumables/knorr.png"
+      },
+      {
+        "nume": "Magnum",
+        "logo": "/logos/consumables/magnum.png"
+      },
+      {
+        "nume": "Rexona",
+        "logo": "/logos/consumables/rexona.png"
+      },
+      {
+        "nume": "Surf",
+        "logo": ""
+      },
+      {
+        "nume": "TRESemmé",
+        "logo": "/logos/consumables/tresemme.png"
+      },
+      {
+        "nume": "vaseline",
+        "logo": "/logos/consumables/vaseline.png"
+      }
+    ]
+  },
+  {
+    "parinte": "L'Oréal",
+    "simbol": "OR",
+    "branduri": [
+      {
+        "nume": "Aesop",
+        "logo": "/logos/consumables/aesop.png"
+      },
+      {
+        "nume": "CeraVe",
+        "logo": "/logos/consumables/cerave.webp"
+      },
+      {
+        "nume": "Garnier",
+        "logo": "/logos/consumables/garnier.png"
+      },
+      {
+        "nume": "Kérastase",
+        "logo": "/logos/consumables/kerastase.png"
+      },
+      {
+        "nume": "Kiehl's",
+        "logo": "/logos/consumables/kiehl_s.png"
+      },
+      {
+        "nume": "L'Oréal",
+        "logo": "/logos/consumables/l_oreal.png"
+      },
+      {
+        "nume": "La Roche-Posay",
+        "logo": "/logos/consumables/la_roche_posay.webp"
+      },
+      {
+        "nume": "Lancôme",
+        "logo": "/logos/consumables/lancome.png"
+      },
+      {
+        "nume": "Maybelline",
+        "logo": "/logos/consumables/maybelline.png"
+      },
+      {
+        "nume": "Mugler",
+        "logo": ""
+      },
+      {
+        "nume": "NYX Professional Makeup",
+        "logo": "/logos/consumables/nyx_professional_makeup.png"
+      },
+      {
+        "nume": "Redken",
+        "logo": "/logos/consumables/redken.png"
+      },
+      {
+        "nume": "Vichy",
+        "logo": "/logos/consumables/vichy.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Kraft Heinz",
+    "simbol": "KHC",
+    "branduri": [
+      {
+        "nume": "Classico",
+        "logo": "/logos/consumables/classico.webp"
+      },
+      {
+        "nume": "Grey Poupon",
+        "logo": ""
+      },
+      {
+        "nume": "Jell-O",
+        "logo": "/logos/consumables/jell_o.png"
+      },
+      {
+        "nume": "Kool-Aid",
+        "logo": "/logos/consumables/kool_aid.png"
+      },
+      {
+        "nume": "Kraft Heinz",
+        "logo": "/logos/consumables/kraft_heinz.png"
+      },
+      {
+        "nume": "Lunchables",
+        "logo": "/logos/consumables/lunchables.png"
+      },
+      {
+        "nume": "Miracle Whip",
+        "logo": "/logos/consumables/miracle_whip.png"
+      },
+      {
+        "nume": "Ore-Ida",
+        "logo": "/logos/consumables/ore_ida.webp"
+      },
+      {
+        "nume": "Philadelphia Cream Cheese",
+        "logo": "/logos/consumables/philadelphia_cream_cheese.png"
+      },
+      {
+        "nume": "Planters",
+        "logo": "/logos/consumables/planters.png"
+      },
+      {
+        "nume": "Smart Ones",
+        "logo": "/logos/consumables/smart_ones.webp"
+      },
+      {
+        "nume": "Velveeta",
+        "logo": "/logos/consumables/velveeta.png"
+      }
+    ]
+  },
+  {
+    "parinte": "PepsiCo",
+    "simbol": "PEP",
+    "branduri": [
+      {
+        "nume": "Aquafina",
+        "logo": "/logos/consumables/aquafina.png"
+      },
+      {
+        "nume": "bubly sparkling water",
+        "logo": "/logos/consumables/bubly_sparkling_water.png"
+      },
+      {
+        "nume": "Cheetos",
+        "logo": "/logos/consumables/cheetos.png"
+      },
+      {
+        "nume": "Doritos",
+        "logo": "/logos/consumables/doritos.png"
+      },
+      {
+        "nume": "Gatorade",
+        "logo": "/logos/consumables/gatorade.png"
+      },
+      {
+        "nume": "Lay’s",
+        "logo": "/logos/consumables/lay_s.png"
+      },
+      {
+        "nume": "Mirinda",
+        "logo": "/logos/consumables/mirinda.png"
+      },
+      {
+        "nume": "Mountain Dew",
+        "logo": "/logos/consumables/mountain_dew.png"
+      },
+      {
+        "nume": "Pepsi",
+        "logo": "/logos/consumables/pepsi.png"
+      },
+      {
+        "nume": "Quaker Oats Company",
+        "logo": "/logos/consumables/quaker_oats_company.png"
+      },
+      {
+        "nume": "SodaStream",
+        "logo": "/logos/consumables/sodastream.png"
+      },
+      {
+        "nume": "Tropicana Products",
+        "logo": "/logos/consumables/tropicana_products.png"
+      }
+    ]
+  },
+  {
+    "parinte": "General Mills",
+    "simbol": "GIS",
+    "branduri": [
+      {
+        "nume": "Betty Crocker",
+        "logo": "/logos/consumables/betty_crocker.webp"
+      },
+      {
+        "nume": "Cheerios",
+        "logo": "/logos/consumables/cheerios.png"
+      },
+      {
+        "nume": "Chex",
+        "logo": "/logos/consumables/chex.webp"
+      },
+      {
+        "nume": "Cinnamon Toast Crunch",
+        "logo": "/logos/consumables/cinnamon_toast_crunch.png"
+      },
+      {
+        "nume": "Fiber One",
+        "logo": "/logos/consumables/fiber_one.png"
+      },
+      {
+        "nume": "Häagen-Dazs",
+        "logo": "/logos/consumables/haagen_dazs.png"
+      },
+      {
+        "nume": "Lucky Charms",
+        "logo": "/logos/consumables/lucky_charms.png"
+      },
+      {
+        "nume": "Nature Valley",
+        "logo": "/logos/consumables/nature_valley.png"
+      },
+      {
+        "nume": "Old El Paso",
+        "logo": "/logos/consumables/old_el_paso.webp"
+      },
+      {
+        "nume": "Totino's",
+        "logo": "/logos/consumables/totino_s.png"
+      },
+      {
+        "nume": "Wheaties",
+        "logo": "/logos/consumables/wheaties.webp"
+      }
+    ]
+  },
+  {
+    "parinte": "Colgate-Palmolive Company",
+    "simbol": "CL",
+    "branduri": [
+      {
+        "nume": "Colgate",
+        "logo": "/logos/consumables/colgate.png"
+      },
+      {
+        "nume": "Elmex",
+        "logo": ""
+      },
+      {
+        "nume": "Irish Spring",
+        "logo": "/logos/consumables/irish_spring.png"
+      },
+      {
+        "nume": "Palmolive",
+        "logo": "/logos/consumables/palmolive.png"
+      },
+      {
+        "nume": "Protex",
+        "logo": ""
+      },
+      {
+        "nume": "Sanex",
+        "logo": "/logos/consumables/sanex.webp"
+      },
+      {
+        "nume": "Science Diet",
+        "logo": "/logos/consumables/science_diet.webp"
+      },
+      {
+        "nume": "Softsoap",
+        "logo": "/logos/consumables/softsoap.png"
+      },
+      {
+        "nume": "Speed Stick",
+        "logo": "/logos/consumables/speed_stick.webp"
+      }
+    ]
+  },
+  {
+    "parinte": "Reckitt",
+    "simbol": "RB.",
+    "branduri": [
+      {
+        "nume": "Air Wick",
+        "logo": "/logos/consumables/air_wick.png"
+      },
+      {
+        "nume": "Clearasil",
+        "logo": "/logos/consumables/clearasil.png"
+      },
+      {
+        "nume": "Dettol",
+        "logo": "/logos/consumables/dettol.png"
+      },
+      {
+        "nume": "Durex",
+        "logo": "/logos/consumables/durex.png"
+      },
+      {
+        "nume": "Finish",
+        "logo": ""
+      },
+      {
+        "nume": "Lysol",
+        "logo": "/logos/consumables/lysol.png"
+      },
+      {
+        "nume": "Strepsils",
+        "logo": "/logos/consumables/strepsils.png"
+      },
+      {
+        "nume": "Vanish",
+        "logo": ""
+      },
+      {
+        "nume": "Veet",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "parinte": "Danone",
+    "simbol": "BN",
+    "branduri": [
+      {
+        "nume": "Actimel",
+        "logo": "/logos/consumables/actimel.png"
+      },
+      {
+        "nume": "Activia",
+        "logo": "/logos/consumables/activia.png"
+      },
+      {
+        "nume": "Aptamil",
+        "logo": "/logos/consumables/aptamil.webp"
+      },
+      {
+        "nume": "Danette",
+        "logo": ""
+      },
+      {
+        "nume": "Danone",
+        "logo": "/logos/consumables/danone.webp"
+      },
+      {
+        "nume": "Danonino",
+        "logo": "/logos/consumables/danonino.webp"
+      },
+      {
+        "nume": "Q498666",
+        "logo": "/logos/consumables/q498666.webp"
+      },
+      {
+        "nume": "Volvic",
+        "logo": "/logos/consumables/volvic.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Beiersdorf",
+    "simbol": "BDRFF",
+    "branduri": [
+      {
+        "nume": "8×4",
+        "logo": ""
+      },
+      {
+        "nume": "Aquaphor",
+        "logo": "/logos/consumables/aquaphor.png"
+      },
+      {
+        "nume": "Coppertone",
+        "logo": "/logos/consumables/coppertone.webp"
+      },
+      {
+        "nume": "Elastoplast",
+        "logo": "/logos/consumables/elastoplast.png"
+      },
+      {
+        "nume": "Eucerin",
+        "logo": "/logos/consumables/eucerin.png"
+      },
+      {
+        "nume": "Labello",
+        "logo": "/logos/consumables/labello.png"
+      },
+      {
+        "nume": "Nivea",
+        "logo": "/logos/consumables/nivea.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Kenvue",
+    "simbol": "KVUE",
+    "branduri": [
+      {
+        "nume": "Aveeno",
+        "logo": "/logos/consumables/aveeno.png"
+      },
+      {
+        "nume": "Band-Aid",
+        "logo": "/logos/consumables/band_aid.png"
+      },
+      {
+        "nume": "Benadryl",
+        "logo": "/logos/consumables/benadryl.webp"
+      },
+      {
+        "nume": "Clean & Clear",
+        "logo": "/logos/consumables/clean_clear.png"
+      },
+      {
+        "nume": "Listerine",
+        "logo": "/logos/consumables/listerine.png"
+      },
+      {
+        "nume": "Neutrogena",
+        "logo": "/logos/consumables/neutrogena.png"
+      },
+      {
+        "nume": "Tylenol",
+        "logo": "/logos/consumables/tylenol.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Mondelez International",
+    "simbol": "MDLZ",
+    "branduri": [
+      {
+        "nume": "Belvita",
+        "logo": "/logos/consumables/belvita.webp"
+      },
+      {
+        "nume": "Cadbury",
+        "logo": ""
+      },
+      {
+        "nume": "Chips Ahoy!",
+        "logo": "/logos/consumables/chips_ahoy.png"
+      },
+      {
+        "nume": "Milka",
+        "logo": "/logos/consumables/milka.png"
+      },
+      {
+        "nume": "Toblerone",
+        "logo": "/logos/consumables/toblerone.png"
+      }
+    ]
+  },
+  {
     "parinte": "Nestlé",
     "simbol": "NESN",
     "branduri": [
@@ -16,8 +720,118 @@
         "logo": "/logos/consumables/nesquik.png"
       },
       {
+        "nume": "Nestlé",
+        "logo": "/logos/consumables/nestle.png"
+      },
+      {
         "nume": "Nestlé Purina PetCare",
         "logo": "/logos/consumables/nestle_purina_petcare.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Clorox",
+    "simbol": "CLX",
+    "branduri": [
+      {
+        "nume": "Burt's Bees",
+        "logo": "/logos/consumables/burt_s_bees.png"
+      },
+      {
+        "nume": "Kingsford",
+        "logo": "/logos/consumables/kingsford.png"
+      },
+      {
+        "nume": "Liquid-Plumr",
+        "logo": "/logos/consumables/liquid_plumr.webp"
+      },
+      {
+        "nume": "Pine-Sol",
+        "logo": "/logos/consumables/pine_sol.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Keurig Dr Pepper",
+    "simbol": "KDP",
+    "branduri": [
+      {
+        "nume": "A&W Cream Soda",
+        "logo": ""
+      },
+      {
+        "nume": "Canada Dry",
+        "logo": "/logos/consumables/canada_dry.png"
+      },
+      {
+        "nume": "Dr Pepper",
+        "logo": "/logos/consumables/dr_pepper.png"
+      },
+      {
+        "nume": "Snapple",
+        "logo": "/logos/consumables/snapple.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Lindt & Sprüngli",
+    "simbol": null,
+    "branduri": [
+      {
+        "nume": "Caffarel",
+        "logo": "/logos/consumables/caffarel.png"
+      },
+      {
+        "nume": "Ghirardelli Chocolate Company",
+        "logo": "/logos/consumables/ghirardelli_chocolate_company.webp"
+      },
+      {
+        "nume": "Russell Stover Candies",
+        "logo": "/logos/consumables/russell_stover_candies.png"
+      },
+      {
+        "nume": "Whitman's",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "parinte": "Monster Beverage",
+    "simbol": "MNST",
+    "branduri": [
+      {
+        "nume": "Full Throttle",
+        "logo": "/logos/consumables/full_throttle.png"
+      },
+      {
+        "nume": "Monster Energy",
+        "logo": "/logos/consumables/monster_energy.png"
+      },
+      {
+        "nume": "Reign",
+        "logo": "/logos/consumables/reign.webp"
+      },
+      {
+        "nume": "Relentless",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "parinte": "Henkel",
+    "simbol": "HEN",
+    "branduri": [
+      {
+        "nume": "Loctite",
+        "logo": "/logos/consumables/loctite.png"
+      },
+      {
+        "nume": "Persil",
+        "logo": "/logos/consumables/persil.png"
+      },
+      {
+        "nume": "Schwarzkopf",
+        "logo": ""
       }
     ]
   }

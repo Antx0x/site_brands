@@ -1,55 +1,720 @@
 [
   {
-    "parinte": "Volkswagen Group",
-    "simbol": "VWAGY",
-    "branduri": [
-      { "nume": "Volkswagen", "logo": "" },
-      { "nume": "Audi", "logo": "" },
-      { "nume": "Porsche", "logo": "" },
-      { "nume": "Škoda", "logo": "" },
-      { "nume": "SEAT", "logo": "" },
-      { "nume": "Lamborghini", "logo": "" },
-      { "nume": "Bentley", "logo": "" }
-    ]
-  },
-  {
     "parinte": "Stellantis",
     "simbol": "STLA",
     "branduri": [
-      { "nume": "Peugeot", "logo": "" },
-      { "nume": "Fiat", "logo": "" },
-      { "nume": "Jeep", "logo": "" },
-      { "nume": "Opel", "logo": "" },
-      { "nume": "Citroën", "logo": "" },
-      { "nume": "Alfa Romeo", "logo": "" },
-      { "nume": "Chrysler", "logo": "" }
+      {
+        "nume": "Abarth",
+        "logo": "/logos/auto/abarth.png"
+      },
+      {
+        "nume": "Alfa Romeo",
+        "logo": "/logos/auto/alfa_romeo.png"
+      },
+      {
+        "nume": "Chrysler",
+        "logo": "/logos/auto/chrysler.png"
+      },
+      {
+        "nume": "Citroën",
+        "logo": "/logos/auto/citroen.png"
+      },
+      {
+        "nume": "Dodge",
+        "logo": "/logos/auto/dodge.png"
+      },
+      {
+        "nume": "DS Automobiles",
+        "logo": "/logos/auto/ds_automobiles.png"
+      },
+      {
+        "nume": "Fiat",
+        "logo": "/logos/auto/fiat.png"
+      },
+      {
+        "nume": "Jeep",
+        "logo": "/logos/auto/jeep.png"
+      },
+      {
+        "nume": "Lancia",
+        "logo": "/logos/auto/lancia.png"
+      },
+      {
+        "nume": "Maserati",
+        "logo": "/logos/auto/maserati.png"
+      },
+      {
+        "nume": "Opel",
+        "logo": "/logos/auto/opel.png"
+      },
+      {
+        "nume": "Peugeot",
+        "logo": "/logos/auto/peugeot.png"
+      },
+      {
+        "nume": "Vauxhall",
+        "logo": "/logos/auto/vauxhall.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Volkswagen Group",
+    "simbol": "VOW3",
+    "branduri": [
+      {
+        "nume": "Audi AG",
+        "logo": "/logos/auto/audi_ag.png"
+      },
+      {
+        "nume": "Bentley",
+        "logo": "/logos/auto/bentley.png"
+      },
+      {
+        "nume": "Cupra",
+        "logo": "/logos/auto/cupra.png"
+      },
+      {
+        "nume": "Ducati",
+        "logo": "/logos/auto/ducati.png"
+      },
+      {
+        "nume": "Lamborghini",
+        "logo": "/logos/auto/lamborghini.png"
+      },
+      {
+        "nume": "Porsche",
+        "logo": "/logos/auto/porsche.png"
+      },
+      {
+        "nume": "SEAT",
+        "logo": "/logos/auto/seat.png"
+      },
+      {
+        "nume": "Škoda Auto",
+        "logo": "/logos/auto/skoda_auto.png"
+      },
+      {
+        "nume": "Volkswagen",
+        "logo": "/logos/auto/volkswagen.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Geely Automobile",
+    "simbol": "0175",
+    "branduri": [
+      {
+        "nume": "Geely",
+        "logo": "/logos/auto/geely.png"
+      },
+      {
+        "nume": "Lotus Cars",
+        "logo": "/logos/auto/lotus_cars.png"
+      },
+      {
+        "nume": "Lynk & Co",
+        "logo": "/logos/auto/lynk_co.png"
+      },
+      {
+        "nume": "Polestar",
+        "logo": "/logos/auto/polestar.png"
+      },
+      {
+        "nume": "Smart",
+        "logo": "/logos/auto/smart.png"
+      },
+      {
+        "nume": "Volvo Cars",
+        "logo": "/logos/auto/volvo_cars.png"
+      },
+      {
+        "nume": "Zeekr",
+        "logo": "/logos/auto/zeekr.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Daimler Truck Holding",
+    "simbol": "DTG",
+    "branduri": [
+      {
+        "nume": "BharatBenz",
+        "logo": "/logos/auto/bharatbenz.png"
+      },
+      {
+        "nume": "Freightliner",
+        "logo": "/logos/auto/freightliner.png"
+      },
+      {
+        "nume": "Mitsubishi Fuso Truck and Bus Corporation",
+        "logo": "/logos/auto/mitsubishi_fuso_truck_and_bus_corporation.png"
+      },
+      {
+        "nume": "Thomas Built Buses",
+        "logo": "/logos/auto/thomas_built_buses.png"
+      },
+      {
+        "nume": "Western Star Trucks",
+        "logo": "/logos/auto/western_star_trucks.png"
+      }
+    ]
+  },
+  {
+    "parinte": "BYD",
+    "simbol": "1211",
+    "branduri": [
+      {
+        "nume": "BYD",
+        "logo": "/logos/auto/byd.png"
+      },
+      {
+        "nume": "Denza",
+        "logo": "/logos/auto/denza.webp"
+      },
+      {
+        "nume": "Fangchengbao",
+        "logo": "/logos/auto/fangchengbao.webp"
+      },
+      {
+        "nume": "Yangwang",
+        "logo": "/logos/auto/yangwang.png"
+      }
+    ]
+  },
+  {
+    "parinte": "CNH Industrial",
+    "simbol": "CNHI",
+    "branduri": [
+      {
+        "nume": "Case Construction Equipment",
+        "logo": "/logos/auto/case_construction_equipment.png"
+      },
+      {
+        "nume": "Case IH",
+        "logo": "/logos/auto/case_ih.png"
+      },
+      {
+        "nume": "New Holland",
+        "logo": "/logos/auto/new_holland.png"
+      },
+      {
+        "nume": "Steyr-Daimler-Puch",
+        "logo": "/logos/auto/steyr_daimler_puch.png"
+      }
+    ]
+  },
+  {
+    "parinte": "General Motors",
+    "simbol": "GM",
+    "branduri": [
+      {
+        "nume": "Buick",
+        "logo": "/logos/auto/buick.png"
+      },
+      {
+        "nume": "Cadillac",
+        "logo": "/logos/auto/cadillac.png"
+      },
+      {
+        "nume": "Chevrolet",
+        "logo": "/logos/auto/chevrolet.png"
+      },
+      {
+        "nume": "GMC",
+        "logo": "/logos/auto/gmc.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Piaggio",
+    "simbol": "PIA",
+    "branduri": [
+      {
+        "nume": "Aprilia",
+        "logo": "/logos/auto/aprilia.png"
+      },
+      {
+        "nume": "Moto Guzzi",
+        "logo": "/logos/auto/moto_guzzi.png"
+      },
+      {
+        "nume": "Piaggio",
+        "logo": "/logos/auto/piaggio.png"
+      },
+      {
+        "nume": "Vespa",
+        "logo": "/logos/auto/vespa.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Tata Motors",
+    "simbol": "TATAMOTORS",
+    "branduri": [
+      {
+        "nume": "Jaguar",
+        "logo": "/logos/auto/jaguar.png"
+      },
+      {
+        "nume": "Jaguar Land Rover",
+        "logo": "/logos/auto/jaguar_land_rover.png"
+      },
+      {
+        "nume": "Range Rover",
+        "logo": "/logos/auto/range_rover.png"
+      },
+      {
+        "nume": "Tata",
+        "logo": "/logos/auto/tata.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Toyota Motor Corporation",
+    "simbol": "TM",
+    "branduri": [
+      {
+        "nume": "Century",
+        "logo": "/logos/auto/century.png"
+      },
+      {
+        "nume": "Daihatsu",
+        "logo": "/logos/auto/daihatsu.png"
+      },
+      {
+        "nume": "Lexus",
+        "logo": "/logos/auto/lexus.png"
+      },
+      {
+        "nume": "Toyota",
+        "logo": "/logos/auto/toyota.png"
+      }
+    ]
+  },
+  {
+    "parinte": "AGCO",
+    "simbol": "AGCO",
+    "branduri": [
+      {
+        "nume": "Fendt",
+        "logo": "/logos/auto/fendt.png"
+      },
+      {
+        "nume": "Massey Ferguson",
+        "logo": "/logos/auto/massey_ferguson.png"
+      },
+      {
+        "nume": "Valtra",
+        "logo": "/logos/auto/valtra.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Bajaj Auto",
+    "simbol": "BAJAJ-AUTO",
+    "branduri": [
+      {
+        "nume": "Bajaj Auto",
+        "logo": "/logos/auto/bajaj_auto.png"
+      },
+      {
+        "nume": "Husqvarna Motorcycles",
+        "logo": "/logos/auto/husqvarna_motorcycles.png"
+      },
+      {
+        "nume": "KTM",
+        "logo": "/logos/auto/ktm.png"
+      }
+    ]
+  },
+  {
+    "parinte": "BMW Group",
+    "simbol": "BMW",
+    "branduri": [
+      {
+        "nume": "BMW",
+        "logo": "/logos/auto/bmw.png"
+      },
+      {
+        "nume": "Mini",
+        "logo": "/logos/auto/mini.png"
+      },
+      {
+        "nume": "Rolls-Royce Motor Cars",
+        "logo": "/logos/auto/rolls_royce_motor_cars.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Mercedes-Benz Group",
+    "simbol": "MBG",
+    "branduri": [
+      {
+        "nume": "Mercedes-AMG",
+        "logo": "/logos/auto/mercedes_amg.png"
+      },
+      {
+        "nume": "Mercedes-Benz",
+        "logo": "/logos/auto/mercedes_benz.png"
+      },
+      {
+        "nume": "Mercedes-Maybach",
+        "logo": "/logos/auto/mercedes_maybach.png"
+      }
+    ]
+  },
+  {
+    "parinte": "PACCAR",
+    "simbol": "PCAR",
+    "branduri": [
+      {
+        "nume": "DAF",
+        "logo": "/logos/auto/daf.png"
+      },
+      {
+        "nume": "Kenworth",
+        "logo": "/logos/auto/kenworth.png"
+      },
+      {
+        "nume": "Peterbilt",
+        "logo": "/logos/auto/peterbilt.png"
+      }
     ]
   },
   {
     "parinte": "Renault Group",
     "simbol": "RNO",
     "branduri": [
-      { "nume": "Renault", "logo": "" },
-      { "nume": "Dacia", "logo": "" },
-      { "nume": "Alpine", "logo": "" }
+      {
+        "nume": "Alpine",
+        "logo": "/logos/auto/alpine.png"
+      },
+      {
+        "nume": "Dacia",
+        "logo": "/logos/auto/dacia.png"
+      },
+      {
+        "nume": "Renault",
+        "logo": "/logos/auto/renault.png"
+      }
     ]
   },
   {
-    "parinte": "Toyota",
-    "simbol": "TM",
+    "parinte": "TRATON SE",
+    "simbol": "8TRA",
     "branduri": [
-      { "nume": "Toyota", "logo": "" },
-      { "nume": "Lexus", "logo": "" },
-      { "nume": "Daihatsu", "logo": "" }
+      {
+        "nume": "MAN SE",
+        "logo": "/logos/auto/man_se.png"
+      },
+      {
+        "nume": "Scania",
+        "logo": "/logos/auto/scania.png"
+      },
+      {
+        "nume": "Traton",
+        "logo": "/logos/auto/traton.png"
+      }
     ]
   },
   {
-    "parinte": "BMW Group",
-    "simbol": "BMWYY",
+    "parinte": "Deere & Company",
+    "simbol": "DE",
     "branduri": [
-      { "nume": "BMW", "logo": "" },
-      { "nume": "MINI", "logo": "" },
-      { "nume": "Rolls-Royce", "logo": "" }
+      {
+        "nume": "Deere & Company",
+        "logo": "/logos/auto/deere_company.png"
+      },
+      {
+        "nume": "Wirtgen Group",
+        "logo": "/logos/auto/wirtgen_group.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Ford Motor Company",
+    "simbol": "F",
+    "branduri": [
+      {
+        "nume": "Ford Motor Company",
+        "logo": "/logos/auto/ford_motor_company.png"
+      },
+      {
+        "nume": "Lincoln Motor Company",
+        "logo": "/logos/auto/lincoln_motor_company.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Honda Motor",
+    "simbol": "HMC",
+    "branduri": [
+      {
+        "nume": "Acura",
+        "logo": "/logos/auto/acura.png"
+      },
+      {
+        "nume": "Honda",
+        "logo": "/logos/auto/honda.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Nissan Motor",
+    "simbol": "7201",
+    "branduri": [
+      {
+        "nume": "Infiniti",
+        "logo": "/logos/auto/infiniti.png"
+      },
+      {
+        "nume": "Nissan",
+        "logo": "/logos/auto/nissan.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Textron",
+    "simbol": "TXT",
+    "branduri": [
+      {
+        "nume": "Beechcraft",
+        "logo": "/logos/auto/beechcraft.png"
+      },
+      {
+        "nume": "Cessna",
+        "logo": "/logos/auto/cessna.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Airbus",
+    "simbol": "AIR",
+    "branduri": [
+      {
+        "nume": "Airbus",
+        "logo": "/logos/auto/airbus.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Aston Martin",
+    "simbol": "AML",
+    "branduri": [
+      {
+        "nume": "Aston Martin",
+        "logo": "/logos/auto/aston_martin.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Boeing",
+    "simbol": "BA",
+    "branduri": [
+      {
+        "nume": "Boeing",
+        "logo": "/logos/auto/boeing.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Bombardier",
+    "simbol": "BBD.B",
+    "branduri": [
+      {
+        "nume": "Bombardier",
+        "logo": "/logos/auto/bombardier.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Caterpillar",
+    "simbol": "CAT",
+    "branduri": [
+      {
+        "nume": "Caterpillar",
+        "logo": "/logos/auto/caterpillar.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Dassault Aviation",
+    "simbol": "AM",
+    "branduri": [
+      {
+        "nume": "Dassault Aviation",
+        "logo": "/logos/auto/dassault_aviation.webp"
+      }
+    ]
+  },
+  {
+    "parinte": "Embraer",
+    "simbol": "ERJ",
+    "branduri": [
+      {
+        "nume": "Embraer",
+        "logo": "/logos/auto/embraer.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Ferrari",
+    "simbol": "RACE",
+    "branduri": [
+      {
+        "nume": "Ferrari",
+        "logo": "/logos/auto/ferrari.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Gulfstream",
+    "simbol": "GD",
+    "branduri": [
+      {
+        "nume": "Gulfstream",
+        "logo": "/logos/auto/gulfstream.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Hyundai",
+    "simbol": "005380",
+    "branduri": [
+      {
+        "nume": "Hyundai",
+        "logo": "/logos/auto/hyundai.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Isuzu",
+    "simbol": "7202",
+    "branduri": [
+      {
+        "nume": "Isuzu",
+        "logo": "/logos/auto/isuzu.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Kawasaki",
+    "simbol": "7012",
+    "branduri": [
+      {
+        "nume": "Kawasaki",
+        "logo": "/logos/auto/kawasaki.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Kia",
+    "simbol": "000270",
+    "branduri": [
+      {
+        "nume": "Kia",
+        "logo": "/logos/auto/kia.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Komatsu",
+    "simbol": "6301",
+    "branduri": [
+      {
+        "nume": "Komatsu",
+        "logo": "/logos/auto/komatsu.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Leonardo",
+    "simbol": "LDO",
+    "branduri": [
+      {
+        "nume": "Leonardo",
+        "logo": "/logos/auto/leonardo.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Mazda",
+    "simbol": "7261",
+    "branduri": [
+      {
+        "nume": "Mazda",
+        "logo": "/logos/auto/mazda.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Mitsubishi Motors",
+    "simbol": "7211",
+    "branduri": [
+      {
+        "nume": "Mitsubishi Motors",
+        "logo": "/logos/auto/mitsubishi_motors.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Pilatus",
+    "simbol": null,
+    "branduri": [
+      {
+        "nume": "Pilatus",
+        "logo": "/logos/auto/pilatus.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Subaru",
+    "simbol": "7270",
+    "branduri": [
+      {
+        "nume": "Subaru",
+        "logo": "/logos/auto/subaru.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Suzuki",
+    "simbol": "7269",
+    "branduri": [
+      {
+        "nume": "Suzuki",
+        "logo": "/logos/auto/suzuki.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Tesla",
+    "simbol": "TSLA",
+    "branduri": [
+      {
+        "nume": "Tesla",
+        "logo": "/logos/auto/tesla.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Volvo",
+    "simbol": "VOLV-B",
+    "branduri": [
+      {
+        "nume": "Volvo",
+        "logo": "/logos/auto/volvo.png"
+      }
+    ]
+  },
+  {
+    "parinte": "Yamaha",
+    "simbol": "7272",
+    "branduri": [
+      {
+        "nume": "Yamaha",
+        "logo": "/logos/auto/yamaha.png"
+      }
     ]
   }
 ]

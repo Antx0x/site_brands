@@ -1,0 +1,526 @@
+[
+  {
+    "wikidata_id": "Q478214",
+    "nume": "Tesla",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "NASDAQ",
+        "simbol": "TSLA"
+      }
+    ],
+    "site_oficial": "https://www.tesla.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q27586",
+    "nume": "Ferrari",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "RACE"
+      }
+    ],
+    "site_oficial": "https://www.ferrari.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q181642",
+    "nume": "Suzuki",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7269"
+      }
+    ],
+    "site_oficial": "https://www.globalsuzuki.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q172741",
+    "nume": "Subaru",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7270"
+      }
+    ],
+    "site_oficial": "https://www.subaru.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q35996",
+    "nume": "Mazda",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7261"
+      }
+    ],
+    "site_oficial": "https://www.mazda.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q183275",
+    "nume": "Mitsubishi Motors",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7211"
+      }
+    ],
+    "site_oficial": "https://www.mitsubishi-motors.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q29803",
+    "nume": "Isuzu",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7202"
+      }
+    ],
+    "site_oficial": "https://www.isuzu.co.jp/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q163810",
+    "nume": "Volvo",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Nasdaq Stockholm",
+        "simbol": "VOLV-B"
+      }
+    ],
+    "site_oficial": "https://www.volvogroup.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q27074",
+    "nume": "Aston Martin",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "London Stock Exchange",
+        "simbol": "AML"
+      }
+    ],
+    "site_oficial": "https://www.astonmartin.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q35349",
+    "nume": "Kia",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Korea Exchange",
+        "simbol": "000270"
+      }
+    ],
+    "site_oficial": "https://www.kia.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q55931",
+    "nume": "Hyundai",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Korea Exchange",
+        "simbol": "005380"
+      }
+    ],
+    "site_oficial": "https://www.hyundai.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q459965",
+    "nume": "Caterpillar",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "CAT"
+      }
+    ],
+    "site_oficial": "https://www.caterpillar.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q162257",
+    "nume": "Komatsu",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "6301"
+      }
+    ],
+    "site_oficial": "https://www.komatsu.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q158888",
+    "nume": "Yamaha",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7272"
+      }
+    ],
+    "site_oficial": "https://www.yamaha-motor.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q6379855",
+    "nume": "Kawasaki",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7012"
+      }
+    ],
+    "site_oficial": "https://www.khi.co.jp/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q67",
+    "nume": "Airbus",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "AIR"
+      }
+    ],
+    "site_oficial": "https://www.airbus.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q66",
+    "nume": "Boeing",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "BA"
+      }
+    ],
+    "site_oficial": "https://www.boeing.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q105557",
+    "nume": "Embraer",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "ERJ"
+      }
+    ],
+    "site_oficial": "https://www.embraer.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q910379",
+    "nume": "Leonardo",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Borsa Italiana",
+        "simbol": "LDO"
+      }
+    ],
+    "site_oficial": "https://www.leonardo.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1044914",
+    "nume": "Dassault Aviation",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "AM"
+      }
+    ],
+    "site_oficial": "https://www.dassault-aviation.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q333498",
+    "nume": "Bombardier",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Toronto Stock Exchange",
+        "simbol": "BBD.B"
+      }
+    ],
+    "site_oficial": "https://www.bombardier.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q1554299",
+    "nume": "Gulfstream",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "GD"
+      }
+    ],
+    "site_oficial": "https://www.gulfstream.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q613254",
+    "nume": "Pilatus",
+    "descriere": null,
+    "companie_mama_id": null,
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.pilatus-aircraft.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "gasit": true,
+    "companie_mama": null,
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  }
+]

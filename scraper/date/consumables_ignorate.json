@@ -1,0 +1,282 @@
+[
+  {
+    "nume": "Ben & Jerry's",
+    "wikidata_id": "Q816412",
+    "sectiuni": [
+      "Unilever"
+    ],
+    "mama_rezultata": "The Magnum Ice Cream Company",
+    "asteptat": "Unilever"
+  },
+  {
+    "nume": "Ajax",
+    "wikidata_id": "Q2828856",
+    "sectiuni": [
+      "Colgate-Palmolive"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Colgate-Palmolive Company"
+  },
+  {
+    "nume": "7 Up",
+    "wikidata_id": "Q270059",
+    "sectiuni": [
+      "PepsiCo",
+      "Keurig Dr Pepper"
+    ],
+    "mama_rezultata": "Keurig Dr Pepper",
+    "asteptat": "PepsiCo / Dr Pepper Snapple Group"
+  },
+  {
+    "nume": "Q874407",
+    "wikidata_id": "Q874407",
+    "sectiuni": [
+      "PepsiCo"
+    ],
+    "mama_rezultata": "CVC Capital Partners",
+    "asteptat": "PepsiCo"
+  },
+  {
+    "nume": "Rockstar",
+    "wikidata_id": "Q1459797",
+    "sectiuni": [
+      "PepsiCo"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "PepsiCo"
+  },
+  {
+    "nume": "Ruffles",
+    "wikidata_id": "Q2947936",
+    "sectiuni": [
+      "PepsiCo"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "PepsiCo"
+  },
+  {
+    "nume": "Chio Chips",
+    "wikidata_id": "Q108201931",
+    "sectiuni": [
+      "PepsiCo"
+    ],
+    "mama_rezultata": "Intersnack",
+    "asteptat": "PepsiCo"
+  },
+  {
+    "nume": "Oscar Mayer",
+    "wikidata_id": "Q20992639",
+    "sectiuni": [
+      "Kraft Heinz"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Kraft Heinz"
+  },
+  {
+    "nume": "Maxwell House",
+    "wikidata_id": "Q3306551",
+    "sectiuni": [
+      "Kraft Heinz"
+    ],
+    "mama_rezultata": "Kraft Foods Group",
+    "asteptat": "Kraft Heinz"
+  },
+  {
+    "nume": "Capri-Sun",
+    "wikidata_id": "Q969761",
+    "sectiuni": [
+      "Kraft Heinz"
+    ],
+    "mama_rezultata": "Archer Daniels Midland",
+    "asteptat": "Kraft Heinz"
+  },
+  {
+    "nume": "A.1. Steak Sauce",
+    "wikidata_id": "Q279668",
+    "sectiuni": [
+      "Kraft Heinz"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Kraft Heinz"
+  },
+  {
+    "nume": "Oreo",
+    "wikidata_id": "Q138585",
+    "sectiuni": [
+      "Mondelez"
+    ],
+    "mama_rezultata": "Kraft Foods Group",
+    "asteptat": "Mondelez International"
+  },
+  {
+    "nume": "Ritz Crackers",
+    "wikidata_id": "Q1763170",
+    "sectiuni": [
+      "Mondelez"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Mondelez International"
+  },
+  {
+    "nume": "TUC",
+    "wikidata_id": "Q658671",
+    "sectiuni": [
+      "Mondelez"
+    ],
+    "mama_rezultata": "Danone",
+    "asteptat": "Mondelez International"
+  },
+  {
+    "nume": "Sour Patch Kids",
+    "wikidata_id": "Q7565075",
+    "sectiuni": [
+      "Mondelez"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Mondelez International"
+  },
+  {
+    "nume": "Oikos",
+    "wikidata_id": "Q27902414",
+    "sectiuni": [
+      "Danone"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Danone"
+  },
+  {
+    "nume": "Evian",
+    "wikidata_id": "Q1050918",
+    "sectiuni": [
+      "Danone"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Danone"
+  },
+  {
+    "nume": "Green Giant",
+    "wikidata_id": "Q3122865",
+    "sectiuni": [
+      "General Mills"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "General Mills"
+  },
+  {
+    "nume": "Progresso",
+    "wikidata_id": "Q136952902",
+    "sectiuni": [
+      "General Mills"
+    ],
+    "mama_rezultata": "PepsiAmericas",
+    "asteptat": "General Mills"
+  },
+  {
+    "nume": "bugles",
+    "wikidata_id": "Q4843841",
+    "sectiuni": [
+      "General Mills"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "General Mills"
+  },
+  {
+    "nume": "Fruit Gushers",
+    "wikidata_id": "Q5506367",
+    "sectiuni": [
+      "General Mills"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "General Mills"
+  },
+  {
+    "nume": "L'Oréal Paris",
+    "wikidata_id": "Q134789096",
+    "sectiuni": [
+      "L'Oréal"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "L'Oréal"
+  },
+  {
+    "nume": "The Ordinary",
+    "wikidata_id": "Q126595227",
+    "sectiuni": [
+      "L'Oréal"
+    ],
+    "mama_rezultata": "Estée Lauder Companies",
+    "asteptat": "L'Oréal"
+  },
+  {
+    "nume": "Nicorette",
+    "wikidata_id": "Q2566669",
+    "sectiuni": [
+      "Kenvue"
+    ],
+    "mama_rezultata": "GSK",
+    "asteptat": "Johnson & Johnson"
+  },
+  {
+    "nume": "Zyrtec",
+    "wikidata_id": "Q47521342",
+    "sectiuni": [
+      "Kenvue"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Johnson & Johnson"
+  },
+  {
+    "nume": "Nurofen",
+    "wikidata_id": "Q2915868",
+    "sectiuni": [
+      "Reckitt"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Reckitt"
+  },
+  {
+    "nume": "Mucinex",
+    "wikidata_id": "Q100720150",
+    "sectiuni": [
+      "Reckitt"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Reckitt"
+  },
+  {
+    "nume": "Gaviscon",
+    "wikidata_id": "Q5528332",
+    "sectiuni": [
+      "Reckitt"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Reckitt"
+  },
+  {
+    "nume": "Pritt",
+    "wikidata_id": "Q937966",
+    "sectiuni": [
+      "Henkel"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Q276507"
+  },
+  {
+    "nume": "Mott's",
+    "wikidata_id": "Q6918609",
+    "sectiuni": [
+      "Keurig Dr Pepper"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Dr Pepper Snapple Group"
+  },
+  {
+    "nume": "Keurig Dr Pepper",
+    "wikidata_id": "Q3116111",
+    "sectiuni": [
+      "Keurig Dr Pepper"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Dr Pepper Snapple Group"
+  }
+]

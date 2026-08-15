@@ -1,0 +1,290 @@
+[
+  {
+    "nume": "Lamborghini",
+    "wikidata_id": "Q35886",
+    "sectiuni": [
+      "Volkswagen Group"
+    ],
+    "mama_rezultata": "Audi AG",
+    "asteptat": "Volkswagen Group"
+  },
+  {
+    "nume": "Ducati",
+    "wikidata_id": "Q271812",
+    "sectiuni": [
+      "Volkswagen Group"
+    ],
+    "mama_rezultata": "Audi AG",
+    "asteptat": "Volkswagen Group"
+  },
+  {
+    "nume": "Chrysler",
+    "wikidata_id": "Q29610",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Stellantis North America",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Citroën",
+    "wikidata_id": "Q6746",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Stellantis",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Dodge",
+    "wikidata_id": "Q27564",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Stellantis North America",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "DS Automobiles",
+    "wikidata_id": "Q16040593",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Stellantis",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Jeep",
+    "wikidata_id": "Q30113",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Stellantis North America",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Opel",
+    "wikidata_id": "Q40966",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "General Motors",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Peugeot",
+    "wikidata_id": "Q6742",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Stellantis",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Vauxhall",
+    "wikidata_id": "Q105070490",
+    "sectiuni": [
+      "Stellantis"
+    ],
+    "mama_rezultata": "Groupe PSA",
+    "asteptat": "Fiat Chrysler Automobiles"
+  },
+  {
+    "nume": "Toyota",
+    "wikidata_id": "Q53268",
+    "sectiuni": [
+      "Toyota Motor Corporation"
+    ],
+    "mama_rezultata": "Nippon Life Insurance Company",
+    "asteptat": "Toyota"
+  },
+  {
+    "nume": "Mini",
+    "wikidata_id": "Q116232",
+    "sectiuni": [
+      "BMW Group"
+    ],
+    "mama_rezultata": "British Leyland",
+    "asteptat": "Stefan Quandt"
+  },
+  {
+    "nume": "Rolls-Royce Motor Cars",
+    "wikidata_id": "Q234803",
+    "sectiuni": [
+      "BMW Group"
+    ],
+    "mama_rezultata": "BMW",
+    "asteptat": "Stefan Quandt"
+  },
+  {
+    "nume": "Renault",
+    "wikidata_id": "Q6686",
+    "sectiuni": [
+      "Renault Group"
+    ],
+    "mama_rezultata": "Nissan",
+    "asteptat": "Renault"
+  },
+  {
+    "nume": "Acura",
+    "wikidata_id": "Q53097",
+    "sectiuni": [
+      "Honda Motor"
+    ],
+    "mama_rezultata": "Honda",
+    "asteptat": "Sumitomo Mitsui Trust Group"
+  },
+  {
+    "nume": "Infiniti",
+    "wikidata_id": "Q29714",
+    "sectiuni": [
+      "Nissan Motor"
+    ],
+    "mama_rezultata": "Nissan",
+    "asteptat": "Renault"
+  },
+  {
+    "nume": "Ford Motor Company",
+    "wikidata_id": "Q44294",
+    "sectiuni": [
+      "Ford Motor Company"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Ford Motor Company"
+  },
+  {
+    "nume": "Q331715",
+    "wikidata_id": "Q331715",
+    "sectiuni": [
+      "Tata Motors"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Q56303208"
+  },
+  {
+    "nume": "Range Rover",
+    "wikidata_id": "Q1134042",
+    "sectiuni": [
+      "Tata Motors"
+    ],
+    "mama_rezultata": "British Leyland",
+    "asteptat": "Q56303208"
+  },
+  {
+    "nume": "Polestar",
+    "wikidata_id": "Q4047174",
+    "sectiuni": [
+      "Geely Automobile"
+    ],
+    "mama_rezultata": "Volvo Cars",
+    "asteptat": "Li Shufu"
+  },
+  {
+    "nume": "Smart",
+    "wikidata_id": "Q156490",
+    "sectiuni": [
+      "Geely Automobile"
+    ],
+    "mama_rezultata": "Mercedes-Benz Group",
+    "asteptat": "Li Shufu"
+  },
+  {
+    "nume": "Q2608329",
+    "wikidata_id": "Q2608329",
+    "sectiuni": [
+      "BYD"
+    ],
+    "mama_rezultata": "Wang Chuanfu",
+    "asteptat": "Q2608329"
+  },
+  {
+    "nume": "Traton",
+    "wikidata_id": "Q28228137",
+    "sectiuni": [
+      "TRATON SE"
+    ],
+    "mama_rezultata": "Volkswagen Group",
+    "asteptat": "Traton"
+  },
+  {
+    "nume": "Mitsubishi Fuso Truck and Bus Corporation",
+    "wikidata_id": "Q1190247",
+    "sectiuni": [
+      "Daimler Truck Holding"
+    ],
+    "mama_rezultata": "Mercedes-Benz Group",
+    "asteptat": "Daimler Truck"
+  },
+  {
+    "nume": "Deere & Company",
+    "wikidata_id": "Q496302",
+    "sectiuni": [
+      "Deere & Company"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "?"
+  },
+  {
+    "nume": "Wirtgen Group",
+    "wikidata_id": "Q2585719",
+    "sectiuni": [
+      "Deere & Company"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "?"
+  },
+  {
+    "nume": "Case Construction Equipment",
+    "wikidata_id": "Q1046940",
+    "sectiuni": [
+      "CNH Industrial"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "CNH Industrial"
+  },
+  {
+    "nume": "Steyr-Daimler-Puch",
+    "wikidata_id": "Q694450",
+    "sectiuni": [
+      "CNH Industrial"
+    ],
+    "mama_rezultata": "Reichswerke Hermann Göring",
+    "asteptat": "CNH Industrial"
+  },
+  {
+    "nume": "Piaggio",
+    "wikidata_id": "Q841263",
+    "sectiuni": [
+      "Piaggio"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Piaggio"
+  },
+  {
+    "nume": "KTM",
+    "wikidata_id": "Q215657",
+    "sectiuni": [
+      "Bajaj Auto"
+    ],
+    "mama_rezultata": "(fără mamă)",
+    "asteptat": "Bajaj Group"
+  },
+  {
+    "nume": "Husqvarna Motorcycles",
+    "wikidata_id": "Q5493297",
+    "sectiuni": [
+      "Bajaj Auto"
+    ],
+    "mama_rezultata": "KTM",
+    "asteptat": "Bajaj Group"
+  },
+  {
+    "nume": "Beechcraft",
+    "wikidata_id": "Q634227",
+    "sectiuni": [
+      "Textron"
+    ],
+    "mama_rezultata": "Raytheon",
+    "asteptat": "Textron"
+  }
+]

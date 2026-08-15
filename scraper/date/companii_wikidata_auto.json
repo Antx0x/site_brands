@@ -1,0 +1,3789 @@
+[
+  {
+    "wikidata_id": "Q246",
+    "nume": "Volkswagen",
+    "descriere": "German automotive brand; manufacturing subsidiary of Volkswagen Group",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.vw.com/en.html",
+    "sediu_id": "Q3014",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q246",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": null,
+    "sediu": "Wolfsburg",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q29637",
+    "nume": "Škoda Auto",
+    "descriere": "automotive manufacturing subsidiary of Volkswagen Group",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q33092807",
+    "listari": [
+      {
+        "bursa": null,
+        "simbol": null
+      }
+    ],
+    "site_oficial": "https://www.skoda-auto.com/",
+    "sediu_id": "Q191805",
+    "industrie_id": "Q190117",
+    "angajati": 25452,
+    "cautare": "Q29637",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Finance Luxemburg",
+    "sediu": "Mladá Boleslav",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q188217",
+    "nume": "SEAT",
+    "descriere": "Spanish automotive company based in Martorell, subsidiary of Volkswagen Group",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [],
+    "site_oficial": "https://www.seat.com/",
+    "sediu_id": "Q15623",
+    "industrie_id": "Q190117",
+    "angajati": 14752,
+    "cautare": "Q188217",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Q15623",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q8352675",
+    "nume": "Cupra",
+    "descriere": "Spanish automobile manufacturer",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q188217",
+    "listari": [],
+    "site_oficial": "https://www.cupra.com/",
+    "sediu_id": "Q15623",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q8352675",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "SEAT",
+    "sediu": "Q15623",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q23317",
+    "nume": "Audi AG",
+    "descriere": "German automotive manufacturing subsidiary of Volkswagen Group",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "NSU"
+      }
+    ],
+    "site_oficial": "https://www.audi.com",
+    "sediu_id": "Q3004",
+    "industrie_id": "Q190117",
+    "angajati": 63839,
+    "cautare": "Q23317",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Ingolstadt",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q35886",
+    "nume": "Lamborghini",
+    "descriere": "Italian car manufacturer",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [],
+    "site_oficial": "https://www.lamborghini.com/en-en",
+    "sediu_id": "Q94996",
+    "industrie_id": "Q190117",
+    "angajati": 1779,
+    "cautare": "Q35886",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Sant'Agata Bolognese",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27224",
+    "nume": "Bentley",
+    "descriere": "British automotive brand manufacturer",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [],
+    "site_oficial": "https://www.bentleymotors.com",
+    "sediu_id": "Q648810",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27224",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Crewe",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q40993",
+    "nume": "Porsche",
+    "descriere": "German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans, owned by Volkswagen AG",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "P911"
+      }
+    ],
+    "site_oficial": "https://www.porsche.de/",
+    "sediu_id": "Q1022",
+    "industrie_id": "Q190117",
+    "angajati": 36996,
+    "cautare": "Q40993",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Stuttgart",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q271812",
+    "nume": "Ducati",
+    "descriere": "Italian company that designs and manufactures motorcycles",
+    "companie_mama_id": "Q156578",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [],
+    "site_oficial": "https://www.ducati.com/",
+    "sediu_id": "Q1891",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q271812",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q156578",
+      "nume": "Volkswagen Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "VOW3"
+        }
+      ],
+      "site_oficial": "https://www.volkswagen-group.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Volkswagen Group",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Bologna",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q26823",
+    "nume": "Abarth",
+    "descriere": "Italian automotive company",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q3744458",
+    "listari": [],
+    "site_oficial": "https://www.abarth.com/",
+    "sediu_id": "Q495",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q26823",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis Europe",
+    "sediu": "Turin",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q26921",
+    "nume": "Alfa Romeo",
+    "descriere": "Italian automotive manufacturer",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q3744458",
+    "listari": [],
+    "site_oficial": "https://www.alfaromeo.com/",
+    "sediu_id": "Q495",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q26921",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis Europe",
+    "sediu": "Turin",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q29610",
+    "nume": "Chrysler",
+    "descriere": "American automotive brand",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q181114",
+    "listari": [],
+    "site_oficial": "https://www.chrysler.com/",
+    "sediu_id": "Q5114658",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q29610",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis North America",
+    "sediu": "Chrysler Headquarters and Technology Center",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q6746",
+    "nume": "Citroën",
+    "descriere": "French automotive manufacturer",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q97439162",
+    "listari": [],
+    "site_oficial": "https://citroen.com/",
+    "sediu_id": "Q787870",
+    "industrie_id": "Q190117",
+    "angajati": 140000,
+    "cautare": "Q6746",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis",
+    "sediu": "PSA Poissy Plant",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27564",
+    "nume": "Dodge",
+    "descriere": "US automotive company",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q181114",
+    "listari": [],
+    "site_oficial": "https://www.dodge.com/",
+    "sediu_id": "Q5287835",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27564",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis North America",
+    "sediu": "Dodge Building",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q16040593",
+    "nume": "DS Automobiles",
+    "descriere": "French premium car marque of Stellantis",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q6746",
+    "listari": [],
+    "site_oficial": "https://www.dsautomobiles.com/",
+    "sediu_id": "Q787870",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q16040593",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Citroën",
+    "sediu": "PSA Poissy Plant",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27597",
+    "nume": "Fiat",
+    "descriere": "Italian automotive company",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q3744458",
+    "listari": [],
+    "site_oficial": "https://www.fiat.com/",
+    "sediu_id": "Q495",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27597",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis Europe",
+    "sediu": "Turin",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q30113",
+    "nume": "Jeep",
+    "descriere": "US automotive company",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q181114",
+    "listari": [],
+    "site_oficial": "https://www.jeep.com/",
+    "sediu_id": "Q49239",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q30113",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis North America",
+    "sediu": "Toledo",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q35896",
+    "nume": "Lancia",
+    "descriere": "Italian automotive company",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q3744458",
+    "listari": [],
+    "site_oficial": "https://www.lancia.com/",
+    "sediu_id": "Q495",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q35896",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis Europe",
+    "sediu": "Turin",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q35962",
+    "nume": "Maserati",
+    "descriere": "Italian luxury car manufacturer",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q940689",
+    "listari": [],
+    "site_oficial": "https://www.maserati.com/",
+    "sediu_id": "Q279",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q35962",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Fiat S.p.A.",
+    "sediu": "Modena",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q40966",
+    "nume": "Opel",
+    "descriere": "German automobile manufacturer, subsidiary of Stellantis",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q97439162",
+    "listari": [],
+    "site_oficial": "https://www.opel.com/",
+    "sediu_id": "Q4031",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q40966",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Stellantis",
+    "sediu": "Rüsselsheim am Main",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q6742",
+    "nume": "Peugeot",
+    "descriere": "French automotive brand of Stellantis",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.peugeot.com/en/",
+    "sediu_id": "Q457",
+    "industrie_id": "Q112165628",
+    "angajati": 208780,
+    "cautare": "Q6742",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": null,
+    "sediu": "Poissy",
+    "industrie": "trade in cars and vehicles"
+  },
+  {
+    "wikidata_id": "Q105070490",
+    "nume": "Vauxhall",
+    "descriere": "British car brand",
+    "companie_mama_id": "Q97439162",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q59187",
+    "listari": [],
+    "site_oficial": "https://www.vauxhall.co.uk/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q105070490",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q97439162",
+      "nume": "Stellantis",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "STLA"
+        }
+      ],
+      "site_oficial": "https://www.stellantis.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Stellantis",
+    "proprietar": "Vauxhall",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q53268",
+    "nume": "Toyota",
+    "descriere": "Japanese multinational automotive manufacturer",
+    "companie_mama_id": "Q53268",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q519611",
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7203"
+      },
+      {
+        "bursa": "London Stock Exchange",
+        "simbol": "TYT"
+      },
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "TM"
+      },
+      {
+        "bursa": "Nagoya Stock Exchange",
+        "simbol": "7203"
+      }
+    ],
+    "site_oficial": "https://global.toyota/en/",
+    "sediu_id": "Q201117",
+    "industrie_id": "Q190117",
+    "angajati": 359542,
+    "cautare": "Q53268",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q53268",
+      "nume": "Toyota Motor Corporation",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "TM"
+        }
+      ],
+      "site_oficial": "https://global.toyota/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Toyota Motor Corporation",
+    "proprietar": "Nippon Life Insurance Company",
+    "sediu": "Toyota",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q35919",
+    "nume": "Lexus",
+    "descriere": "Japanese brand of luxury vehicle owned by Toyota Motor Corporation",
+    "companie_mama_id": "Q53268",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://lexus.com/",
+    "sediu_id": "Q11751",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q35919",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q53268",
+      "nume": "Toyota Motor Corporation",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "TM"
+        }
+      ],
+      "site_oficial": "https://global.toyota/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Toyota Motor Corporation",
+    "proprietar": null,
+    "sediu": "Nagoya",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27511",
+    "nume": "Daihatsu",
+    "descriere": "Japanese automobile manufacturer",
+    "companie_mama_id": "Q53268",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q53268",
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7262"
+      }
+    ],
+    "site_oficial": "http://www.daihatsu.co.jp/",
+    "sediu_id": "Q35765",
+    "industrie_id": "Q190117",
+    "angajati": 13033,
+    "cautare": "Q27511",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q53268",
+      "nume": "Toyota Motor Corporation",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "TM"
+        }
+      ],
+      "site_oficial": "https://global.toyota/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Toyota Motor Corporation",
+    "proprietar": "Toyota",
+    "sediu": "Osaka",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q136527209",
+    "nume": "Century",
+    "descriere": "Japanese brand of luxury vehicle owned by Toyota",
+    "companie_mama_id": "Q53268",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://century-100.com/en/index.html",
+    "sediu_id": null,
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q136527209",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q53268",
+      "nume": "Toyota Motor Corporation",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "TM"
+        }
+      ],
+      "site_oficial": "https://global.toyota/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Toyota Motor Corporation",
+    "proprietar": null,
+    "sediu": null,
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q36008",
+    "nume": "Mercedes-Benz",
+    "descriere": "German automobile brand owned by Mercedes-Benz AG",
+    "companie_mama_id": "Q27530",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q27530",
+    "listari": [],
+    "site_oficial": "https://www.mercedes-benz.com/en/",
+    "sediu_id": "Q1022",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q36008",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q27530",
+      "nume": "Mercedes-Benz Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "MBG"
+        }
+      ],
+      "site_oficial": "https://group.mercedes-benz.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Mercedes-Benz Group",
+    "proprietar": "Mercedes-Benz Group",
+    "sediu": "Stuttgart",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q26966",
+    "nume": "Mercedes-AMG",
+    "descriere": "subsidiary and sub-brand of Mercedes-Benz AG",
+    "companie_mama_id": "Q27530",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q76754241",
+    "listari": [],
+    "site_oficial": "http://www.mercedes-amg.com/",
+    "sediu_id": "Q61647",
+    "industrie_id": "Q190117",
+    "angajati": 1500,
+    "cautare": "Q26966",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q27530",
+      "nume": "Mercedes-Benz Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "MBG"
+        }
+      ],
+      "site_oficial": "https://group.mercedes-benz.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Mercedes-Benz Group",
+    "proprietar": "Mercedes-Benz AG",
+    "sediu": "Affalterbach",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q16218337",
+    "nume": "Mercedes-Maybach",
+    "descriere": "automobile subbrand of Mercedes-Benz Group AG, followed the \"Maybach\" brand in 2014",
+    "companie_mama_id": "Q27530",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q27530",
+    "listari": [],
+    "site_oficial": "https://www.mercedes-benz.com/de/mercedes-benz/fahrzeuge/personenwagen/mercedes-maybach/",
+    "sediu_id": null,
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q16218337",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q27530",
+      "nume": "Mercedes-Benz Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "MBG"
+        }
+      ],
+      "site_oficial": "https://group.mercedes-benz.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Mercedes-Benz Group",
+    "proprietar": "Mercedes-Benz Group",
+    "sediu": null,
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q26678",
+    "nume": "BMW",
+    "descriere": "German automobile manufacturer, and conglomerate",
+    "companie_mama_id": "Q26678",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q75900",
+    "listari": [
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "BMW"
+      },
+      {
+        "bursa": "Nasdaq",
+        "simbol": "BMWYY"
+      },
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "BMW3"
+      }
+    ],
+    "site_oficial": "https://www.bmwgroup.com/",
+    "sediu_id": "Q1726",
+    "industrie_id": "Q190117",
+    "angajati": 118909,
+    "cautare": "Q26678",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q26678",
+      "nume": "BMW Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "BMW"
+        }
+      ],
+      "site_oficial": "https://www.bmwgroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BMW Group",
+    "proprietar": "Stefan Quandt",
+    "sediu": "Munich",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q116232",
+    "nume": "Mini",
+    "descriere": "British automotive marque",
+    "companie_mama_id": "Q26678",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q2625271",
+    "listari": [],
+    "site_oficial": "https://www.mini.com",
+    "sediu_id": "Q1726",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q116232",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q26678",
+      "nume": "BMW Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "BMW"
+        }
+      ],
+      "site_oficial": "https://www.bmwgroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BMW Group",
+    "proprietar": "Rover Group",
+    "sediu": "Munich",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q234803",
+    "nume": "Rolls-Royce Motor Cars",
+    "descriere": "English car company (1998-present)",
+    "companie_mama_id": "Q26678",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q26678",
+    "listari": [],
+    "site_oficial": "https://www.rolls-roycemotorcars.com/en_GB/home.html",
+    "sediu_id": "Q207639",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q234803",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q26678",
+      "nume": "BMW Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "BMW"
+        }
+      ],
+      "site_oficial": "https://www.bmwgroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BMW Group",
+    "proprietar": "BMW",
+    "sediu": "Chichester",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q6686",
+    "nume": "Renault",
+    "descriere": "automotive conglomerate",
+    "companie_mama_id": "Q98590326",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q20165",
+    "listari": [
+      {
+        "bursa": "Euronext Paris",
+        "simbol": "RNO"
+      }
+    ],
+    "site_oficial": "https://www.renaultgroup.com/",
+    "sediu_id": "Q172455",
+    "industrie_id": "Q190117",
+    "angajati": 179565,
+    "cautare": "Q6686",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q98590326",
+      "nume": "Renault Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Euronext Paris",
+          "simbol": "RNO"
+        }
+      ],
+      "site_oficial": "https://www.renaultgroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Renault Group",
+    "proprietar": "Nissan",
+    "sediu": "Boulogne-Billancourt",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27460",
+    "nume": "Dacia",
+    "descriere": "brand and romanian car manufacturer from Renault",
+    "companie_mama_id": "Q98590326",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q6686",
+    "listari": [],
+    "site_oficial": "https://www.renaultgroup.com/en/our-brands/dacia",
+    "sediu_id": "Q732851",
+    "industrie_id": "Q190117",
+    "angajati": 11026,
+    "cautare": "Q27460",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q98590326",
+      "nume": "Renault Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Euronext Paris",
+          "simbol": "RNO"
+        }
+      ],
+      "site_oficial": "https://www.renaultgroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Renault Group",
+    "proprietar": "Renault",
+    "sediu": "Mioveni",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q26944",
+    "nume": "Alpine",
+    "descriere": "French car manufacturer",
+    "companie_mama_id": "Q98590326",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q6686",
+    "listari": [],
+    "site_oficial": "https://www.alpinecars.com",
+    "sediu_id": "Q183557",
+    "industrie_id": "Q112165447",
+    "angajati": null,
+    "cautare": "Q26944",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q98590326",
+      "nume": "Renault Group",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Euronext Paris",
+          "simbol": "RNO"
+        }
+      ],
+      "site_oficial": "https://www.renaultgroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Renault Group",
+    "proprietar": "Renault",
+    "sediu": "Dieppe",
+    "industrie": "automobile vehicle manufacturing"
+  },
+  {
+    "wikidata_id": "Q9584",
+    "nume": "Honda",
+    "descriere": "manufacturer of automobiles, motorcycles, and power equipment",
+    "companie_mama_id": "Q9584",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q6157881",
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7267"
+      },
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "HMC"
+      }
+    ],
+    "site_oficial": "https://global.honda",
+    "sediu_id": "Q190088",
+    "industrie_id": "Q190117",
+    "angajati": 204035,
+    "cautare": "Q9584",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q9584",
+      "nume": "Honda Motor",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "HMC"
+        }
+      ],
+      "site_oficial": "https://global.honda/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Honda Motor",
+    "proprietar": "Japan Trustee Services Bank",
+    "sediu": "Minato",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q53097",
+    "nume": "Acura",
+    "descriere": "car brand and luxury vehicle division of Japanese automaker Honda Motor Company",
+    "companie_mama_id": "Q9584",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q9584",
+    "listari": [],
+    "site_oficial": "https://www.acura.com/",
+    "sediu_id": "Q1490",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q53097",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q9584",
+      "nume": "Honda Motor",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "HMC"
+        }
+      ],
+      "site_oficial": "https://global.honda/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Honda Motor",
+    "proprietar": "Honda",
+    "sediu": "Tokyo",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q20165",
+    "nume": "Nissan",
+    "descriere": "Japanese automobile manufacturer",
+    "companie_mama_id": "Q20165",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q6686",
+    "listari": [
+      {
+        "bursa": "Tokyo Stock Exchange",
+        "simbol": "7201"
+      },
+      {
+        "bursa": "Nasdaq",
+        "simbol": "NSANY"
+      }
+    ],
+    "site_oficial": "https://www.nissan-global.com/",
+    "sediu_id": "Q38283",
+    "industrie_id": "Q190117",
+    "angajati": 159800,
+    "cautare": "Q20165",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q20165",
+      "nume": "Nissan Motor",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Tokyo Stock Exchange",
+          "simbol": "7201"
+        }
+      ],
+      "site_oficial": "https://www.nissan-global.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Nissan Motor",
+    "proprietar": "Renault",
+    "sediu": "Yokohama",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q29714",
+    "nume": "Infiniti",
+    "descriere": "Japanese luxury vehicle brand owned by Nissan",
+    "companie_mama_id": "Q20165",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q20165",
+    "listari": [],
+    "site_oficial": "https://www.infiniti.com/",
+    "sediu_id": "Q1203393",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q29714",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q20165",
+      "nume": "Nissan Motor",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Tokyo Stock Exchange",
+          "simbol": "7201"
+        }
+      ],
+      "site_oficial": "https://www.nissan-global.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Nissan Motor",
+    "proprietar": "Nissan",
+    "sediu": "Nishi-ku",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q44294",
+    "nume": "Ford Motor Company",
+    "descriere": "American multinational automotive company",
+    "companie_mama_id": "Q44294",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "F"
+      }
+    ],
+    "site_oficial": "https://www.ford.com",
+    "sediu_id": "Q430464",
+    "industrie_id": "Q190117",
+    "angajati": 164000,
+    "cautare": "Q44294",
+    "gasit": true,
+    "companie_mama": "Ford Motor Company",
+    "proprietar": null,
+    "sediu": "Dearborn",
+    "industrie": "automotive industry",
+    "companie_mama_detalii": {
+      "wikidata_id": "Q44294",
+      "nume": "Ford Motor Company",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "F"
+        }
+      ],
+      "site_oficial": "https://www.ford.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q216796",
+    "nume": "Lincoln Motor Company",
+    "descriere": "luxury division of Ford Motor Company",
+    "companie_mama_id": "Q44294",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q44294",
+    "listari": [],
+    "site_oficial": "https://www.lincoln.com/",
+    "sediu_id": "Q430464",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q216796",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q44294",
+      "nume": "Ford Motor Company",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "F"
+        }
+      ],
+      "site_oficial": "https://www.ford.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Ford Motor Company",
+    "proprietar": "Ford Motor Company",
+    "sediu": "Dearborn",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q29570",
+    "nume": "Chevrolet",
+    "descriere": "American automobile division of GM",
+    "companie_mama_id": "Q81965",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q81965",
+    "listari": [],
+    "site_oficial": "https://www.chevrolet.com/",
+    "sediu_id": "Q12439",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q29570",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q81965",
+      "nume": "General Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "GM"
+        }
+      ],
+      "site_oficial": "https://www.gm.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "General Motors",
+    "proprietar": "General Motors",
+    "sediu": "Detroit",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27436",
+    "nume": "Cadillac",
+    "descriere": "division of General Motors",
+    "companie_mama_id": "Q81965",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q81965",
+    "listari": [],
+    "site_oficial": "https://www.cadillac.com/",
+    "sediu_id": "Q12439",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27436",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q81965",
+      "nume": "General Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "GM"
+        }
+      ],
+      "site_oficial": "https://www.gm.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "General Motors",
+    "proprietar": "General Motors",
+    "sediu": "Detroit",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27415",
+    "nume": "Buick",
+    "descriere": "luxury car brand of General Motors",
+    "companie_mama_id": "Q81965",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q81965",
+    "listari": [],
+    "site_oficial": "https://www.buick.com/",
+    "sediu_id": "Q12439",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27415",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q81965",
+      "nume": "General Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "GM"
+        }
+      ],
+      "site_oficial": "https://www.gm.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "General Motors",
+    "proprietar": "General Motors",
+    "sediu": "Detroit",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q28993",
+    "nume": "GMC",
+    "descriere": "division of General Motors",
+    "companie_mama_id": "Q81965",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q81965",
+    "listari": [],
+    "site_oficial": "https://www.gmc.com/",
+    "sediu_id": "Q12439",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q28993",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q81965",
+      "nume": "General Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "GM"
+        }
+      ],
+      "site_oficial": "https://www.gm.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "General Motors",
+    "proprietar": "General Motors",
+    "sediu": "Detroit",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q331715",
+    "nume": "Tata",
+    "descriere": "Indian multinational conglomerate",
+    "companie_mama_id": "Q188514",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://www.tata.com",
+    "sediu_id": "Q1156",
+    "industrie_id": "Q778575",
+    "angajati": 722281,
+    "cautare": "Q331715",
+    "gasit": true,
+    "companie_mama": "Tata Motors",
+    "proprietar": null,
+    "sediu": "Mumbai",
+    "industrie": "conglomerate",
+    "companie_mama_detalii": {
+      "wikidata_id": "Q188514",
+      "nume": "Tata Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "TATAMOTORS"
+        }
+      ],
+      "site_oficial": "https://www.tatamotors.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q21170490",
+    "nume": "Jaguar",
+    "descriere": "British car marque used by Jaguar Land Rover",
+    "companie_mama_id": "Q188514",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q6122893",
+    "listari": [],
+    "site_oficial": "https://www.jaguar.com",
+    "sediu_id": "Q6225",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q21170490",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q188514",
+      "nume": "Tata Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "TATAMOTORS"
+        }
+      ],
+      "site_oficial": "https://www.tatamotors.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Tata Motors",
+    "proprietar": "Jaguar Land Rover",
+    "sediu": "Coventry",
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q6122893",
+    "nume": "Jaguar Land Rover",
+    "descriere": "British multinational automotive company",
+    "companie_mama_id": "Q188514",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q188514",
+    "listari": [],
+    "site_oficial": "http://www.jaguarlandrover.com",
+    "sediu_id": "Q6225",
+    "industrie_id": "Q786820",
+    "angajati": 39787,
+    "cautare": "Q6122893",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q188514",
+      "nume": "Tata Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "TATAMOTORS"
+        }
+      ],
+      "site_oficial": "https://www.tatamotors.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Tata Motors",
+    "proprietar": "Tata Motors Ltd",
+    "sediu": "Coventry",
+    "industrie": "automobile manufacturer"
+  },
+  {
+    "wikidata_id": "Q1134042",
+    "nume": "Range Rover",
+    "descriere": "series of SUV models from Land Rover",
+    "companie_mama_id": "Q188514",
+    "companie_mama_sursa": "P176",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.landrover.com/vehicles/range-rover/index.html",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q1134042",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q188514",
+      "nume": "Tata Motors",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "TATAMOTORS"
+        }
+      ],
+      "site_oficial": "https://www.tatamotors.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Tata Motors",
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q739000",
+    "nume": "Geely",
+    "descriere": "Chinese automotive manufacturing company",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q717785",
+    "listari": [],
+    "site_oficial": "http://zgh.com/",
+    "sediu_id": "Q4970",
+    "industrie_id": "Q190117",
+    "angajati": 80000,
+    "cautare": "Q739000",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Li Shufu",
+    "sediu": "Hangzhou",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q215293",
+    "nume": "Volvo Cars",
+    "descriere": "automotive brand manufacturing subsidiary of Geely",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q739000",
+    "listari": [
+      {
+        "bursa": "Nasdaq Stockholm AB",
+        "simbol": "VOLCAR"
+      },
+      {
+        "bursa": "Nasdaq Stockholm AB",
+        "simbol": "SE0016844831"
+      }
+    ],
+    "site_oficial": "https://www.volvocars.com/",
+    "sediu_id": "Q25287",
+    "industrie_id": "Q190117",
+    "angajati": 28485,
+    "cautare": "Q215293",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Geely",
+    "sediu": "Gothenburg",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q4047174",
+    "nume": "Polestar",
+    "descriere": "Swedish automotive brand",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q215293",
+    "listari": [
+      {
+        "bursa": "Nasdaq",
+        "simbol": "PSNY"
+      }
+    ],
+    "site_oficial": "https://www.polestar.com/",
+    "sediu_id": "Q25287",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q4047174",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Volvo Cars",
+    "sediu": "Gothenburg",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q35935",
+    "nume": "Lotus Cars",
+    "descriere": "British manufacturer of sports and racing cars",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q739000",
+    "listari": [],
+    "site_oficial": "https://www.lotuscars.com",
+    "sediu_id": "Q750149",
+    "industrie_id": "Q190117",
+    "angajati": 1385,
+    "cautare": "Q35935",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Geely",
+    "sediu": "Hethel",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q106621124",
+    "nume": "Zeekr",
+    "descriere": "Chinese high-end EV brand",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q55118127",
+    "listari": [],
+    "site_oficial": "https://zeekrlife.com",
+    "sediu_id": "Q42780",
+    "industrie_id": "Q190117",
+    "angajati": 16600,
+    "cautare": "Q106621124",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Geely Auto",
+    "sediu": "Ningbo",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27555283",
+    "nume": "Lynk & Co",
+    "descriere": "Chinese automobile brand",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q106621124",
+    "listari": [],
+    "site_oficial": "https://www.lynkco.com/",
+    "sediu_id": "Q25287",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27555283",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Zeekr",
+    "sediu": "Gothenburg",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q156490",
+    "nume": "Smart",
+    "descriere": "automotive marque",
+    "companie_mama_id": "Q55118127",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q36008",
+    "listari": [],
+    "site_oficial": "https://global.smart.com",
+    "sediu_id": "Q1022",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q156490",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q55118127",
+      "nume": "Geely Automobile",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "0175"
+        }
+      ],
+      "site_oficial": "https://www.geelyauto.com.hk/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Geely Automobile",
+    "proprietar": "Mercedes-Benz",
+    "sediu": "Stuttgart",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q2608329",
+    "nume": "BYD",
+    "descriere": "Chinese battery and electric vehicles manufacturer",
+    "companie_mama_id": "Q2608329",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q716030",
+    "listari": [
+      {
+        "bursa": "Shenzhen Stock Exchange",
+        "simbol": "002594"
+      },
+      {
+        "bursa": "Hong Kong Stock Exchange",
+        "simbol": "1211"
+      },
+      {
+        "bursa": "Hong Kong Exchanges and Clearing Limited",
+        "simbol": "81211"
+      }
+    ],
+    "site_oficial": "https://www.bydglobal.com/",
+    "sediu_id": "Q15174",
+    "industrie_id": "Q190117",
+    "angajati": 194000,
+    "cautare": "Q2608329",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q2608329",
+      "nume": "BYD",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "1211"
+        }
+      ],
+      "site_oficial": "https://www.byd.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BYD",
+    "proprietar": "Wang Chuanfu",
+    "sediu": "Shenzhen",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q2381970",
+    "nume": "Denza",
+    "descriere": "Chinese EV / PHEV car brand",
+    "companie_mama_id": "Q2608329",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q27423",
+    "listari": [],
+    "site_oficial": "https://www.tengshiauto.com/",
+    "sediu_id": "Q15174",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q2381970",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q2608329",
+      "nume": "BYD",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "1211"
+        }
+      ],
+      "site_oficial": "https://www.byd.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BYD",
+    "proprietar": "BYD Auto",
+    "sediu": "Shenzhen",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q116257300",
+    "nume": "Yangwang",
+    "descriere": "Chinese BYD Auto's electric vehicle brand",
+    "companie_mama_id": "Q2608329",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q27423",
+    "listari": [],
+    "site_oficial": "https://www.yangwangauto.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q116257300",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q2608329",
+      "nume": "BYD",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "1211"
+        }
+      ],
+      "site_oficial": "https://www.byd.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BYD",
+    "proprietar": "BYD Auto",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q123556040",
+    "nume": "Fangchengbao",
+    "descriere": "Chinese luxury electric car brand",
+    "companie_mama_id": "Q2608329",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q27423",
+    "listari": [],
+    "site_oficial": "http://fangchengbao.com/",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q123556040",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q2608329",
+      "nume": "BYD",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Hong Kong Stock Exchange",
+          "simbol": "1211"
+        }
+      ],
+      "site_oficial": "https://www.byd.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "BYD",
+    "proprietar": "BYD Auto",
+    "sediu": null,
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q219960",
+    "nume": "Scania",
+    "descriere": "Swedish truck and bus manufacturer",
+    "companie_mama_id": "Q28228137",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://www.scania.com/",
+    "sediu_id": "Q26518",
+    "industrie_id": "Q190117",
+    "angajati": 56927,
+    "cautare": "Q219960",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q28228137",
+      "nume": "TRATON SE",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "8TRA"
+        }
+      ],
+      "site_oficial": "https://traton.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "TRATON SE",
+    "proprietar": null,
+    "sediu": "Södertälje",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q35953",
+    "nume": "MAN SE",
+    "descriere": "former German engine, truck and bus holding company",
+    "companie_mama_id": "Q28228137",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q156578",
+    "listari": [
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "MAN"
+      }
+    ],
+    "site_oficial": "https://www.mantruckandbus.com/en/man.html",
+    "sediu_id": "Q1726",
+    "industrie_id": "Q124192",
+    "angajati": 55235,
+    "cautare": "Q35953",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q28228137",
+      "nume": "TRATON SE",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "8TRA"
+        }
+      ],
+      "site_oficial": "https://traton.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "TRATON SE",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Munich",
+    "industrie": "automotive engineering"
+  },
+  {
+    "wikidata_id": "Q28228137",
+    "nume": "Traton",
+    "descriere": "German commercial vehicle manufacturer",
+    "companie_mama_id": "Q28228137",
+    "companie_mama_sursa": "P127",
+    "proprietar_id": "Q156578",
+    "listari": [
+      {
+        "bursa": "Frankfurt Stock Exchange",
+        "simbol": "8TRA"
+      },
+      {
+        "bursa": "Nasdaq Stockholm AB",
+        "simbol": "8TRA"
+      }
+    ],
+    "site_oficial": "https://traton.com",
+    "sediu_id": "Q1726",
+    "industrie_id": "Q190117",
+    "angajati": 81000,
+    "cautare": "Q28228137",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q28228137",
+      "nume": "TRATON SE",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "8TRA"
+        }
+      ],
+      "site_oficial": "https://traton.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "TRATON SE",
+    "proprietar": "Volkswagen Group",
+    "sediu": "Munich",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q1420724",
+    "nume": "Freightliner",
+    "descriere": "American truck brand",
+    "companie_mama_id": "Q1157624",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q1157624",
+    "listari": [],
+    "site_oficial": "http://www.freightlinertrucks.com/",
+    "sediu_id": "Q6106",
+    "industrie_id": "Q190117",
+    "angajati": 19000,
+    "cautare": "Q1420724",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1157624",
+      "nume": "Daimler Truck Holding",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "DTG"
+        }
+      ],
+      "site_oficial": "https://www.daimlertruck.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Daimler Truck Holding",
+    "proprietar": "Daimler Truck",
+    "sediu": "Portland",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q1370660",
+    "nume": "Western Star Trucks",
+    "descriere": "American truck manufacturer",
+    "companie_mama_id": "Q1157624",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q1157624",
+    "listari": [],
+    "site_oficial": "http://www.westernstartrucks.com",
+    "sediu_id": "Q6106",
+    "industrie_id": "Q190117",
+    "angajati": 700,
+    "cautare": "Q1370660",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1157624",
+      "nume": "Daimler Truck Holding",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "DTG"
+        }
+      ],
+      "site_oficial": "https://www.daimlertruck.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Daimler Truck Holding",
+    "proprietar": "Daimler Truck",
+    "sediu": "Portland",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q1190247",
+    "nume": "Mitsubishi Fuso Truck and Bus Corporation",
+    "descriere": "Japanese manufacturer of commercial vehicles",
+    "companie_mama_id": "Q1157624",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q1157624",
+    "listari": [],
+    "site_oficial": "https://www.mitsubishi-fuso.com/",
+    "sediu_id": "Q164234",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q1190247",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1157624",
+      "nume": "Daimler Truck Holding",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "DTG"
+        }
+      ],
+      "site_oficial": "https://www.daimlertruck.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Daimler Truck Holding",
+    "proprietar": "Daimler Truck",
+    "sediu": "Kawasaki",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q1107991",
+    "nume": "BharatBenz",
+    "descriere": "Daimler Truck's subsidiary under Daimler India Commercial Vehicles",
+    "companie_mama_id": "Q1157624",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q1157624",
+    "listari": [],
+    "site_oficial": "http://www.bharatbenz.com/",
+    "sediu_id": "Q1352",
+    "industrie_id": "Q190117",
+    "angajati": 1400,
+    "cautare": "Q1107991",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1157624",
+      "nume": "Daimler Truck Holding",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "DTG"
+        }
+      ],
+      "site_oficial": "https://www.daimlertruck.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Daimler Truck Holding",
+    "proprietar": "Daimler Truck",
+    "sediu": "Chennai",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q2378642",
+    "nume": "Thomas Built Buses",
+    "descriere": "American bus manufacturer",
+    "companie_mama_id": "Q1157624",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q27530",
+    "listari": [],
+    "site_oficial": "https://thomasbuiltbuses.com/",
+    "sediu_id": "Q631194",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q2378642",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1157624",
+      "nume": "Daimler Truck Holding",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Frankfurt Stock Exchange",
+          "simbol": "DTG"
+        }
+      ],
+      "site_oficial": "https://www.daimlertruck.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Daimler Truck Holding",
+    "proprietar": "Mercedes-Benz Group",
+    "sediu": "High Point",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q27489",
+    "nume": "DAF",
+    "descriere": "Netherlands branch of American manufacturer Paccar",
+    "companie_mama_id": "Q1477661",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q1477661",
+    "listari": [],
+    "site_oficial": "https://daf.com",
+    "sediu_id": "Q9832",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q27489",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1477661",
+      "nume": "PACCAR",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "NASDAQ",
+          "simbol": "PCAR"
+        }
+      ],
+      "site_oficial": "https://www.paccar.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "PACCAR",
+    "proprietar": "PACCAR",
+    "sediu": "Eindhoven",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q774830",
+    "nume": "Kenworth",
+    "descriere": "American truck manufacturer",
+    "companie_mama_id": "Q1477661",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://www.kenworth.com/",
+    "sediu_id": "Q936768",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q774830",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1477661",
+      "nume": "PACCAR",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "NASDAQ",
+          "simbol": "PCAR"
+        }
+      ],
+      "site_oficial": "https://www.paccar.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "PACCAR",
+    "proprietar": null,
+    "sediu": "Kirkland",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q944640",
+    "nume": "Peterbilt",
+    "descriere": "American manufacturer of medium- and heavy-duty trucks",
+    "companie_mama_id": "Q1477661",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q1477661",
+    "listari": [],
+    "site_oficial": "http://www.peterbilt.com",
+    "sediu_id": "Q128306",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q944640",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1477661",
+      "nume": "PACCAR",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "NASDAQ",
+          "simbol": "PCAR"
+        }
+      ],
+      "site_oficial": "https://www.paccar.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "PACCAR",
+    "proprietar": "PACCAR",
+    "sediu": "Denton",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q496302",
+    "nume": "Deere & Company",
+    "descriere": "American agricultural and industrial auto manufacturing corporation",
+    "companie_mama_id": "Q496302",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "New York Stock Exchange",
+        "simbol": "DE"
+      }
+    ],
+    "site_oficial": "https://www.deere.com/",
+    "sediu_id": "Q579736",
+    "industrie_id": "Q1957908",
+    "angajati": 67000,
+    "cautare": "Q496302",
+    "gasit": true,
+    "companie_mama": "Deere & Company",
+    "proprietar": null,
+    "sediu": "Moline",
+    "industrie": "manufacture of machinery and equipment",
+    "companie_mama_detalii": {
+      "wikidata_id": "Q496302",
+      "nume": "Deere & Company",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "DE"
+        }
+      ],
+      "site_oficial": "https://www.deere.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q2585719",
+    "nume": "Wirtgen Group",
+    "descriere": "German manufacturing company",
+    "companie_mama_id": "Q496302",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://www.wirtgen-group.com/",
+    "sediu_id": "Q566046",
+    "industrie_id": "Q101333",
+    "angajati": null,
+    "cautare": "Q2585719",
+    "gasit": true,
+    "companie_mama": "Deere & Company",
+    "proprietar": null,
+    "sediu": "Windhagen",
+    "industrie": "mechanical engineering",
+    "companie_mama_detalii": {
+      "wikidata_id": "Q496302",
+      "nume": "Deere & Company",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "DE"
+        }
+      ],
+      "site_oficial": "https://www.deere.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q1046997",
+    "nume": "Case IH",
+    "descriere": "brand of agricultural equipment",
+    "companie_mama_id": "Q15238661",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q15238661",
+    "listari": [],
+    "site_oficial": "http://www.caseih.com",
+    "sediu_id": "Q40340",
+    "industrie_id": "Q13747706",
+    "angajati": null,
+    "cautare": "Q1046997",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q15238661",
+      "nume": "CNH Industrial",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "CNHI"
+        }
+      ],
+      "site_oficial": "https://www.cnh.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "CNH Industrial",
+    "proprietar": "CNH Industrial",
+    "sediu": "Racine",
+    "industrie": "agricultural machinery industry"
+  },
+  {
+    "wikidata_id": "Q1423217",
+    "nume": "New Holland",
+    "descriere": "company",
+    "companie_mama_id": "Q15238661",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q15238661",
+    "listari": [],
+    "site_oficial": "https://agriculture.newholland.com/",
+    "sediu_id": "Q38",
+    "industrie_id": "Q13747706",
+    "angajati": null,
+    "cautare": "Q1423217",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q15238661",
+      "nume": "CNH Industrial",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "CNHI"
+        }
+      ],
+      "site_oficial": "https://www.cnh.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "CNH Industrial",
+    "proprietar": "CNH Industrial",
+    "sediu": "Italy",
+    "industrie": "agricultural machinery industry"
+  },
+  {
+    "wikidata_id": "Q1046940",
+    "nume": "Case Construction Equipment",
+    "descriere": "American construction machine manufacturer",
+    "companie_mama_id": "Q15238661",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://www.casece.com",
+    "sediu_id": null,
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q1046940",
+    "gasit": true,
+    "companie_mama": "CNH Industrial",
+    "proprietar": null,
+    "sediu": null,
+    "industrie": null,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q15238661",
+      "nume": "CNH Industrial",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "CNHI"
+        }
+      ],
+      "site_oficial": "https://www.cnh.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q694450",
+    "nume": "Steyr-Daimler-Puch",
+    "descriere": "major conglomerate of the iron industry in Austria",
+    "companie_mama_id": "Q15238661",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": null,
+    "sediu_id": "Q260320",
+    "industrie_id": "Q1957908",
+    "angajati": null,
+    "cautare": "Q694450",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q15238661",
+      "nume": "CNH Industrial",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "CNHI"
+        }
+      ],
+      "site_oficial": "https://www.cnh.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "CNH Industrial",
+    "proprietar": null,
+    "sediu": "Steyr",
+    "industrie": "manufacture of machinery and equipment"
+  },
+  {
+    "wikidata_id": "Q217673",
+    "nume": "Vespa",
+    "descriere": "Italian scooter",
+    "companie_mama_id": "Q841263",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q841263",
+    "listari": [],
+    "site_oficial": "https://www.vespa.com/",
+    "sediu_id": "Q103219",
+    "industrie_id": "Q193234",
+    "angajati": null,
+    "cautare": "Q217673",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q841263",
+      "nume": "Piaggio",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Borsa Italiana",
+          "simbol": "PIA"
+        }
+      ],
+      "site_oficial": "https://www.piaggiogroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Piaggio",
+    "proprietar": "Piaggio",
+    "sediu": "Pontedera",
+    "industrie": "motor scooter"
+  },
+  {
+    "wikidata_id": "Q841263",
+    "nume": "Piaggio",
+    "descriere": "Italian motor vehicle manufacturer",
+    "companie_mama_id": "Q841263",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "Italian Stock Exchange",
+        "simbol": "PIA"
+      }
+    ],
+    "site_oficial": "https://www.piaggiogroup.com/en",
+    "sediu_id": "Q103219",
+    "industrie_id": "Q190117",
+    "angajati": 5702,
+    "cautare": "Q841263",
+    "gasit": true,
+    "companie_mama": "Piaggio",
+    "proprietar": null,
+    "sediu": "Pontedera",
+    "industrie": "automotive industry",
+    "companie_mama_detalii": {
+      "wikidata_id": "Q841263",
+      "nume": "Piaggio",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Borsa Italiana",
+          "simbol": "PIA"
+        }
+      ],
+      "site_oficial": "https://www.piaggiogroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q622062",
+    "nume": "Aprilia",
+    "descriere": "Italian motorcycle manufacturer",
+    "companie_mama_id": "Q841263",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q841263",
+    "listari": [],
+    "site_oficial": "https://www.aprilia.com/",
+    "sediu_id": "Q46968",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q622062",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q841263",
+      "nume": "Piaggio",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Borsa Italiana",
+          "simbol": "PIA"
+        }
+      ],
+      "site_oficial": "https://www.piaggiogroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Piaggio",
+    "proprietar": "Piaggio",
+    "sediu": "Noale",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q1149018",
+    "nume": "Moto Guzzi",
+    "descriere": "Motorcycles manufacturer",
+    "companie_mama_id": "Q841263",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q622062",
+    "listari": [],
+    "site_oficial": "http://www.motoguzzi.com",
+    "sediu_id": "Q42935",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q1149018",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q841263",
+      "nume": "Piaggio",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "Borsa Italiana",
+          "simbol": "PIA"
+        }
+      ],
+      "site_oficial": "https://www.piaggiogroup.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Piaggio",
+    "proprietar": "Aprilia",
+    "sediu": "Mandello del Lario",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q10910065",
+    "nume": "Bajaj Auto",
+    "descriere": "Indian two-wheeler and three-wheeler manufacturing company",
+    "companie_mama_id": "Q10910065",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [
+      {
+        "bursa": "National Stock Exchange of India",
+        "simbol": "BAJAJ-AUTO"
+      },
+      {
+        "bursa": "Bombay Stock Exchange",
+        "simbol": "532977"
+      }
+    ],
+    "site_oficial": "https://www.bajajauto.com",
+    "sediu_id": "Q1538",
+    "industrie_id": "Q190117",
+    "angajati": null,
+    "cautare": "Q10910065",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q10910065",
+      "nume": "Bajaj Auto",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "BAJAJ-AUTO"
+        }
+      ],
+      "site_oficial": "https://www.bajajauto.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Bajaj Auto",
+    "proprietar": null,
+    "sediu": "Pune",
+    "industrie": "automotive industry"
+  },
+  {
+    "wikidata_id": "Q215657",
+    "nume": "KTM",
+    "descriere": "Austrian motorcycle and sports car brand",
+    "companie_mama_id": "Q10910065",
+    "companie_mama_sursa": null,
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://www.ktm.com/",
+    "sediu_id": "Q661502",
+    "industrie_id": "Q190117",
+    "angajati": 7000,
+    "cautare": "Q215657",
+    "gasit": true,
+    "companie_mama": "Bajaj Auto",
+    "proprietar": null,
+    "sediu": "Mattighofen",
+    "industrie": "automotive industry",
+    "companie_mama_detalii": {
+      "wikidata_id": "Q10910065",
+      "nume": "Bajaj Auto",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "BAJAJ-AUTO"
+        }
+      ],
+      "site_oficial": "https://www.bajajauto.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    }
+  },
+  {
+    "wikidata_id": "Q5493297",
+    "nume": "Husqvarna Motorcycles",
+    "descriere": "Swedish-origin Austrian motorcycle manufacturer",
+    "companie_mama_id": "Q10910065",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q215657",
+    "listari": [],
+    "site_oficial": "http://www.husqvarna-motorcycles.com",
+    "sediu_id": "Q661502",
+    "industrie_id": null,
+    "angajati": null,
+    "cautare": "Q5493297",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q10910065",
+      "nume": "Bajaj Auto",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "National Stock Exchange of India",
+          "simbol": "BAJAJ-AUTO"
+        }
+      ],
+      "site_oficial": "https://www.bajajauto.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Bajaj Auto",
+    "proprietar": "KTM",
+    "sediu": "Mattighofen",
+    "industrie": null
+  },
+  {
+    "wikidata_id": "Q579509",
+    "nume": "Massey Ferguson",
+    "descriere": "agricultural machinery manufacturing company",
+    "companie_mama_id": "Q292292",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q292292",
+    "listari": [],
+    "site_oficial": "http://www.masseyferguson.com/",
+    "sediu_id": "Q285751",
+    "industrie_id": "Q11451",
+    "angajati": null,
+    "cautare": "Q579509",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q292292",
+      "nume": "AGCO",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "AGCO"
+        }
+      ],
+      "site_oficial": "https://www.agcocorp.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "AGCO",
+    "proprietar": "AGCO",
+    "sediu": "Duluth",
+    "industrie": "agriculture"
+  },
+  {
+    "wikidata_id": "Q666948",
+    "nume": "Fendt",
+    "descriere": "company",
+    "companie_mama_id": "Q292292",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q292292",
+    "listari": [],
+    "site_oficial": "http://www.fendt.com",
+    "sediu_id": "Q502955",
+    "industrie_id": "Q11451",
+    "angajati": null,
+    "cautare": "Q666948",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q292292",
+      "nume": "AGCO",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "AGCO"
+        }
+      ],
+      "site_oficial": "https://www.agcocorp.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "AGCO",
+    "proprietar": "AGCO",
+    "sediu": "Marktoberdorf",
+    "industrie": "agriculture"
+  },
+  {
+    "wikidata_id": "Q385867",
+    "nume": "Valtra",
+    "descriere": "Finnish agricultural machine manufacturer",
+    "companie_mama_id": "Q292292",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": "Q292292",
+    "listari": [],
+    "site_oficial": "http://www.valtra.com/",
+    "sediu_id": "Q1641603",
+    "industrie_id": "Q11451",
+    "angajati": null,
+    "cautare": "Q385867",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q292292",
+      "nume": "AGCO",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "AGCO"
+        }
+      ],
+      "site_oficial": "https://www.agcocorp.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "AGCO",
+    "proprietar": "AGCO",
+    "sediu": "Suolahti",
+    "industrie": "agriculture"
+  },
+  {
+    "wikidata_id": "Q308889",
+    "nume": "Cessna",
+    "descriere": "aircraft manufacturing subsidiary of Textron",
+    "companie_mama_id": "Q1878585",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "https://cessna.txtav.com/",
+    "sediu_id": "Q49266",
+    "industrie_id": "Q765633",
+    "angajati": null,
+    "cautare": "Q308889",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1878585",
+      "nume": "Textron",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "TXT"
+        }
+      ],
+      "site_oficial": "https://www.textron.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Textron",
+    "proprietar": null,
+    "sediu": "Wichita",
+    "industrie": "aviation"
+  },
+  {
+    "wikidata_id": "Q634227",
+    "nume": "Beechcraft",
+    "descriere": "aircraft manufacturer in the United States",
+    "companie_mama_id": "Q1878585",
+    "companie_mama_sursa": "P749",
+    "proprietar_id": null,
+    "listari": [],
+    "site_oficial": "http://beechcraft.txtav.com/en",
+    "sediu_id": "Q1654828",
+    "industrie_id": "Q765633",
+    "angajati": null,
+    "cautare": "Q634227",
+    "gasit": true,
+    "companie_mama_detalii": {
+      "wikidata_id": "Q1878585",
+      "nume": "Textron",
+      "descriere": null,
+      "companie_mama_id": null,
+      "companie_mama_sursa": null,
+      "proprietar_id": null,
+      "listari": [
+        {
+          "bursa": "New York Stock Exchange",
+          "simbol": "TXT"
+        }
+      ],
+      "site_oficial": "https://www.textron.com/",
+      "sediu_id": null,
+      "industrie_id": null,
+      "angajati": null,
+      "companie_mama": null,
+      "proprietar": null,
+      "sediu": null,
+      "industrie": null
+    },
+    "companie_mama": "Textron",
+    "proprietar": null,
+    "sediu": "Beech Factory Airport",
+    "industrie": "aviation"
+  }
+]
